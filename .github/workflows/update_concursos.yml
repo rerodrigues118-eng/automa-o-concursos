@@ -1,0 +1,43 @@
+name: Atualizar Concursos
+
+on:
+  schedule:
+    - cron: '0 */6 * * *' # Roda a cada 6 horas
+  workflow_dispatch: # Permite rodar manualmente pelo painel do GitHub
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    permissions:
+      contents: write # Permite que o GitHub Action faça commit e push
+
+    steps:
+      - name: Checkout do repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: 18
+
+      - name: Instalar Dependências
+        run: npm install
+
+      - name: Executar Scraper
+        run: node execution/scraper_basic.cjs
+
+      - name: Organizar Dados para o Frontend
+        run: |
+          mkdir -p public/data
+          mv .tmp/concursos_raw.json public/data/concursos.json || true
+
+      - name: Gerar Materiais de Estudo (IA Enriquecimento)
+        run: node execution/study_gen.cjs
+
+      - name: Commit e Push das mudanças
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+          git add public/data/concursos.json public/data/concursos_enriched.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "chore: atualização automática de editais [bot]" && git push)
