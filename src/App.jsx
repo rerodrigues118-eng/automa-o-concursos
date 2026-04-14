@@ -19,6 +19,7 @@ function App() {
   const [selectedUf, setSelectedUf] = useState('Todos');
   const [selectedCidade, setSelectedCidade] = useState('Todas');
   const [selectedConcurso, setSelectedConcurso] = useState(null);
+  const [activeModalTab, setActiveModalTab] = useState('ficha');
 
   useEffect(() => {
     fetchData();
@@ -195,27 +196,122 @@ function App() {
           </div>
         )}
       </main>
-
-      {/* Modal e Footer iguais */}
+      {/* Modal Reformulado - Dashboard de Estudos */}
       {selectedConcurso && (
         <div className="modal-overlay" style={{
             position: 'fixed', top: 0, left: 0, right: 0, bottom: 0,
-            background: 'rgba(0,0,0,0.6)', display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 1000,
-            padding: '1rem'
-        }} onClick={() => setSelectedConcurso(null)}>
+            background: 'rgba(0,0,0,0.7)', display: 'flex', alignItems: 'center', justifyContent: 'center', zIndex: 1000,
+            padding: '1rem', backdropFilter: 'blur(5px)'
+        }} onClick={() => { setSelectedConcurso(null); setActiveModalTab('ficha'); }}>
           <div className="modal-content animate-fade" style={{
-              background: 'white', borderRadius: '1rem', maxWidth: '700px', width: '100%',
-              maxHeight: '85vh', overflowY: 'auto', padding: '2rem', position: 'relative'
+              background: 'white', borderRadius: '1rem', maxWidth: '850px', width: '100%',
+              maxHeight: '90vh', overflowY: 'auto', position: 'relative', boxShadow: '0 20px 25px -5px rgba(0, 0, 0, 0.1)'
           }} onClick={e => e.stopPropagation()}>
-            <button style={{ position: 'absolute', right: '1rem', top: '1rem', border: 'none', background: 'none', fontSize: '1.5rem', cursor: 'pointer' }} onClick={() => setSelectedConcurso(null)}>×</button>
-            <h2>Plan: {selectedConcurso.orgao}</h2>
-            <div style={{ display: 'flex', gap: '0.5rem', marginBottom: '1rem' }}>
-                <span className="badge badge-open">{selectedConcurso.categoria}</span>
-                <span className="badge" style={{ background: '#eee' }}>{selectedConcurso.localizacao}</span>
+            <div style={{ padding: '2rem 2rem 1.5rem', background: 'var(--primary)', color: 'white', borderTopLeftRadius: '1rem', borderTopRightRadius: '1rem' }}>
+              <button style={{ position: 'absolute', right: '1.5rem', top: '1.5rem', border: 'none', background: 'rgba(255,255,255,0.2)', color: 'white', borderRadius: '50%', width: '32px', height: '32px', display: 'flex', alignItems: 'center', justifyContent: 'center', fontSize: '1.2rem', cursor: 'pointer', transition: 'background 0.2s' }} onClick={() => { setSelectedConcurso(null); setActiveModalTab('ficha'); }}>✕</button>
+              <h2 style={{ fontSize: '1.8rem', fontWeight: 'bold', marginBottom: '0.5rem', paddingRight: '2rem' }}>{selectedConcurso.orgao}</h2>
+              <div style={{ display: 'flex', gap: '0.75rem', flexWrap: 'wrap' }}>
+                  <span className="badge" style={{ background: 'rgba(255,255,255,0.2)', color: 'white' }}>{selectedConcurso.categoria}</span>
+                  <span className="badge" style={{ background: 'rgba(255,255,255,0.2)', color: 'white' }}>📍 {selectedConcurso.localizacao}</span>
+                  <span className="badge" style={{ background: '#4ade80', color: '#064e3b' }}>📅 Encerra em {selectedConcurso.data_encerramento}</span>
+              </div>
             </div>
-            <p style={{ color: 'var(--text-main)', lineHeight: '1.6', background: '#f0f7ff', padding: '1rem', borderRadius: '0.5rem' }}>
-                {selectedConcurso.material_estudo?.resumo_ia}
-            </p>
+
+            <div style={{ display: 'flex', borderBottom: '1px solid #e2e8f0', background: '#f8fafc', padding: '0 2rem' }}>
+              <button onClick={() => setActiveModalTab('ficha')} style={{ background: 'none', border: 'none', padding: '1rem 0', marginRight: '2rem', fontSize: '1rem', fontWeight: activeModalTab === 'ficha' ? 'bold' : 'normal', color: activeModalTab === 'ficha' ? 'var(--primary)' : '#64748b', borderBottom: activeModalTab === 'ficha' ? '3px solid var(--primary)' : '3px solid transparent', cursor: 'pointer', transition: 'all 0.2s' }}>📋 Ficha Técnica</button>
+              <button onClick={() => setActiveModalTab('plano')} style={{ background: 'none', border: 'none', padding: '1rem 0', marginRight: '2rem', fontSize: '1rem', fontWeight: activeModalTab === 'plano' ? 'bold' : 'normal', color: activeModalTab === 'plano' ? 'var(--primary)' : '#64748b', borderBottom: activeModalTab === 'plano' ? '3px solid var(--primary)' : '3px solid transparent', cursor: 'pointer', transition: 'all 0.2s' }}>📅 Plano de Estudos</button>
+              <button onClick={() => setActiveModalTab('materiais')} style={{ background: 'none', border: 'none', padding: '1rem 0', fontSize: '1rem', fontWeight: activeModalTab === 'materiais' ? 'bold' : 'normal', color: activeModalTab === 'materiais' ? 'var(--primary)' : '#64748b', borderBottom: activeModalTab === 'materiais' ? '3px solid var(--primary)' : '3px solid transparent', cursor: 'pointer', transition: 'all 0.2s' }}>📚 Materiais Grátis</button>
+            </div>
+
+            <div style={{ padding: '2rem' }}>
+              {activeModalTab === 'ficha' && (
+                <div className="animate-fade">
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(200px, 1fr))', gap: '1.5rem', marginBottom: '2rem' }}>
+                    <div style={{ background: '#f0fdf4', padding: '1.25rem', borderRadius: '0.75rem', border: '1px solid #bbf7d0' }}>
+                      <p style={{ color: '#166534', fontSize: '0.85rem', fontWeight: 'bold', marginBottom: '0.25rem' }}>💰 SALÁRIO MÉDIO</p>
+                      <h4 style={{ fontSize: '1.25rem', color: '#15803d' }}>{selectedConcurso.detalhes_cargo?.salario_medio || 'Consulte o Edital'}</h4>
+                    </div>
+                    <div style={{ background: '#eff6ff', padding: '1.25rem', borderRadius: '0.75rem', border: '1px solid #bfdbfe' }}>
+                      <p style={{ color: '#1e40af', fontSize: '0.85rem', fontWeight: 'bold', marginBottom: '0.25rem' }}>⏱️ CARGA HORÁRIA</p>
+                      <h4 style={{ fontSize: '1.25rem', color: '#1d4ed8' }}>{selectedConcurso.detalhes_cargo?.carga_horaria || 'Padrão'}</h4>
+                    </div>
+                  </div>
+                  
+                  <div style={{ marginBottom: '1.5rem' }}>
+                    <h3 style={{ color: 'var(--text-main)', display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.75rem' }}>💼 O que você vai fazer?</h3>
+                    <p style={{ color: '#475569', lineHeight: '1.6' }}>{selectedConcurso.detalhes_cargo?.funcao || 'Atividades previstas no edital oficial.'}</p>
+                  </div>
+                  
+                  <div style={{ background: '#f8fafc', padding: '1.5rem', borderRadius: '0.75rem', borderLeft: '4px solid var(--accent-gold)' }}>
+                    <h3 style={{ color: 'var(--text-main)', display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '0.5rem' }}>📈 Plano de Carreira</h3>
+                    <p style={{ color: '#475569', lineHeight: '1.6' }}>{selectedConcurso.detalhes_cargo?.plano_carreira || 'Conforme a lei orgânica.'}</p>
+                  </div>
+                </div>
+              )}
+
+              {activeModalTab === 'plano' && (
+                <div className="animate-fade">
+                  <div style={{ background: '#e0e7ff', padding: '1rem', borderRadius: '0.5rem', marginBottom: '1.5rem', color: '#3730a3', display: 'flex', gap: '0.75rem', alignItems: 'flex-start' }}>
+                    <span style={{ fontSize: '1.5rem' }}>🧠</span>
+                    <div>
+                      <strong>Mentor AI:</strong> {selectedConcurso.material_estudo?.resumo_ia}
+                    </div>
+                  </div>
+                  
+                  <h3 style={{ marginBottom: '1rem', color: 'var(--text-main)' }}>Plano Semanal (Ciclo de 3 Meses)</h3>
+                  <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                    {(selectedConcurso.material_estudo?.plano_estudos_semanal || []).map((diaObj, idx) => (
+                      <div key={idx} style={{ display: 'flex', border: '1px solid #e2e8f0', borderRadius: '0.5rem', overflow: 'hidden' }}>
+                        <div style={{ width: '120px', background: idx === 5 || idx === 6 ? '#f1f5f9' : 'var(--primary)', color: idx === 5 || idx === 6 ? '#475569' : 'white', padding: '1rem', display: 'flex', alignItems: 'center', fontWeight: 'bold', fontSize: '0.9rem' }}>
+                          {diaObj.dia}
+                        </div>
+                        <div style={{ padding: '1rem', flex: 1, color: '#334155', fontSize: '0.95rem' }}>
+                          {diaObj.conteudo}
+                        </div>
+                      </div>
+                    ))}
+                  </div>
+                </div>
+              )}
+
+              {activeModalTab === 'materiais' && (
+                <div className="animate-fade">
+                  <div style={{ display: 'grid', gridTemplateColumns: 'repeat(auto-fit, minmax(280px, 1fr))', gap: '2rem' }}>
+                    
+                    {/* PDFs e Provas */}
+                    <div>
+                      <h3 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1rem', color: 'var(--text-main)' }}>📄 Artigos e Provas Anteriores</h3>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                        {(selectedConcurso.material_estudo?.pdf_links || []).concat(selectedConcurso.material_estudo?.provas_anteriores || []).map((link, idx) => (
+                          <a key={idx} href={link.url} target="_blank" rel="noreferrer" style={{ display: 'block', padding: '1rem', border: '1px solid #e2e8f0', borderRadius: '0.5rem', textDecoration: 'none', color: '#0369a1', background: '#f0f9ff', transition: 'background 0.2s', fontWeight: 'bold' }} onMouseOver={e => e.currentTarget.style.background = '#e0f2fe'} onMouseOut={e => e.currentTarget.style.background = '#f0f9ff'}>
+                             {link.titulo} ↗
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+
+                    {/* Vídeo Aulas */}
+                    <div>
+                      <h3 style={{ display: 'flex', alignItems: 'center', gap: '0.5rem', marginBottom: '1rem', color: 'var(--text-main)' }}>📺 Videoaulas Gratuitas</h3>
+                      <div style={{ display: 'flex', flexDirection: 'column', gap: '0.75rem' }}>
+                        {(selectedConcurso.material_estudo?.video_links || []).map((link, idx) => (
+                          <a key={idx} href={link.url} target="_blank" rel="noreferrer" style={{ display: 'block', padding: '1rem', border: '1px solid #e2e8f0', borderRadius: '0.5rem', textDecoration: 'none', color: '#b91c1c', background: '#fef2f2', transition: 'background 0.2s', fontWeight: 'bold', display: 'flex', alignItems: 'center', justifyContent: 'space-between' }} onMouseOver={e => e.currentTarget.style.background = '#fee2e2'} onMouseOut={e => e.currentTarget.style.background = '#fef2f2'}>
+                            <span style={{ overflow: 'hidden', textOverflow: 'ellipsis', whiteSpace: 'nowrap', marginRight: '0.5rem' }}>🎬 {link.titulo}</span>
+                            <span>↗</span>
+                          </a>
+                        ))}
+                      </div>
+                    </div>
+
+                  </div>
+                </div>
+              )}
+            </div>
+            
+            <div style={{ padding: '1.5rem 2rem', borderTop: '1px solid #e2e8f0', background: '#f8fafc', borderBottomLeftRadius: '1rem', borderBottomRightRadius: '1rem', display: 'flex', justifyContent: 'flex-end', gap: '1rem' }}>
+              <button className="btn btn-outline" onClick={() => { setSelectedConcurso(null); setActiveModalTab('ficha'); }}>Fechar</button>
+              <a href={selectedConcurso.link} target="_blank" rel="noreferrer" className="btn btn-primary" style={{ textDecoration: 'none' }}>Acessar Edital Oficial</a>
+            </div>
           </div>
         </div>
       )}
