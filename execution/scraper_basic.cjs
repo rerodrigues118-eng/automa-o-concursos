@@ -33,12 +33,14 @@ async function scrapeConcursos() {
       
       // Iremos capturar o bloco que contém a linha inteira (ca ou ea)
       // Usando regex mais permissiva para classes ca, ea, na
-      const regex = /<div class="(?:ca|ea|na)">([\s\S]*?)<\/div>\s*<div class="cc">([\s\S]*?)<\/div>/g;
+      // Regex atualizada para capturar os blocos ca/ea/na, cc (local) e ce (data)
+      const regex = /<div class="(?:ca|ea|na)">([\s\S]*?)<\/div>\s*<div class="cc">([\s\S]*?)<\/div>\s*<div class="ce">([\s\S]*?)<\/div>/g;
       let match;
 
       while ((match = regex.exec(html)) !== null) {
         const caContent = match[1];
         const ccContent = match[2];
+        const ceContent = match[3];
 
         const orgaoMatch = caContent.match(/<a[^>]*>(.*?)<\/a>/);
         const linkMatch = caContent.match(/href="(.*?)"/);
@@ -56,38 +58,26 @@ async function scrapeConcursos() {
           if (ufMatch) uf = ufMatch[1];
           
           let cidade = site.isCuritiba ? 'Curitiba' : extractCity(orgao);
-          
-          // Se o orgao ja contem Curitiba, forçar Curitiba
-          if (orgao.toLowerCase().includes('curitiba')) {
-              cidade = 'Curitiba';
-          }
+          if (orgao.toLowerCase().includes('curitiba')) cidade = 'Curitiba';
 
           let categoria = 'Outros';
           if (orgao.toLowerCase().includes('prefeitura')) categoria = 'Administrativo';
           if (orgao.toLowerCase().includes('polícia') || orgao.toLowerCase().includes('segurança')) categoria = 'Policial';
           if (orgao.toLowerCase().includes('federal') || site.priority) categoria = 'Federal';
 
-          // Tentar extrair data de encerramento do ccContent
-          const dateMatch = ccContent.match(/(\d{2}\/\d{2}(?:\/\d{4})?)\s*(?:a|à)?\s*(\d{2}\/\d{2}\/\d{4})/);
-          const singleDateMatch = ccContent.match(/(\d{2}\/\d{2}\/\d{4})/);
+          // Extração da data do bloco ce
+          const dateMatch = ceContent.match(/(\d{2}\/\d{2}\/\d{4})/);
           
           let encerramento = 'Ver edital';
-          let abertura = 'Ver edital';
           let ano = null;
 
           if (dateMatch) {
-            abertura = dateMatch[1];
-            encerramento = dateMatch[2];
-            const yearMatch = encerramento.match(/\d{4}$/);
-            if (yearMatch) ano = parseInt(yearMatch[0]);
-          } else if (singleDateMatch) {
-            encerramento = singleDateMatch[1];
-            const yearMatch = encerramento.match(/\d{4}$/);
-            if (yearMatch) ano = parseInt(yearMatch[0]);
+            encerramento = dateMatch[1];
+            ano = parseInt(encerramento.split('/')[2]);
           }
 
-          // Filtro de Ano: Apenas 2026 em diante
-          if (ano && ano < 2026) {
+          // Filtro Rígido: APENAS 2026 em diante.
+          if (!ano || ano < 2026) {
             continue; 
           }
 
@@ -101,9 +91,9 @@ async function scrapeConcursos() {
             prioridade: site.priority || uf === 'BR',
             is_curitiba: site.isCuritiba || cidade === 'Curitiba',
             nivel: 'Médio / Superior',
-            data_abertura: abertura,
+            data_abertura: 'Ver edital',
             data_encerramento: encerramento,
-            status: encerramento !== 'Ver edital' ? 'Inscrições abertas' : 'Previsto',
+            status: 'Inscrições abertas',
             localizacao: uf === 'BR' ? 'Brasil' : `${cidade} - ${uf}`
           });
         }

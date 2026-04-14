@@ -23,28 +23,21 @@ async function scrapeConcursos() {
       const link = $(el).find('a').attr('href');
       const info = $(el).text().replace(orgao, '').trim();
       
-      // Tentar extrair data de encerramento
-      // Formatos: "30/04/2026" ou "01/04 a 30/04/2026"
-      const dateMatch = info.match(/(\d{2}\/\d{2}(?:\/\d{4})?)\s*(?:a|à)?\s*(\d{2}\/\d{2}\/\d{4})/);
-      const singleDateMatch = info.match(/(\d{2}\/\d{2}\/\d{4})/);
+      // Extração precisa usando o seletor .ce span
+      const dateStr = $(el).find('.ce span').text().trim();
+      const dateMatch = dateStr.match(/(\d{2}\/\d{2}\/\d{4})/);
       
-      let encerramento = 'N/A';
+      let encerramento = 'Ver edital';
       let ano = null;
 
       if (dateMatch) {
-        encerramento = dateMatch[2];
-        const yearMatch = encerramento.match(/\d{4}$/);
-        if (yearMatch) ano = parseInt(yearMatch[0]);
-      } else if (singleDateMatch) {
-        encerramento = singleDateMatch[1];
-        const yearMatch = encerramento.match(/\d{4}$/);
-        if (yearMatch) ano = parseInt(yearMatch[0]);
+        encerramento = dateMatch[1];
+        ano = parseInt(encerramento.split('/')[2]);
       }
 
-      // Filtro de Ano: Apenas 2026 em diante
-      // Se não houver ano (Previsto), mantemos por enquanto para revisão
-      if (ano && ano < 2026) {
-        return; // Pular antigos
+      // Filtro Rígido: APENAS 2026 em diante
+      if (!ano || ano < 2026) {
+        return; // Pular se não tiver ano ou for antigo
       }
 
       // Categorização Básica baseada em Keywords
@@ -70,9 +63,9 @@ async function scrapeConcursos() {
           link: link.startsWith('http') ? link : `https://www.pciconcursos.com.br${link}`,
           categoria,
           nivel,
-          data_abertura: dateMatch ? dateMatch[1] : 'Ver edital',
-          data_encerramento: encerramento !== 'N/A' ? encerramento : 'Ver edital',
-          status: encerramento !== 'N/A' ? 'Inscrições abertas' : 'Previsto',
+          data_abertura: 'Ver edital',
+          data_encerramento: encerramento,
+          status: 'Inscrições abertas',
           localizacao: orgao.toLowerCase().includes('curitiba') ? 'Curitiba' : 'Paraná'
         });
       }

@@ -60,10 +60,10 @@ function App() {
       const matchesUf = selectedUf === 'Todos' || c.uf === selectedUf;
       const matchesCidade = selectedCidade === 'Todas' || c.cidade === selectedCidade;
       
-      // Filtro de Data (Segurança Frontend)
+      // Filtro de Data Rígido (Segurança Frontend)
       const dateStr = c.data_encerramento || '';
       const yearMatch = dateStr.match(/\d{4}$/);
-      const isFutureOrCurrent = yearMatch ? parseInt(yearMatch[0]) >= 2026 : true;
+      const isFutureOrCurrent = yearMatch && parseInt(yearMatch[0]) >= 2026;
 
       return matchesFilter && matchesSearch && matchesUf && matchesCidade && isFutureOrCurrent;
     })
