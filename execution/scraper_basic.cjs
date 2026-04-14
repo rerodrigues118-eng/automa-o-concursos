@@ -67,6 +67,30 @@ async function scrapeConcursos() {
           if (orgao.toLowerCase().includes('polícia') || orgao.toLowerCase().includes('segurança')) categoria = 'Policial';
           if (orgao.toLowerCase().includes('federal') || site.priority) categoria = 'Federal';
 
+          // Tentar extrair data de encerramento do ccContent
+          const dateMatch = ccContent.match(/(\d{2}\/\d{2}(?:\/\d{4})?)\s*(?:a|à)?\s*(\d{2}\/\d{2}\/\d{4})/);
+          const singleDateMatch = ccContent.match(/(\d{2}\/\d{2}\/\d{4})/);
+          
+          let encerramento = 'Ver edital';
+          let abertura = 'Ver edital';
+          let ano = null;
+
+          if (dateMatch) {
+            abertura = dateMatch[1];
+            encerramento = dateMatch[2];
+            const yearMatch = encerramento.match(/\d{4}$/);
+            if (yearMatch) ano = parseInt(yearMatch[0]);
+          } else if (singleDateMatch) {
+            encerramento = singleDateMatch[1];
+            const yearMatch = encerramento.match(/\d{4}$/);
+            if (yearMatch) ano = parseInt(yearMatch[0]);
+          }
+
+          // Filtro de Ano: Apenas 2026 em diante
+          if (ano && ano < 2026) {
+            continue; 
+          }
+
           allConcursos.push({
             id,
             orgao,
@@ -77,9 +101,9 @@ async function scrapeConcursos() {
             prioridade: site.priority || uf === 'BR',
             is_curitiba: site.isCuritiba || cidade === 'Curitiba',
             nivel: 'Médio / Superior',
-            data_abertura: 'Ver edital',
-            data_encerramento: 'Ver edital',
-            status: 'Inscrições abertas',
+            data_abertura: abertura,
+            data_encerramento: encerramento,
+            status: encerramento !== 'Ver edital' ? 'Inscrições abertas' : 'Previsto',
             localizacao: uf === 'BR' ? 'Brasil' : `${cidade} - ${uf}`
           });
         }

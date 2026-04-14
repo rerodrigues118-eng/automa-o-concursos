@@ -18,16 +18,34 @@ async function scrapeConcursos() {
     const $ = cheerio.load(data);
     const concursos = [];
 
-    $('.ca').each((i, el) => {
+    $('.ca, .na, .ea').each((i, el) => {
       const orgao = $(el).find('a').text().trim();
       const link = $(el).find('a').attr('href');
       const info = $(el).text().replace(orgao, '').trim();
       
-      // Extrair datas - formato comum nas strings do PCI
-      // Ex: "Inscrições de 01/04 a 30/04/2026 - Salário até R$ 5.000,00"
-      const dateMatch = info.match(/(\d{2}\/\d{2})\s+a\s+(\d{2}\/\d{2}\/\d{4})/);
-      const abertura = dateMatch ? dateMatch[1] : 'N/A';
-      const encerramento = dateMatch ? dateMatch[2] : 'N/A';
+      // Tentar extrair data de encerramento
+      // Formatos: "30/04/2026" ou "01/04 a 30/04/2026"
+      const dateMatch = info.match(/(\d{2}\/\d{2}(?:\/\d{4})?)\s*(?:a|à)?\s*(\d{2}\/\d{2}\/\d{4})/);
+      const singleDateMatch = info.match(/(\d{2}\/\d{2}\/\d{4})/);
+      
+      let encerramento = 'N/A';
+      let ano = null;
+
+      if (dateMatch) {
+        encerramento = dateMatch[2];
+        const yearMatch = encerramento.match(/\d{4}$/);
+        if (yearMatch) ano = parseInt(yearMatch[0]);
+      } else if (singleDateMatch) {
+        encerramento = singleDateMatch[1];
+        const yearMatch = encerramento.match(/\d{4}$/);
+        if (yearMatch) ano = parseInt(yearMatch[0]);
+      }
+
+      // Filtro de Ano: Apenas 2026 em diante
+      // Se não houver ano (Previsto), mantemos por enquanto para revisão
+      if (ano && ano < 2026) {
+        return; // Pular antigos
+      }
 
       // Categorização Básica baseada em Keywords
       let categoria = 'Outros';
@@ -49,13 +67,13 @@ async function scrapeConcursos() {
         concursos.push({
           id: Buffer.from(orgao + link).toString('base64'),
           orgao,
-          link,
+          link: link.startsWith('http') ? link : `https://www.pciconcursos.com.br${link}`,
           categoria,
           nivel,
-          data_abertura: abertura,
-          data_encerramento: encerramento,
+          data_abertura: dateMatch ? dateMatch[1] : 'Ver edital',
+          data_encerramento: encerramento !== 'N/A' ? encerramento : 'Ver edital',
           status: encerramento !== 'N/A' ? 'Inscrições abertas' : 'Previsto',
-          localizacao: orgao.includes('Curitiba') ? 'Curitiba' : 'Paraná'
+          localizacao: orgao.toLowerCase().includes('curitiba') ? 'Curitiba' : 'Paraná'
         });
       }
     });

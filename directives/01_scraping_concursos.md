@@ -20,7 +20,8 @@ Localizar, filtrar e extrair dados de editais de concursos públicos abertos ou 
    - Início e Fim das inscrições.
    - Status computado (Aberto, Encerrado, Previsto).
 3. **Classificação**: Mapear o título ou descrição do concurso para uma das categorias padrão (ex: se contém "Soldado" -> Militar).
-4. **Armazenamento**: Salvar os resultados em `.tmp/concursos_raw.json` para processamento posterior.
+4. **Filtragem Temporária**: DESCARTE concursos com data de encerramento anterior a 2026.
+5. **Armazenamento**: Salvar os resultados em `.tmp/concursos_raw.json` para processamento posterior.
 
 ## Saídas (Outputs)
 - Arquivo JSON estruturado em `.tmp/concursos_raw.json`.

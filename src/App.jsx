@@ -59,7 +59,13 @@ function App() {
       const matchesSearch = c.orgao.toLowerCase().includes(searchTerm.toLowerCase());
       const matchesUf = selectedUf === 'Todos' || c.uf === selectedUf;
       const matchesCidade = selectedCidade === 'Todas' || c.cidade === selectedCidade;
-      return matchesFilter && matchesSearch && matchesUf && matchesCidade;
+      
+      // Filtro de Data (Segurança Frontend)
+      const dateStr = c.data_encerramento || '';
+      const yearMatch = dateStr.match(/\d{4}$/);
+      const isFutureOrCurrent = yearMatch ? parseInt(yearMatch[0]) >= 2026 : true;
+
+      return matchesFilter && matchesSearch && matchesUf && matchesCidade && isFutureOrCurrent;
     })
     .sort((a, b) => {
       // 1. Curitiba (Prioridade Máxima)
