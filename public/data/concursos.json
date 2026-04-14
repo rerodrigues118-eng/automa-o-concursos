@@ -3045,6 +3045,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q8OibWFyYSBkZSBQw6lyb2xhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtcGVyb2xhLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXNlcnZpY29zLWdlcmFpcy1lLWNvbnRhZG9yLWxlZ2lzbGF0aXZv",
+    "orgao": "Câmara de Pérola",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-perola-pr-abre-concurso-publico-para-servicos-gerais-e-contador-legislativo",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Pérola",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "Ver edital",
+    "status": "Inscrições abertas",
+    "localizacao": "Pérola - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBQaXRhbmd1ZWlyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1waXRhbmd1ZWlyYXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtbml2ZWwtbWVkaW8tZS1zdXBlcmlvcg==",
     "orgao": "Câmara de Pitangueiras",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-pitangueiras-pr-abre-concurso-publico-para-nivel-medio-e-superior",
@@ -3345,6 +3360,21 @@
     "localizacao": "Lapa - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYWxsZXRodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFsbGV0LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jdWlkYWRvci1lLWF1eGlsaWFyLWRlLWN1aWRhZG9y",
+    "orgao": "Prefeitura de Mallet",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mallet-pr-abre-processo-seletivo-para-cuidador-e-auxiliar-de-cuidador",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mallet",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "Ver edital",
+    "status": "Inscrições abertas",
+    "localizacao": "Mallet - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYW5ndWVpcmluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFuZ3VlaXJpbmhhLXByLWFicmUtc2VsZWNhby1jb20tMjAtdmFnYXMtcGFyYS1qb3ZlbS1hcHJlbmRpeg==",
     "orgao": "Prefeitura de Mangueirinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mangueirinha-pr-abre-selecao-com-20-vagas-para-jovem-aprendiz",
@@ -3423,6 +3453,21 @@
     "id": "UHJlZmVpdHVyYSBkZSBQbGFuYWx0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wbGFuYWx0by1wci1wdWJsaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOS03LW1pbA==",
     "orgao": "Prefeitura de Planalto",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-planalto-pr-publica-edital-de-concurso-publico-com-salarios-de-ate-9-7-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Planalto",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "Ver edital",
+    "status": "Inscrições abertas",
+    "localizacao": "Planalto - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQbGFuYWx0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wbGFuYWx0by1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHNpY29sb2dvLWUtYXNzaXN0ZW50ZS1zb2NpYWw=",
+    "orgao": "Prefeitura de Planalto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-planalto-pr-abre-processo-seletivo-para-psicologo-e-assistente-social",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Planalto",
@@ -4605,9 +4650,9 @@
     "localizacao": "Presidente Lucena - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBRdWV2ZWRvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWV2ZWRvcy1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS04LTktbWls",
+    "id": "UHJlZmVpdHVyYSBkZSBRdWV2ZWRvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWV2ZWRvcy1ycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOC05LW1pbA==",
     "orgao": "Prefeitura de Quevedos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quevedos-rs-abre-concurso-publico-com-salarios-de-ate-8-9-mil",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quevedos-rs-retifica-concurso-publico-com-salarios-de-ate-8-9-mil",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Quevedos",
@@ -4635,6 +4680,21 @@
     "localizacao": "Rolador - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBkbyBKYWN1w61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tZG8tamFjdWktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2VudHJvLWRlLXJlZmVyZW5jaWEtZGEtY3JpYW5jYS1lLWRvLWFkb2xlc2NlbnRl",
+    "orgao": "Prefeitura de Salto do Jacuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-do-jacui-rs-abre-processo-seletivo-para-o-centro-de-referencia-da-crianca-e-do-adolescente",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Salto do Jacuí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "Ver edital",
+    "status": "Inscrições abertas",
+    "localizacao": "Salto do Jacuí - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBWaXTDs3JpYSBkbyBQYWxtYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGEtdml0b3JpYS1kby1wYWxtYXItcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNy04LW1pbA==",
     "orgao": "Prefeitura de Santa Vitória do Palmar",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-vitoria-do-palmar-rs-abre-concurso-publico-com-salarios-de-ate-7-8-mil",
@@ -4648,6 +4708,21 @@
     "data_encerramento": "Ver edital",
     "status": "Inscrições abertas",
     "localizacao": "Santa Vitória do Palmar - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YW5hIGRhIEJvYSBWaXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YW5hLWRhLWJvYS12aXN0YS1ycy1hYnJlLXZhZ2EtcGFyYS1lbmZlcm1laXJv",
+    "orgao": "Prefeitura de Santana da Boa Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-da-boa-vista-rs-abre-vaga-para-enfermeiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santana da Boa Vista",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "Ver edital",
+    "status": "Inscrições abertas",
+    "localizacao": "Santana da Boa Vista - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtdmFnYXMtcGFyYS1pbnN0cnV0b3ItZWR1Y2FjaW9uYWwtbmEtYXJlYS1kZS1lZHVjYWNhby1maXNpY2E=",
@@ -4725,6 +4800,21 @@
     "localizacao": "São Martinho - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLW1pZ3VlbC1kYXMtbWlzc29lcy1ycy1hYnJlLXZhZ2FzLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRlLWUtYXJ0ZXNhbw==",
+    "orgao": "Prefeitura de São Miguel das Missões",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-das-missoes-rs-abre-vagas-para-agente-comunitario-de-saude-e-artesao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Miguel das Missões",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "Ver edital",
+    "status": "Inscrições abertas",
+    "localizacao": "São Miguel das Missões - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYXJhbmRpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhcmFuZGktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNC01LW1pbA==",
     "orgao": "Prefeitura de Sarandi",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarandi-rs-abre-concurso-publico-com-salarios-de-ate-4-5-mil",
@@ -4753,6 +4843,21 @@
     "data_encerramento": "Ver edital",
     "status": "Inscrições abertas",
     "localizacao": "Silveira Martins - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXV4aWxpYXItZW0tc2F1ZGUtYnVjYWw=",
+    "orgao": "Prefeitura de Três Coroas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecao-para-auxiliar-em-saude-bucal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Três Coroas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "Ver edital",
+    "status": "Inscrições abertas",
+    "localizacao": "Três Coroas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUdXBhcmVuZGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVwYXJlbmRpLXJzLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTcyODc=",
