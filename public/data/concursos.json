@@ -1110,6 +1110,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SEJDUyAtIEhvc3BpdGFsIEJlbmVmaWNlbnRlIERyLiBDw6lzYXIgU2FudG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1iZW5lZmljZW50ZS1kci1jZXNhci1zYW50b3MtcnMtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljb3MtZW0tcmFkaW9sb2dpYQ==",
+    "orgao": "HBCS - Hospital Beneficente Dr. César Santos",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-beneficente-dr-cesar-santos-rs-abre-selecao-para-tecnicos-em-radiologia",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZXMtbm8tcGFycXVlLW5hY2lvbmFsLWRhLWxhZ29hLWRvLXBlaXhl",
     "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-rs-abre-processo-seletivo-para-agentes-no-parque-nacional-da-lagoa-do-peixe",
@@ -1665,6 +1680,21 @@
     "localizacao": "Jacutinga - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJhdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJhdS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZW0tZGl2ZXJzYXMtZGlzY2lwbGluYXM=",
+    "orgao": "Prefeitura de Marau",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-rs-abre-processo-seletivo-para-professores-em-diversas-disciplinas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Marau",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Marau - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFJvbWEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcm9tYS1kby1zdWwtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEyLTktbWls",
     "orgao": "Prefeitura de Nova Roma do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-roma-do-sul-rs-retifica-concurso-publico-com-salarios-de-ate-12-9-mil",
@@ -1780,7 +1810,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "08/05/2026",
+    "data_encerramento": "10/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Quevedos - PR"
   },
@@ -1963,6 +1993,21 @@
     "data_encerramento": "14/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Silveira Martins - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmFtYW5kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyYW1hbmRhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hc3Npc3RlbnRlcy1zb2NpYWlzLWUtb2ZpY2luZWlyb3M=",
+    "orgao": "Prefeitura de Tramandaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tramandai-rs-abre-selecao-para-assistentes-sociais-e-oficineiros",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tramandaí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tramandaí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXV4aWxpYXItZW0tc2F1ZGUtYnVjYWw=",
@@ -2700,6 +2745,21 @@
     "localizacao": "Guabiruba - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW1pcmltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhbWlyaW0tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQtOC1taWw=",
+    "orgao": "Prefeitura de Guaramirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaramirim-sc-abre-processo-seletivo-com-salarios-de-ate-4-8-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Guaramirim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Guaramirim - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJbWFydcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWltYXJ1aS1zYy1hYnJlLXZhZ2FzLXBhcmEtYWdlbnRlcy1kZS1zYXVkZS1lLWVuZGVtaWFz",
     "orgao": "Prefeitura de Imaruí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imarui-sc-abre-vagas-para-agentes-de-saude-e-endemias",
@@ -2893,6 +2953,21 @@
     "data_encerramento": "07/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Princesa - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1vcGVyYWNpb25hbC1p",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-agente-operacional-i",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBUZXJlemluaGEgZG8gUHJvZ3Jlc3NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXRlcmV6aW5oYS1kby1wcm9ncmVzc28tc2MtYW51bmNpYS1lZGl0YWlzLWRlLWNvbmN1cnNvLXB1YmxpY28tZS1wcm9jZXNzby1zZWxldGl2bw==",
