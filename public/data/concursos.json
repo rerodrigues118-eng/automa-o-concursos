@@ -330,6 +330,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWVkdWNhY2FvLWZpc2ljYS1lbS1pcmF0aQ==",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professor-substituto-de-educacao-fisica-em-irati",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNpcnVyZ2lhby1kZW50aXN0YQ==",
     "orgao": "Prefeitura de Balsa Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-cirurgiao-dentista",
@@ -540,6 +555,21 @@
     "localizacao": "Pato Bragado - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXRvIEJyYW5jb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXRvLWJyYW5jby1wci1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Pato Branco",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pato-branco-pr-abre-concurso-com-vagas-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pato Branco",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pato Branco - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQbGFuYWx0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wbGFuYWx0by1wci1wdWJsaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOS03LW1pbA==",
     "orgao": "Prefeitura de Planalto",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-planalto-pr-publica-edital-de-concurso-publico-com-salarios-de-ate-9-7-mil",
@@ -568,6 +598,21 @@
     "data_encerramento": "30/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Planalto - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmFkbyBGZXJyZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmFkby1mZXJyZWlyYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNi00LW1pbA==",
+    "orgao": "Prefeitura de Prado Ferreira",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-prado-ferreira-pr-abre-concurso-publico-com-salarios-de-ate-16-4-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Prado Ferreira",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Prado Ferreira - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBRdWl0YW5kaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWl0YW5kaW5oYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbW90b3Jpc3RhLWUtcHJvZmVzc29yLWRlLWVuc2luby1mdW5kYW1lbnRhbA==",
@@ -1470,9 +1515,9 @@
     "localizacao": "Espumoso - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFc3RlaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZXN0ZWlvLXJzLWFicmUtZWRpdGFpcy1kZS1jb25jdXJzb3MtY29tLXNhbGFyaW9zLWRlLWF0ZS0xMS1taWw=",
+    "id": "UHJlZmVpdHVyYSBkZSBFc3RlaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZXN0ZWlvLXJzLXB1YmxpY2EtcmV0aWZpY2FjYW8tZW0tY29uY3Vyc28tcHVibGljbw==",
     "orgao": "Prefeitura de Esteio",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-esteio-rs-abre-editais-de-concursos-com-salarios-de-ate-11-mil",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-esteio-rs-publica-retificacao-em-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Esteio",
@@ -1533,6 +1578,21 @@
     "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaGVydmFsLXJzLWFicmUtc2VsZWNhby1wYXJhLW1lZGljby1jb20tc2FsYXJpby1kZS0yMC0xLW1pbA==",
     "orgao": "Prefeitura de Herval",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-rs-abre-selecao-para-medico-com-salario-de-20-1-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Herval",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Herval - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaGVydmFsLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTQtbWls",
+    "orgao": "Prefeitura de Herval",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-rs-abre-concurso-publico-com-salarios-de-ate-4-mil",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Herval",
@@ -1738,6 +1798,21 @@
     "data_encerramento": "22/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Salto do Jacuí - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBDcnV6IGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YS1jcnV6LWRvLXN1bC1ycy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAtMy1taWw=",
+    "orgao": "Prefeitura de Santa Cruz do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-sul-rs-abre-selecoes-com-salarios-de-ate-10-3-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Cruz do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Cruz do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBWaXTDs3JpYSBkbyBQYWxtYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGEtdml0b3JpYS1kby1wYWxtYXItcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNy04LW1pbA==",
@@ -1965,9 +2040,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SW52ZXN0U0MgLSBJbnZlc3QgU2FudGEgQ2F0YXJpbmEgUGFyY2VyaWFzIGUgTmVnw7NjaW9zIEVzdHJhdMOpZ2ljb3MgUy5BLmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW52ZXN0c2MtYWJyZS1jb25jdXJzby1jb20tMTAtdmFnYXMtZS1zYWxhcmlvcy1kZS1hdGUtMTAtMy1taWw=",
+    "id": "SW52ZXN0U0MgLSBJbnZlc3QgU2FudGEgQ2F0YXJpbmEgUGFyY2VyaWFzIGUgTmVnw7NjaW9zIEVzdHJhdMOpZ2ljb3MgUy5BLmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW52ZXN0c2Mtc2MtcHVibGljYS1yZXRpZmljYWNhby1lbS1jb25jdXJzby1jb20tMTAtdmFnYXM=",
     "orgao": "InvestSC - Invest Santa Catarina Parcerias e Negócios Estratégicos S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/investsc-abre-concurso-com-10-vagas-e-salarios-de-ate-10-3-mil",
+    "link": "https://www.pciconcursos.com.br/noticias/investsc-sc-publica-retificacao-em-concurso-com-10-vagas",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -2186,6 +2261,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "21/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTQyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZzYy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtcHJvZmVzc29yZXMtdmlzaXRhbnRlcw==",
+    "orgao": "IFSC - Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsc-abre-selecao-com-vagas-para-professores-visitantes",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2550,9 +2640,9 @@
     "localizacao": "Gravatal - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBHdWFiaXJ1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3VhYmlydWJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMC00LW1pbA==",
+    "id": "UHJlZmVpdHVyYSBkZSBHdWFiaXJ1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3VhYmlydWJhLXNjLXJldGlmaWNhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjAtNC1taWw=",
     "orgao": "Prefeitura de Guabiruba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guabiruba-sc-abre-processo-seletivo-com-salarios-de-ate-20-4-mil",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guabiruba-sc-retifica-processo-seletivo-com-salarios-de-ate-20-4-mil",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Guabiruba",
@@ -2803,6 +2893,21 @@
     "data_encerramento": "06/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Bento do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIENhcmxvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tY2FybG9zLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS02LTYtbWls",
+    "orgao": "Prefeitura de São Carlos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-carlos-sc-abre-processo-seletivo-com-salarios-de-ate-6-6-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Carlos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Carlos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIEJhdGlzdGEsIEZVQkUgLSBGdW5kYcOnw6NvIEJhdGlzdGVuc2UgZGUgRXNwb3J0ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvYW8tYmF0aXN0YS1zYy1hYnJlLXNlbGVjb2VzLWNvbS12YWdhcy1wYXJhLWEtc2VjcmV0YXJpYS1kZS1lZHVjYWNhby1lLWEtZnViZQ==",
