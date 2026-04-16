@@ -120,6 +120,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q1Blc0ZOIC0gQ29tYW5kbyBkbyBQZXNzb2FsIGRlIEZ1emlsZWlyb3MgTmF2YWlzIGRhIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLWNvbmN1cnNvLWNvbS0xNjgwLXZhZ2FzLXBhcmEtY3Vyc28tZGUtZm9ybWFjYW8tZGUtc29sZGFkb3MtZnV6aWxlaXJvcy1uYXZhaXM=",
+    "orgao": "CPesFN - Comando do Pessoal de Fuzileiros Navais da Marinha do Brasil",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-prorroga-inscricoes-de-concurso-com-1680-vagas-para-curso-de-formacao-de-soldados-fuzileiros-navais",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "RVNGQ0V4IC0gRXNjb2xhIGRlIFNhw7pkZSBlIEZvcm1hw6fDo28gQ29tcGxlbWVudGFyIGRvIEV4w6lyY2l0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZXNmY2V4LWJhLXNlbGVjYW8tcGFyYS1vZmljaWFpcy1vZmVyZWNlLXZhZ2FzLWVtLWRpdmVyc2FzLWVzcGVjaWFsaWRhZGVzLWRlLW5pdmVsLXN1cGVyaW9y",
     "orgao": "ESFCEx - Escola de Saúde e Formação Complementar do Exército",
     "link": "https://www.pciconcursos.com.br/noticias/esfcex-ba-selecao-para-oficiais-oferece-vagas-em-diversas-especialidades-de-nivel-superior",
@@ -1950,6 +1965,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VEogLSBUcmlidW5hbCBkZSBKdXN0acOnYSBkbyBFc3RhZG8gZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RqLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMzg4",
+    "orgao": "TJ - Tribunal de Justiça do Estado de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/tj-sc-abre-concurso-publico-com-salarios-de-ate-10388",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBCYWxuZcOhcmlvIFBpw6dhcnJhc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWJhbG5lYXJpby1waWNhcnJhcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02LTMtbWls",
     "orgao": "Câmara de Balneário Piçarras",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-balneario-picarras-sc-abre-concurso-publico-com-salarios-de-ate-6-3-mil",
@@ -2906,21 +2936,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "22/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VEogLSBUcmlidW5hbCBkZSBKdXN0acOnYSBkbyBFc3RhZG8gZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RqLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMzg4",
-    "orgao": "TJ - Tribunal de Justiça do Estado de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/tj-sc-abre-concurso-publico-com-salarios-de-ate-10388",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "30/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
