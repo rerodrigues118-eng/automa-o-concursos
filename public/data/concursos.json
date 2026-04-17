@@ -180,21 +180,6 @@
     "localizacao": "Pérola - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBQaXRhbmd1ZWlyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1waXRhbmd1ZWlyYXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtbml2ZWwtbWVkaW8tZS1zdXBlcmlvcg==",
-    "orgao": "Câmara de Pitangueiras",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-pitangueiras-pr-abre-concurso-publico-para-nivel-medio-e-superior",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Pitangueiras",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pitangueiras - PR"
-  },
-  {
     "id": "Q09IQVZFTCAtIENvbXBhbmhpYSBNdW5pY2lwYWwgZGUgSGFiaXRhw6fDo28gZGUgQ2FzY2F2ZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvaGF2ZWwtcHItYWJyZS1jb25jdXJzby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tcmVzZXJ2YQ==",
     "orgao": "COHAVEL - Companhia Municipal de Habitação de Cascavel",
     "link": "https://www.pciconcursos.com.br/noticias/cohavel-pr-abre-concurso-com-vagas-imediatas-e-cadastro-reserva",
@@ -300,21 +285,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWRpcmVpdG8tbm8tY2FtcHVzLXBhbG1hcw==",
-    "orgao": "IFPR - Instituto Federal do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/ifpr-pr-abre-processo-seletivo-para-professor-substituto-de-direito-no-campus-palmas",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWVtLWNpZW5jaWEtZGEtY29tcHV0YWNhby1uby1jYW1wdXMtYXN0b3JnYQ==",
     "orgao": "IFPR - Instituto Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professor-substituto-em-ciencia-da-computacao-no-campus-astorga",
@@ -343,21 +313,6 @@
     "data_encerramento": "30/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNpcnVyZ2lhby1kZW50aXN0YQ==",
-    "orgao": "Prefeitura de Balsa Nova",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-cirurgiao-dentista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Balsa Nova",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Balsa Nova - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1iaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNhbWJpcmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2V0ZS12YWdhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
@@ -675,21 +630,6 @@
     "localizacao": "Teixeira Soares - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUaWJhZ2lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdGliYWdpLXByLWFicmUtc2VsZWNhby1jb20tMTktdmFnYXMtcGFyYS1tb3RvcmlzdGE=",
-    "orgao": "Prefeitura de Tibagi",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tibagi-pr-abre-selecao-com-19-vagas-para-motorista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tibagi",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tibagi - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUaWp1Y2FzIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aWp1Y2FzLWRvLXN1bC1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
     "orgao": "Prefeitura de Tijucas do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-do-sul-pr-abre-processo-seletivo-para-professores",
@@ -746,21 +686,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VUZGUyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRhIEZyb250ZWlyYSBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmZnMtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWVtLWxhcmFuamVpcmFzLWRvLXN1bA==",
-    "orgao": "UFFS - Universidade Federal da Fronteira Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/uffs-pr-abre-processo-seletivo-para-professor-substituto-em-laranjeiras-do-sul",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1335,21 +1260,6 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBbmRyw6kgZGEgUm9jaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYW5kcmUtZGEtcm9jaGEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLWRlLWxpbmd1YS1wb3J0dWd1ZXNh",
-    "orgao": "Prefeitura de André da Rocha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andre-da-rocha-rs-abre-selecao-para-professor-de-lingua-portuguesa",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "André da Rocha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "André da Rocha - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWfDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWdlLXJzLWFicmUtMjQtdmFnYXMtcGFyYS1wcm9maXNzaW9uYWlzLWRlLW5pdmVsLWZ1bmRhbWVudGFs",
     "orgao": "Prefeitura de Bagé",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bage-rs-abre-24-vagas-para-profissionais-de-nivel-fundamental",
@@ -1363,21 +1273,6 @@
     "data_encerramento": "28/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bagé - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYWPDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmFjYW8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtbW9uaXRvci1lc2NvbGFyLWUtYXNzaXN0ZW50ZS1zb2NpYWw=",
-    "orgao": "Prefeitura de Barracão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barracao-rs-abre-selecao-para-monitor-escolar-e-assistente-social",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barracão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barracão - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLWRlLWVkdWNhY2FvLWZpc2ljYQ==",
@@ -1800,21 +1695,6 @@
     "localizacao": "Salto do Jacuí - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBDcnV6IGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YS1jcnV6LWRvLXN1bC1ycy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAtMy1taWw=",
-    "orgao": "Prefeitura de Santa Cruz do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-sul-rs-abre-selecoes-com-salarios-de-ate-10-3-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Santa Cruz do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Santa Cruz do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBWaXTDs3JpYSBkbyBQYWxtYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGEtdml0b3JpYS1kby1wYWxtYXItcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNy04LW1pbA==",
     "orgao": "Prefeitura de Santa Vitória do Palmar",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-vitoria-do-palmar-rs-abre-concurso-publico-com-salarios-de-ate-7-8-mil",
@@ -2036,21 +1916,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SW52ZXN0U0MgLSBJbnZlc3QgU2FudGEgQ2F0YXJpbmEgUGFyY2VyaWFzIGUgTmVnw7NjaW9zIEVzdHJhdMOpZ2ljb3MgUy5BLmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW52ZXN0c2Mtc2MtcHVibGljYS1yZXRpZmljYWNhby1lbS1jb25jdXJzby1jb20tMTAtdmFnYXM=",
-    "orgao": "InvestSC - Invest Santa Catarina Parcerias e Negócios Estratégicos S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/investsc-sc-publica-retificacao-em-concurso-com-10-vagas",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2396,6 +2261,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SW52ZXN0U0MgLSBJbnZlc3QgU2FudGEgQ2F0YXJpbmEgUGFyY2VyaWFzIGUgTmVnw7NjaW9zIEVzdHJhdMOpZ2ljb3MgUy5BLmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW52ZXN0c2Mtc2MtcHVibGljYS1yZXRpZmljYWNhby1lbS1jb25jdXJzby1jb20tMTAtdmFnYXM=",
+    "orgao": "InvestSC - Invest Santa Catarina Parcerias e Negócios Estratégicos S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/investsc-sc-publica-retificacao-em-concurso-com-10-vagas",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2908,21 +2788,6 @@
     "data_encerramento": "14/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Navegantes - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQYWluZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFpbmVsLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1yZXNlcnZh",
-    "orgao": "Prefeitura de Painel",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-painel-sc-abre-processo-seletivo-para-formacao-de-cadastro-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Painel",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Painel - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXNzbyBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFzc28tZGUtdG9ycmVzLXNjLWFicmUtc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0yMS05LW1pbA==",
