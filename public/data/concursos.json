@@ -360,21 +360,6 @@
     "localizacao": "Balsa Nova - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1iaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNhbWJpcmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2V0ZS12YWdhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
-    "orgao": "Prefeitura de Cambira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cambira-pr-abre-processo-seletivo-com-sete-vagas-e-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cambira",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cambira - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1waW5hIEdyYW5kZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcGluYS1ncmFuZGUtZG8tc3VsLXByLWFicmUtY29uY3Vyc29zLXB1YmxpY29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTItMi1taWw=",
     "orgao": "Prefeitura de Campina Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campina-grande-do-sul-pr-abre-concursos-publicos-com-salarios-de-ate-12-2-mil",
@@ -705,36 +690,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRyYWR1dG9yLWludGVycHJldGUtZGUtbGlicmFz",
-    "orgao": "UEL - Universidade Estadual de Londrina",
-    "link": "https://www.pciconcursos.com.br/noticias/uel-pr-abre-processo-seletivo-para-tradutor-interprete-de-libras",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1lbS1sYWJvcmF0b3Jpby1jb20tc2FsYXJpby1kZS00LTItbWls",
-    "orgao": "UEM - Universidade Estadual de Maringá",
-    "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-selecao-para-tecnico-em-laboratorio-com-salario-de-4-2-mil",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "VUZQUiAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtOC0zLW1pbA==",
     "orgao": "UFPR - Universidade Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/ufpr-abre-processo-seletivo-para-professores-substitutos-com-salarios-de-ate-8-3-mil",
@@ -761,21 +716,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yZXMtZG8tbWFnaXN0ZXJpby1zdXBlcmlvci1jb20tc2FsYXJpb3MtZGUtYXRlLTEzLTItbWls",
-    "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
-    "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-concurso-publico-para-professores-do-magisterio-superior-com-salarios-de-ate-13-2-mil",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1140,21 +1080,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXZpc2l0YW50ZS1uYS1hcmVhLWRlLWNpZW5jaWFzLWJpb2xvZ2ljYXMtZW0tcG9ydG8tYWxlZ3Jl",
-    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professor-visitante-na-area-de-ciencias-biologicas-em-porto-alegre",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1jb250cm9sZS1hdXRvbWFjYW8tZS1pbnN0cnVtZW50YWNhby1pbmR1c3RyaWFsLWVtLXJpby1ncmFuZGU=",
     "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-vaga-para-professor-substituto-de-controle-automacao-e-instrumentacao-industrial-em-rio-grande",
@@ -1241,21 +1166,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "22/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBSb2xhbnRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZnJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1maXNpY2Etbm8tY2FtcHVzLXJvbGFudGU=",
-    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Rolante",
-    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professor-substituto-de-fisica-no-campus-rolante",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1395,21 +1305,6 @@
     "localizacao": "Bagé - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLWRlLWVkdWNhY2FvLWZpc2ljYQ==",
-    "orgao": "Prefeitura de Boa Vista do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-abre-selecao-para-professor-de-educacao-fisica",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Boa Vista do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Boa Vista do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lcmVuZGVpcm8tZS1hdGVuZGVudGU=",
     "orgao": "Prefeitura de Boa Vista do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-abre-processo-seletivo-para-merendeiro-e-atendente",
@@ -1440,36 +1335,6 @@
     "localizacao": "Caibaté - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYWliYXTDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWliYXRlLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
-    "orgao": "Prefeitura de Caibaté",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-selecao-para-agente-comunitario-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Caibaté",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Caibaté - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDw6JuZGlkbyBHb2TDs2lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZGlkby1nb2RvaS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZmFybWFjZXV0aWNv",
-    "orgao": "Prefeitura de Cândido Godói",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-godoi-rs-abre-processo-seletivo-para-farmaceutico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cândido Godói",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cândido Godói - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDaHV2aXNjYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaHV2aXNjYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hZ2VudGUtZGUtZW5kZW1pYXMtZS1hZ2VudGUtZGUtc2F1ZGU=",
     "orgao": "Prefeitura de Chuvisca",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chuvisca-rs-abre-selecao-para-agente-de-endemias-e-agente-de-saude",
@@ -1485,36 +1350,6 @@
     "localizacao": "Chuvisca - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhcy1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZS1hc3Npc3RlbnRlLXNvY2lhbC1lLXByb2Zlc3Nvci1kZS1hcnRl",
-    "orgao": "Prefeitura de Crissiumal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vagas-para-agente-comunitario-de-saude-assistente-social-e-professor-de-arte",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Crissiumal",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Crissiumal - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhcy1wYXJhLW1vbml0b3Jlcy1kZS1lZHVjYWNhby1lc3BlY2lhbA==",
-    "orgao": "Prefeitura de Crissiumal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vagas-para-monitores-de-educacao-especial",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Crissiumal",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Crissiumal - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNh",
     "orgao": "Prefeitura de Crissiumal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-o-cargo-de-domestica",
@@ -1528,21 +1363,6 @@
     "data_encerramento": "24/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Crissiumal - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBFbmNydXppbGhhZGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVuY3J1emlsaGFkYS1kby1zdWwtcnMtYWJyZS1zZWxlY2FvLXBhcmEtbml2ZWlzLWZ1bmRhbWVudGFsLWUtbWVkaW8=",
-    "orgao": "Prefeitura de Encruzilhada do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-encruzilhada-do-sul-rs-abre-selecao-para-niveis-fundamental-e-medio",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Encruzilhada do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Encruzilhada do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1jb250YWRvcg==",
@@ -1695,21 +1515,6 @@
     "localizacao": "Nova Roma do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLW1lZGljby1wZXJpdG8=",
-    "orgao": "Prefeitura de Palmares do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-selecao-para-medico-perito",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Palmares do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Palmares do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLW9kb250b2xvZ28=",
     "orgao": "Prefeitura de Palmares do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-selecao-para-odontologo",
@@ -1770,36 +1575,6 @@
     "localizacao": "Pantano Grande - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtby1jYXJnby1kZS1lbnRyZXZpc3RhZG9yLXNvY2lhbA==",
-    "orgao": "Prefeitura de Pelotas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-o-cargo-de-entrevistador-social",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pelotas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pelotas - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY29lcy1wYXJhLWF1eGlsaWFyLWVtLXNhdWRlLWJ1Y2FsLWUtb3BlcmFkb3ItZGUtbWFxdWluYXM=",
-    "orgao": "Prefeitura de Pelotas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecoes-para-auxiliar-em-saude-bucal-e-operador-de-maquinas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pelotas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pelotas - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYW51bmNpYS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZW5mZXJtZWlyb3MtZS10ZWNuaWNvcy1kZS1lbmZlcm1hZ2Vt",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-anuncia-processos-seletivos-para-enfermeiros-e-tecnicos-de-enfermagem",
@@ -1858,21 +1633,6 @@
     "data_encerramento": "10/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Quevedos - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBSb2xhZG9yaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJvbGFkb3ItcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEyLTctbWls",
-    "orgao": "Prefeitura de Rolador",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rolador-rs-retifica-concurso-publico-com-salarios-de-ate-12-7-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rolador",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rolador - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBkbyBKYWN1w61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tZG8tamFjdWktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2VudHJvLWRlLXJlZmVyZW5jaWEtZGEtY3JpYW5jYS1lLWRvLWFkb2xlc2NlbnRl",
@@ -1950,21 +1710,6 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tZG9taW5nb3MtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZXMtY29tdW5pdGFyaW9zLWRlLXNhdWRl",
-    "orgao": "Prefeitura de São Domingos do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-do-sul-rs-abre-selecao-para-agentes-comunitarios-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Domingos do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Domingos do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExlb3BvbGRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1sZW9wb2xkby1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03LTItbWls",
     "orgao": "Prefeitura de São Leopoldo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-leopoldo-rs-abre-concurso-publico-com-salarios-de-ate-7-2-mil",
@@ -1993,21 +1738,6 @@
     "data_encerramento": "08/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Martinho - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLW1pZ3VlbC1kYXMtbWlzc29lcy1ycy1hYnJlLXZhZ2FzLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRlLWUtYXJ0ZXNhbw==",
-    "orgao": "Prefeitura de São Miguel das Missões",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-das-missoes-rs-abre-vagas-para-agente-comunitario-de-saude-e-artesao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Miguel das Missões",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Miguel das Missões - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYXJhbmRpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhcmFuZGktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNC01LW1pbA==",
@@ -2040,21 +1770,6 @@
     "localizacao": "Toropi - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUcmFtYW5kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyYW1hbmRhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hc3Npc3RlbnRlcy1zb2NpYWlzLWUtb2ZpY2luZWlyb3M=",
-    "orgao": "Prefeitura de Tramandaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tramandai-rs-abre-selecao-para-assistentes-sociais-e-oficineiros",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tramandaí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tramandaí - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXV4aWxpYXItZW0tc2F1ZGUtYnVjYWw=",
     "orgao": "Prefeitura de Três Coroas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecao-para-auxiliar-em-saude-bucal",
@@ -2068,21 +1783,6 @@
     "data_encerramento": "22/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Coroas - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUdW5hc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10dW5hcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1lbmNhcnJlZ2Fkby1nZXJhbA==",
-    "orgao": "Prefeitura de Tunas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tunas-rs-abre-processo-seletivo-para-o-cargo-de-encarregado-geral",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tunas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tunas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUdXBhcmVuZGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVwYXJlbmRpLXJzLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTcyODc=",
@@ -2295,21 +1995,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWFzc2lzdGVudGUtYWRtaW5pc3RyYXRpdm8taS1uby1oZW1vc2MtZW0tY3JpY2l1bWE=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-administrativo-i-no-hemosc-em-criciuma",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS1hbmFsaXN0YS1kZS1hZG1pbmlzdHJhY2FvLWRlLXBlc3NvYWwtaS1uby1jZXBvbi1lbS1mbG9yaWFub3BvbGlz",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-analista-de-administracao-de-pessoal-i-no-cepon-em-florianopolis",
@@ -2396,21 +2081,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "29/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "Rk1TIC0gRnVuZG8gTXVuaWNpcGFsIGRlIFNhw7pkZSBkZSBab3J0w6lhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXpvcnRlYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
-    "orgao": "FMS - Fundo Municipal de Saúde de Zortéa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-zortea-sc-abre-processo-seletivo-para-agente-comunitario-de-saude",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2910,21 +2580,6 @@
     "localizacao": "Grão Pará - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBHcsOjby1QYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmFvLXBhcmEtc2MtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29y",
-    "orgao": "Prefeitura de Grão-Pará",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-grao-para-sc-abre-vaga-em-processo-seletivo-para-professor",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Grão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Grão - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBHcmF2YXRhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmF2YXRhbC1zYy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLWFzc2lzdGVudGUtc29jaWFsLWUtZW5mZXJtZWlybw==",
     "orgao": "Prefeitura de Gravatal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gravatal-sc-abre-concurso-com-vagas-para-assistente-social-e-enfermeiro",
@@ -3058,21 +2713,6 @@
     "data_encerramento": "19/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Massaranduba - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNb2RlbG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9kZWxvLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS02LTQtbWls",
-    "orgao": "Prefeitura de Modelo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-modelo-sc-abre-concurso-com-salarios-de-ate-6-4-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Modelo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Modelo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOYXZlZ2FudGVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5hdmVnYW50ZXMtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYS1lZHVjYWNhbw==",
@@ -3341,21 +2981,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VUZTQyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtOC0zLW1pbA==",
-    "orgao": "UFSC - Universidade Federal de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ufsc-abre-selecao-para-professores-substitutos-com-salarios-de-ate-8-3-mil",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   }
