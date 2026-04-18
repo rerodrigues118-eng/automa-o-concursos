@@ -1125,6 +1125,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLXRlbXBvcmFyaW8tYW1iaWVudGFsLWVtLXJpby1ncmFuZGU=",
+    "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-rs-abre-selecao-para-agente-temporario-ambiental-em-rio-grande",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXZpc2l0YW50ZS1uYS1hcmVhLWRlLWNpZW5jaWFzLWJpb2xvZ2ljYXMtZW0tcG9ydG8tYWxlZ3Jl",
     "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professor-visitante-na-area-de-ciencias-biologicas-em-porto-alegre",
@@ -1348,6 +1363,21 @@
     "data_encerramento": "22/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBY2VndcOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFjZWd1YS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZGUtc2VyaWVzLWZpbmFpcw==",
+    "orgao": "Prefeitura de Aceguá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-acegua-rs-abre-processo-seletivo-para-professores-de-series-finais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Aceguá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Aceguá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYWfDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWdlLXJzLWFicmUtMjQtdmFnYXMtcGFyYS1wcm9maXNzaW9uYWlzLWRlLW5pdmVsLWZ1bmRhbWVudGFs",
@@ -2816,6 +2846,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Garuva - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHYXJ1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FydXZhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLWN1aWRhZG9y",
+    "orgao": "Prefeitura de Garuva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garuva-sc-abre-processo-seletivo-para-o-cargo-de-cuidador",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Garuva",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Garuva - PR"
   },
