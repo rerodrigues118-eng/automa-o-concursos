@@ -651,6 +651,99 @@
     }
   },
   {
+    "id": "QUZBIC0gQWNhZGVtaWEgZGEgRm9yw6dhIEHDqXJlYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1hYnJlLWV4YW1lLWRlLWFkbWlzc2FvLXBhcmEtb2ZpY2lhaXMtYXZpYWRvcmVzLWludGVuZGVudGVzLWUtZGUtaW5mYW50YXJpYQ==",
+    "orgao": "AFA - Academia da Força Aérea",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-abre-exame-de-admissao-para-oficiais-aviadores-intendentes-e-de-infantaria",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão AFA - Academia da Força Aérea."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+AFA+-+Academia+da+Força+Aérea"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+AFA+-+Academia+da+Força+Aérea"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/AFA+-+Academia+da+Força+Aérea"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "RVNBIC0gRXNjb2xhIGRlIFNhcmdlbnRvcyBkYXMgQXJtYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2V4ZXJjaXRvLWJyYXNpbGVpcm8tY29uY3Vyc28tbmFjaW9uYWwtYWJyZS0xMTAwLXZhZ2FzLXBhcmEtY3Vyc29zLWRlLWZvcm1hY2FvLWRlLXNhcmdlbnRvcw==",
     "orgao": "ESA - Escola de Sargentos das Armas",
     "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-concurso-nacional-abre-1100-vagas-para-cursos-de-formacao-de-sargentos",
@@ -705,6 +798,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/ESA+-+Escola+de+Sargentos+das+Armas"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "U1NQTSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9jZXNzby1zZWxldGl2by1vZmVyZWNlLTE1Ni12YWdhcy1wYXJhLW8tY29sZWdpby1uYXZhbC1lbS0yMDI2",
+    "orgao": "SSPM - Marinha do Brasil",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-processo-seletivo-oferece-156-vagas-para-o-colegio-naval-em-2026",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão SSPM - Marinha do Brasil."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+SSPM+-+Marinha+do+Brasil"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+SSPM+-+Marinha+do+Brasil"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/SSPM+-+Marinha+do+Brasil"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -930,60 +1116,60 @@
     }
   },
   {
-    "id": "U1NQTSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9jZXNzby1zZWxldGl2by1vZmVyZWNlLTE1Ni12YWdhcy1wYXJhLW8tY29sZWdpby1uYXZhbC1lbS0yMDI2",
-    "orgao": "SSPM - Marinha do Brasil",
-    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-processo-seletivo-oferece-156-vagas-para-o-colegio-naval-em-2026",
-    "categoria": "Federal",
-    "uf": "BR",
+    "id": "Q09IQVZFTCAtIENvbXBhbmhpYSBNdW5pY2lwYWwgZGUgSGFiaXRhw6fDo28gZGUgQ2FzY2F2ZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvaGF2ZWwtcHItYWJyZS1jb25jdXJzby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tcmVzZXJ2YQ==",
+    "orgao": "COHAVEL - Companhia Municipal de Habitação de Cascavel",
+    "link": "https://www.pciconcursos.com.br/noticias/cohavel-pr-abre-concurso-com-vagas-imediatas-e-cadastro-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
     "cidade": "Várias",
-    "prioridade": true,
+    "prioridade": false,
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "04/05/2026",
+    "data_encerramento": "22/04/2026",
     "status": "Inscrições abertas",
-    "localizacao": "Brasil",
+    "localizacao": "Várias - PR",
     "detalhes_cargo": {
-      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "salario_medio": "R$ 2.000 a R$ 4.000",
       "carga_horaria": "40h semanais",
-      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
-      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
-      "descricao_geral": "Oportunidade na área Federal focada no órgão SSPM - Marinha do Brasil."
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão COHAVEL - Companhia Municipal de Habitação de Cascavel."
     },
     "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
       "video_links": [
         {
-          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
         },
         {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
         },
         {
-          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
         },
         {
-          "titulo": "Aula: Específicas [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
         }
       ],
       "pdf_links": [
         {
           "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+SSPM+-+Marinha+do+Brasil"
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+COHAVEL+-+Companhia+Municipal+de+Habitação+de+Cascavel"
         },
         {
           "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+SSPM+-+Marinha+do+Brasil"
+          "url": "https://www.google.com/search?q=edital+esquematizado+COHAVEL+-+Companhia+Municipal+de+Habitação+de+Cascavel"
         }
       ],
       "provas_anteriores": [
         {
           "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/SSPM+-+Marinha+do+Brasil"
+          "url": "https://www.pciconcursos.com.br/provas/COHAVEL+-+Companhia+Municipal+de+Habitação+de+Cascavel"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -993,19 +1179,19 @@
       "plano_estudos_semanal": [
         {
           "dia": "Segunda",
-          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
         },
         {
           "dia": "Terça",
-          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
         },
         {
           "dia": "Quarta",
-          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
         },
         {
           "dia": "Quinta",
-          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",
@@ -1077,99 +1263,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Câmara+de+Pérola"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "Q09IQVZFTCAtIENvbXBhbmhpYSBNdW5pY2lwYWwgZGUgSGFiaXRhw6fDo28gZGUgQ2FzY2F2ZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvaGF2ZWwtcHItYWJyZS1jb25jdXJzby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tcmVzZXJ2YQ==",
-    "orgao": "COHAVEL - Companhia Municipal de Habitação de Cascavel",
-    "link": "https://www.pciconcursos.com.br/noticias/cohavel-pr-abre-concurso-com-vagas-imediatas-e-cadastro-reserva",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.000 a R$ 4.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
-      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
-      "descricao_geral": "Oportunidade na área Outros focada no órgão COHAVEL - Companhia Municipal de Habitação de Cascavel."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Matemática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+COHAVEL+-+Companhia+Municipal+de+Habitação+de+Cascavel"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+COHAVEL+-+Companhia+Municipal+de+Habitação+de+Cascavel"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/COHAVEL+-+Companhia+Municipal+de+Habitação+de+Cascavel"
         },
         {
           "titulo": "Banco de Questões Comentadas",

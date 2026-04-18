@@ -105,9 +105,39 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "QUZBIC0gQWNhZGVtaWEgZGEgRm9yw6dhIEHDqXJlYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1hYnJlLWV4YW1lLWRlLWFkbWlzc2FvLXBhcmEtb2ZpY2lhaXMtYXZpYWRvcmVzLWludGVuZGVudGVzLWUtZGUtaW5mYW50YXJpYQ==",
+    "orgao": "AFA - Academia da Força Aérea",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-abre-exame-de-admissao-para-oficiais-aviadores-intendentes-e-de-infantaria",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "RVNBIC0gRXNjb2xhIGRlIFNhcmdlbnRvcyBkYXMgQXJtYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2V4ZXJjaXRvLWJyYXNpbGVpcm8tY29uY3Vyc28tbmFjaW9uYWwtYWJyZS0xMTAwLXZhZ2FzLXBhcmEtY3Vyc29zLWRlLWZvcm1hY2FvLWRlLXNhcmdlbnRvcw==",
     "orgao": "ESA - Escola de Sargentos das Armas",
     "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-concurso-nacional-abre-1100-vagas-para-cursos-de-formacao-de-sargentos",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "U1NQTSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9jZXNzby1zZWxldGl2by1vZmVyZWNlLTE1Ni12YWdhcy1wYXJhLW8tY29sZWdpby1uYXZhbC1lbS0yMDI2",
+    "orgao": "SSPM - Marinha do Brasil",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-processo-seletivo-oferece-156-vagas-para-o-colegio-naval-em-2026",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -150,19 +180,19 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "U1NQTSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9jZXNzby1zZWxldGl2by1vZmVyZWNlLTE1Ni12YWdhcy1wYXJhLW8tY29sZWdpby1uYXZhbC1lbS0yMDI2",
-    "orgao": "SSPM - Marinha do Brasil",
-    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-processo-seletivo-oferece-156-vagas-para-o-colegio-naval-em-2026",
-    "categoria": "Federal",
-    "uf": "BR",
+    "id": "Q09IQVZFTCAtIENvbXBhbmhpYSBNdW5pY2lwYWwgZGUgSGFiaXRhw6fDo28gZGUgQ2FzY2F2ZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvaGF2ZWwtcHItYWJyZS1jb25jdXJzby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tcmVzZXJ2YQ==",
+    "orgao": "COHAVEL - Companhia Municipal de Habitação de Cascavel",
+    "link": "https://www.pciconcursos.com.br/noticias/cohavel-pr-abre-concurso-com-vagas-imediatas-e-cadastro-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
     "cidade": "Várias",
-    "prioridade": true,
+    "prioridade": false,
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "04/05/2026",
+    "data_encerramento": "22/04/2026",
     "status": "Inscrições abertas",
-    "localizacao": "Brasil"
+    "localizacao": "Várias - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBQw6lyb2xhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtcGVyb2xhLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXNlcnZpY29zLWdlcmFpcy1lLWNvbnRhZG9yLWxlZ2lzbGF0aXZv",
@@ -178,21 +208,6 @@
     "data_encerramento": "11/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pérola - PR"
-  },
-  {
-    "id": "Q09IQVZFTCAtIENvbXBhbmhpYSBNdW5pY2lwYWwgZGUgSGFiaXRhw6fDo28gZGUgQ2FzY2F2ZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvaGF2ZWwtcHItYWJyZS1jb25jdXJzby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tcmVzZXJ2YQ==",
-    "orgao": "COHAVEL - Companhia Municipal de Habitação de Cascavel",
-    "link": "https://www.pciconcursos.com.br/noticias/cohavel-pr-abre-concurso-com-vagas-imediatas-e-cadastro-reserva",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLXJlc2VydmEtZGUtYWdlbnRlLXRlbXBvcmFyaW8tYW1iaWVudGFs",
