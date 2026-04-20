@@ -1335,6 +1335,21 @@
     "localizacao": "Caibaté - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXBpdmFyaSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FwaXZhcmktZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLTEyLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8tZXNwZWNpYWwtaWk=",
+    "orgao": "Prefeitura de Capivari do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capivari-do-sul-rs-abre-selecao-para-12-auxiliares-de-educacao-especial-ii",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Capivari do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capivari do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNh",
     "orgao": "Prefeitura de Crissiumal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-o-cargo-de-domestica",
@@ -1743,6 +1758,21 @@
     "id": "UHJlZmVpdHVyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9yb3BpLXJzLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvbm9hdWRpb2xvZ28=",
     "orgao": "Prefeitura de Toropi",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toropi-rs-abre-vaga-em-processo-seletivo-para-fonoaudiologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Toropi",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Toropi - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9yb3BpLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtZmlzY2Fs",
+    "orgao": "Prefeitura de Toropi",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toropi-rs-abre-selecao-para-o-cargo-de-fiscal",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Toropi",
