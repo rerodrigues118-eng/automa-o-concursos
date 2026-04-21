@@ -2040,6 +2040,21 @@
     "localizacao": "São João do Sul - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtZG91dG9yLXBlZHJpbmhvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWF1eGlsaWFyLWRlLWxpbXBlemEtZS1jb250YWRvcg==",
+    "orgao": "Câmara de Vereadores",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-doutor-pedrinho-sc-abre-concurso-publico-para-auxiliar-de-limpeza-e-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores - PR"
+  },
+  {
     "id": "Q0lESVJJT1MgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIERlc2Vudm9sdmltZW50byBkYSBJbmZyYWVzdHJ1dHVyYSBSb2RvdmnDoXJpYSBFbnRyZSBvcyBSaW9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jaWRpcmlvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FyZ29zLWRlLW5pdmVsLWFsZmFiZXRpemFkbw==",
     "orgao": "CIDIRIOS - Consórcio Intermunicipal de Desenvolvimento da Infraestrutura Rodoviária Entre os Rios",
     "link": "https://www.pciconcursos.com.br/noticias/cidirios-sc-abre-processo-seletivo-para-cargos-de-nivel-alfabetizado",
@@ -2096,6 +2111,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS1nZXJlbnRlLWRlLWdlc3Rhby1kZS1wZXNzb2FzLWNvbS1zYWxhcmlvLXN1cGVyaW9yLWEtMTUtbWls",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-gerente-de-gestao-de-pessoas-com-salario-superior-a-15-mil",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2745,6 +2775,36 @@
     "localizacao": "Navegantes - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWluZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFpbmVsLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
+    "orgao": "Prefeitura de Painel",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-painel-sc-retifica-edital-de-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Painel",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Painel - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01LTEtbWls",
+    "orgao": "Prefeitura de Paraíso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraiso-sc-abre-processo-seletivo-com-salarios-de-ate-5-1-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paraíso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paraíso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYXNzbyBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFzc28tZGUtdG9ycmVzLXNjLWFicmUtc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0yMS05LW1pbA==",
     "orgao": "Prefeitura de Passo de Torres",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-de-torres-sc-abre-selecoes-com-salarios-de-ate-21-9-mil",
@@ -2878,6 +2938,21 @@
     "data_encerramento": "25/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "São João Batista - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXMtZW0tZGl2ZXJzYXMtYXJlYXM=",
+    "orgao": "Prefeitura de São Lourenço do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-lourenco-do-oeste-sc-abre-selecao-para-professores-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Lourenço do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Lourenço do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUaWp1Y2FzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRpanVjYXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUtNy1taWw=",
