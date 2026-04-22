@@ -330,6 +330,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLXBvcnR1Z3Vlcy1lc3BhbmhvbC1lbS1nb2lvZXJl",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professor-substituto-de-portugues-espanhol-em-goioere",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3Mtbm8tY2FtcHVzLWNvcm9uZWwtdml2aWRh",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processos-seletivos-para-professores-substitutos-no-campus-coronel-vivida",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvLWRlLWZhcm1hY2V1dGljby1iaW9xdWltaWNv",
     "orgao": "Prefeitura de Balsa Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-cargo-de-farmaceutico-bioquimico",
@@ -1260,6 +1290,21 @@
     "localizacao": "Capivari do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDZXJyaXRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNlcnJpdG8tcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZWR1Y2Fkb3ItZmlzaWNvLWUtZm9ub2F1ZGlvbG9nbw==",
+    "orgao": "Prefeitura de Cerrito",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerrito-rs-abre-processos-seletivos-para-educador-fisico-e-fonoaudiologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cerrito",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cerrito - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNh",
     "orgao": "Prefeitura de Crissiumal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-o-cargo-de-domestica",
@@ -1320,9 +1365,9 @@
     "localizacao": "Faxinalzinho - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBGbG9yZXMgZGEgQ3VuaGEgZSBDw6JtYXJhIGRlIFZlcmVhZG9yZXMgZGUgRmxvcmVzIGRhIEN1bmhhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLWZsb3Jlcy1kYS1jdW5oYS1ycy1kaXZ1bGdhbS1lZGl0YWlzLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "id": "UHJlZmVpdHVyYSBkZSBGbG9yZXMgZGEgQ3VuaGEgZSBDw6JtYXJhIGRlIFZlcmVhZG9yZXMgZGUgRmxvcmVzIGRhIEN1bmhhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLWZsb3Jlcy1kYS1jdW5oYS1ycy1kaXZ1bGdhbS1yZXRpZmljYWNvZXMtZW0tZWRpdGFpcy1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmE=",
     "orgao": "Prefeitura de Flores da Cunha e Câmara de Vereadores de Flores da Cunha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-flores-da-cunha-rs-divulgam-editais-para-cadastro-de-reserva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-flores-da-cunha-rs-divulgam-retificacoes-em-editais-para-cadastro-de-reserva",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Flores da Cunha",
@@ -1511,6 +1556,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "01/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Presidente Lucena - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIEx1Y2VuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWx1Y2VuYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Presidente Lucena",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-lucena-rs-abre-processo-seletivo-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Presidente Lucena",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Presidente Lucena - PR"
   },
@@ -1953,6 +2013,21 @@
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS1nZXJlbnRlLWRlLWdlc3Rhby1kZS1wZXNzb2FzLWNvbS1zYWxhcmlvLXN1cGVyaW9yLWEtMTUtbWls",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-gerente-de-gestao-de-pessoas-com-salario-superior-a-15-mil",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLWFiZXJ0dXJhLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1tZWRpY28taW50ZXJ2ZW5jaW9uaXN0YS1lLXJhZGlvLW9wZXJhZG9y",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-abertura-de-processos-seletivos-para-medico-intervencionista-e-radio-operador",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -2520,6 +2595,21 @@
     "localizacao": "Imaruí - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJbmRhaWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWluZGFpYWwtc2MtYWJyZS1jb25jdXJzb3MtcGFyYS1kaXZlcnNhcy1hcmVhcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIwLTYtbWls",
+    "orgao": "Prefeitura de Indaial",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indaial-sc-abre-concursos-para-diversas-areas-com-salarios-de-ate-20-6-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Indaial",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Indaial - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBKYWd1YXJ1bmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFndWFydW5hLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lY2FuaWNv",
     "orgao": "Prefeitura de Jaguaruna",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaruna-sc-abre-vaga-em-processo-seletivo-para-mecanico",
@@ -2713,6 +2803,21 @@
     "data_encerramento": "28/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Lourenço do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWUtbW90b3Jpc3Rhcw==",
+    "orgao": "Prefeitura de São Miguel do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-abre-selecao-para-professores-e-motoristas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Miguel do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Miguel do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUaWp1Y2FzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRpanVjYXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUtNy1taWw=",
