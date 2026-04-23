@@ -1305,6 +1305,21 @@
     "localizacao": "Cerrito - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDZXJyaXRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNlcnJpdG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtbWVkaWNvLWRhLWVzdHJhdGVnaWEtZGUtc2F1ZGUtZGEtZmFtaWxpYQ==",
+    "orgao": "Prefeitura de Cerrito",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerrito-rs-abre-selecao-para-medico-da-estrategia-de-saude-da-familia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cerrito",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cerrito - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNh",
     "orgao": "Prefeitura de Crissiumal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-o-cargo-de-domestica",
@@ -1423,6 +1438,21 @@
     "data_encerramento": "27/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itaqui - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXF1aW7DqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXF1aW5lLXJzLWFicmUtc2VsZWNvZXMtcGFyYS1wcm9mZXNzb3Jlcy1kZS1oaXN0b3JpYS1lLWNpZW5jaWFz",
+    "orgao": "Prefeitura de Maquiné",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-selecoes-para-professores-de-historia-e-ciencias",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Maquiné",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Maquiné - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJhdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJhdS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZW0tZGl2ZXJzYXMtZGlzY2lwbGluYXM=",
@@ -2040,6 +2070,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1tZWRpY28taW50ZXJ2ZW5jaW9uaXN0YS1lbS1zYW8tbWlndWVsLWRvLW9lc3Rl",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-medico-intervencionista-em-sao-miguel-do-oeste",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkNFRSAtIEZ1bmRhw6fDo28gQ2F0YXJpbmVuc2UgZGUgRWR1Y2HDp8OjbyBFc3BlY2lhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmNlZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0yNi12YWdhcy1lLWNhZGFzdHJvLXJlc2VydmE=",
     "orgao": "FCEE - Fundação Catarinense de Educação Especial",
     "link": "https://www.pciconcursos.com.br/noticias/fcee-sc-abre-processo-seletivo-com-26-vagas-e-cadastro-reserva",
@@ -2428,6 +2473,21 @@
     "data_encerramento": "27/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fraiburgo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHYXJvcGFiYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nYXJvcGFiYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de Garopaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garopaba-sc-abre-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Garopaba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Garopaba - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHYXJ1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FydXZhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb25vYXVkaW9sb2dv",
