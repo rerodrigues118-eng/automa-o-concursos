@@ -360,6 +360,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3Mtbm8tY2FtcHVzLWlyYXRp",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processos-seletivos-para-professores-substitutos-no-campus-irati",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBbHRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWx0by1wYXJhbmEtcHItYWJyZS1jb25jdXJzb3MtcGFyYS1jYXJnb3MtZGUtbml2ZWwtbWVkaW8=",
+    "orgao": "Prefeitura de Alto Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-parana-pr-abre-concursos-para-cargos-de-nivel-medio",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Alto Paraná",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Alto Paraná - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvLWRlLWZhcm1hY2V1dGljby1iaW9xdWltaWNv",
     "orgao": "Prefeitura de Balsa Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-cargo-de-farmaceutico-bioquimico",
@@ -373,6 +403,21 @@
     "data_encerramento": "04/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Balsa Nova - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1iw6lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtYmUtcHItYWJyZS1zZWxlY2FvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAtNi1taWw=",
+    "orgao": "Prefeitura de Cambé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-selecao-com-salarios-de-ate-10-6-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cambé",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cambé - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1waW5hIEdyYW5kZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcGluYS1ncmFuZGUtZG8tc3VsLXByLWFicmUtY29uY3Vyc29zLXB1YmxpY29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTItMi1taWw=",
@@ -433,6 +478,21 @@
     "data_encerramento": "06/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Cianorte - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBEb2lzIFZpemluaG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWRvaXMtdml6aW5ob3MtcHItYWJyZS12YWdhLXBhcmEtYWR2b2dhZG8tY29tLXNhbGFyaW8tZGUtNi00LW1pbA==",
+    "orgao": "Prefeitura de Dois Vizinhos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dois-vizinhos-pr-abre-vaga-para-advogado-com-salario-de-6-4-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Dois Vizinhos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Dois Vizinhos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGbG9yIGRhIFNlcnJhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mbG9yLWRhLXNlcnJhLWRvLXN1bC1wci1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTY0MTY=",
@@ -508,6 +568,21 @@
     "data_encerramento": "10/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Mallet - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJpbmfDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJpbmdhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS02Njcy",
+    "orgao": "Prefeitura de Maringá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maringa-pr-abre-processo-seletivo-com-salarios-de-ate-6672",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Maringá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Maringá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNZXJjZWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tZXJjZWRlcy1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1tb3RvcmlzdGE=",
@@ -840,6 +915,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIENyaXNzaXVtYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1jcmlzc2l1bWFsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2EtcGFyYS1kb21lc3RpY2E=",
+    "orgao": "Câmara de Vereadores de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-crissiumal-rs-abre-processo-seletivo-com-vaga-para-domestica",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Crissiumal - PR"
+  },
+  {
     "id": "Q09OU0lTQSAtIENvbnPDs3JjaW8gSW50ZXJtdW5pY2lwYWwgZGUgU2VydmnDp29zIGRvIFZhbGUgZG8gVGFxdWFyaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29uc2lzYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hZ2VudGUtYWRtaW5pc3RyYXRpdm8=",
     "orgao": "CONSISA - Consórcio Intermunicipal de Serviços do Vale do Taquari",
     "link": "https://www.pciconcursos.com.br/noticias/consisa-rs-abre-concurso-publico-para-agente-administrativo",
@@ -1095,6 +1185,51 @@
     "localizacao": "Bagé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYWfDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWdlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jb3ppbmhlaXJvcw==",
+    "orgao": "Prefeitura de Bagé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bage-rs-abre-processo-seletivo-para-cozinheiros",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bagé",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bagé - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCb20gUmV0aXJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ib20tcmV0aXJvLWRvLXN1bC1ycy1hYnJlLXNlbGVjYW8tcGFyYS10ZWNuaWNvLWVtLWVkaWZpY2Fjb2VzLWUtbWVkaWNvLXBzaXF1aWF0cmE=",
+    "orgao": "Prefeitura de Bom Retiro do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-do-sul-rs-abre-selecao-para-tecnico-em-edificacoes-e-medico-psiquiatra",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bom Retiro do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bom Retiro do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCb3phbm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm96YW5vLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
+    "orgao": "Prefeitura de Bozano",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bozano-rs-abre-selecao-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bozano",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bozano - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYWliYXTDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWliYXRlLXJzLXJldGlmaWNhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNy0zLW1pbA==",
     "orgao": "Prefeitura de Caibaté",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-retifica-concurso-publico-com-salarios-de-ate-17-3-mil",
@@ -1155,6 +1290,21 @@
     "localizacao": "Cerrito - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDb3RpcG9yw6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY290aXBvcmEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lcmVuZGVpcmEtZS1zZWNyZXRhcmlvLWRlLWVzY29sYQ==",
+    "orgao": "Prefeitura de Cotiporã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cotipora-rs-abre-processo-seletivo-para-merendeira-e-secretario-de-escola",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cotiporã",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cotiporã - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNh",
     "orgao": "Prefeitura de Crissiumal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-o-cargo-de-domestica",
@@ -1168,6 +1318,36 @@
     "data_encerramento": "24/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Crissiumal - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1zZWxlY29lcy1jb20tdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcw==",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-selecoes-com-vagas-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hZ2VudGUtY29tdW5pdGFyaW8tZGUtc2F1ZGU=",
+    "orgao": "Prefeitura de Espumoso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-selecao-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Espumoso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Espumoso - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RlaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZXN0ZWlvLXJzLXB1YmxpY2EtcmV0aWZpY2FjYW8tZW0tY29uY3Vyc28tcHVibGljbw==",
@@ -1230,6 +1410,21 @@
     "localizacao": "Herval - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLXBzaWNvcGVkYWdvZ28=",
+    "orgao": "Prefeitura de Igrejinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-processo-seletivo-para-o-cargo-de-psicopedagogo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Igrejinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Igrejinha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtc2VsZWNhby1wYXJhLWEtc2VjcmV0YXJpYS1kZS1vYnJhcy1pbmZyYWVzdHJ1dHVyYS1lLWRlc2Vudm9sdmltZW50by11cmJhbm8tZS1ydXJhbA==",
     "orgao": "Prefeitura de Itaqui",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-abre-selecao-para-a-secretaria-de-obras-infraestrutura-e-desenvolvimento-urbano-e-rural",
@@ -1273,6 +1468,21 @@
     "data_encerramento": "24/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Marau - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXRvIExlaXTDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWF0by1sZWl0YW8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAtNS1taWw=",
+    "orgao": "Prefeitura de Mato Leitão",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mato-leitao-rs-abre-concurso-publico-com-salarios-de-ate-10-5-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mato Leitão",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mato Leitão - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFJvbWEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcm9tYS1kby1zdWwtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEyLTktbWls",
@@ -1361,6 +1571,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pelotas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtby1jYXJnby1kZS1udXRyaWNpb25pc3Rh",
+    "orgao": "Prefeitura de Pelotas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-o-cargo-de-nutricionista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pelotas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pelotas - PR"
   },
@@ -1590,6 +1815,21 @@
     "localizacao": "Victor Graeff - PR"
   },
   {
+    "id": "VUVNQSAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBNYXJhbmjDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VlbWEtYWJyZS1jb25jdXJzb3MtcGFyYS1wcm9mZXNzb3Jlcy1jb20tc2FsYXJpb3MtZGUtMTEyOTQ=",
+    "orgao": "UEMA - Universidade Estadual do Maranhão",
+    "link": "https://www.pciconcursos.com.br/noticias/uema-abre-concursos-para-professores-com-salarios-de-11294",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VUZGUyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRhIEZyb250ZWlyYSBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmZnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tbmEtYXJlYS1kZS1hbmF0b21pYS1odW1hbmEtZW0tcGFzc28tZnVuZG8tcnM=",
     "orgao": "UFFS - Universidade Federal da Fronteira Sul",
     "link": "https://www.pciconcursos.com.br/noticias/uffs-abre-selecao-para-professor-substituto-na-area-de-anatomia-humana-em-passo-fundo-rs",
@@ -1770,6 +2010,21 @@
     "localizacao": "Vereadores - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEl0YXBpcmFuZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1pdGFwaXJhbmdhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTctNS1taWw=",
+    "orgao": "Câmara de Vereadores de Itapiranga",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-itapiranga-sc-abre-concurso-publico-com-salarios-de-ate-7-5-mil",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Itapiranga",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Itapiranga - PR"
+  },
+  {
     "id": "Q1JNViAtIENvbnNlbGhvIFJlZ2lvbmFsIGRlIE1lZGljaW5hIFZldGVyaW7DoXJpYSBkbyBFc3RhZG8gZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NybXYtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTEtMi1taWw=",
     "orgao": "CRMV - Conselho Regional de Medicina Veterinária do Estado de Santa Catarina",
     "link": "https://www.pciconcursos.com.br/noticias/crmv-sc-abre-concurso-publico-com-salarios-de-ate-11-2-mil",
@@ -1841,6 +2096,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "26/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS1hbmFsaXN0YS1kZS1zaXN0ZW1hcy1pLW5vLWNlcG9uLWRlLWZsb3JpYW5vcG9saXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-analista-de-sistemas-i-no-cepon-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1jb29yZGVuYWRvci1kZS1xdWFsaWRhZGUtbm8tY2Vwb24tZGUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-coordenador-de-qualidade-no-cepon-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2143,6 +2428,21 @@
     "data_encerramento": "05/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Campo Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWluc3RydXRvci1lLW9yaWVudGFkb3Itc29jaWFs",
+    "orgao": "Prefeitura de Campos Novos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-processos-seletivos-para-instrutor-e-orientador-social",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Campos Novos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campos Novos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
@@ -2595,6 +2895,21 @@
     "localizacao": "São Miguel do Oeste - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLWFicmUtdmFnYXMtcGFyYS1hc3Npc3RlbnRlLXNvY2lhbC1lLXBzaWNvbG9nby1uYXNm",
+    "orgao": "Prefeitura de Tangará",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tangara-sc-abre-vagas-para-assistente-social-e-psicologo-nasf",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tangará",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tangará - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUaWp1Y2FzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRpanVjYXMtc2MtcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1wcm9jZXNzby1zZWxldGl2bw==",
     "orgao": "Prefeitura de Tijucas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-publica-edital-retificado-de-processo-seletivo",
@@ -2623,6 +2938,21 @@
     "data_encerramento": "13/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Barras - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBYYXZhbnRpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUteGF2YW50aW5hLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTI5LTYtbWls",
+    "orgao": "Prefeitura de Xavantina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xavantina-sc-abre-concurso-publico-com-salarios-de-ate-29-6-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Xavantina",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Xavantina - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgQmFycmEgQm9uaXRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLWJhcnJhLWJvbml0YS1zYy1sYW5jYW0tZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3MtZS1wcm9jZXNzb3Mtc2VsZXRpdm9z",
@@ -2666,6 +2996,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIE9ybGVhbnNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhbWFlLWRlLW9ybGVhbnMtc2MtYWJyZS1jb25jdXJzby1wYXJhLWVuY2FuYWRvci1hdXhpbGlhci1kZS1vcGVyYWNvZXMtZS1zZXJ2ZW50ZQ==",
+    "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Orleans",
+    "link": "https://www.pciconcursos.com.br/noticias/samae-de-orleans-sc-abre-concurso-para-encanador-auxiliar-de-operacoes-e-servente",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
