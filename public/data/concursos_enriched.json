@@ -2418,6 +2418,192 @@
     }
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLW5vLWNhbXB1cy11bXVhcmFtYQ==",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processos-seletivos-com-vagas-para-professores-substitutos-no-campus-umuarama",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão IFPR - Instituto Federal do Paraná."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+IFPR+-+Instituto+Federal+do+Paraná"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+IFPR+-+Instituto+Federal+do+Paraná"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/IFPR+-+Instituto+Federal+do+Paraná"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLW5vLWNhbXB1cy1waW5oYWlz",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-vagas-para-professores-substitutos-no-campus-pinhais",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão IFPR - Instituto Federal do Paraná."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+IFPR+-+Instituto+Federal+do+Paraná"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+IFPR+-+Instituto+Federal+do+Paraná"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/IFPR+-+Instituto+Federal+do+Paraná"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWx0by1wYXJhbmEtcHItYWJyZS1jb25jdXJzb3MtcGFyYS1jYXJnb3MtZGUtbml2ZWwtbWVkaW8=",
     "orgao": "Prefeitura de Alto Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-parana-pr-abre-concursos-para-cargos-de-nivel-medio",
@@ -6510,9 +6696,9 @@
     }
   },
   {
-    "id": "R0hDIC0gR3J1cG8gSG9zcGl0YWxhciBDb25jZWnDp8Ojb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZ3J1cG8taG9zcGl0YWxhci1jb25jZWljYW8tcnMtYWJyZS1zZWxlY29lcy1wYXJhLWRpdmVyc2FzLWFyZWFzLWNvbS1zYWxhcmlvcy1hdGUtMTc2MTc=",
+    "id": "R0hDIC0gR3J1cG8gSG9zcGl0YWxhciBDb25jZWnDp8Ojb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZ3J1cG8taG9zcGl0YWxhci1jb25jZWljYW8tcnMtcHVibGljYS1yZXRpZmljYWNvZXMtZW0tc2VsZWNvZXMtcGFyYS1vLWhvc3BpdGFsLWRlLXBlbG90YXM=",
     "orgao": "GHC - Grupo Hospitalar Conceição",
-    "link": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-abre-selecoes-para-diversas-areas-com-salarios-ate-17617",
+    "link": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-publica-retificacoes-em-selecoes-para-o-hospital-de-pelotas",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -7215,6 +7401,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/IFRS+-+Instituto+Federal+de+Educação,+Ciência+e+Tecnologia+do+Rio+Grande+do+Sul"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBJYmlydWLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1jb250cmF0YWNhby1kZS1kb2NlbnRlcy1zdWJzdGl0dXRvcy1uby1jYW1wdXMtaWJpcnViYQ==",
+    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Ibirubá",
+    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-a-contratacao-de-docentes-substitutos-no-campus-ibiruba",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Ibirubá."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+IFRS+-+Instituto+Federal+de+Educação,+Ciência+e+Tecnologia+do+Rio+Grande+do+Sul+-+Campus+Ibirubá"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+IFRS+-+Instituto+Federal+de+Educação,+Ciência+e+Tecnologia+do+Rio+Grande+do+Sul+-+Campus+Ibirubá"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/IFRS+-+Instituto+Federal+de+Educação,+Ciência+e+Tecnologia+do+Rio+Grande+do+Sul+-+Campus+Ibirubá"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -8184,6 +8463,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gQm9uaXRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBhby1ib25pdG8tZG8tc3VsLXJzLXB1YmxpY2EtZG9pcy1lZGl0YWlzLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3M=",
+    "orgao": "Prefeitura de Capão Bonito do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capao-bonito-do-sul-rs-publica-dois-editais-de-processos-seletivos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Capão Bonito do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capão Bonito do Sul - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Capão Bonito do Sul."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Capão+Bonito+do+Sul"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Capão+Bonito+do+Sul"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Capão+Bonito+do+Sul"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDZXJyaXRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNlcnJpdG8tcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZWR1Y2Fkb3ItZmlzaWNvLWUtZm9ub2F1ZGlvbG9nbw==",
     "orgao": "Prefeitura de Cerrito",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerrito-rs-abre-processos-seletivos-para-educador-fisico-e-fonoaudiologo",
@@ -8331,6 +8703,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Cerrito"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDZXJybyBHcmFuZGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2Vycm8tZ3JhbmRlLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "Prefeitura de Cerro Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-grande-rs-abre-selecao-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cerro Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cerro Grande - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Cerro Grande."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Cerro+Grande"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Cerro+Grande"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Cerro+Grande"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -9579,6 +10044,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIENhbmRlbMOhcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtY2FuZGVsYXJpYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1lbmZlcm1laXJvLWUtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Nova Candelária",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-candelaria-rs-abre-selecao-para-enfermeiro-e-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Candelária",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Candelária - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Nova Candelária."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Nova+Candelária"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Nova+Candelária"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Nova+Candelária"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFJvbWEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcm9tYS1kby1zdWwtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEyLTktbWls",
     "orgao": "Prefeitura de Nova Roma do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-roma-do-sul-rs-retifica-concurso-publico-com-salarios-de-ate-12-9-mil",
@@ -10416,6 +10974,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQcm9ncmVzc29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcHJvZ3Jlc3NvLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE4NTAw",
+    "orgao": "Prefeitura de Progresso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-progresso-rs-abre-concurso-publico-com-salarios-de-ate-18500",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Progresso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Progresso - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Progresso."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Progresso"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Progresso"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Progresso"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBRdWV2ZWRvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWV2ZWRvcy1ycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOC05LW1pbA==",
     "orgao": "Prefeitura de Quevedos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quevedos-rs-retifica-concurso-publico-com-salarios-de-ate-8-9-mil",
@@ -10563,6 +11214,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Quevedos"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBWaXTDs3JpYSBkbyBQYWxtYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGEtdml0b3JpYS1kby1wYWxtYXItcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTctOC1taWw=",
+    "orgao": "Prefeitura de Santa Vitória do Palmar",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-vitoria-do-palmar-rs-retifica-concurso-publico-com-salarios-de-ate-7-8-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Vitória do Palmar",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Vitória do Palmar - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Santa Vitória do Palmar."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Santa+Vitória+do+Palmar"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Santa+Vitória+do+Palmar"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Santa+Vitória+do+Palmar"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -11980,6 +12724,285 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1ib3Jpw7podHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtYm9yaXUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTE1LTktbWls",
+    "orgao": "Prefeitura de Camboriú",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-camboriu-sc-abre-processo-seletivo-com-salarios-de-ate-15-9-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Camboriú",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Camboriú - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Camboriú."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Camboriú"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Camboriú"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Camboriú"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1ib3Jpw7ogZSBDYW1ib3Jpw7pQcmV2aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNhbWJvcml1LWUtY2FtYm9yaXVwcmV2LXNjLWFicmVtLWNvbmN1cnNvcy1wdWJsaWNvcy1jb20tZGl2ZXJzYXMtdmFnYXM=",
+    "orgao": "Prefeitura de Camboriú e CamboriúPrev",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-camboriu-e-camboriuprev-sc-abrem-concursos-publicos-com-diversas-vagas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Camboriú",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Camboriú - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Camboriú e CamboriúPrev."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Camboriú+e+CamboriúPrev"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Camboriú+e+CamboriúPrev"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Camboriú+e+CamboriúPrev"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLXJldGlmaWNhLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLW5hLWFyZWEtZGEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Joinville",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-retifica-concurso-publico-com-vagas-na-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Joinville",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Joinville - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Joinville."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Joinville"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Joinville"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Joinville"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",
@@ -14973,192 +15996,6 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1ib3Jpw7podHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtYm9yaXUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTE1LTktbWls",
-    "orgao": "Prefeitura de Camboriú",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-camboriu-sc-abre-processo-seletivo-com-salarios-de-ate-15-9-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Camboriú",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "29/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Camboriú - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Camboriú."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Camboriú"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Camboriú"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Camboriú"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1ib3Jpw7ogZSBDYW1ib3Jpw7pQcmV2aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNhbWJvcml1LWUtY2FtYm9yaXVwcmV2LXNjLWFicmVtLWNvbmN1cnNvcy1wdWJsaWNvcy1jb20tZGl2ZXJzYXMtdmFnYXM=",
-    "orgao": "Prefeitura de Camboriú e CamboriúPrev",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-camboriu-e-camboriuprev-sc-abrem-concursos-publicos-com-diversas-vagas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Camboriú",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Camboriú - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Camboriú e CamboriúPrev."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Camboriú+e+CamboriúPrev"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Camboriú+e+CamboriúPrev"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Camboriú+e+CamboriúPrev"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYWxlZ3JlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMi1taWw=",
     "orgao": "Prefeitura de Campo Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-sc-abre-processo-seletivo-com-salarios-de-ate-12-mil",
@@ -17112,99 +17949,6 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtbmEtYXJlYS1kYS1lZHVjYWNhbw==",
-    "orgao": "Prefeitura de Joinville",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-abre-concurso-publico-com-vagas-na-area-da-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Joinville",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Joinville - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Joinville."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Joinville"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Joinville"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Joinville"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNaXJpbSBEb2NlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1pcmltLWRvY2Utc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtY2FkYXN0cm8tcmVzZXJ2YS1lbS1kaXZlcnNvcy1jYXJnb3M=",
     "orgao": "Prefeitura de Mirim Doce",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirim-doce-sc-abre-processos-seletivos-para-cadastro-reserva-em-diversos-cargos",
@@ -17631,6 +18375,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Princesa"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50aWFnbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGlhZ28tZG8tc3VsLXNjLXByb3Jyb2dhLWluc2NyaWNvZXMtZGUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wc2ljb2xvZ28=",
+    "orgao": "Prefeitura de Santiago do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santiago-do-sul-sc-prorroga-inscricoes-de-processo-seletivo-para-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santiago do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santiago do Sul - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Santiago do Sul."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Santiago+do+Sul"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Santiago+do+Sul"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Santiago+do+Sul"
         },
         {
           "titulo": "Banco de Questões Comentadas",
