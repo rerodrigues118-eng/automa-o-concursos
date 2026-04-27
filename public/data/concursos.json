@@ -210,6 +210,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFTTU8gLSBGdW5kYcOnw6NvIGRlIEF0ZW7Dp8OjbyDDoCBTYcO6ZGUgZGUgTW9ycmV0ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Zhc21vLWRlLW1vcnJldGVzLXByLWFicmUtc2VsZWNhby1wYXJhLW1lZGljb3MtcGVkaWF0cmFzLWUtcHNpcXVpYXRyYXM=",
+    "orgao": "FASMO - Fundação de Atenção à Saúde de Morretes",
+    "link": "https://www.pciconcursos.com.br/noticias/fasmo-de-morretes-pr-abre-selecao-para-medicos-pediatras-e-psiquiatras",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLXJlc2VydmEtZGUtYWdlbnRlLXRlbXBvcmFyaW8tYW1iaWVudGFs",
     "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-pr-abre-processo-seletivo-para-formacao-de-cadastro-reserva-de-agente-temporario-ambiental",
@@ -390,9 +405,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBbHRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWx0by1wYXJhbmEtcHItYWJyZS1jb25jdXJzb3MtcGFyYS1jYXJnb3MtZGUtbml2ZWwtbWVkaW8=",
+    "id": "UHJlZmVpdHVyYSBkZSBBbHRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWx0by1wYXJhbmEtcHItcHJvcnJvZ2EtaW5zY3JpY29lcy1kZS1jb25jdXJzb3MtcGFyYS1jYXJnb3MtZGUtbml2ZWwtbWVkaW8=",
     "orgao": "Prefeitura de Alto Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-parana-pr-abre-concursos-para-cargos-de-nivel-medio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-parana-pr-prorroga-inscricoes-de-concursos-para-cargos-de-nivel-medio",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Alto Paraná",
@@ -463,6 +478,21 @@
     "data_encerramento": "12/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Campina Grande do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXBpdMOjbyBMZcO0bmlkYXMgTWFycXVlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBpdGFvLWxlb25pZGFzLW1hcnF1ZXMtcHItYWJyZS0yMC12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Capitão Leônidas Marques",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capitao-leonidas-marques-pr-abre-20-vagas-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Capitão Leônidas Marques",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capitão Leônidas Marques - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXRhbmR1dmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNhdGFuZHV2YXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjctMS1taWw=",
@@ -915,6 +945,21 @@
     "localizacao": "Vereadores de Crissiumal - PR"
   },
   {
+    "id": "Q09JUyAtIENvbnPDs3JjaW8gSW50ZXJtdW5pY2lwYWwgZGUgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb2lzLWRlLXNhby1sdWl6LWdvbnphZ2EtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYS1wYXJhLXBzaWNvbG9nbw==",
+    "orgao": "COIS - Consórcio Intermunicipal de Saúde",
+    "link": "https://www.pciconcursos.com.br/noticias/cois-de-sao-luiz-gonzaga-rs-abre-processo-seletivo-com-vaga-para-psicologo",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q09OU0lTQSAtIENvbnPDs3JjaW8gSW50ZXJtdW5pY2lwYWwgZGUgU2VydmnDp29zIGRvIFZhbGUgZG8gVGFxdWFyaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29uc2lzYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hZ2VudGUtYWRtaW5pc3RyYXRpdm8=",
     "orgao": "CONSISA - Consórcio Intermunicipal de Serviços do Vale do Taquari",
     "link": "https://www.pciconcursos.com.br/noticias/consisa-rs-abre-concurso-publico-para-agente-administrativo",
@@ -1080,9 +1125,39 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItdmlzaXRhbnRlLW5hLWFyZWEtZGUtZ2VvZ3JhZmlhLW5vLWNhbXB1cy1mZWxpeg==",
+    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Feliz",
+    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-selecao-para-professor-visitante-na-area-de-geografia-no-campus-feliz",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBJYmlydWLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1jb250cmF0YWNhby1kZS1kb2NlbnRlcy1zdWJzdGl0dXRvcy1uby1jYW1wdXMtaWJpcnViYQ==",
     "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Ibirubá",
     "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-a-contratacao-de-docentes-substitutos-no-campus-ibiruba",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBJYmlydWLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItdmlzaXRhbnRlLWRlLW1hdGVtYXRpY2Etbm8tY2FtcHVzLWliaXJ1YmE=",
+    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Ibirubá",
+    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-selecao-para-professor-visitante-de-matematica-no-campus-ibiruba",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Várias",
@@ -1113,6 +1188,21 @@
     "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1wZWRhZ29naWEtbm8tY2FtcHVzLWNoYXJxdWVhZGFz",
     "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
     "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-de-pedagogia-no-campus-charqueadas",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1tYXRlbWF0aWNhLWVtLXNhcHVjYWlhLWRvLXN1bA==",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-de-matematica-em-sapucaia-do-sul",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Várias",
@@ -1350,6 +1440,21 @@
     "localizacao": "Crissiumal - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1lZHVjYWNhby1pbmZhbnRpbA==",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-professor-de-educacao-infantil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hZ2VudGUtY29tdW5pdGFyaW8tZGUtc2F1ZGU=",
     "orgao": "Prefeitura de Espumoso",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-selecao-para-agente-comunitario-de-saude",
@@ -1391,6 +1496,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fagundes Varela - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGYWd1bmRlcyBWYXJlbGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZmFndW5kZXMtdmFyZWxhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLW1lcmVuZGVpcmE=",
+    "orgao": "Prefeitura de Fagundes Varela",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fagundes-varela-rs-abre-processo-seletivo-para-o-cargo-de-merendeira",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fagundes Varela",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fagundes Varela - PR"
   },
@@ -1438,6 +1558,21 @@
     "data_encerramento": "14/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Igrejinha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJbmRlcGVuZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbmRlcGVuZGVuY2lhLXJzLWFicmUtc2VsZWNhby1wYXJhLW1vbml0b3Jlcy1lLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Independência",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-independencia-rs-abre-selecao-para-monitores-e-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Independência",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Independência - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtc2VsZWNhby1wYXJhLWEtc2VjcmV0YXJpYS1kZS1vYnJhcy1pbmZyYWVzdHJ1dHVyYS1lLWRlc2Vudm9sdmltZW50by11cmJhbm8tZS1ydXJhbA==",
@@ -1665,6 +1800,21 @@
     "localizacao": "Quevedos - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtby1jYXJnby1kZS1tb3RvcmlzdGE=",
+    "orgao": "Prefeitura de Rio Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-selecao-para-o-cargo-de-motorista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Grande - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtdmFnYXMtcGFyYS1pbnN0cnV0b3ItZWR1Y2FjaW9uYWwtbmEtYXJlYS1kZS1lZHVjYWNhby1maXNpY2E=",
     "orgao": "Prefeitura de Santo Antônio da Patrulha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-vagas-para-instrutor-educacional-na-area-de-educacao-fisica",
@@ -1770,6 +1920,21 @@
     "localizacao": "Silveira Martins - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbHZlaXJhLW1hcnRpbnMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLXRlY25pY28tZW0taW5mb3JtYXRpY2E=",
+    "orgao": "Prefeitura de Silveira Martins",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-silveira-martins-rs-abre-selecao-para-agente-tecnico-em-informatica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Silveira Martins",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Silveira Martins - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9yb3BpLXJzLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvbm9hdWRpb2xvZ28=",
     "orgao": "Prefeitura de Toropi",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toropi-rs-abre-vaga-em-processo-seletivo-para-fonoaudiologo",
@@ -1813,6 +1978,21 @@
     "data_encerramento": "29/04/2026",
     "status": "Inscrições abertas",
     "localizacao": "Toropi - PR"
+  },
+  {
+    "id": "U01BUCAtIFNlY3JldGFyaWEgTXVuaWNpcGFsIGRlIEFkbWluaXN0cmHDp8OjbyBlIFBhdHJpbcO0bmlvIGRlIFBvcnRvIEFsZWdyZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wb3J0by1hbGVncmUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "SMAP - Secretaria Municipal de Administração e Patrimônio de Porto Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-selecao-para-professores",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "VUZSR1MgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdWZyZ3MtcnMtYWJyZS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtNi0xLW1pbA==",
@@ -2233,6 +2413,21 @@
     "data_encerramento": "06/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Antônio Carlos - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBcGnDum5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFwaXVuYS1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTctNy1taWw=",
+    "orgao": "Prefeitura de Apiúna",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiuna-sc-abre-concurso-com-salarios-de-ate-17-7-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Apiúna",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Apiúna - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYW5kZWlyYW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYW5kZWlyYW50ZS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01LTQtbWls",
