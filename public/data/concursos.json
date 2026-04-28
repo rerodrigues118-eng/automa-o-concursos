@@ -405,6 +405,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWVkdWNhY2FvLWVzcGVjaWFsLWVtLWFzc2lzLWNoYXRlYXVicmlhbmQ=",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professor-substituto-de-educacao-especial-em-assis-chateaubriand",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWVkdWNhY2FvLWVzcGVjaWFsLWVtLXBpdGFuZ2E=",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professor-substituto-de-educacao-especial-em-pitanga",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWx0by1wYXJhbmEtcHItcHJvcnJvZ2EtaW5zY3JpY29lcy1kZS1jb25jdXJzb3MtcGFyYS1jYXJnb3MtZGUtbml2ZWwtbWVkaW8=",
     "orgao": "Prefeitura de Alto Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-parana-pr-prorroga-inscricoes-de-concursos-para-cargos-de-nivel-medio",
@@ -415,7 +445,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
+    "data_encerramento": "26/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alto Paraná - PR"
   },
@@ -433,6 +463,21 @@
     "data_encerramento": "04/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Balsa Nova - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCZWxhIFZpc3RhIGRhIENhcm9iYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iZWxhLXZpc3RhLWRhLWNhcm9iYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00LTItbWls",
+    "orgao": "Prefeitura de Bela Vista da Caroba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-da-caroba-pr-abre-concurso-publico-com-salarios-de-ate-4-2-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bela Vista da Caroba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bela Vista da Caroba - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb3JyYXrDs3BvbGlzIFBhbmNob25odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9ycmF6b3BvbGlzLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIxLTgtbWls",
@@ -1650,6 +1695,21 @@
     "localizacao": "Nova Roma do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIENhYnJhaXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1jYWJyYWlzLXJzLWFicmUtc2VsZWNhby1wYXJhLWEtc2VjcmV0YXJpYS1tdW5pY2lwYWwtZGUtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Novo Cabrais",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-selecao-para-a-secretaria-municipal-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Cabrais",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Cabrais - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYW50YW5vIEdyYW5kZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYW50YW5vLWdyYW5kZS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtY2llbmNpYXM=",
     "orgao": "Prefeitura de Pantano Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pantano-grande-rs-abre-selecao-para-professor-de-ciencias",
@@ -1991,6 +2051,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/04/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZGUyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRhIEZyb250ZWlyYSBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmZnMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtcHJvZmVzc29yLXN1YnN0aXR1dG8tbmEtYXJlYS1kZS1wc2ljb2xvZ2lh",
+    "orgao": "UFFS - Universidade Federal da Fronteira Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/uffs-rs-abre-processo-seletivo-para-o-cargo-de-professor-substituto-na-area-de-psicologia",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2385,6 +2460,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tbmEtYXJlYS1kZS1jb250cm9sZS1lLWF1dG9tYWNhby1lbS1sdXplcm5h",
+    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-na-area-de-controle-e-automacao-em-luzerna",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SW52ZXN0U0MgLSBJbnZlc3QgU2FudGEgQ2F0YXJpbmEgUGFyY2VyaWFzIGUgTmVnw7NjaW9zIEVzdHJhdMOpZ2ljb3MgUy5BLmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW52ZXN0c2Mtc2MtcHVibGljYS1yZXRpZmljYWNhby1lbS1jb25jdXJzby1jb20tMTAtdmFnYXM=",
     "orgao": "InvestSC - Invest Santa Catarina Parcerias e Negócios Estratégicos S.A.",
     "link": "https://www.pciconcursos.com.br/noticias/investsc-sc-publica-retificacao-em-concurso-com-10-vagas",
@@ -2608,6 +2698,21 @@
     "data_encerramento": "04/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Grão Pará - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHcsOjby1QYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmFvLXBhcmEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWRlLXF1aW1pY2EtZS1maXNpY2E=",
+    "orgao": "Prefeitura de Grão-Pará",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-grao-para-sc-abre-processo-seletivo-para-professores-de-quimica-e-fisica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Grão",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Grão - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHcmF2YXRhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmF2YXRhbC1zYy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLWFzc2lzdGVudGUtc29jaWFsLWUtZW5mZXJtZWlybw==",
@@ -2908,6 +3013,21 @@
     "data_encerramento": "13/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Barras - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUdW7DoXBvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXR1bmFwb2xpcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01LTQtbWls",
+    "orgao": "Prefeitura de Tunápolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tunapolis-sc-abre-concurso-publico-com-salarios-de-ate-5-4-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tunápolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tunápolis - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBYYXZhbnRpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUteGF2YW50aW5hLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTI5LTYtbWls",
