@@ -2295,6 +2295,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS10ZW1wb3JhcmlvLWFtYmllbnRhbC1lbS1ndWF0YW1idQ==",
+    "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sc-abre-processo-seletivo-para-agente-temporario-ambiental-em-guatambu",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1tYXRlbWF0aWNhLWVtLWJsdW1lbmF1",
     "orgao": "IFC - Instituto Federal Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-de-matematica-em-blumenau",
@@ -2878,6 +2893,21 @@
     "data_encerramento": "27/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tunápolis - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBVcnVwZW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXVydXBlbWEtc2MtYWJyZS1jb25jdXJzby1wYXJhLWNhZGFzdHJvLXJlc2VydmEtZW0tZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de Urupema",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urupema-sc-abre-concurso-para-cadastro-reserva-em-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Urupema",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Urupema - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBYYXZhbnRpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUteGF2YW50aW5hLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTI5LTYtbWls",
