@@ -1,5 +1,20 @@
 [
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDdXJpdGliYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdXJpdGliYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1ub3ZlLXZhZ2FzLXBhcmEtZW5nZW5oZWlyby1jaXZpbA==",
+    "orgao": "Prefeitura de Curitiba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitiba-pr-abre-processo-seletivo-com-nove-vagas-para-engenheiro-civil",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "VUZQUiAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtY2FyZ29zLXRlY25pY28tYWRtaW5pc3RyYXRpdm9z",
     "orgao": "UFPR - Universidade Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/ufpr-abre-concurso-publico-para-cargos-tecnico-administrativos",
@@ -525,6 +540,21 @@
     "localizacao": "Andirá - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBbmRpcsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFuZGlyYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS12ZXRlcmluYXJpbw==",
+    "orgao": "Prefeitura de Andirá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andira-pr-abre-processo-seletivo-para-o-cargo-de-veterinario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Andirá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Andirá - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvLWRlLWZhcm1hY2V1dGljby1iaW9xdWltaWNv",
     "orgao": "Prefeitura de Balsa Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-cargo-de-farmaceutico-bioquimico",
@@ -780,6 +810,21 @@
     "localizacao": "Maringá - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxvdGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYWxvdGluYS1wci1hYnJlLXNlbGVjYW8tcGFyYS1vLWNhcmdvLWRlLW1lcmVuZGVpcm8=",
+    "orgao": "Prefeitura de Palotina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palotina-pr-abre-selecao-para-o-cargo-de-merendeiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palotina",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palotina - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYXRvIEJyYW5jb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXRvLWJyYW5jby1wci1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Pato Branco",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pato-branco-pr-abre-concurso-com-vagas-para-professores",
@@ -793,6 +838,21 @@
     "data_encerramento": "21/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pato Branco - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXVsYSBGcmVpdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhdWxhLWZyZWl0YXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTUtNi1taWw=",
+    "orgao": "Prefeitura de Paula Freitas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paula-freitas-pr-abre-concurso-publico-com-salarios-de-ate-15-6-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paula Freitas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paula Freitas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQbGFuYWx0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wbGFuYWx0by1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHNpY29sb2dvLWUtYXNzaXN0ZW50ZS1zb2NpYWw=",
@@ -898,6 +958,21 @@
     "data_encerramento": "12/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ubiratã - PR"
+  },
+  {
+    "id": "VUZQUiAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmcHItYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbWljcm9iaW9sb2dpYS1lLWdlbmV0aWNhLWVtLXRvbGVkbw==",
+    "orgao": "UFPR - Universidade Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ufpr-abre-selecao-para-professor-substituto-de-microbiologia-e-genetica-em-toledo",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1jb25jdXJzby1wYXJhLXByb2Zlc3NvcmVzLWRlLW1lZGljaW5hLWNvbS1zYWxhcmlvcy1kZS1hdGUtOC1taWw=",
@@ -1140,6 +1215,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLXRlbXBvcmFyaW8tYW1iaWVudGFsLW5hLWZsb3Jlc3RhLW5hY2lvbmFsLWRlLWNhbmVsYQ==",
+    "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-rs-abre-selecao-para-agente-temporario-ambiental-na-floresta-nacional-de-canela",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItdmlzaXRhbnRlLW5hLWFyZWEtZGUtZ2VvZ3JhZmlhLW5vLWNhbXB1cy1mZWxpeg==",
     "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Feliz",
     "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-selecao-para-professor-visitante-na-area-de-geografia-no-campus-feliz",
@@ -1316,6 +1406,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "06/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capão Bonito do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gQm9uaXRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBhby1ib25pdG8tZG8tc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtc2VyaWVzLWluaWNpYWlz",
+    "orgao": "Prefeitura de Capão Bonito do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capao-bonito-do-sul-rs-abre-processo-seletivo-para-professor-de-series-iniciais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Capão Bonito do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Capão Bonito do Sul - PR"
   },
@@ -1950,6 +2055,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VU5JUEFNUEEgLSBGdW5kYcOnw6NvIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRvIFBhbXBhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91bmlwYW1wYS1ycy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "UNIPAMPA - Fundação Universidade Federal do Pampa",
+    "link": "https://www.pciconcursos.com.br/noticias/unipampa-rs-abre-concurso-com-vagas-para-professores",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1ib3Jpw7ogZSBDYW1ib3Jpw7pQcmV2aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNhbWJvcml1LWUtY2FtYm9yaXVwcmV2LXNjLWFicmVtLWNvbmN1cnNvcy1wdWJsaWNvcy1jb20tZGl2ZXJzYXMtdmFnYXM=",
     "orgao": "Prefeitura de Camboriú e CamboriúPrev",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-camboriu-e-camboriuprev-sc-abrem-concursos-publicos-com-diversas-vagas",
@@ -2130,6 +2250,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXZhZ2EtZGUtbml2ZWwtc3VwZXJpb3ItcGFyYS1vLWhlbW9zYy1kZS1mbG9yaWFub3BvbGlz",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-nivel-superior-para-o-hemosc-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXZhZ2EtcGFyYS10ZWNuaWNvLWRlLWVuZmVybWFnZW0tZW0tYmx1bWVuYXU=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-de-enfermagem-em-blumenau",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Rk1DIC0gRnVuZGHDp8OjbyBNdW5pY2lwYWwgZGUgQ3VsdHVyYSBkZSBCb21iaW5oYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Z1bmRhY2FvLW11bmljaXBhbC1kZS1jdWx0dXJhLWRlLWJvbWJpbmhhcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNC0xLW1pbA==",
     "orgao": "FMC - Fundação Municipal de Cultura de Bombinhas",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-municipal-de-cultura-de-bombinhas-sc-abre-processo-seletivo-com-salarios-de-ate-4-1-mil",
@@ -2190,6 +2340,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS10ZW1wb3JhcmlvLWFtYmllbnRhbC1lbS1jYWNhZG9y",
+    "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-sc-abre-processo-seletivo-para-agente-temporario-ambiental-em-cacador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1tYXRlbWF0aWNhLWVtLWJsdW1lbmF1",
     "orgao": "IFC - Instituto Federal Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-de-matematica-em-blumenau",
@@ -2246,6 +2411,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "14/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtaW5mb3JtYXRpY2EtZW0tY2FtYm9yaXU=",
+    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-de-informatica-em-camboriu",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtcHJvZmVzc29yZXMtZGUtbWVkaWNpbmEtdmV0ZXJpbmFyaWEtbm8tY2FtcHVzLWNvbmNvcmRpYQ==",
+    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processos-seletivos-para-professores-de-medicina-veterinaria-no-campus-concordia",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2685,6 +2880,21 @@
     "localizacao": "São Carlos - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1hcnRpbmhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1tYXJ0aW5oby1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01LTEtbWls",
+    "orgao": "Prefeitura de São Martinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-martinho-sc-abre-concurso-publico-com-salarios-de-ate-5-1-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Martinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Martinho - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWUtbW90b3Jpc3Rhcw==",
     "orgao": "Prefeitura de São Miguel do Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-abre-selecao-para-professores-e-motoristas",
@@ -2743,6 +2953,21 @@
     "data_encerramento": "27/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tunápolis - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBVcnViaWNpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXVydWJpY2ktc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTIwLTctbWls",
+    "orgao": "Prefeitura de Urubici",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urubici-sc-abre-processo-seletivo-com-salarios-de-ate-20-7-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Urubici",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Urubici - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVcnVwZW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXVydXBlbWEtc2MtYWJyZS1jb25jdXJzby1wYXJhLWNhZGFzdHJvLXJlc2VydmEtZW0tZGl2ZXJzb3MtY2FyZ29z",
