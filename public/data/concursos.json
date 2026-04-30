@@ -1605,6 +1605,36 @@
     "localizacao": "Nova Candelária - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFByYXRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcHJhdGEtcnMtYWJyZS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLWUtbW9uaXRvcmVz",
+    "orgao": "Prefeitura de Nova Prata",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-abre-vagas-para-professores-e-monitores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Prata",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Prata - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFByYXRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcHJhdGEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW9kb250b2xvZ28=",
+    "orgao": "Prefeitura de Nova Prata",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-abre-processo-seletivo-para-odontologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Prata",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Prata - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFJvbWEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcm9tYS1kby1zdWwtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEyLTktbWls",
     "orgao": "Prefeitura de Nova Roma do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-roma-do-sul-rs-retifica-concurso-publico-com-salarios-de-ate-12-9-mil",
@@ -1918,6 +1948,21 @@
     "data_encerramento": "04/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Valério do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFZlbmRlbGlub2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tdmVuZGVsaW5vLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTgtOC1taWw=",
+    "orgao": "Prefeitura de São Vendelino",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vendelino-rs-abre-concurso-publico-com-salarios-de-ate-8-8-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Vendelino",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Vendelino - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYXJhbmRpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhcmFuZGktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNC01LW1pbA==",
@@ -2565,6 +2610,21 @@
     "localizacao": "Garuva - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHYXNwYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FzcGFyLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMy1taWw=",
+    "orgao": "Prefeitura de Gaspar",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gaspar-sc-abre-processo-seletivo-com-salarios-de-ate-23-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gaspar",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gaspar - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHcsOjbyBQYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmFvLXBhcmEtc2MtYWJyZS10cmVzLWNvbmN1cnNvcy1wdWJsaWNvcy1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
     "orgao": "Prefeitura de Grão Pará",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-grao-para-sc-abre-tres-concursos-publicos-para-diversos-cargos",
@@ -2951,6 +3011,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "21/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIFVydXNzYW5nYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvc2FtYWUtZGUtdXJ1c3NhbmdhLXNjLWFicmUtY29uY3Vyc28tY29tLTEyLXZhZ2FzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Urussanga",
+    "link": "https://www.pciconcursos.com.br/noticias/samae-de-urussanga-sc-abre-concurso-com-12-vagas-e-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
