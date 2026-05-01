@@ -1545,6 +1545,21 @@
     "localizacao": "Igrejinha - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJbWLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJlLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXM=",
+    "orgao": "Prefeitura de Imbé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-abre-selecao-para-cadastro-reserva-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Imbé",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Imbé - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJbmRlcGVuZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbmRlcGVuZGVuY2lhLXJzLWFicmUtc2VsZWNhby1wYXJhLW1vbml0b3Jlcy1lLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Independência",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-independencia-rs-abre-selecao-para-monitores-e-professores",
@@ -1603,6 +1618,21 @@
     "data_encerramento": "17/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Mato Leitão - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZXV0ZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9ycm8tcmV1dGVyLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTUtOC1taWw=",
+    "orgao": "Prefeitura de Morro Reuter",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-reuter-rs-abre-concurso-publico-com-salarios-de-ate-5-8-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Morro Reuter",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Morro Reuter - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIENhbmRlbMOhcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtY2FuZGVsYXJpYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1lbmZlcm1laXJvLWUtcHJvZmVzc29yZXM=",
@@ -2833,6 +2863,21 @@
     "data_encerramento": "07/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Princesa - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtdmFnYXMtbmEtYXJlYS1kYS1zYXVkZS1jb20tc2FsYXJpb3MtZGUtYXRlLTYxNTg=",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-vagas-na-area-da-saude-com-salarios-de-ate-6158",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50aWFnbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGlhZ28tZG8tc3VsLXNjLXByb3Jyb2dhLWluc2NyaWNvZXMtZGUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wc2ljb2xvZ28=",
