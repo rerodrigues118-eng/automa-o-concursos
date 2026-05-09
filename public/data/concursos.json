@@ -1410,6 +1410,36 @@
     "localizacao": "Feliz - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaGVydmFsLXJzLXJlYWJyZS1pbnNjcmljb2VzLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNv",
+    "orgao": "Prefeitura de Herval",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-rs-reabre-inscricoes-de-processo-seletivo-para-medico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Herval",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Herval - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaGVydmFsLXJzLXJlYWJyZS1pbnNjcmljYW8tcGFyYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNC1taWw=",
+    "orgao": "Prefeitura de Herval",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-rs-reabre-inscricao-para-concurso-publico-com-salarios-de-ate-4-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Herval",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Herval - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLXBzaWNvcGVkYWdvZ28=",
     "orgao": "Prefeitura de Igrejinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-processo-seletivo-para-o-cargo-de-psicopedagogo",
