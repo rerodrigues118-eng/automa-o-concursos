@@ -135,21 +135,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "QUZBIC0gQWNhZGVtaWEgZGEgRm9yw6dhIEHDqXJlYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1hYnJlLWV4YW1lLWRlLWFkbWlzc2FvLXBhcmEtb2ZpY2lhaXMtYXZpYWRvcmVzLWludGVuZGVudGVzLWUtZGUtaW5mYW50YXJpYQ==",
-    "orgao": "AFA - Academia da Força Aérea",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-abre-exame-de-admissao-para-oficiais-aviadores-intendentes-e-de-infantaria",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "27/04/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "RVNBIC0gRXNjb2xhIGRlIFNhcmdlbnRvcyBkYXMgQXJtYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2V4ZXJjaXRvLWJyYXNpbGVpcm8tY29uY3Vyc28tbmFjaW9uYWwtYWJyZS0xMTAwLXZhZ2FzLXBhcmEtY3Vyc29zLWRlLWZvcm1hY2FvLWRlLXNhcmdlbnRvcw==",
     "orgao": "ESA - Escola de Sargentos das Armas",
     "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-concurso-nacional-abre-1100-vagas-para-cursos-de-formacao-de-sargentos",
@@ -330,21 +315,6 @@
     "localizacao": "Reserva - PR"
   },
   {
-    "id": "RkFTTU8gLSBGdW5kYcOnw6NvIGRlIEF0ZW7Dp8OjbyDDoCBTYcO6ZGUgZGUgTW9ycmV0ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Zhc21vLWRlLW1vcnJldGVzLXByLWFicmUtc2VsZWNhby1wYXJhLW1lZGljb3MtcGVkaWF0cmFzLWUtcHNpcXVpYXRyYXM=",
-    "orgao": "FASMO - Fundação de Atenção à Saúde de Morretes",
-    "link": "https://www.pciconcursos.com.br/noticias/fasmo-de-morretes-pr-abre-selecao-para-medicos-pediatras-e-psiquiatras",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLXJlc2VydmEtZGUtYWdlbnRlLXRlbXBvcmFyaW8tYW1iaWVudGFs",
     "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-pr-abre-processo-seletivo-para-formacao-de-cadastro-reserva-de-agente-temporario-ambiental",
@@ -431,21 +401,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "15/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWVkdWNhY2FvLWVzcGVjaWFsLWVtLXBpdGFuZ2E=",
-    "orgao": "IFPR - Instituto Federal do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professor-substituto-de-educacao-especial-em-pitanga",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -643,21 +598,6 @@
     "data_encerramento": "25/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Borrazópolis Panchon - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1waW5hIEdyYW5kZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcGluYS1ncmFuZGUtZG8tc3VsLXByLWFicmUtY29uY3Vyc29zLXB1YmxpY29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTItMi1taWw=",
-    "orgao": "Prefeitura de Campina Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campina-grande-do-sul-pr-abre-concursos-publicos-com-salarios-de-ate-12-2-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Campina Grande do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Campina Grande do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDb2xvbWJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbG9tYm8tcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
@@ -913,36 +853,6 @@
     "data_encerramento": "18/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Terra Boa - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBVYmlyYXTDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS11YmlyYXRhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLTMwLXZhZ2FzLXBhcmEtcHJvZmVzc29yZXM=",
-    "orgao": "Prefeitura de Ubiratã",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ubirata-pr-abre-processo-seletivo-com-30-vagas-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ubiratã",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ubiratã - PR"
-  },
-  {
-    "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tbmEtYXJlYS1kZS1jaWVuY2lhLXBvbGl0aWNh",
-    "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
-    "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-vaga-para-professor-substituto-na-area-de-ciencia-politica",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3M=",
@@ -1320,21 +1230,6 @@
     "localizacao": "Cotiporã - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhLXBhcmEtYXRlbmRlbnRlLWRlLWZhcm1hY2lh",
-    "orgao": "Prefeitura de Crissiumal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vaga-para-atendente-de-farmacia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Crissiumal",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Crissiumal - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtc3VwZXJ2aXNvcg==",
     "orgao": "Prefeitura de Crissiumal",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-o-cargo-de-supervisor",
@@ -1468,21 +1363,6 @@
     "data_encerramento": "27/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Igrejinha - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJanXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1panVpLXJzLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZW0tdG9wb2dyYWZpYQ==",
-    "orgao": "Prefeitura de Ijuí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ijui-rs-abre-selecao-para-tecnico-em-topografia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ijuí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ijuí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
@@ -1918,21 +1798,6 @@
     "data_encerramento": "14/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tupandi - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBWaWNlbnRlIER1dHJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY2VudGUtZHV0cmEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de Vicente Dutra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicente-dutra-rs-abre-selecao-para-formacao-de-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vicente Dutra",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vicente Dutra - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWaWxhIE5vdmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpbGEtbm92YS1kby1zdWwtcnMtYWJyZS1zZWxlY29lcy1wYXJhLW1lZGljby1naW5lY29sb2dpc3RhLWZvbm9hdWRpb2xvZ28tZS1wcm9mZXNzb3ItZGUtYXJ0ZXM=",
@@ -2400,21 +2265,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbWF0ZW1hdGljYS1lbS1zb21icmlv",
-    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-selecao-para-professor-substituto-de-matematica-em-sombrio",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWVkdWNhY2FvLWZpc2ljYS1lbS1zYW8tYmVudG8tZG8tc3Vs",
     "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-para-professor-substituto-de-educacao-fisica-em-sao-bento-do-sul",
@@ -2505,21 +2355,6 @@
     "localizacao": "Arroio Trinta - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCb20gSmVzdXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tLWplc3VzLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtZWR1Y2FjYW8taW5mYW50aWw=",
-    "orgao": "Prefeitura de Bom Jesus",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jesus-sc-abre-processo-seletivo-para-professor-de-educacao-infantil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Bom Jesus",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Bom Jesus - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCb21iaW5oYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tYmluaGFzLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Bombinhas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bombinhas-sc-abre-processo-seletivo-para-cadastro-de-reserva",
@@ -2578,21 +2413,6 @@
     "data_encerramento": "11/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Camboriú - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWluc3RydXRvci1lLW9yaWVudGFkb3Itc29jaWFs",
-    "orgao": "Prefeitura de Campos Novos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-processos-seletivos-para-instrutor-e-orientador-social",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Campos Novos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Campos Novos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLXBhcmEtbWVkaWNvcw==",
