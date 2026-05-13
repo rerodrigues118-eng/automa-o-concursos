@@ -675,6 +675,21 @@
     "localizacao": "Colombo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDcnV6IE1hY2hhZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY3J1ei1tYWNoYWRvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE3NDgz",
+    "orgao": "Prefeitura de Cruz Machado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruz-machado-pr-abre-concurso-publico-com-salarios-de-ate-17483",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cruz Machado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cruz Machado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3BlcmFuw6dhIE5vdmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZXNwZXJhbmNhLW5vdmEtcHItcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEzLTItbWls",
     "orgao": "Prefeitura de Esperança Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-esperanca-nova-pr-retifica-concurso-publico-com-salarios-de-ate-13-2-mil",
@@ -1350,6 +1365,21 @@
     "localizacao": "Espumoso - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Espumoso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Espumoso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Espumoso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mZWxpei1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjQ4NA==",
     "orgao": "Prefeitura de Feliz",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-com-salarios-de-ate-6484",
@@ -1813,6 +1843,21 @@
     "data_encerramento": "15/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Silveira Martins - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUZXJyYSBkZSBBcmVpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10ZXJyYS1kZS1hcmVpYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de Terra de Areia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-terra-de-areia-rs-abre-processo-seletivo-para-a-secretaria-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Terra de Areia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Terra de Areia - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9ycmVzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1yZXNlcnZhLWVtLWRpdmVyc2FzLWFyZWFz",
