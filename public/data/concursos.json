@@ -390,6 +390,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcHItYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLXRlbXBvcmFyaW8tYW1iaWVudGFsLWVtLWNhcGFuZW1h",
+    "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
+    "link": "https://www.pciconcursos.com.br/noticias/icmbio-pr-abre-selecao-para-agente-temporario-ambiental-em-capanema",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWVkdWNhY2FvLWVzcGVjaWFsLWVtLWFzc2lzLWNoYXRlYXVicmlhbmQ=",
     "orgao": "IFPR - Instituto Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professor-substituto-de-educacao-especial-em-assis-chateaubriand",
@@ -895,7 +910,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "17/05/2026",
+    "data_encerramento": "22/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1076,6 +1091,51 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "15/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtdmFnYS1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLW5hLWFyZWEtZGUtZW5nZW5oYXJpYS1tZWNhbmljYS1lbS1wYXNzby1mdW5kbw==",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-vaga-para-professor-substituto-na-area-de-engenharia-mecanica-em-passo-fundo",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1lZHVjYWNhby1maXNpY2EtZW0tY2FtYXF1YQ==",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-de-educacao-fisica-em-camaqua",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1zdWJzdGl0dXRvcy1lbS1jb250cm9sZS1lLXByb2Nlc3Nvcy1pbmR1c3RyaWFpcw==",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professores-substitutos-em-controle-e-processos-industriais",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1483,6 +1543,21 @@
     "data_encerramento": "14/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pantano Grande - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFyYWktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvLWRlLXByb2Zlc3Nvci1kZS1pbmZvcm1hdGljYQ==",
+    "orgao": "Prefeitura de Paraí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-parai-rs-abre-processo-seletivo-para-cargo-de-professor-de-informatica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paraí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paraí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQZWRybyBPc8OzcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlZHJvLW9zb3Jpby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hZ2VudGVzLWRlLXNhdWRlLWUtZW5kZW1pYXM=",
@@ -1903,6 +1978,21 @@
     "data_encerramento": "08/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Piratuba - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBUcsOqcyBCYXJyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS10cmVzLWJhcnJhcy1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtY29udHJvbGFkb3ItaW50ZXJubw==",
+    "orgao": "Câmara de Três Barras",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-tres-barras-sc-abre-concurso-para-controlador-interno",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Três Barras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Três Barras - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtZG91dG9yLXBlZHJpbmhvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWF1eGlsaWFyLWRlLWxpbXBlemEtZS1jb250YWRvcg==",
