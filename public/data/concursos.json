@@ -525,6 +525,21 @@
     "localizacao": "Balsa Nova - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS12YWdhLXBhcmEtY29uZHV0b3ItZGUtdmVpY3Vsb3MtZGEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Balsa Nova",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-vaga-para-condutor-de-veiculos-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Balsa Nova",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Balsa Nova - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCZWxhIFZpc3RhIGRhIENhcm9iYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iZWxhLXZpc3RhLWRhLWNhcm9iYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00LTItbWls",
     "orgao": "Prefeitura de Bela Vista da Caroba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-da-caroba-pr-abre-concurso-publico-com-salarios-de-ate-4-2-mil",
@@ -703,6 +718,36 @@
     "data_encerramento": "21/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Janiópolis - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFByYXRhIGRvIElndWHDp3VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1wcmF0YS1kby1pZ3VhY3UtcHItYWJyZS12YWdhcy1wYXJhLWFnZW50ZS1kZS1jb21iYXRlLWFzLWVuZGVtaWFz",
+    "orgao": "Prefeitura de Nova Prata do Iguaçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-do-iguacu-pr-abre-vagas-para-agente-de-combate-as-endemias",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Prata do Iguaçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Prata do Iguaçu - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtaXRhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYWxtaXRhbC1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Palmital",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmital-pr-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palmital",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palmital - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXRvIEJyYW5jb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXRvLWJyYW5jby1wci1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
@@ -911,6 +956,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "22/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "Q1JRLVYgLSBDb25zZWxobyBSZWdpb25hbCBkZSBRdcOtbWljYSBkYSA1wqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JxLXYtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTc2MDA=",
+    "orgao": "CRQ-V - Conselho Regional de Química da 5ª Região",
+    "link": "https://www.pciconcursos.com.br/noticias/crq-v-rs-abre-concurso-publico-com-remuneracoes-de-ate-7600",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1320,6 +1380,36 @@
     "localizacao": "Nova Pádua - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtdmFnYXMtcGFyYS1vZmljaWFsLWFkbWluaXN0cmF0aXZv",
+    "orgao": "Prefeitura de Palmares do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-vagas-para-oficial-administrativo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palmares do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palmares do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQZWRyYXMgQWx0YXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGVkcmFzLWFsdGFzLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
+    "orgao": "Prefeitura de Pedras Altas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedras-altas-rs-abre-selecao-para-o-cargo-de-motorista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pedras Altas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pedras Altas - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWRybyBPc8OzcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlZHJvLW9zb3Jpby1ycy1wcm9ycm9nYS1hcy1pbnNjcmljb2VzLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlcy1kZS1zYXVkZS1lLWRlLWVuZGVtaWFz",
     "orgao": "Prefeitura de Pedro Osório",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pedro-osorio-rs-prorroga-as-inscricoes-do-processo-seletivo-para-agentes-de-saude-e-de-endemias",
@@ -1605,6 +1695,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VUZSR1MgLSBJbnN0aXR1dG8gZGUgUXXDrW1pY2EgZGEgVW5pdmVyc2lkYWRlIEZlZGVyYWwgZG8gUmlvIEdyYW5kZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2luc3RpdHV0by1kZS1xdWltaWNhLWRhLXVmcmdzLXJzLWFicmUtdmFnYS1wYXJhLXBlc3F1aXNhZG9yLW1lc3RyZS1lbS1lbmdlbmhhcmlhLXF1aW1pY2E=",
+    "orgao": "UFRGS - Instituto de Química da Universidade Federal do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/instituto-de-quimica-da-ufrgs-rs-abre-vaga-para-pesquisador-mestre-em-engenharia-quimica",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Química da Universidade Federal do Rio Grande do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Química da Universidade Federal do Rio Grande do Sul - PR"
+  },
+  {
     "id": "VU5JUEFNUEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBQYW1wYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pcGFtcGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yZXMtZG8tbWFnaXN0ZXJpby1zdXBlcmlvcg==",
     "orgao": "UNIPAMPA - Universidade Federal do Pampa",
     "link": "https://www.pciconcursos.com.br/noticias/unipampa-rs-abre-concurso-publico-para-professores-do-magisterio-superior",
@@ -1751,6 +1856,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "18/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS10ZWNuaWNvLWRlLWVuZmVybWFnZW0tbm8tY2VudHJvLWNpcnVyZ2ljby1lbS1mbG9yaWFub3BvbGlz",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-tecnico-de-enfermagem-no-centro-cirurgico-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2353,6 +2473,21 @@
     "data_encerramento": "27/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tunápolis - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBVbmnDo28gZG8gT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdW5pYW8tZG8tb2VzdGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvLWRlLWVuZmVybWVpcm8=",
+    "orgao": "Prefeitura de União do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uniao-do-oeste-sc-abre-processo-seletivo-para-cargo-de-enfermeiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "União do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "União do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVcnVwZW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXVydXBlbWEtc2MtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1lLWluY2x1aS12YWdhLXBhcmEtcHJvZmVzc29y",
