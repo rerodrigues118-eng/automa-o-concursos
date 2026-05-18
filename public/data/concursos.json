@@ -1230,6 +1230,21 @@
     "localizacao": "Espumoso - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhIFZlbGhhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtdmVsaGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjY0Nw==",
+    "orgao": "Prefeitura de Estrela Velha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-velha-rs-abre-concurso-publico-com-salarios-de-ate-6647",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Estrela Velha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Estrela Velha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW5pIGRhcyBNaXNzw7Vlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFyYW5pLWRhcy1taXNzb2VzLXJzLWFicmUtc2VsZWNhby1wYXJhLW9yaWVudGFkb3Itc29jaWFs",
     "orgao": "Prefeitura de Guarani das Missões",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarani-das-missoes-rs-abre-selecao-para-orientador-social",
@@ -1691,6 +1706,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZQZWwgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnBlbC1ycy1hYnJlLXZhZ2EtZW0tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItdmlzaXRhbnRlLWluZGlnZW5h",
+    "orgao": "UFPel - Universidade Federal de Pelotas",
+    "link": "https://www.pciconcursos.com.br/noticias/ufpel-rs-abre-vaga-em-processo-seletivo-para-professor-visitante-indigena",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
