@@ -150,21 +150,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "RVNBIC0gRXNjb2xhIGRlIFNhcmdlbnRvcyBkYXMgQXJtYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2V4ZXJjaXRvLWJyYXNpbGVpcm8tY29uY3Vyc28tbmFjaW9uYWwtYWJyZS0xMTAwLXZhZ2FzLXBhcmEtY3Vyc29zLWRlLWZvcm1hY2FvLWRlLXNhcmdlbnRvcw==",
-    "orgao": "ESA - Escola de Sargentos das Armas",
-    "link": "https://www.pciconcursos.com.br/noticias/exercito-brasileiro-concurso-nacional-abre-1100-vagas-para-cursos-de-formacao-de-sargentos",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "RVNGQ0V4IC0gRXNjb2xhIGRlIFNhw7pkZSBlIEZvcm1hw6fDo28gQ29tcGxlbWVudGFyIGRvIEV4w6lyY2l0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZXNmY2V4LWJhLXNlbGVjYW8tcGFyYS1vZmljaWFpcy1vZmVyZWNlLXZhZ2FzLWVtLWRpdmVyc2FzLWVzcGVjaWFsaWRhZGVzLWRlLW5pdmVsLXN1cGVyaW9y",
     "orgao": "ESFCEx - Escola de Saúde e Formação Complementar do Exército",
     "link": "https://www.pciconcursos.com.br/noticias/esfcex-ba-selecao-para-oficiais-oferece-vagas-em-diversas-especialidades-de-nivel-superior",
@@ -236,21 +221,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "U1NQTSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9jZXNzby1zZWxldGl2by1vZmVyZWNlLTE1Ni12YWdhcy1wYXJhLW8tY29sZWdpby1uYXZhbC1lbS0yMDI2",
-    "orgao": "SSPM - Marinha do Brasil",
-    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-processo-seletivo-oferece-156-vagas-para-o-colegio-naval-em-2026",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -1140,21 +1110,6 @@
     "localizacao": "Antônio Prado - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBdWd1c3RvIFBlc3RhbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYXVndXN0by1wZXN0YW5hLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1wb3J0dWd1ZXM=",
-    "orgao": "Prefeitura de Augusto Pestana",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-augusto-pestana-rs-abre-selecao-para-professor-de-portugues",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Augusto Pestana",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Augusto Pestana - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXJhw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FyYWEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXVkaXRvci1maXNjYWwtZGEtcmVjZWl0YS1tdW5pY2lwYWw=",
     "orgao": "Prefeitura de Caraá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caraa-rs-abre-selecao-para-auditor-fiscal-da-receita-municipal",
@@ -1288,21 +1243,6 @@
     "data_encerramento": "10/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Getúlio Vargas - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW5pIGRhcyBNaXNzw7Vlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFyYW5pLWRhcy1taXNzb2VzLXJzLWFicmUtc2VsZWNhby1wYXJhLW9yaWVudGFkb3Itc29jaWFs",
-    "orgao": "Prefeitura de Guarani das Missões",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarani-das-missoes-rs-abre-selecao-para-orientador-social",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Guarani das Missões",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Guarani das Missões - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaGVydmFsLXJzLXJlYWJyZS1pbnNjcmljb2VzLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNv",
@@ -1620,36 +1560,6 @@
     "localizacao": "Terra de Areia - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9ycmVzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1yZXNlcnZhLWVtLWRpdmVyc2FzLWFyZWFz",
-    "orgao": "Prefeitura de Torres",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversas-areas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Torres",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Torres - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9ycmVzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNS0zLW1pbA==",
-    "orgao": "Prefeitura de Torres",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-processo-seletivo-com-salarios-de-ate-15-3-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Torres",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Torres - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBWaWNlbnRlIER1dHJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY2VudGUtZHV0cmEtcnMtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvLXZldGVyaW5hcmlv",
     "orgao": "Prefeitura de Vicente Dutra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicente-dutra-rs-abre-vaga-em-processo-seletivo-para-medico-veterinario",
@@ -1843,21 +1753,6 @@
     "data_encerramento": "18/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Barras - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtZG91dG9yLXBlZHJpbmhvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWF1eGlsaWFyLWRlLWxpbXBlemEtZS1jb250YWRvcg==",
-    "orgao": "Câmara de Vereadores",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-doutor-pedrinho-sc-abre-concurso-publico-para-auxiliar-de-limpeza-e-contador",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Vereadores",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vereadores - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEl0YXBpcmFuZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1pdGFwaXJhbmdhLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
@@ -2115,21 +2010,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS12YWdhLXBhcmEtdGVjbmljby1lc3BlY2lhbGl6YWRvLWVtLXRyYWR1Y2FvLWUtaW50ZXJwcmV0YWNhby1kZS1saWJyYXM=",
-    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-tecnico-especializado-em-traducao-e-interpretacao-de-libras",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLXNvY2lvbG9naWEtbm8tY2FtcHVzLWNhbWJvcml1",
     "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-para-professor-substituto-de-sociologia-no-campus-camboriu",
@@ -2141,21 +2021,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlIC0gQ2FtcHVzIFZpZGVpcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWRlLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWhpc3RvcmlhLWVtLXZpZGVpcmE=",
-    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense - Campus Videira",
-    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-de-professor-substituto-de-historia-em-videira",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
