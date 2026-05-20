@@ -495,6 +495,21 @@
     "localizacao": "Alto Paraná - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBcmFydW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFyYXJ1bmEtcHItbGFuY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
+    "orgao": "Prefeitura de Araruna",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araruna-pr-lanca-concurso-publico-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Araruna",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Araruna - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW9wZXJhZG9yLWRlLW1hcXVpbmFz",
     "orgao": "Prefeitura de Balsa Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-operador-de-maquinas",
@@ -945,6 +960,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RlVOVkVSUyAtIEZ1bmRhw6fDo28gVmVuw6JuY2lvIFJhbW9zIGRhIFNpbHZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXF1aS1ycy1wdWJsaWNhLWVkaXRhbC1wYXJhLW1vdG9yaXN0YS1lLW1vbml0b3Itc29jaWFs",
+    "orgao": "FUNVERS - Fundação Venâncio Ramos da Silva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-publica-edital-para-motorista-e-monitor-social",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS10ZW1wb3JhcmlvLWFtYmllbnRhbC1lbS1yaW8tZ3JhbmRl",
     "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-rs-abre-processo-seletivo-para-agente-temporario-ambiental-em-rio-grande",
@@ -1123,6 +1153,21 @@
     "data_encerramento": "19/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Augusto Pestana - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXJhw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FyYWEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXVkaXRvci1maXNjYWwtZGEtcmVjZWl0YS1tdW5pY2lwYWw=",
+    "orgao": "Prefeitura de Caraá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caraa-rs-abre-selecao-para-auditor-fiscal-da-receita-municipal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Caraá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Caraá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDZXJybyBCcmFuY29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2Vycm8tYnJhbmNvLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtcGVkcmVpcm8=",
@@ -1470,6 +1515,21 @@
     "localizacao": "Progresso - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBUZXJlemFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGEtdGVyZXphLXJzLWFicmUtc2VsZWNvZXMtcGFyYS1zZXJ2ZW50ZS1lLWNvbnRyb2xhZG9yLWludGVybm8=",
+    "orgao": "Prefeitura de Santa Tereza",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-tereza-rs-abre-selecoes-para-servente-e-controlador-interno",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Tereza",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Tereza - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtdmFnYXMtcGFyYS1tb3RvcmlzdGEtb3BlcmFyaW8tZS1vcGVyYWRvci1kZS1tYXF1aW5hcy1yb2Rvdmlhcmlhcw==",
     "orgao": "Prefeitura de Santo Antônio da Patrulha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-vagas-para-motorista-operario-e-operador-de-maquinas-rodoviarias",
@@ -1528,6 +1588,21 @@
     "data_encerramento": "06/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Leopoldo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtY2FyZ28tZGUtY29udGFkb3I=",
+    "orgao": "Prefeitura de Tavares",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-abre-selecao-para-cargo-de-contador",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tavares",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tavares - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUZXJyYSBkZSBBcmVpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10ZXJyYS1kZS1hcmVpYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLWVkdWNhY2Fv",
@@ -1723,6 +1798,21 @@
     "data_encerramento": "02/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBBcnZvcmVkb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWFydm9yZWRvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWNvbnRhYmlsaXN0YQ==",
+    "orgao": "Câmara de Arvoredo",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-arvoredo-sc-abre-concurso-publico-para-contabilista",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Arvoredo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Arvoredo - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBpcmF0dWJhLXNjLWFicmUtdmFnYS1lbS1jb25jdXJzby1wdWJsaWNvLXBhcmEtc2VjcmV0YXJpby1nZXJhbA==",
@@ -2430,6 +2520,21 @@
     "localizacao": "Presidente Castelo Branco - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtdmFnYXMtcGFyYS1jaXJ1cmdpb2VzLWRlbnRpc3Rhcy1lc3BlY2lhbGlzdGFz",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-vagas-para-cirurgioes-dentistas-especialistas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZGFzIEFudGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kYXMtYW50YXMtc2MtYWJyZS1xdWF0cm8tcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpZmVyZW50ZXMtY2FyZ29z",
     "orgao": "Prefeitura de Rio das Antas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-quatro-processos-seletivos-para-diferentes-cargos",
@@ -2548,6 +2653,21 @@
     "data_encerramento": "28/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Xavantina - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgQW5jaGlldGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZS1jYW1hcmEtZGUtYW5jaGlldGEtc2MtYWJyZW0tZWRpdGFpcy1jb20tc2FsYXJpb3MtZGUtYXRlLTY0NDE=",
+    "orgao": "Prefeitura e Câmara de Anchieta",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-anchieta-sc-abrem-editais-com-salarios-de-ate-6441",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Anchieta",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Anchieta - PR"
   },
   {
     "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIE9ybGVhbnNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhbWFlLWRlLW9ybGVhbnMtc2MtYWJyZS1jb25jdXJzby1wYXJhLWVuY2FuYWRvci1hdXhpbGlhci1kZS1vcGVyYWNvZXMtZS1zZXJ2ZW50ZQ==",
