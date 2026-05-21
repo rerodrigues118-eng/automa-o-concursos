@@ -630,21 +630,6 @@
     "localizacao": "Cruz Machado - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFc3BlcmFuw6dhIE5vdmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZXNwZXJhbmNhLW5vdmEtcHItcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEzLTItbWls",
-    "orgao": "Prefeitura de Esperança Nova",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-esperanca-nova-pr-retifica-concurso-publico-com-salarios-de-ate-13-2-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Esperança Nova",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Esperança Nova - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBGw6puaXhodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZmVuaXgtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Fênix",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fenix-pr-abre-processo-seletivo-para-professores",
@@ -840,21 +825,6 @@
     "localizacao": "Porto Vitória - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQcmFkbyBGZXJyZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmFkby1mZXJyZWlyYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNi00LW1pbA==",
-    "orgao": "Prefeitura de Prado Ferreira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-prado-ferreira-pr-abre-concurso-publico-com-salarios-de-ate-16-4-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Prado Ferreira",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Prado Ferreira - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSZWFsZXphaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJlYWxlemEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS1kZS1kZWZlc2EtY2l2aWw=",
     "orgao": "Prefeitura de Realeza",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-realeza-pr-abre-processo-seletivo-para-agente-de-defesa-civil",
@@ -1016,21 +986,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "01/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS10ZW1wb3JhcmlvLWFtYmllbnRhbC1lbS1yaW8tZ3JhbmRl",
-    "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
-    "link": "https://www.pciconcursos.com.br/noticias/icmbio-rs-abre-processo-seletivo-para-agente-temporario-ambiental-em-rio-grande",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1320,36 +1275,6 @@
     "localizacao": "Ciríaco - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFbmdlbmhvIFZlbGhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVuZ2VuaG8tdmVsaG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtb3BlcmFkb3ItZGUtbWFxdWluYXM=",
-    "orgao": "Prefeitura de Engenho Velho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-engenho-velho-rs-abre-selecao-para-operador-de-maquinas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Engenho Velho",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Engenho Velho - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
-    "orgao": "Prefeitura de Espumoso",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-processo-seletivo-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Espumoso",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Espumoso - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvY3VyYWRvci1qdXJpZGljbw==",
     "orgao": "Prefeitura de Espumoso",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-processo-seletivo-para-procurador-juridico",
@@ -1393,36 +1318,6 @@
     "data_encerramento": "10/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Getúlio Vargas - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaGVydmFsLXJzLXJlYWJyZS1pbnNjcmljb2VzLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNv",
-    "orgao": "Prefeitura de Herval",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-rs-reabre-inscricoes-de-processo-seletivo-para-medico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Herval",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Herval - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaGVydmFsLXJzLXJlYWJyZS1pbnNjcmljYW8tcGFyYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNC1taWw=",
-    "orgao": "Prefeitura de Herval",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-rs-reabre-inscricao-para-concurso-publico-com-salarios-de-ate-4-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Herval",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Herval - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWFkbWluaXN0cmF0aXZv",
@@ -1485,21 +1380,6 @@
     "localizacao": "Maquiné - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNYXJxdWVzIGRlIFNvdXphaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcnF1ZXMtZGUtc291emEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtZmlzaW90ZXJhcGV1dGE=",
-    "orgao": "Prefeitura de Marques de Souza",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marques-de-souza-rs-abre-selecao-para-fisioterapeuta",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Marques de Souza",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Marques de Souza - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZXV0ZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9ycm8tcmV1dGVyLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTUtOC1taWw=",
     "orgao": "Prefeitura de Morro Reuter",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-reuter-rs-abre-concurso-publico-com-salarios-de-ate-5-8-mil",
@@ -1543,21 +1423,6 @@
     "data_encerramento": "22/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Pádua - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtdmFnYXMtcGFyYS1vZmljaWFsLWFkbWluaXN0cmF0aXZv",
-    "orgao": "Prefeitura de Palmares do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-vagas-para-oficial-administrativo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Palmares do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Palmares do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQZWRyYXMgQWx0YXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGVkcmFzLWFsdGFzLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
@@ -1725,21 +1590,6 @@
     "localizacao": "Tavares - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUZXJyYSBkZSBBcmVpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10ZXJyYS1kZS1hcmVpYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLWVkdWNhY2Fv",
-    "orgao": "Prefeitura de Terra de Areia",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-terra-de-areia-rs-abre-processo-seletivo-para-a-secretaria-de-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Terra de Areia",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Terra de Areia - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBWaWNlbnRlIER1dHJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY2VudGUtZHV0cmEtcnMtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvLXZldGVyaW5hcmlv",
     "orgao": "Prefeitura de Vicente Dutra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicente-dutra-rs-abre-vaga-em-processo-seletivo-para-medico-veterinario",
@@ -1753,21 +1603,6 @@
     "data_encerramento": "26/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vicente Dutra - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBWaXTDs3JpYSBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdml0b3JpYS1kYXMtbWlzc29lcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLWRlLW1hdGVtYXRpY2E=",
-    "orgao": "Prefeitura de Vitória das Missões",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitoria-das-missoes-rs-abre-processo-seletivo-para-professor-de-matematica",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vitória das Missões",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vitória das Missões - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBXZXN0ZsOhbGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXdlc3RmYWxpYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS04LTMtbWls",
@@ -2130,21 +1965,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RlVNQUYgLSBGdW5kYcOnw6NvIE11bmljaXBhbCBkbyBNZWlvIEFtYmllbnRlIGRlIE1vcnJvIGRhIEZ1bWHDp2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Z1bWFmLWRlLW1vcnJvLWRhLWZ1bWFjYS1zYy1hYnJlLXZhZ2FzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNS1taWw=",
-    "orgao": "FUMAF - Fundação Municipal do Meio Ambiente de Morro da Fumaça",
-    "link": "https://www.pciconcursos.com.br/noticias/fumaf-de-morro-da-fumaca-sc-abre-vagas-com-salarios-de-ate-5-mil",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SEVNT1NDIC0gQ2VudHJvIGRlIEhlbWF0b2xvZ2lhIGUgSGVtb3RlcmFwaWEgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhLWRlLW5pdmVsLXN1cGVyaW9yLXBhcmEtby1oZW1vc2MtZGUtZmxvcmlhbm9wb2xpcw==",
     "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-com-vaga-de-nivel-superior-para-o-hemosc-de-florianopolis",
@@ -2231,21 +2051,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtcXVpbWljYS1uby1jYW1wdXMtdmlkZWlyYQ==",
-    "orgao": "IFC - Instituto Federal Catarinense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-para-professor-substituto-de-quimica-no-campus-videira",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2743,21 +2548,6 @@
     "data_encerramento": "09/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Bento do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS12YWdhLXBhcmEtbWVkaWNvLXBzaXF1aWF0cmE=",
-    "orgao": "Prefeitura de São Lourenço do Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-lourenco-do-oeste-sc-abre-vaga-para-medico-psiquiatra",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Lourenço do Oeste",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Lourenço do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1hcnRpbmhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1tYXJ0aW5oby1zYy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNS0xLW1pbA==",
