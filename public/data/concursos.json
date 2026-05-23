@@ -1380,6 +1380,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1nZW9ncmFmaWEtZW0tc2FudGFuYS1kby1saXZyYW1lbnRv",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-de-geografia-em-santana-do-livramento",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1xdWltaWNhLWVtLWphZ3VhcmFv",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-de-quimica-em-jaguarao",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SVBFIFByZXYgLSBJbnN0aXR1dG8gZGUgUHJldmlkw6puY2lhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaXBlLXByZXYtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAtbWls",
     "orgao": "IPE Prev - Instituto de Previdência do Estado do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/ipe-prev-rs-abre-concurso-publico-com-salarios-de-ate-10-mil",
@@ -1440,9 +1470,9 @@
     "localizacao": "Arroio dos Ratos - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODEwMg==",
+    "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTgxMDI=",
     "orgao": "Prefeitura de Boa Vista do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-abre-concurso-publico-com-salarios-de-ate-8102",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-retifica-concurso-publico-com-salarios-de-ate-8102",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Boa Vista do Sul",
@@ -1843,6 +1873,21 @@
     "data_encerramento": "22/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Inhacorá - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFZhbMOpcmlvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tdmFsZXJpby1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtc2VydmVudGU=",
+    "orgao": "Prefeitura de São Valério do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-valerio-do-sul-rs-abre-processo-seletivo-para-o-cargo-de-servente",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Valério do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Valério do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTZWRlIE5vdmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2VkZS1ub3ZhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS02ODE3",
@@ -2565,6 +2610,21 @@
     "localizacao": "Fraiburgo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHYXJvcGFiYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nYXJvcGFiYS1zYy1hYnJlLXNlbGVjYW8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xOTkxMQ==",
+    "orgao": "Prefeitura de Garopaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garopaba-sc-abre-selecao-com-salarios-de-ate-19911",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Garopaba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Garopaba - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHYXNwYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FzcGFyLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMy1taWw=",
     "orgao": "Prefeitura de Gaspar",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gaspar-sc-abre-processo-seletivo-com-salarios-de-ate-23-mil",
@@ -2878,6 +2938,21 @@
     "data_encerramento": "05/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "União do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBVcnViaWNpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXVydWJpY2ktc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLW1lZGljb3M=",
+    "orgao": "Prefeitura de Urubici",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-urubici-sc-abre-concurso-publico-com-vagas-para-medicos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Urubici",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Urubici - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVcnVwZW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXVydXBlbWEtc2MtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1lLWluY2x1aS12YWdhLXBhcmEtcHJvZmVzc29y",
