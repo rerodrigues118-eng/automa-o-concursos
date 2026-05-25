@@ -837,6 +837,99 @@
     }
   },
   {
+    "id": "RXNQQ0V4IC0gRXNjb2xhIFByZXBhcmF0w7NyaWEgZGUgQ2FkZXRlcyBkbyBFeMOpcmNpdG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VzcGNleC1zcC1hYnJlLWNvbmN1cnNvLWNvbS00NDAtdmFnYXMtcGFyYS1jdXJzby1kZS1mb3JtYWNhby1kZS1vZmljaWFpcy1kZS1jYXJyZWlyYQ==",
+    "orgao": "EsPCEx - Escola Preparatória de Cadetes do Exército",
+    "link": "https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão EsPCEx - Escola Preparatória de Cadetes do Exército."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+EsPCEx+-+Escola+Preparatória+de+Cadetes+do+Exército"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+EsPCEx+-+Escola+Preparatória+de+Cadetes+do+Exército"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/EsPCEx+-+Escola+Preparatória+de+Cadetes+do+Exército"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "TkFWIEJSQVNJTCAtIFNlcnZpw6dvcyBkZSBOYXZlZ2HDp8OjbyBBw6lyZWEgUy5BLmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbmF2LWJyYXNpbC1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA4Njg=",
     "orgao": "NAV BRASIL - Serviços de Navegação Aérea S.A.",
     "link": "https://www.pciconcursos.com.br/noticias/nav-brasil-retifica-concurso-publico-com-salarios-de-ate-10868",
@@ -1077,99 +1170,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/ESFCEx+-+Escola+de+Saúde+e+Formação+Complementar+do+Exército"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "RXNQQ0V4IC0gRXNjb2xhIFByZXBhcmF0w7NyaWEgZGUgQ2FkZXRlcyBkbyBFeMOpcmNpdG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VzcGNleC1zcC1hYnJlLWNvbmN1cnNvLWNvbS00NDAtdmFnYXMtcGFyYS1jdXJzby1kZS1mb3JtYWNhby1kZS1vZmljaWFpcy1kZS1jYXJyZWlyYQ==",
-    "orgao": "EsPCEx - Escola Preparatória de Cadetes do Exército",
-    "link": "https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "29/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 7.000 a R$ 22.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
-      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
-      "descricao_geral": "Oportunidade na área Federal focada no órgão EsPCEx - Escola Preparatória de Cadetes do Exército."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        },
-        {
-          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
-        },
-        {
-          "titulo": "Aula: Específicas [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+EsPCEx+-+Escola+Preparatória+de+Cadetes+do+Exército"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+EsPCEx+-+Escola+Preparatória+de+Cadetes+do+Exército"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/EsPCEx+-+Escola+Preparatória+de+Cadetes+do+Exército"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -5673,6 +5673,99 @@
     }
   },
   {
+    "id": "UG9sw61jaWEgUGVuYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3BvbGljaWEtcGVuYWwtcnMtcHVibGljYS1lZGl0YWwtZGUtY29uY3Vyc28tY29tLXZhZ2FzLXBhcmEtbml2ZWwtbWVkaW8tZS1zdXBlcmlvcg==",
+    "orgao": "Polícia Penal",
+    "link": "https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-de-concurso-com-vagas-para-nivel-medio-e-superior",
+    "categoria": "Policial",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 5.000 a R$ 12.000",
+      "carga_horaria": "Regime de Escala (Ex: 24x72h) ou 40h",
+      "funcao": "Preservação da ordem, patrulhamento, investigações e cumprimento de mandados.",
+      "plano_carreira": "Promoções por antiguidade e merecimento (Soldado a Sargento / Investigador a Inspetor).",
+      "descricao_geral": "Oportunidade na área Policial focada no órgão Polícia Penal."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Policial, é essencial dominar Português, Direito Penal, Direito Processual Penal, Legislação Especial. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Penal [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Penal+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Processual Penal [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Processual+Penal+para+concurso"
+        },
+        {
+          "titulo": "Aula: Legislação Especial [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Legislação+Especial+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Polícia+Penal"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Polícia+Penal"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Polícia+Penal"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Penal (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Direito Processual Penal (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Legislação Especial (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXJsb3MgQmFyYm9zYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXJsb3MtYmFyYm9zYS1ycy1wdWJsaWNhLWVkaXRhaXMtcGFyYS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZv",
     "orgao": "Prefeitura de Carlos Barbosa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carlos-barbosa-rs-publica-editais-para-concurso-e-processo-seletivo",
@@ -8074,99 +8167,6 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "UG9sw61jaWEgUGVuYWwgZG8gRXN0YWRvIGRvIFJpbyBHcmFuZGUgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLXBlbmFsLXJzLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLW5pdmVsLW1lZGlvLWUtc3VwZXJpb3I=",
-    "orgao": "Polícia Penal do Estado do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-de-concurso-com-vagas-para-nivel-medio-e-superior",
-    "categoria": "Policial",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 5.000 a R$ 12.000",
-      "carga_horaria": "Regime de Escala (Ex: 24x72h) ou 40h",
-      "funcao": "Preservação da ordem, patrulhamento, investigações e cumprimento de mandados.",
-      "plano_carreira": "Promoções por antiguidade e merecimento (Soldado a Sargento / Investigador a Inspetor).",
-      "descricao_geral": "Oportunidade na área Policial focada no órgão Polícia Penal do Estado do Rio Grande do Sul."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Policial, é essencial dominar Português, Direito Penal, Direito Processual Penal, Legislação Especial. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Penal [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Penal+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Processual Penal [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Processual+Penal+para+concurso"
-        },
-        {
-          "titulo": "Aula: Legislação Especial [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Legislação+Especial+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Polícia+Penal+do+Estado+do+Rio+Grande+do+Sul"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Polícia+Penal+do+Estado+do+Rio+Grande+do+Sul"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Polícia+Penal+do+Estado+do+Rio+Grande+do+Sul"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Direito Penal (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Direito Processual Penal (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Legislação Especial (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",

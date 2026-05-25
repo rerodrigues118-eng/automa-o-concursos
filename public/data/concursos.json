@@ -135,6 +135,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "RXNQQ0V4IC0gRXNjb2xhIFByZXBhcmF0w7NyaWEgZGUgQ2FkZXRlcyBkbyBFeMOpcmNpdG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VzcGNleC1zcC1hYnJlLWNvbmN1cnNvLWNvbS00NDAtdmFnYXMtcGFyYS1jdXJzby1kZS1mb3JtYWNhby1kZS1vZmljaWFpcy1kZS1jYXJyZWlyYQ==",
+    "orgao": "EsPCEx - Escola Preparatória de Cadetes do Exército",
+    "link": "https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "TkFWIEJSQVNJTCAtIFNlcnZpw6dvcyBkZSBOYXZlZ2HDp8OjbyBBw6lyZWEgUy5BLmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbmF2LWJyYXNpbC1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA4Njg=",
     "orgao": "NAV BRASIL - Serviços de Navegação Aérea S.A.",
     "link": "https://www.pciconcursos.com.br/noticias/nav-brasil-retifica-concurso-publico-com-salarios-de-ate-10868",
@@ -176,21 +191,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "12/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "RXNQQ0V4IC0gRXNjb2xhIFByZXBhcmF0w7NyaWEgZGUgQ2FkZXRlcyBkbyBFeMOpcmNpdG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VzcGNleC1zcC1hYnJlLWNvbmN1cnNvLWNvbS00NDAtdmFnYXMtcGFyYS1jdXJzby1kZS1mb3JtYWNhby1kZS1vZmljaWFpcy1kZS1jYXJyZWlyYQ==",
-    "orgao": "EsPCEx - Escola Preparatória de Cadetes do Exército",
-    "link": "https://www.pciconcursos.com.br/noticias/espcex-sp-abre-concurso-com-440-vagas-para-curso-de-formacao-de-oficiais-de-carreira",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "29/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -915,6 +915,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "UG9sw61jaWEgUGVuYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3BvbGljaWEtcGVuYWwtcnMtcHVibGljYS1lZGl0YWwtZGUtY29uY3Vyc28tY29tLXZhZ2FzLXBhcmEtbml2ZWwtbWVkaW8tZS1zdXBlcmlvcg==",
+    "orgao": "Polícia Penal",
+    "link": "https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-de-concurso-com-vagas-para-nivel-medio-e-superior",
+    "categoria": "Policial",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXJsb3MgQmFyYm9zYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXJsb3MtYmFyYm9zYS1ycy1wdWJsaWNhLWVkaXRhaXMtcGFyYS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZv",
     "orgao": "Prefeitura de Carlos Barbosa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carlos-barbosa-rs-publica-editais-para-concurso-e-processo-seletivo",
@@ -1303,21 +1318,6 @@
     "data_encerramento": "11/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Previdência do Estado do Rio Grande do Sul - PR"
-  },
-  {
-    "id": "UG9sw61jaWEgUGVuYWwgZG8gRXN0YWRvIGRvIFJpbyBHcmFuZGUgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLXBlbmFsLXJzLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLW5pdmVsLW1lZGlvLWUtc3VwZXJpb3I=",
-    "orgao": "Polícia Penal do Estado do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-de-concurso-com-vagas-para-nivel-medio-e-superior",
-    "categoria": "Policial",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbnTDtG5pbyBQcmFkb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbnRvbmlvLXByYWRvLXJzLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDM1Mg==",
