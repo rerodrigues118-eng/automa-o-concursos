@@ -9393,6 +9393,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItY29tLXJlbXVuZXJhY2FvLWRlLWF0ZS05MDY3",
+    "orgao": "Prefeitura de Porto Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-vagas-de-nivel-superior-com-remuneracao-de-ate-9067",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Porto Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Porto Alegre - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Porto Alegre."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Porto+Alegre"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Porto+Alegre"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Porto+Alegre"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEhvcnTDqm5jaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvc2UtZG8taG9ydGVuY2lvLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3I=",
     "orgao": "Prefeitura de São José do Hortêncio",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-hortencio-rs-abre-processo-seletivo-para-professor",
@@ -13485,9 +13578,9 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1mb25vYXVkaW9sb2dvLWUtcHJvZmVzc29yLWRlLWJyYWlsbGU=",
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1mb25vYXVkaW9sb2dvLWUtcHJvZmVzc29yLWRlLWJyYWlsbGU=",
     "orgao": "Prefeitura de Itapoá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-abre-processos-seletivos-para-fonoaudiologo-e-professor-de-braille",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-prorroga-inscricoes-de-processos-seletivos-para-fonoaudiologo-e-professor-de-braille",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Itapoá",
@@ -13495,7 +13588,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "26/05/2026",
+    "data_encerramento": "03/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itapoá - PR",
     "detalhes_cargo": {
@@ -15235,6 +15328,99 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "VUZTQyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1jaWVuY2lhLWRhLWNvbXB1dGFjYW8tZW0tYXJhcmFuZ3Vh",
+    "orgao": "UFSC - Universidade Federal de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsc-abre-processo-seletivo-para-professor-substituto-de-ciencia-da-computacao-em-ararangua",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão UFSC - Universidade Federal de Santa Catarina."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+UFSC+-+Universidade+Federal+de+Santa+Catarina"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+UFSC+-+Universidade+Federal+de+Santa+Catarina"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/UFSC+-+Universidade+Federal+de+Santa+Catarina"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",

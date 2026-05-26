@@ -1515,6 +1515,21 @@
     "localizacao": "Pelotas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItY29tLXJlbXVuZXJhY2FvLWRlLWF0ZS05MDY3",
+    "orgao": "Prefeitura de Porto Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-vagas-de-nivel-superior-com-remuneracao-de-ate-9067",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Porto Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Porto Alegre - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEhvcnTDqm5jaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvc2UtZG8taG9ydGVuY2lvLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3I=",
     "orgao": "Prefeitura de São José do Hortêncio",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-hortencio-rs-abre-processo-seletivo-para-professor",
@@ -2175,9 +2190,9 @@
     "localizacao": "Ipira - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1mb25vYXVkaW9sb2dvLWUtcHJvZmVzc29yLWRlLWJyYWlsbGU=",
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1mb25vYXVkaW9sb2dvLWUtcHJvZmVzc29yLWRlLWJyYWlsbGU=",
     "orgao": "Prefeitura de Itapoá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-abre-processos-seletivos-para-fonoaudiologo-e-professor-de-braille",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-prorroga-inscricoes-de-processos-seletivos-para-fonoaudiologo-e-professor-de-braille",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Itapoá",
@@ -2185,7 +2200,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "26/05/2026",
+    "data_encerramento": "03/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itapoá - PR"
   },
@@ -2456,6 +2471,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZTQyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1jaWVuY2lhLWRhLWNvbXB1dGFjYW8tZW0tYXJhcmFuZ3Vh",
+    "orgao": "UFSC - Universidade Federal de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsc-abre-processo-seletivo-para-professor-substituto-de-ciencia-da-computacao-em-ararangua",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   }
