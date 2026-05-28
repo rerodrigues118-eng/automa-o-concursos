@@ -825,9 +825,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "UG9sw61jaWEgUGVuYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3BvbGljaWEtcGVuYWwtcnMtcHVibGljYS1lZGl0YWwtZGUtY29uY3Vyc28tY29tLXZhZ2FzLXBhcmEtbml2ZWwtbWVkaW8tZS1zdXBlcmlvcg==",
+    "id": "UG9sw61jaWEgUGVuYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3BvbGljaWEtcGVuYWwtcnMtcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1jb25jdXJzby1jb20tdmFnYXMtcGFyYS1uaXZlbC1tZWRpby1lLXN1cGVyaW9y",
     "orgao": "Polícia Penal",
-    "link": "https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-de-concurso-com-vagas-para-nivel-medio-e-superior",
+    "link": "https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-retificado-de-concurso-com-vagas-para-nivel-medio-e-superior",
     "categoria": "Policial",
     "uf": "PR",
     "cidade": "Várias",
@@ -1230,9 +1230,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SVBFIFByZXYgLSBJbnN0aXR1dG8gZGUgUHJldmlkw6puY2lhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaXBlLXByZXYtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAtbWls",
+    "id": "SVBFIFByZXYgLSBJbnN0aXR1dG8gZGUgUHJldmlkw6puY2lhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaXBlLXByZXYtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwLW1pbA==",
     "orgao": "IPE Prev - Instituto de Previdência do Estado do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/ipe-prev-rs-abre-concurso-publico-com-salarios-de-ate-10-mil",
+    "link": "https://www.pciconcursos.com.br/noticias/ipe-prev-rs-retifica-concurso-publico-com-salarios-de-ate-10-mil",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Previdência do Estado do Rio Grande do Sul",
@@ -1363,6 +1363,21 @@
     "data_encerramento": "19/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Boa Vista do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDw6JuZGlkbyBHb2TDs2lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZGlkby1nb2RvaS1ycy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQwMTU=",
+    "orgao": "Prefeitura de Cândido Godói",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-godoi-rs-abre-concurso-com-salarios-de-ate-14015",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cândido Godói",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cândido Godói - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXJhw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FyYWEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXVkaXRvci1maXNjYWwtZGEtcmVjZWl0YS1tdW5pY2lwYWw=",
@@ -1588,6 +1603,21 @@
     "data_encerramento": "29/05/2026",
     "status": "Inscrições abertas",
     "localizacao": "Morro Reuter - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIENhbmRlbMOhcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtY2FuZGVsYXJpYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03NDIw",
+    "orgao": "Prefeitura de Nova Candelária",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-candelaria-rs-abre-concurso-publico-com-salarios-de-ate-7420",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Candelária",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Candelária - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJlY2kgTm92b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJlY2ktbm92by1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYXRlbmRlbnRlLWRlLWNyZWNoZQ==",
@@ -1980,9 +2010,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q01QIC0gQ8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTk1MDA=",
+    "id": "Q01QIC0gQ8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
     "orgao": "CMP - Câmara de Palhoça",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-abre-concurso-com-salarios-de-ate-9500",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-retifica-edital-de-concurso-publico",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Palhoça",
@@ -2490,6 +2520,21 @@
     "localizacao": "Navegantes - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFzc2lzdGVudGUtc29jaWFs",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-vaga-em-processo-seletivo-para-assistente-social",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBWZWxvc29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tdmVsb3NvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NzIx",
     "orgao": "Prefeitura de Salto Veloso",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-veloso-sc-abre-processo-seletivo-com-salarios-de-ate-5721",
@@ -2666,6 +2711,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZGUyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRhIEZyb250ZWlyYSBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmZnMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3MtZW0tY2hhcGVjbw==",
+    "orgao": "UFFS - Universidade Federal da Fronteira Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/uffs-sc-abre-selecao-para-professores-substitutos-em-chapeco",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
