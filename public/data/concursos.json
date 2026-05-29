@@ -450,6 +450,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tbmEtYXJlYS1kZS1jb250cm9sZS1lLXByb2Nlc3Nvcy1pbmR1c3RyaWFpcy1lbS1jYW1wby1sYXJnbw==",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-vaga-para-professor-substituto-na-area-de-controle-e-processos-industriais-em-campo-largo",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBcmFydW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFyYXJ1bmEtcHItbGFuY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
     "orgao": "Prefeitura de Araruna",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araruna-pr-lanca-concurso-publico-para-diversos-cargos",
@@ -2036,6 +2051,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbGV0cmFzLXBvcnR1Z3Vlcy1pbmdsZXMtZW0tc2FvLWZyYW5jaXNjby1kby1zdWw=",
+    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-selecao-para-professor-substituto-de-letras-portugues-ingles-em-sao-francisco-do-sul",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbWF0ZW1hdGljYS1uby1jYW1wdXMtc2FvLWZyYW5jaXNjby1kby1zdWw=",
+    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-selecao-para-professor-substituto-de-matematica-no-campus-sao-francisco-do-sul",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
