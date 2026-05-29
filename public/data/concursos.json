@@ -555,9 +555,9 @@
     "localizacao": "Cambé - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW50YWdhbG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FudGFnYWxvLXByLWFicmUtY29uY3Vyc28tY29tLXZhZ2FzLXBhcmEtZGl2ZXJzb3Mtbml2ZWlzLWUtc2FsYXJpb3MtZGUtYXRlLTk2ODQ=",
+    "id": "UHJlZmVpdHVyYSBkZSBDYW50YWdhbG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FudGFnYWxvLXByLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZGUtY29uY3Vyc28tcHVibGljbw==",
     "orgao": "Prefeitura de Cantagalo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cantagalo-pr-abre-concurso-com-vagas-para-diversos-niveis-e-salarios-de-ate-9684",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cantagalo-pr-divulga-retificacao-de-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Cantagalo",
@@ -855,6 +855,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SVBFIFByZXYgLSBJbnN0aXR1dG8gZGUgUHJldmlkw6puY2lhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaXBlLXByZXYtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwLW1pbA==",
+    "orgao": "IPE Prev - Instituto de Previdência do Estado do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/ipe-prev-rs-retifica-concurso-publico-com-salarios-de-ate-10-mil",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Previdência do Estado do Rio Grande do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Previdência do Estado do Rio Grande do Sul - PR"
+  },
+  {
     "id": "UG9sw61jaWEgUGVuYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3BvbGljaWEtcGVuYWwtcnMtcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1jb25jdXJzby1jb20tdmFnYXMtcGFyYS1uaXZlbC1tZWRpby1lLXN1cGVyaW9y",
     "orgao": "Polícia Penal",
     "link": "https://www.pciconcursos.com.br/noticias/policia-penal-rs-publica-edital-retificado-de-concurso-com-vagas-para-nivel-medio-e-superior",
@@ -868,21 +883,6 @@
     "data_encerramento": "12/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBDYXDDo28gZG8gTGXDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1jYXBhby1kby1sZWFvLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFzc2lzdGVudGUtbGVnaXNsYXRpdm8tZS1jb250YWRvcg==",
-    "orgao": "Câmara de Capão do Leão",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-capao-do-leao-rs-abre-concurso-publico-para-assistente-legislativo-e-contador",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Capão do Leão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "30/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Capão do Leão - PR"
   },
   {
     "id": "Q1JRLVYgLSBDb25zZWxobyBSZWdpb25hbCBkZSBRdcOtbWljYSBkYSA1wqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JxLXYtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTc2MDA=",
@@ -1170,21 +1170,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SVBFIFByZXYgLSBJbnN0aXR1dG8gZGUgUHJldmlkw6puY2lhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaXBlLXByZXYtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwLW1pbA==",
-    "orgao": "IPE Prev - Instituto de Previdência do Estado do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/ipe-prev-rs-retifica-concurso-publico-com-salarios-de-ate-10-mil",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Previdência do Estado do Rio Grande do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Previdência do Estado do Rio Grande do Sul - PR"
-  },
-  {
     "id": "UEdNIC0gUHJvY3VyYWRvcmlhLUdlcmFsIGRvIE11bmljw61waW8gZGUgQ2Fub2FzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wZ20tZGUtY2Fub2FzLXJzLWFicmUtY29uY3Vyc28tcGFyYS1wcm9jdXJhZG9yLW11bmljaXBhbA==",
     "orgao": "PGM - Procuradoria-Geral do Município de Canoas",
     "link": "https://www.pciconcursos.com.br/noticias/pgm-de-canoas-rs-abre-concurso-para-procurador-municipal",
@@ -1361,6 +1346,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "29/05/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cerro Branco - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDZXJybyBCcmFuY29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2Vycm8tYnJhbmNvLXJzLWFicmUtc2VsZWNhby1wYXJhLWF1eGlsaWFyLWVtLXNhdWRlLWJ1Y2Fs",
+    "orgao": "Prefeitura de Cerro Branco",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-branco-rs-abre-selecao-para-auxiliar-em-saude-bucal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cerro Branco",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Cerro Branco - PR"
   },
@@ -1635,6 +1635,21 @@
     "localizacao": "São Sepé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTZXRlIGRlIFNldGVtYnJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNldGUtZGUtc2V0ZW1icm8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtZW5nZW5oZWlyby1jaXZpbA==",
+    "orgao": "Prefeitura de Sete de Setembro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-de-setembro-rs-abre-selecao-para-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Sete de Setembro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Sete de Setembro - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBXZXN0ZsOhbGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXdlc3RmYWxpYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS04LTMtbWls",
     "orgao": "Prefeitura de Westfália",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-westfalia-rs-abre-concurso-publico-com-salarios-de-ate-8-3-mil",
@@ -1723,6 +1738,21 @@
     "data_encerramento": "05/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
+    "orgao": "Câmara de Palhoça",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-retifica-edital-de-concurso-publico",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Palhoça",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palhoça - PR"
   },
   {
     "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIFVydXNzYW5nYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvc2FtYWUtZGUtdXJ1c3NhbmdhLXNjLWFicmUtY29uY3Vyc28tY29tLTEyLXZhZ2FzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
@@ -1828,21 +1858,6 @@
     "data_encerramento": "19/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "Q01QIC0gQ8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
-    "orgao": "CMP - Câmara de Palhoça",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-retifica-edital-de-concurso-publico",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Palhoça",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Palhoça - PR"
   },
   {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWFzc2lzdGVudGUtZGUtbGFib3JhdG9yaW8taS1uby1oZW1vc2MtZW0tZmxvcmlhbm9wb2xpcw==",
@@ -2073,6 +2088,21 @@
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbWF0ZW1hdGljYS1uby1jYW1wdXMtc2FvLWZyYW5jaXNjby1kby1zdWw=",
     "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-selecao-para-professor-substituto-de-matematica-no-campus-sao-francisco-do-sul",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLWVtLWNhbWJvcml1",
+    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vagas-para-professores-substitutos-em-camboriu",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Várias",
@@ -2428,6 +2458,21 @@
     "data_encerramento": "10/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Monte Carlo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIE5lcmV1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByZXNpZGVudGUtbmVyZXUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTgwMzY=",
+    "orgao": "Prefeitura de Presidente Nereu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-nereu-sc-abre-processo-seletivo-com-salarios-de-ate-8036",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Presidente Nereu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Presidente Nereu - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFzc2lzdGVudGUtc29jaWFs",
