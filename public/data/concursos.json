@@ -135,6 +135,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "RUZPTU0gLSBFc2NvbGFzIGRlIEZvcm1hw6fDo28gZGUgT2ZpY2lhaXMgZGEgTWFyaW5oYSBNZXJjYW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1hLWVzY29sYXMtZGUtZm9ybWFjYW8tZGUtb2ZpY2lhaXMtZGEtbWFyaW5oYS1tZXJjYW50ZQ==",
+    "orgao": "EFOMM - Escolas de Formação de Oficiais da Marinha Mercante",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLTIzNS12YWdhcy1kZS1uaXZlbC1tZWRpby1wYXJhLW8tY3Vyc28tZGUtZm9ybWFjYW8tZGUtc2FyZ2VudG9z",
     "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
@@ -283,6 +298,21 @@
     "data_encerramento": "12/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1iw6lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtYmUtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTE0MDg4",
+    "orgao": "Prefeitura de Cambé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-concurso-publico-com-remuneracoes-de-ate-14088",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cambé",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cambé - PR"
   },
   {
     "id": "QU1TIC0gQXV0YXJxdWlhIE11bmljaXBhbCBkZSBTYcO6ZGUgZGUgQ2FtYmlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvYXV0YXJxdWlhLW11bmljaXBhbC1kZS1zYXVkZS1kZS1jYW1iaXJhLXByLWFudW5jaWEtY29uY3Vyc28tcHVibGljby1wYXJhLWFnZW50ZXMtZGUtc2F1ZGUtZS1kZS1lbmRlbWlhcw==",
@@ -525,21 +555,6 @@
     "localizacao": "Balsa Nova - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1iw6lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtYmUtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTE0MDg4",
-    "orgao": "Prefeitura de Cambé",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-concurso-publico-com-remuneracoes-de-ate-14088",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cambé",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cambé - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1iw6lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtYmUtcHItYWJyZS1zZWxlY2FvLWNvbS12YWdhcy1wYXJhLW1lZGljb3M=",
     "orgao": "Prefeitura de Cambé",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-selecao-com-vagas-para-medicos",
@@ -733,6 +748,21 @@
     "data_encerramento": "18/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Realeza - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tb3RvcmlzdGFzLWRlLXRyYW5zcG9ydGUtZXNjb2xhcg==",
+    "orgao": "Prefeitura de Rio Negro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negro-pr-abre-processo-seletivo-para-motoristas-de-transporte-escolar",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Negro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Negro - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWxnYWRvIEZpbGhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbGdhZG8tZmlsaG8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEyMTE1",
@@ -1350,6 +1380,21 @@
     "localizacao": "São Sepé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYXBpcmFuZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FwaXJhbmdhLXJzLWFicmUtc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0zMjYy",
+    "orgao": "Prefeitura de Sapiranga",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sapiranga-rs-abre-selecoes-com-salarios-de-ate-3262",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Sapiranga",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Sapiranga - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTZXRlIGRlIFNldGVtYnJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNldGUtZGUtc2V0ZW1icm8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtZW5nZW5oZWlyby1jaXZpbA==",
     "orgao": "Prefeitura de Sete de Setembro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-de-setembro-rs-abre-selecao-para-engenheiro-civil",
@@ -1378,6 +1423,21 @@
     "data_encerramento": "08/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tavares - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWaWxhIE5vdmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpbGEtbm92YS1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1hcnRlcw==",
+    "orgao": "Prefeitura de Vila Nova do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-processo-seletivo-para-professor-de-artes",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vila Nova do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vila Nova do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBXZXN0ZsOhbGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXdlc3RmYWxpYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS04LTMtbWls",
