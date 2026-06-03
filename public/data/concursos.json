@@ -675,9 +675,9 @@
     "localizacao": "Guaíra - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJcG9yw6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXBvcmEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtZGl2ZXJzb3Mtbml2ZWlzLWRlLWVzY29sYXJpZGFkZQ==",
+    "id": "UHJlZmVpdHVyYSBkZSBJcG9yw6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXBvcmEtcHItcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
     "orgao": "Prefeitura de Iporã",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-pr-abre-concurso-publico-para-diversos-niveis-de-escolaridade",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-pr-retifica-edital-de-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Iporã",
@@ -1005,6 +1005,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3Mtbm8tY2FtcHVzLWFsdm9yYWRh",
+    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professores-substitutos-no-campus-alvorada",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1jb250YWJpbGlkYWRlLW5vLWNhbXB1cy1vc29yaW8=",
+    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-selecao-para-professor-substituto-de-contabilidade-no-campus-osorio",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1tYXRlbWF0aWNhLWVtLWNoYXJxdWVhZGFz",
     "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
     "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-de-matematica-em-charqueadas",
@@ -1020,9 +1050,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1lbS1zYXBpcmFuZ2E=",
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLXJldGlmaWNhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZW0tc2FwaXJhbmdh",
     "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-com-vaga-para-professor-substituto-em-sapiranga",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-retifica-processo-seletivo-com-vaga-para-professor-substituto-em-sapiranga",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Várias",
@@ -1108,6 +1138,21 @@
     "data_encerramento": "19/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Boa Vista do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCb3Nzb3JvY2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9zc29yb2NhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1maXNjYWwtZGUtdHJpYnV0b3M=",
+    "orgao": "Prefeitura de Bossoroca",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bossoroca-rs-abre-processo-seletivo-para-fiscal-de-tributos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bossoroca",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bossoroca - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDw6JuZGlkbyBHb2TDs2lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZGlkby1nb2RvaS1ycy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQwMTU=",
@@ -1200,6 +1245,21 @@
     "localizacao": "Dois Irmãos - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBEb25hIEZyYW5jaXNjYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1kb25hLWZyYW5jaXNjYS1ycy1hYnJlLXZhZ2EtcGFyYS1saWNlbmNpYWRvci1hbWJpZW50YWw=",
+    "orgao": "Prefeitura de Dona Francisca",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dona-francisca-rs-abre-vaga-para-licenciador-ambiental",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Dona Francisca",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Dona Francisca - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhIFZlbGhhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtdmVsaGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjY0Nw==",
     "orgao": "Prefeitura de Estrela Velha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-velha-rs-abre-concurso-publico-com-salarios-de-ate-6647",
@@ -1245,6 +1305,21 @@
     "localizacao": "Gramado dos Loureiros - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXMtZGUtYXR1YWNhbw==",
+    "orgao": "Prefeitura de Itaqui",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-abre-selecao-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itaqui",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itaqui - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdm9yw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXZvcmEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYS1wYXJhLW9maWNpbmVpcm8=",
     "orgao": "Prefeitura de Ivorá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivora-rs-abre-processo-seletivo-com-vaga-para-oficineiro",
@@ -1273,6 +1348,21 @@
     "data_encerramento": "09/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Jari - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJhdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJhdS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1vcGVyYWRvcmVzLWRlLWVxdWlwYW1lbnRvcy1yb2Rvdmlhcmlvcw==",
+    "orgao": "Prefeitura de Marau",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-rs-abre-selecao-para-operadores-de-equipamentos-rodoviarios",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Marau",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Marau - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJpYW5hIFBpbWVudGVsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcmlhbmEtcGltZW50ZWwtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTIzNA==",
@@ -1410,6 +1500,21 @@
     "localizacao": "Tavares - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmFtYW5kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyYW1hbmRhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1jYWRhc3RyYWRvci1yZXVyYg==",
+    "orgao": "Prefeitura de Tramandaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tramandai-rs-abre-selecao-para-cadastrador-reurb",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tramandaí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tramandaí - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBWaWxhIE5vdmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpbGEtbm92YS1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1hcnRlcw==",
     "orgao": "Prefeitura de Vila Nova do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-processo-seletivo-para-professor-de-artes",
@@ -1488,6 +1593,21 @@
     "id": "VUZSR1MgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdWZyZ3MtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS0xNS12YWdhcy1wYXJhLXByb2Zlc3Nvci1kby1tYWdpc3RlcmlvLXN1cGVyaW9y",
     "orgao": "UFRGS - Universidade Federal do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/ufrgs-rs-abre-concurso-publico-com-15-vagas-para-professor-do-magisterio-superior",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZSR1MgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdWZyZ3MtcnMtYWJyZS0xNS12YWdhcy1lbS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yLWRvLW1hZ2lzdGVyaW8tc3VwZXJpb3I=",
+    "orgao": "UFRGS - Universidade Federal do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/ufrgs-rs-abre-15-vagas-em-concurso-publico-para-professor-do-magisterio-superior",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Várias",
@@ -1933,6 +2053,36 @@
     "data_encerramento": "20/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bom Jardim da Serra - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtZWR1Y2Fkb3Itc29jaWFs",
+    "orgao": "Prefeitura de Campos Novos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-selecao-para-o-cargo-de-educador-social",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Campos Novos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campos Novos - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtbGluZ3VhLXBvcnR1Z3Vlc2E=",
+    "orgao": "Prefeitura de Campos Novos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-processo-seletivo-para-professor-de-lingua-portuguesa",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Campos Novos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campos Novos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDZWxzbyBSYW1vc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jZWxzby1yYW1vcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbml2ZWwtc3VwZXJpb3I=",
