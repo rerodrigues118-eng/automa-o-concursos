@@ -135,21 +135,6 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "RUZPTU0gLSBFc2NvbGFzIGRlIEZvcm1hw6fDo28gZGUgT2ZpY2lhaXMgZGEgTWFyaW5oYSBNZXJjYW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1hLWVzY29sYXMtZGUtZm9ybWFjYW8tZGUtb2ZpY2lhaXMtZGEtbWFyaW5oYS1tZXJjYW50ZQ==",
-    "orgao": "EFOMM - Escolas de Formação de Oficiais da Marinha Mercante",
-    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
     "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
     "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
@@ -176,6 +161,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "RUZPTU0gLSBFc2NvbGFzIGRlIEZvcm1hw6fDo28gZGUgT2ZpY2lhaXMgZGEgTWFyaW5oYSBNZXJjYW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1hLWVzY29sYXMtZGUtZm9ybWFjYW8tZGUtb2ZpY2lhaXMtZGEtbWFyaW5oYS1tZXJjYW50ZQ==",
+    "orgao": "EFOMM - Escolas de Formação de Oficiais da Marinha Mercante",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-processo-seletivo-com-vagas-para-a-escolas-de-formacao-de-oficiais-da-marinha-mercante",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -870,21 +870,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3M=",
-    "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/unioeste-pr-abre-processo-seletivo-para-agentes-universitarios",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "VVRGUFIgLSBVbml2ZXJzaWRhZGUgVGVjbm9sw7NnaWNhIEZlZGVyYWwgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdXRmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLWVtLWNhbXBvLW1vdXJhbw==",
     "orgao": "UTFPR - Universidade Tecnológica Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/utfpr-abre-processo-seletivo-para-professores-substitutos-em-campo-mourao",
@@ -1035,36 +1020,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtc2VsZWNvZXMtcGFyYS1wcm9mZXNzb3Jlcy1zdWJzdGl0dXRvcy1uby1jYW1wdXMtZ3JhdmF0YWk=",
-    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-selecoes-para-professores-substitutos-no-campus-gravatai",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWZpc2ljYS1uby1jYW1wdXMtdmVuYW5jaW8tYWlyZXM=",
-    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-selecao-para-professor-substituto-de-fisica-no-campus-venancio-aires",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1lbS1zYXBpcmFuZ2E=",
     "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
     "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-com-vaga-para-professor-substituto-em-sapiranga",
@@ -1138,21 +1093,6 @@
     "data_encerramento": "09/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bagé - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYWPDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmFjYW8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtbW9uaXRvci1lc2NvbGFy",
-    "orgao": "Prefeitura de Barracão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barracao-rs-abre-selecao-para-monitor-escolar",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barracão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barracão - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTgxMDI=",
@@ -1455,21 +1395,6 @@
     "localizacao": "Sapiranga - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTZXRlIGRlIFNldGVtYnJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNldGUtZGUtc2V0ZW1icm8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtZW5nZW5oZWlyby1jaXZpbA==",
-    "orgao": "Prefeitura de Sete de Setembro",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sete-de-setembro-rs-abre-selecao-para-engenheiro-civil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Sete de Setembro",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Sete de Setembro - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtc2VydmVudGU=",
     "orgao": "Prefeitura de Tavares",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-abre-processo-seletivo-para-o-cargo-de-servente",
@@ -1603,21 +1528,6 @@
     "data_encerramento": "05/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Palhoça - PR"
-  },
-  {
-    "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIFVydXNzYW5nYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvc2FtYWUtZGUtdXJ1c3NhbmdhLXNjLWFicmUtY29uY3Vyc28tY29tLTEyLXZhZ2FzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Urussanga",
-    "link": "https://www.pciconcursos.com.br/noticias/samae-de-urussanga-sc-abre-concurso-com-12-vagas-e-cadastro-de-reserva",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBBcnZvcmVkb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWFydm9yZWRvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWNvbnRhYmlsaXN0YQ==",
@@ -1830,21 +1740,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbWF0ZW1hdGljYS1uby1jYW1wdXMtYmx1bWVuYXU=",
-    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-de-matematica-no-campus-blumenau",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbGV0cmFzLXBvcnR1Z3Vlcy1pbmdsZXMtZW0tc2FvLWZyYW5jaXNjby1kby1zdWw=",
     "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-selecao-para-professor-substituto-de-letras-portugues-ingles-em-sao-francisco-do-sul",
@@ -1991,21 +1886,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZTQyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZzYy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLXZpc2l0YW50ZXM=",
-    "orgao": "IFSC - Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsc-sc-abre-processo-seletivo-com-vagas-para-professores-visitantes",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2216,21 +2096,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "18/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Iomerê - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJb21lcsOqaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWlvbWVyZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTc1Ng==",
-    "orgao": "Prefeitura de Iomerê",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iomere-sc-abre-processo-seletivo-com-salarios-de-ate-5756",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Iomerê",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Iomerê - PR"
   },
@@ -2565,6 +2430,21 @@
     "localizacao": "Anchieta - PR"
   },
   {
+    "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIFVydXNzYW5nYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvc2FtYWUtZGUtdXJ1c3NhbmdhLXNjLWFicmUtY29uY3Vyc28tY29tLTEyLXZhZ2FzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Urussanga",
+    "link": "https://www.pciconcursos.com.br/noticias/samae-de-urussanga-sc-abre-concurso-com-12-vagas-e-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VURFU0MgLSBGdW5kYcOnw6NvIFVuaXZlcnNpZGFkZSBkbyBFc3RhZG8gZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VkZXNjLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3M=",
     "orgao": "UDESC - Fundação Universidade do Estado de Santa Catarina",
     "link": "https://www.pciconcursos.com.br/noticias/udesc-sc-abre-processo-seletivo-com-vagas-para-professores-substitutos",
@@ -2578,35 +2458,5 @@
     "data_encerramento": "07/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Estado de Santa Catarina - PR"
-  },
-  {
-    "id": "VUZGUyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRhIEZyb250ZWlyYSBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmZnMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3MtZW0tY2hhcGVjbw==",
-    "orgao": "UFFS - Universidade Federal da Fronteira Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/uffs-sc-abre-selecao-para-professores-substitutos-em-chapeco",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VUZTQyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1jaWVuY2lhLWRhLWNvbXB1dGFjYW8tZW0tYXJhcmFuZ3Vh",
-    "orgao": "UFSC - Universidade Federal de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ufsc-abre-processo-seletivo-para-professor-substituto-de-ciencia-da-computacao-em-ararangua",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   }
 ]
