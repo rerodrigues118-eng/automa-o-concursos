@@ -150,6 +150,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
+    "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
+    "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLTIzNS12YWdhcy1kZS1uaXZlbC1tZWRpby1wYXJhLW8tY3Vyc28tZGUtZm9ybWFjYW8tZGUtc2FyZ2VudG9z",
     "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
@@ -840,6 +855,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS12YWdhLXBhcmEtdGVjbmljby1lbS1sYWJvcmF0b3Jpby1uYS1hcmVhLWRlLWJpb3F1aW1pY2EtZS1iaW90ZWNub2xvZ2lh",
+    "orgao": "UEL - Universidade Estadual de Londrina",
+    "link": "https://www.pciconcursos.com.br/noticias/uel-pr-abre-vaga-para-tecnico-em-laboratorio-na-area-de-bioquimica-e-biotecnologia",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3M=",
     "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/unioeste-pr-abre-processo-seletivo-para-agentes-universitarios",
@@ -911,6 +941,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "06/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RE1BRSAtIERlcGFydGFtZW50byBNdW5pY2lwYWwgZGUgw4FndWEgZSBFc2dvdG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9kbWFlLWRlLXBvcnRvLWFsZWdyZS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJlZW5jaGVyLXZhZ2FzLWUtZm9ybWFyLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "DMAE - Departamento Municipal de Água e Esgotos",
+    "link": "https://www.pciconcursos.com.br/noticias/dmae-de-porto-alegre-rs-abre-processo-seletivo-para-preencher-vagas-e-formar-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1183,6 +1228,21 @@
     "data_encerramento": "11/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ciríaco - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vaga-em-processo-seletivo-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBEb2lzIElybcOjb3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG9pcy1pcm1hb3MtcnMtYWJyZS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
@@ -2070,6 +2130,21 @@
     "localizacao": "Fraiburgo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1lLW1lZGljby1kZS1zYXVkZS1kYS1mYW1pbGlh",
+    "orgao": "Prefeitura de Fraiburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processos-seletivos-para-tecnico-de-enfermagem-e-medico-de-saude-da-familia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fraiburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fraiburgo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHYXJvcGFiYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nYXJvcGFiYS1zYy1kaXZ1bGdhLWVkaXRhbC1yZXRpZmljYWRvLWRlLXByb2Nlc3NvLXNlbGV0aXZv",
     "orgao": "Prefeitura de Garopaba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garopaba-sc-divulga-edital-retificado-de-processo-seletivo",
@@ -2310,6 +2385,21 @@
     "localizacao": "Monte Carlo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWx6aW5ob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oYWx6aW5oby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWVkdWNhdGl2bw==",
+    "orgao": "Prefeitura de Pinhalzinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sc-abre-processo-seletivo-para-agente-educativo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhalzinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhalzinho - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIE5lcmV1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByZXNpZGVudGUtbmVyZXUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTgwMzY=",
     "orgao": "Prefeitura de Presidente Nereu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-nereu-sc-abre-processo-seletivo-com-salarios-de-ate-8036",
@@ -2443,6 +2533,21 @@
     "data_encerramento": "08/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Urubici - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBYYW54ZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS14YW54ZXJlLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Xanxerê",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xanxere-sc-abre-selecao-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Xanxerê",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Xanxerê - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgQW5jaGlldGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZS1jYW1hcmEtZGUtYW5jaGlldGEtc2MtYWJyZW0tZWRpdGFpcy1jb20tc2FsYXJpb3MtZGUtYXRlLTY0NDE=",

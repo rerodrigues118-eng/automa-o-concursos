@@ -930,6 +930,99 @@
     }
   },
   {
+    "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
+    "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
+    "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão APS - Associação das Pioneiras Sociais/Rede SARAH."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+APS+-+Associação+das+Pioneiras+Sociais/Rede+SARAH"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+APS+-+Associação+das+Pioneiras+Sociais/Rede+SARAH"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/APS+-+Associação+das+Pioneiras+Sociais/Rede+SARAH"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLTIzNS12YWdhcy1kZS1uaXZlbC1tZWRpby1wYXJhLW8tY3Vyc28tZGUtZm9ybWFjYW8tZGUtc2FyZ2VudG9z",
     "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
@@ -5208,6 +5301,99 @@
     }
   },
   {
+    "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS12YWdhLXBhcmEtdGVjbmljby1lbS1sYWJvcmF0b3Jpby1uYS1hcmVhLWRlLWJpb3F1aW1pY2EtZS1iaW90ZWNub2xvZ2lh",
+    "orgao": "UEL - Universidade Estadual de Londrina",
+    "link": "https://www.pciconcursos.com.br/noticias/uel-pr-abre-vaga-para-tecnico-em-laboratorio-na-area-de-bioquimica-e-biotecnologia",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão UEL - Universidade Estadual de Londrina."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+UEL+-+Universidade+Estadual+de+Londrina"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+UEL+-+Universidade+Estadual+de+Londrina"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/UEL+-+Universidade+Estadual+de+Londrina"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3M=",
     "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/unioeste-pr-abre-processo-seletivo-para-agentes-universitarios",
@@ -5634,6 +5820,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/CRQ-V+-+Conselho+Regional+de+Química+da+5ª+Região"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "RE1BRSAtIERlcGFydGFtZW50byBNdW5pY2lwYWwgZGUgw4FndWEgZSBFc2dvdG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9kbWFlLWRlLXBvcnRvLWFsZWdyZS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJlZW5jaGVyLXZhZ2FzLWUtZm9ybWFyLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "DMAE - Departamento Municipal de Água e Esgotos",
+    "link": "https://www.pciconcursos.com.br/noticias/dmae-de-porto-alegre-rs-abre-processo-seletivo-para-preencher-vagas-e-formar-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão DMAE - Departamento Municipal de Água e Esgotos."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+DMAE+-+Departamento+Municipal+de+Água+e+Esgotos"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+DMAE+-+Departamento+Municipal+de+Água+e+Esgotos"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/DMAE+-+Departamento+Municipal+de+Água+e+Esgotos"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -7308,6 +7587,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Ciríaco"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vaga-em-processo-seletivo-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Crissiumal."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Crissiumal"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Crissiumal"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Crissiumal"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -12834,6 +13206,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1lLW1lZGljby1kZS1zYXVkZS1kYS1mYW1pbGlh",
+    "orgao": "Prefeitura de Fraiburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processos-seletivos-para-tecnico-de-enfermagem-e-medico-de-saude-da-familia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fraiburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fraiburgo - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Fraiburgo."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Fraiburgo"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Fraiburgo"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Fraiburgo"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHYXJvcGFiYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nYXJvcGFiYS1zYy1kaXZ1bGdhLWVkaXRhbC1yZXRpZmljYWRvLWRlLXByb2Nlc3NvLXNlbGV0aXZv",
     "orgao": "Prefeitura de Garopaba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garopaba-sc-divulga-edital-retificado-de-processo-seletivo",
@@ -14322,6 +14787,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWx6aW5ob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oYWx6aW5oby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWVkdWNhdGl2bw==",
+    "orgao": "Prefeitura de Pinhalzinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sc-abre-processo-seletivo-para-agente-educativo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhalzinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhalzinho - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Pinhalzinho."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Pinhalzinho"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Pinhalzinho"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Pinhalzinho"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIE5lcmV1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByZXNpZGVudGUtbmVyZXUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTgwMzY=",
     "orgao": "Prefeitura de Presidente Nereu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-nereu-sc-abre-processo-seletivo-com-salarios-de-ate-8036",
@@ -15120,6 +15678,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Urubici"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBYYW54ZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS14YW54ZXJlLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Xanxerê",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xanxere-sc-abre-selecao-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Xanxerê",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Xanxerê - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Xanxerê."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Xanxerê"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Xanxerê"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Xanxerê"
         },
         {
           "titulo": "Banco de Questões Comentadas",
