@@ -765,6 +765,21 @@
     "localizacao": "Iretama - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJhbmFwb2VtYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhbmFwb2VtYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMzU5Nw==",
+    "orgao": "Prefeitura de Paranapoema",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paranapoema-pr-abre-concurso-publico-com-salarios-de-ate-13597",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paranapoema",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paranapoema - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYXVsYSBGcmVpdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhdWxhLWZyZWl0YXMtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Paula Freitas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paula-freitas-pr-abre-processo-seletivo-para-professores",
@@ -825,9 +840,9 @@
     "localizacao": "Rio Negro - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTYWxnYWRvIEZpbGhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbGdhZG8tZmlsaG8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEyMTE1",
+    "id": "UHJlZmVpdHVyYSBkZSBTYWxnYWRvIEZpbGhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbGdhZG8tZmlsaG8tcHItZGl2dWxnYS1yZXRpZmljYWNhby1kZS1wcm9jZXNzby1zZWxldGl2bw==",
     "orgao": "Prefeitura de Salgado Filho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salgado-filho-pr-abre-processo-seletivo-com-salarios-de-ate-12115",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salgado-filho-pr-divulga-retificacao-de-processo-seletivo",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Salgado Filho",
@@ -1530,6 +1545,21 @@
     "localizacao": "Nova Candelária - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFBldHLDs3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcGV0cm9wb2xpcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1xdWF0cm8tdmFnYXM=",
+    "orgao": "Prefeitura de Nova Petrópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-petropolis-rs-abre-processo-seletivo-com-quatro-vagas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Petrópolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Petrópolis - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtbWVkaWNvLXBlcml0bw==",
     "orgao": "Prefeitura de Palmares do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-selecao-para-o-cargo-de-medico-perito",
@@ -1556,6 +1586,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "08/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pelotas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYW51bmNpYS1zZWxlY2FvLWNvbS12YWdhcy1wYXJhLXRyYXRhZG9yLWRlLWFuaW1haXM=",
+    "orgao": "Prefeitura de Pelotas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-anuncia-selecao-com-vagas-para-tratador-de-animais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pelotas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pelotas - PR"
   },
@@ -1768,6 +1813,21 @@
     "data_encerramento": "19/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Arvoredo - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBDdXJpdGliYW5vc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWN1cml0aWJhbm9zLXNjLWFicmUtY29uY3Vyc28tcGFyYS1wcm9jdXJhZG9yLWp1cmlkaWNvLWUtY29udHJvbGFkb3ItaW50ZXJubw==",
+    "orgao": "Câmara de Curitibanos",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-curitibanos-sc-abre-concurso-para-procurador-juridico-e-controlador-interno",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": false,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBpcmF0dWJhLXNjLWFicmUtdmFnYS1lbS1jb25jdXJzby1wdWJsaWNvLXBhcmEtc2VjcmV0YXJpby1nZXJhbA==",
@@ -2173,6 +2233,21 @@
     "data_encerramento": "12/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Celso Ramos - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDb25jw7NyZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbmNvcmRpYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Concórdia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-concordia-sc-abre-processo-seletivo-para-a-secretaria-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Concórdia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Concórdia - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDb3J1cMOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvcnVwYS1zYy1yZXRpZmljYS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTExLW1pbA==",
