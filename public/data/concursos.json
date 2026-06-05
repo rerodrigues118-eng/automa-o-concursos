@@ -690,6 +690,21 @@
     "localizacao": "Cruz Machado - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBEb3V0b3IgVWx5c3Nlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1kb3V0b3ItdWx5c3Nlcy1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDQ4Nw==",
+    "orgao": "Prefeitura de Doutor Ulysses",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-ulysses-pr-abre-processo-seletivo-com-salarios-de-ate-4487",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Doutor Ulysses",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Doutor Ulysses - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBGb3ogZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3otZG8taWd1YWN1LXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIxLW1pbA==",
     "orgao": "Prefeitura de Foz do Iguaçu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-foz-do-iguacu-pr-abre-concurso-publico-com-salarios-de-ate-21-mil",
@@ -1665,6 +1680,21 @@
     "localizacao": "Tramandaí - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUdXBhcmVuZGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVwYXJlbmRpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hdGVuZGVudGUtZGEtZWR1Y2FjYW8tZS1tb25pdG9yLWRlLXRyYW5zcG9ydGUtZXNjb2xhcg==",
+    "orgao": "Prefeitura de Tuparendi",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tuparendi-rs-abre-processo-seletivo-para-atendente-da-educacao-e-monitor-de-transporte-escolar",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tuparendi",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tuparendi - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBWaWxhIE5vdmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpbGEtbm92YS1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1hcnRlcw==",
     "orgao": "Prefeitura de Vila Nova do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-processo-seletivo-para-professor-de-artes",
@@ -1931,6 +1961,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "21/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWNvbmR1dG9yLXNvY29ycmlzdGEtZW0tdmlkZWlyYQ==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-condutor-socorrista-em-videira",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tYXV4aWxpYXItZGUtcmVndWxhY2FvLW1lZGljYS1uby1zYW11LWRlLWxhZ2Vz",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica-no-samu-de-lages",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2368,6 +2428,21 @@
     "data_encerramento": "08/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Garopaba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHYXNwYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FzcGFyLXNjLXJldGlmaWNhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjMtbWls",
+    "orgao": "Prefeitura de Gaspar",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gaspar-sc-retifica-processo-seletivo-com-salarios-de-ate-23-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gaspar",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gaspar - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWwgZCdPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1oZXJ2YWwtZG9lc3RlLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBzaWNvbG9nbw==",
