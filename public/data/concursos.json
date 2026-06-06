@@ -1155,6 +1155,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SVBBTSAtIEluc3RpdHV0byBkZSBQcmV2aWTDqm5jaWEgZSBBc3Npc3TDqm5jaWEgTXVuaWNpcGFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pcGFtLWRlLWNheGlhcy1kby1zdWwtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTEtbWls",
+    "orgao": "IPAM - Instituto de Previdência e Assistência Municipal",
+    "link": "https://www.pciconcursos.com.br/noticias/ipam-de-caxias-do-sul-rs-abre-concurso-publico-com-salarios-de-ate-11-mil",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Previdência",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Previdência - PR"
+  },
+  {
     "id": "UEdNIC0gUHJvY3VyYWRvcmlhLUdlcmFsIGRvIE11bmljw61waW8gZGUgQ2Fub2FzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wZ20tZGUtY2Fub2FzLXJzLWFicmUtY29uY3Vyc28tcGFyYS1wcm9jdXJhZG9yLW11bmljaXBhbA==",
     "orgao": "PGM - Procuradoria-Geral do Município de Canoas",
     "link": "https://www.pciconcursos.com.br/noticias/pgm-de-canoas-rs-abre-concurso-para-procurador-municipal",
@@ -1258,6 +1273,21 @@
     "data_encerramento": "12/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bossoroca - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW5kZWzDoXJpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYW5kZWxhcmlhLXJzLWFicmUtY29uY3Vyc28tZS1wcm9jZXNzby1zZWxldGl2by1jb20tZGl2ZXJzYXMtdmFnYXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Candelária",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candelaria-rs-abre-concurso-e-processo-seletivo-com-diversas-vagas-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Candelária",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Candelária - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDw6JuZGlkbyBHb2TDs2lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZGlkby1nb2RvaS1ycy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQwMTU=",
@@ -1468,6 +1498,21 @@
     "data_encerramento": "09/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Gramado dos Loureiros - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJanXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1panVpLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Ijuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ijui-rs-abre-selecao-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ijuí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ijuí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXMtZGUtYXR1YWNhbw==",
