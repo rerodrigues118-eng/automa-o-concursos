@@ -360,6 +360,21 @@
     "localizacao": "Iporã - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBJdGFpcHVsw6JuZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtaXRhaXB1bGFuZGlhLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXplbGFkb3JhLWUtYXNzaXN0ZW50ZS1hZG1pbmlzdHJhdGl2bw==",
+    "orgao": "Câmara de Itaipulândia",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-itaipulandia-pr-abre-concurso-publico-para-zeladora-e-assistente-administrativo",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Itaipulândia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itaipulândia - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBMaWRpYW7Ds3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtbGlkaWFub3BvbGlzLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLW8tY2FyZ28tZGUtY29udGFkb3I=",
     "orgao": "Câmara de Lidianópolis",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-lidianopolis-pr-abre-concurso-publico-para-o-cargo-de-contador",
@@ -1110,6 +1125,21 @@
     "localizacao": "Bagé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gQ2FkZWFkb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ib2EtdmlzdGEtZG8tY2FkZWFkby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRhLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de Boa Vista do Cadeado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-cadeado-rs-abre-processo-seletivo-para-a-secretaria-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Boa Vista do Cadeado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Boa Vista do Cadeado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTgxMDI=",
     "orgao": "Prefeitura de Boa Vista do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-retifica-concurso-publico-com-salarios-de-ate-8102",
@@ -1485,6 +1515,21 @@
     "localizacao": "Nova Petrópolis - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYSBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWVpcmEtZGFzLW1pc3NvZXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Palmeira das Missões",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmeira-das-missoes-rs-abre-selecao-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palmeira das Missões",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palmeira das Missões - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1kZS1lbmZlcm1hZ2VtLWNvbmR1dG9yLWRlLW1vdG9sYW5jaWE=",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-tecnico-de-enfermagem-condutor-de-motolancia",
@@ -1830,6 +1875,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTiAvIFNBTVVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS1hdXhpbGlhci1kZS1oaWdpZW5pemFjYW8tbm8tc2FtdS1kZS1hcmFyYW5ndWE=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON / SAMU",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-auxiliar-de-higienizacao-no-samu-de-ararangua",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUNNQmlvIC0gSW5zdGl0dXRvIENoaWNvIE1lbmRlcyBkZSBDb25zZXJ2YcOnw6NvIGRhIEJpb2RpdmVyc2lkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pY21iaW8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS10ZW1wb3JhcmlvLWFtYmllbnRhbC1lbS1pdGFqYWk=",
     "orgao": "ICMBio - Instituto Chico Mendes de Conservação da Biodiversidade",
     "link": "https://www.pciconcursos.com.br/noticias/icmbio-sc-abre-processo-seletivo-para-agente-temporario-ambiental-em-itajai",
@@ -2055,9 +2115,9 @@
     "localizacao": "Concórdia - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBEaW9uw61zaW8gQ2VycXVlaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWRpb25pc2lvLWNlcnF1ZWlyYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLW5vLXNhbXU=",
+    "id": "UHJlZmVpdHVyYSBkZSBEaW9uw61zaW8gQ2VycXVlaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWRpb25pc2lvLWNlcnF1ZWlyYS1zYy1yZXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1zYW11",
     "orgao": "Prefeitura de Dionísio Cerqueira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dionisio-cerqueira-sc-abre-selecao-para-cadastro-de-reserva-no-samu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dionisio-cerqueira-sc-republica-edital-de-processo-seletivo-para-o-samu",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Dionísio Cerqueira",
