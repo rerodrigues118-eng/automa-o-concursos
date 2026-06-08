@@ -1530,6 +1530,21 @@
     "localizacao": "Porto Alegre - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLWluc3RydXRvcmVzLWVkdWNhY2lvbmFpcw==",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-selecao-para-instrutores-educacionais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFNlcMOpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1zZXBlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de São Sepé",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-sepe-rs-abre-processo-seletivo-para-a-secretaria-de-educacao",
@@ -2261,6 +2276,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lindóia do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBMaW5kw7NpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbGluZG9pYS1kby1zdWwtc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTc1NjE=",
+    "orgao": "Prefeitura de Lindóia do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoia-do-sul-sc-abre-concurso-com-salarios-de-ate-7561",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Lindóia do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Lindóia do Sul - PR"
   },
