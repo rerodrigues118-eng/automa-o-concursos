@@ -1560,6 +1560,21 @@
     "localizacao": "Marau - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJpYW5hIFBpbWVudGVsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcmlhbmEtcGltZW50ZWwtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtb3BlcmFkb3Jlcy1kZS1tYXF1aW5hcy1lLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Mariana Pimentel",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mariana-pimentel-rs-abre-processos-seletivos-para-operadores-de-maquinas-e-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mariana Pimentel",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mariana Pimentel - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZXV0ZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9ycm8tcmV1dGVyLXJzLWFicmUtc2VsZWNhby1wYXJhLWZpc2NhbC1kZS1vYnJhcw==",
     "orgao": "Prefeitura de Morro Reuter",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-reuter-rs-abre-selecao-para-fiscal-de-obras",
@@ -1903,6 +1918,21 @@
     "data_encerramento": "18/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Barras - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFhhdmFudGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXhhdmFudGluYS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtbml2ZWlzLWZ1bmRhbWVudGFsLWUtc3VwZXJpb3I=",
+    "orgao": "Câmara de Vereadores de Xavantina",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-xavantina-sc-abre-concurso-para-niveis-fundamental-e-superior",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Xavantina",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Xavantina - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBWaXRvciBNZWlyZWxlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXZpdG9yLW1laXJlbGVzLXNjLWFicmUtdmFnYS1wYXJhLWFnZW50ZS1kZS1zZXJ2aWNvcy1nZXJhaXM=",
@@ -2370,6 +2400,21 @@
     "localizacao": "Itapoá - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBKYXJhZ3XDoSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFyYWd1YS1kby1zdWwtc2MtYWJyZS1zZWxlY2FvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjMyMjQ=",
+    "orgao": "Prefeitura de Jaraguá do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-abre-selecao-com-salarios-de-ate-23224",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Jaraguá do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Jaraguá do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBMYXVyZW50aW5vaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhdXJlbnRpbm8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZS12YWdhcy1pbWVkaWF0YXM=",
     "orgao": "Prefeitura de Laurentino",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-laurentino-sc-abre-processo-seletivo-para-cadastro-de-reserva-e-vagas-imediatas",
@@ -2473,6 +2518,21 @@
     "data_encerramento": "10/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Monte Carlo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3VzbyBSZWRvbmRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBvdXNvLXJlZG9uZG8tc2MtYWJyZS1jb25jdXJzby1wYXJhLWVuZ2VuaGVpcm8tYW1iaWVudGFs",
+    "orgao": "Prefeitura de Pouso Redondo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-redondo-sc-abre-concurso-para-engenheiro-ambiental",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pouso Redondo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pouso Redondo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIE5lcmV1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByZXNpZGVudGUtbmVyZXUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTgwMzY=",
