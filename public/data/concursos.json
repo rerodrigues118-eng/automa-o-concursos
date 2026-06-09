@@ -1065,6 +1065,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbWF0ZW1hdGljYS1uby1jYW1wdXMtZmVsaXo=",
+    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Feliz",
+    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professor-substituto-de-matematica-no-campus-feliz",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SVBBTSAtIEluc3RpdHV0byBkZSBQcmV2aWTDqm5jaWEgZSBBc3Npc3TDqm5jaWEgTXVuaWNpcGFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pcGFtLWRlLWNheGlhcy1kby1zdWwtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTEtbWls",
     "orgao": "IPAM - Instituto de Previdência e Assistência Municipal",
     "link": "https://www.pciconcursos.com.br/noticias/ipam-de-caxias-do-sul-rs-abre-concurso-publico-com-salarios-de-ate-11-mil",
@@ -1318,6 +1333,21 @@
     "data_encerramento": "09/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Colorado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYXV4aWxpYXItZGUtZWR1Y2FjYW8taW5mYW50aWw=",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vaga-em-processo-seletivo-para-auxiliar-de-educacao-infantil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBEb2lzIElybcOjb3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG9pcy1pcm1hb3MtcnMtYWJyZS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
@@ -1648,6 +1678,21 @@
     "data_encerramento": "11/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Sinimbu - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtcHJvcnJvZ2EtaW5zY3JpY29lcy1kby1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtc2VydmVudGU=",
+    "orgao": "Prefeitura de Tavares",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-prorroga-inscricoes-do-processo-seletivo-para-o-cargo-de-servente",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tavares",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tavares - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcmFtYW5kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyYW1hbmRhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1jYWRhc3RyYWRvci1yZXVyYg==",
@@ -2518,6 +2563,21 @@
     "data_encerramento": "14/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Schroeder - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUYWnDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YWlvLXNjLWFicmUtc2VsZWNhby1wYXJhLWRpdmVyc29zLW5pdmVpcy1jb20tc2FsYXJpb3MtZGUtYXRlLTExNjcw",
+    "orgao": "Prefeitura de Taió",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taio-sc-abre-selecao-para-diversos-niveis-com-salarios-de-ate-11670",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Taió",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Taió - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBYYW54ZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS14YW54ZXJlLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVz",
