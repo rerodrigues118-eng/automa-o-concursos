@@ -1560,6 +1560,21 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6lyaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2VyaW8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Sério",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serio-rs-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Sério",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Sério - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtY2FyZ28tZGUtcHJvZmVzc29yLWRlLWF0ZW5kaW1lbnRvLWVkdWNhY2lvbmFsLWVzcGVjaWFsaXphZG8=",
     "orgao": "Prefeitura de Sinimbu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sinimbu-rs-abre-selecao-para-cargo-de-professor-de-atendimento-educacional-especializado",
@@ -1815,6 +1830,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q1ZKIC0gQ8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEpvaW52aWxsZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWpvaW52aWxsZS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS05ODI4",
+    "orgao": "CVJ - Câmara de Vereadores de Joinville",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-joinville-sc-abre-concurso-publico-com-salarios-de-ate-9828",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Joinville",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Joinville - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLXN1cGVydmlzb3ItZGUtYXRlbmRpbWVudG8tZW0tZmxvcmlhbm9wb2xpcw==",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-supervisor-de-atendimento-em-florianopolis",
@@ -1933,6 +1963,36 @@
     "data_encerramento": "23/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Previdência Social dos Servidores Públicos do Município de Campo Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSDDgWd1YSBEb2NlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFndWEtZG9jZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de Água Doce",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-doce-sc-abre-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSDDgWd1YSBEb2NlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFndWEtZG9jZS1zYy1hYnJlLWVkaXRhaXMtcGFyYS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
+    "orgao": "Prefeitura de Água Doce",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-doce-sc-abre-editais-para-concurso-publico-e-processo-seletivo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBcmFidXTDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcmFidXRhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS02NzQy",
@@ -2325,6 +2385,21 @@
     "localizacao": "Monte Carlo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBkYSBGdW1hw6dhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLWRhLWZ1bWFjYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1lbnNpbm8=",
+    "orgao": "Prefeitura de Morro da Fumaça",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-da-fumaca-sc-abre-selecao-para-auxiliar-de-ensino",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Morro da Fumaça",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Morro da Fumaça - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQb3VzbyBSZWRvbmRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBvdXNvLXJlZG9uZG8tc2MtYWJyZS1jb25jdXJzby1wYXJhLWVuZ2VuaGVpcm8tYW1iaWVudGFs",
     "orgao": "Prefeitura de Pouso Redondo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-redondo-sc-abre-concurso-para-engenheiro-ambiental",
@@ -2443,6 +2518,21 @@
     "data_encerramento": "12/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Timbé do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmV6ZSBkZSBNYWlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyZXplLWRlLW1haW8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Treze de Maio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-treze-de-maio-sc-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Treze de Maio",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Treze de Maio - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBYYW54ZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS14YW54ZXJlLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVz",
