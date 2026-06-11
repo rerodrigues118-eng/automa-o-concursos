@@ -165,9 +165,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLTIzNS12YWdhcy1kZS1uaXZlbC1tZWRpby1wYXJhLW8tY3Vyc28tZGUtZm9ybWFjYW8tZGUtc2FyZ2VudG9z",
+    "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
     "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-235-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -1275,6 +1275,21 @@
     "localizacao": "Dona Francisca - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS12YWdhLXBhcmEtbWVkaWNvLXBlZGlhdHJh",
+    "orgao": "Prefeitura de Erechim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erechim-rs-abre-vaga-para-medico-pediatra",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Erechim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Erechim - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhIFZlbGhhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtdmVsaGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjY0Nw==",
     "orgao": "Prefeitura de Estrela Velha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-velha-rs-abre-concurso-publico-com-salarios-de-ate-6647",
@@ -1303,6 +1318,21 @@
     "data_encerramento": "11/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fagundes Varela - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGYXhpbmFsIGRvIFNvdHVybm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZmF4aW5hbC1kby1zb3R1cm5vLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hdXhpbGlhci1kZS1lZHVjYWNhby1pbmZhbnRpbA==",
+    "orgao": "Prefeitura de Faxinal do Soturno",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-faxinal-do-soturno-rs-abre-processo-seletivo-para-auxiliar-de-educacao-infantil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Faxinal do Soturno",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Faxinal do Soturno - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHbG9yaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nbG9yaW5oYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1lc3BlY2lhbGlzdGEtZW0tZWR1Y2FjYW8tZXNwZWNpYWw=",
@@ -2295,6 +2325,21 @@
     "localizacao": "Lontras - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBMdXplcm5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWx1emVybmEtc2MtcHVibGljYS1lZGl0YWwtZGUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Luzerna",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luzerna-sc-publica-edital-de-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Luzerna",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Luzerna - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBkYSBGdW1hw6dhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLWRhLWZ1bWFjYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1lbnNpbm8=",
     "orgao": "Prefeitura de Morro da Fumaça",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-da-fumaca-sc-abre-selecao-para-auxiliar-de-ensino",
@@ -2338,6 +2383,21 @@
     "data_encerramento": "12/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Presidente Nereu - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JpbmhvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xODUzOA==",
+    "orgao": "Prefeitura de Rio Negrinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-abre-processo-seletivo-com-salarios-de-ate-18538",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Negrinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Negrinho - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBWZWxvc29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tdmVsb3NvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NzIx",
