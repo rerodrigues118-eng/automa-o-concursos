@@ -900,21 +900,6 @@
     "localizacao": "Sapopema - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUZWzDqm1hY28gQm9yYmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdGVsZW1hY28tYm9yYmEtcHItYWJyZS1jb25jdXJzby1jb20tdmFnYXMtcGFyYS1ndWFyZGEtbXVuaWNpcGFsLWUtYWdlbnRlLWRlLXRyYW5zaXRv",
-    "orgao": "Prefeitura de Telêmaco Borba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-telemaco-borba-pr-abre-concurso-com-vagas-para-guarda-municipal-e-agente-de-transito",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Telêmaco Borba",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Telêmaco Borba - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBYYW1icsOqaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXhhbWJyZS1wci1hYnJlLWNvbmN1cnNvcy1wdWJsaWNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIwOTY5",
     "orgao": "Prefeitura de Xambrê",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xambre-pr-abre-concursos-publicos-com-salarios-de-ate-20969",
@@ -1020,36 +1005,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXZpc2l0YW50ZS1uYS1hcmVhLWRlLXNvY2lvbG9naWEtZS1jaWVuY2lhcy1zb2NpYWlz",
-    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professor-visitante-na-area-de-sociologia-e-ciencias-sociais",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1jb250YWJpbGlkYWRlLW5vLWNhbXB1cy1vc29yaW8=",
-    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-selecao-para-professor-substituto-de-contabilidade-no-campus-osorio",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bCAtIENhbXB1cyBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtbWF0ZW1hdGljYS1uby1jYW1wdXMtZmVsaXo=",
     "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul - Campus Feliz",
     "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professor-substituto-de-matematica-no-campus-feliz",
@@ -1123,21 +1078,6 @@
     "data_encerramento": "15/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alto Alegre - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBBbmRyw6kgZGEgUm9jaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYW5kcmUtZGEtcm9jaGEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1saW5ndWEtcG9ydHVndWVzYQ==",
-    "orgao": "Prefeitura de André da Rocha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andre-da-rocha-rs-abre-processo-seletivo-para-professor-de-lingua-portuguesa",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "André da Rocha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "André da Rocha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbnTDtG5pbyBQcmFkb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbnRvbmlvLXByYWRvLXJzLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDM1Mg==",
@@ -1260,21 +1200,6 @@
     "localizacao": "Cândido Godói - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYXJsb3MgQmFyYm9zYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXJsb3MtYmFyYm9zYS1ycy1wdWJsaWNhLWVkaXRhaXMtcGFyYS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZv",
-    "orgao": "Prefeitura de Carlos Barbosa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carlos-barbosa-rs-publica-editais-para-concurso-e-processo-seletivo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Carlos Barbosa",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/05/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Carlos Barbosa - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXhpYXMgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNheGlhcy1kby1zdWwtcnMtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTExNjE0",
     "orgao": "Prefeitura de Caxias do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caxias-do-sul-rs-abre-concurso-com-salarios-de-ate-11614",
@@ -1350,21 +1275,6 @@
     "localizacao": "Dona Francisca - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS12YWdhcy1kZS1uaXZlbC1mdW5kYW1lbnRhbC1lbS1wcm9jZXNzb3Mtc2VsZXRpdm9z",
-    "orgao": "Prefeitura de Erechim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erechim-rs-abre-vagas-de-nivel-fundamental-em-processos-seletivos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Erechim",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Erechim - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhIFZlbGhhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtdmVsaGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjY0Nw==",
     "orgao": "Prefeitura de Estrela Velha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-velha-rs-abre-concurso-publico-com-salarios-de-ate-6647",
@@ -1393,21 +1303,6 @@
     "data_encerramento": "11/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fagundes Varela - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBHZXTDumxpbyBWYXJnYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2V0dWxpby12YXJnYXMtcnMtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTIwOTc2",
-    "orgao": "Prefeitura de Getúlio Vargas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-getulio-vargas-rs-abre-concurso-com-salarios-de-ate-20976",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Getúlio Vargas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Getúlio Vargas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHbG9yaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nbG9yaW5oYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1lc3BlY2lhbGlzdGEtZW0tZWR1Y2FjYW8tZXNwZWNpYWw=",
@@ -1468,21 +1363,6 @@
     "data_encerramento": "17/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ijuí - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXMtZGUtYXR1YWNhbw==",
-    "orgao": "Prefeitura de Itaqui",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-abre-selecao-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itaqui",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itaqui - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJhdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJhdS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1vcGVyYWRvcmVzLWRlLWVxdWlwYW1lbnRvcy1yb2Rvdmlhcmlvcw==",
@@ -1558,21 +1438,6 @@
     "data_encerramento": "12/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Esperança do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFBldHLDs3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcGV0cm9wb2xpcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1xdWF0cm8tdmFnYXM=",
-    "orgao": "Prefeitura de Nova Petrópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-petropolis-rs-abre-processo-seletivo-com-quatro-vagas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Nova Petrópolis",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Nova Petrópolis - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYSBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWVpcmEtZGFzLW1pc3NvZXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
@@ -1680,21 +1545,6 @@
     "localizacao": "Sinimbu - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUcmFtYW5kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyYW1hbmRhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1jYWRhc3RyYWRvci1yZXVyYg==",
-    "orgao": "Prefeitura de Tramandaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tramandai-rs-abre-selecao-para-cadastrador-reurb",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tramandaí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tramandaí - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUdWN1bmR1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVjdW5kdXZhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIwLW1pbA==",
     "orgao": "Prefeitura de Tucunduva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucunduva-rs-abre-concurso-publico-com-salarios-de-ate-20-mil",
@@ -1723,36 +1573,6 @@
     "data_encerramento": "17/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tuparendi - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBXZXN0ZsOhbGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXdlc3RmYWxpYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS04LTMtbWls",
-    "orgao": "Prefeitura de Westfália",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-westfalia-rs-abre-concurso-publico-com-salarios-de-ate-8-3-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Westfália",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Westfália - PR"
-  },
-  {
-    "id": "VUZGUyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRhIEZyb250ZWlyYSBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmZnMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLW5vLWNhbXB1cy1kZS1lcmVjaGlt",
-    "orgao": "UFFS - Universidade Federal da Fronteira Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/uffs-rs-abre-processo-seletivo-para-professores-substitutos-no-campus-de-erechim",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "VUZQZWwgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnBlbC1ycy1hYnJlLXZhZ2EtZW0tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItdmlzaXRhbnRlLWluZGlnZW5h",
@@ -2021,21 +1841,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "12/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgZGUgRWR1Y2HDp8OjbywgQ2nDqm5jaWEgZSBUZWNub2xvZ2lhIENhdGFyaW5lbnNlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZmMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLW1hdGVtYXRpY2Etbm8tY2FtcHVzLXNhby1iZW50by1kby1zdWw=",
-    "orgao": "IFC - Instituto Federal de Educação, Ciência e Tecnologia Catarinense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-para-professor-substituto-de-matematica-no-campus-sao-bento-do-sul",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2400,21 +2205,6 @@
     "localizacao": "Laurentino - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBMYXVybyBNw7xsbGVyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhdXJvLW11bGxlci1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
-    "orgao": "Prefeitura de Lauro Müller",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lauro-muller-sc-abre-concurso-para-cadastro-de-reserva-de-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lauro",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lauro - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBMaW5kw7NpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbGluZG9pYS1kby1zdWwtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLWNvbWJhdGUtYXMtZW5kZW1pYXMtZS1udXRyaWNpb25pc3Rh",
     "orgao": "Prefeitura de Lindóia do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoia-do-sul-sc-abre-selecao-para-agente-de-combate-as-endemias-e-nutricionista",
@@ -2473,21 +2263,6 @@
     "data_encerramento": "18/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Lontras - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNb250ZSBDYXJsb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tb250ZS1jYXJsby1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjU3NjA=",
-    "orgao": "Prefeitura de Monte Carlo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-carlo-sc-abre-concurso-com-salarios-de-ate-25760",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Monte Carlo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Monte Carlo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBkYSBGdW1hw6dhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLWRhLWZ1bWFjYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1lbnNpbm8=",
