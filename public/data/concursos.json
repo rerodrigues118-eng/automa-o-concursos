@@ -135,6 +135,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1hbnVuY2lhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS04MjM4LXZhZ2FzLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
+    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
     "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
     "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
@@ -960,6 +975,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q1JBIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgQWRtaW5pc3RyYcOnw6NvIGRvIFJpbyBHcmFuZGUgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jcmEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1uaXZlbC1tZWRpby1lLXN1cGVyaW9yLWVtLXBvcnRvLWFsZWdyZQ==",
+    "orgao": "CRA - Conselho Regional de Administração do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/cra-rs-abre-concurso-publico-para-profissionais-de-nivel-medio-e-superior-em-porto-alegre",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q1JRLVYgLSBDb25zZWxobyBSZWdpb25hbCBkZSBRdcOtbWljYSBkYSA1wqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JxLXYtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTc2MDA=",
     "orgao": "CRQ-V - Conselho Regional de Química da 5ª Região",
     "link": "https://www.pciconcursos.com.br/noticias/crq-v-rs-abre-concurso-publico-com-remuneracoes-de-ate-7600",
@@ -1348,6 +1378,21 @@
     "data_encerramento": "17/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ijuí - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJdm90aWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdm90aS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvLWdpbmVjb2xvZ2lzdGE=",
+    "orgao": "Prefeitura de Ivoti",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivoti-rs-abre-processo-seletivo-para-medico-ginecologista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ivoti",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ivoti - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJhdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJhdS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1vcGVyYWRvcmVzLWRlLWVxdWlwYW1lbnRvcy1yb2Rvdmlhcmlvcw==",
