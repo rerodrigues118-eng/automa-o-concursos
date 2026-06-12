@@ -150,6 +150,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "UE5EIC0gUHJvdmEgTmFjaW9uYWwgRG9jZW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJvdmEtbmFjaW9uYWwtZG9jZW50ZS0yMDI2LW9mZXJlY2Utb3BvcnR1bmlkYWRlcy1lbS1kaXZlcnNhcy1hcmVhcy1kYS1lZHVjYWNhby1iYXNpY2E=",
+    "orgao": "PND - Prova Nacional Docente",
+    "link": "https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
     "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
     "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
@@ -508,6 +523,21 @@
     "data_encerramento": "18/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBZ3Vkb3MgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFndWRvcy1kby1zdWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
+    "orgao": "Prefeitura de Agudos do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agudos-do-sul-pr-abre-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Agudos do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Agudos do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbG1pcmFudGUgVGFtYW5kYXLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbG1pcmFudGUtdGFtYW5kYXJlLXByLWFicmUtdmFnYXMtcGFyYS1hZ2VudGUtZGUtYWxpbWVudGFjYW8tZS1wcm9mZXNzb3ItZGUtaW5nbGVz",
@@ -941,6 +971,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtY29uY3Vyc29zLWNvbS12YWdhcy1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3MtZGUtZXhlY3VjYW8tZS1wcm9maXNzaW9uYWlz",
+    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1575,6 +1620,21 @@
     "localizacao": "Sério - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLWRlLWVkdWNhY2FvLWluZmFudGlsLWUtcHJvZmVzc29yLWRlLWVkdWNhY2FvLWJhc2ljYQ==",
+    "orgao": "Prefeitura de Travesseiro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-travesseiro-rs-abre-selecao-para-monitor-de-educacao-infantil-e-professor-de-educacao-basica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Travesseiro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Travesseiro - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUdWN1bmR1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVjdW5kdXZhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIwLW1pbA==",
     "orgao": "Prefeitura de Tucunduva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucunduva-rs-abre-concurso-publico-com-salarios-de-ate-20-mil",
@@ -1588,6 +1648,21 @@
     "data_encerramento": "21/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tucunduva - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUdXBhbmNpcmV0w6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVwYW5jaXJldGEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLWNvbWJhdGUtYXMtZW5kZW1pYXM=",
+    "orgao": "Prefeitura de Tupanciretã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tupancireta-rs-abre-selecao-para-agente-de-combate-as-endemias",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tupanciretã",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tupanciretã - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUdXBhcmVuZGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVwYXJlbmRpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hdGVuZGVudGUtZGEtZWR1Y2FjYW8tZS1tb25pdG9yLWRlLXRyYW5zcG9ydGUtZXNjb2xhcg==",
