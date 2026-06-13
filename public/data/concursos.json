@@ -1755,6 +1755,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWxpbmRvaWEtZG8tc3VsLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3RhLWFkbWluaXN0cmF0aXZvLWUtY29udGFkb3I=",
+    "orgao": "Câmara de Lindoia do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-lindoia-do-sul-sc-abre-concurso-publico-para-analista-administrativo-e-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Lindoia do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lindoia do Sul - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
     "orgao": "Câmara de Palhoça",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-retifica-edital-de-concurso-publico",
@@ -1886,6 +1901,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "21/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2FzLXBhcmEtYXV4aWxpYXItZGUtaGlnaWVuaXphY2FvLWVtLWphcmFndWEtZG8tc3VsLWUtam9pbnZpbGxl",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vagas-para-auxiliar-de-higienizacao-em-jaragua-do-sul-e-joinville",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
