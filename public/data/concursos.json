@@ -195,6 +195,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "RUJTRVJIIC0gRW1wcmVzYSBCcmFzaWxlaXJhIGRlIFNlcnZpw6dvcyBIb3NwaXRhbGFyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Vic2VyaC1kaXNwb25pYmlsaXphLXZhZ2FzLXBhcmEtbWVkaWNvcy1lLWZpc2ljb3MtZW0tYnJhc2lsaWEtcGlhdWktZS1taW5hcy1nZXJhaXM=",
+    "orgao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
+    "link": "https://www.pciconcursos.com.br/noticias/ebserh-disponibiliza-vagas-para-medicos-e-fisicos-em-brasilia-piaui-e-minas-gerais",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
     "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
@@ -431,6 +446,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "18/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLXZpc2l0YW50ZXMtZW0tcGFyYW5hdmFp",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professores-visitantes-em-paranavai",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -673,6 +703,21 @@
     "data_encerramento": "25/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Iretama - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYW5kYWd1YXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hbmRhZ3VhcmktcHItYW51bmNpYS12YWdhLXBhcmEtdGVjbmljby1lbS1zZWd1cmFuY2EtZG8tdHJhYmFsaG8=",
+    "orgao": "Prefeitura de Mandaguari",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mandaguari-pr-anuncia-vaga-para-tecnico-em-seguranca-do-trabalho",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mandaguari",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mandaguari - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJhbmFwb2VtYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhbmFwb2VtYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMzU5Nw==",
@@ -1003,6 +1048,21 @@
     "data_encerramento": "18/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Antônio Prado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBdWd1c3RvIFBlc3RhbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYXVndXN0by1wZXN0YW5hLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtcG9ydHVndWVz",
+    "orgao": "Prefeitura de Augusto Pestana",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-augusto-pestana-rs-abre-processo-seletivo-para-professor-de-portugues",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Augusto Pestana",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Augusto Pestana - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gQ2FkZWFkb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ib2EtdmlzdGEtZG8tY2FkZWFkby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRhLWVkdWNhY2Fv",
@@ -1391,6 +1451,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Sério - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6lyaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2VyaW8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY28tZW0tc2F1ZGUtYnVjYWw=",
+    "orgao": "Prefeitura de Sério",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serio-rs-abre-processo-seletivo-para-tecnico-em-saude-bucal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Sério",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Sério - PR"
   },
@@ -2145,6 +2220,21 @@
     "localizacao": "Morro da Fumaça - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhvcml6b250ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZvLWhvcml6b250ZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDAwMw==",
+    "orgao": "Prefeitura de Novo Horizonte",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-sc-abre-processo-seletivo-com-salarios-de-ate-4003",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Horizonte",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Horizonte - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQb3VzbyBSZWRvbmRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBvdXNvLXJlZG9uZG8tc2MtYWJyZS1jb25jdXJzby1wYXJhLWVuZ2VuaGVpcm8tYW1iaWVudGFs",
     "orgao": "Prefeitura de Pouso Redondo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-redondo-sc-abre-concurso-para-engenheiro-ambiental",
@@ -2293,6 +2383,21 @@
     "data_encerramento": "17/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Anchieta - PR"
+  },
+  {
+    "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYW1hZS1kZS1hcmFyYW5ndWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto",
+    "link": "https://www.pciconcursos.com.br/noticias/samae-de-ararangua-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS12YWdhcy1lbS1tYWZyYS1lLWZsb3JpYW5vcG9saXM=",
