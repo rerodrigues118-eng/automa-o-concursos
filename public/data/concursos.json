@@ -1,5 +1,20 @@
 [
   {
+    "id": "Q1JBIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgQWRtaW5pc3RyYcOnw6NvIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NyYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLWltZWRpYXRhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "CRA - Conselho Regional de Administração do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/cra-pr-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3Mtbm8tY2FtcHVzLWN1cml0aWJh",
     "orgao": "IFPR - Instituto Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processos-seletivos-para-professores-substitutos-no-campus-curitiba",
@@ -1646,6 +1661,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "21/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYXMtcGFyYS1lbmZlcm1laXJvLWUtbW90b3Jpc3RhLWVtLWJsdW1lbmF1LWUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vagas-para-enfermeiro-e-motorista-em-blumenau-e-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWVkdWNhZG9yLWUtZmFybWFjZXV0aWNv",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-educador-e-farmaceutico",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
