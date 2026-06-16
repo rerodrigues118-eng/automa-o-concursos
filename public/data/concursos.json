@@ -240,6 +240,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
+    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "SU1FIC0gSW5zdGl0dXRvIE1pbGl0YXIgZGUgRW5nZW5oYXJpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW1lLWFicmUtY29uY3Vyc29zLXBhcmEtY3Vyc29zLWRlLWZvcm1hY2FvLWNvbS0xMDAtdmFnYXM=",
     "orgao": "IME - Instituto Militar de Engenharia",
     "link": "https://www.pciconcursos.com.br/noticias/ime-abre-concursos-para-cursos-de-formacao-com-100-vagas",
@@ -1230,6 +1245,21 @@
     "localizacao": "Faxinal do Soturno - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHaXJ1w6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2lydWEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW9yaWVudGFkb3ItZGUtYXRpdmlkYWRlcy1lc3BvcnRpdmFz",
+    "orgao": "Prefeitura de Giruá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-girua-rs-abre-processo-seletivo-para-orientador-de-atividades-esportivas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Giruá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Giruá - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHbG9yaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nbG9yaW5oYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1lc3BlY2lhbGlzdGEtZW0tZWR1Y2FjYW8tZXNwZWNpYWw=",
     "orgao": "Prefeitura de Glorinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-glorinha-rs-abre-selecao-para-especialista-em-educacao-especial",
@@ -1380,6 +1410,21 @@
     "localizacao": "Palmeira das Missões - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYW50YW5vIEdyYW5kZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYW50YW5vLWdyYW5kZS1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtbWVkaWNvLXZldGVyaW5hcmlvLWdlb2xvZ28tZS1vcGVyYWRvci1kZS1lc2NhdmFkZWlyYQ==",
+    "orgao": "Prefeitura de Pantano Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pantano-grande-rs-abre-selecoes-para-medico-veterinario-geologo-e-operador-de-escavadeira",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pantano Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pantano Grande - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYW51bmNpYS1zZWxlY2FvLWNvbS12YWdhcy1wYXJhLXRyYXRhZG9yLWRlLWFuaW1haXM=",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-anuncia-selecao-com-vagas-para-tratador-de-animais",
@@ -1393,6 +1438,21 @@
     "data_encerramento": "15/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pelotas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpbmhhbC1ncmFuZGUtcnMtYWJyZS12YWdhLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Pinhal Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-vaga-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhal Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhal Grande - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItY29tLXJlbXVuZXJhY2FvLWRlLWF0ZS05MDY3",
@@ -1423,6 +1483,36 @@
     "data_encerramento": "26/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBdWd1c3RvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRvLWF1Z3VzdG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS1kZS1wYXRyaW1vbmlv",
+    "orgao": "Prefeitura de Santo Augusto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-augusto-rs-abre-processo-seletivo-para-agente-de-patrimonio",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Augusto",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Augusto - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEZyYW5jaXNjbyBkZSBQYXVsYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tZnJhbmNpc2NvLWRlLXBhdWxhLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhcmdvcy1uYS1hcmVhLWRhLXNhdWRl",
+    "orgao": "Prefeitura de São Francisco de Paula",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-francisco-de-paula-rs-abre-selecao-para-cargos-na-area-da-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Francisco de Paula",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Francisco de Paula - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtZ2VvZ3JhZmlh",
@@ -2275,7 +2365,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "15/06/2026",
+    "data_encerramento": "17/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Saltinho - PR"
   },
