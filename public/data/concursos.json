@@ -1110,6 +1110,21 @@
     "localizacao": "Caxias do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vaga-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBEb2lzIElybcOjb3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG9pcy1pcm1hb3MtcnMtYWJyZS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
     "orgao": "Prefeitura de Dois Irmãos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dois-irmaos-rs-abre-concurso-e-processo-seletivo-para-diversos-cargos",
@@ -1275,6 +1290,21 @@
     "localizacao": "Mariana Pimentel - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZWRvbmRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLXJlZG9uZG8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDY4NQ==",
+    "orgao": "Prefeitura de Morro Redondo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-redondo-rs-abre-concurso-publico-com-salarios-de-ate-4685",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Morro Redondo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Morro Redondo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIENhbmRlbMOhcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtY2FuZGVsYXJpYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03NDIw",
     "orgao": "Prefeitura de Nova Candelária",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-candelaria-rs-abre-concurso-publico-com-salarios-de-ate-7420",
@@ -1438,6 +1468,21 @@
     "data_encerramento": "22/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Francisco de Paula - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1vcGVyYXJpby1lLW1lcmVuZGVpcmE=",
+    "orgao": "Prefeitura de São José do Inhacorá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-selecao-para-operario-e-merendeira",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José do Inhacorá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José do Inhacorá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6lyaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2VyaW8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
@@ -1710,9 +1755,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q1ZKIC0gQ8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEpvaW52aWxsZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWpvaW52aWxsZS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS05ODI4",
+    "id": "Q1ZKIC0gQ8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEpvaW52aWxsZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWpvaW52aWxsZS1zYy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTgyOA==",
     "orgao": "CVJ - Câmara de Vereadores de Joinville",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-joinville-sc-abre-concurso-publico-com-salarios-de-ate-9828",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-joinville-sc-retifica-concurso-publico-com-salarios-de-ate-9828",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Vereadores de Joinville",
