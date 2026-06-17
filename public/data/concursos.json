@@ -180,6 +180,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "NcKqIFJNIC0gNcKqIFJlZ2nDo28gTWlsaXRhcmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvNS1yZWdpYW8tbWlsaXRhci1wci1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtb2ZpY2lhaXMtdGVjbmljb3MtdGVtcG9yYXJpb3M=",
+    "orgao": "5ª RM - 5ª Região Militar",
+    "link": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-sc-abre-selecoes-para-oficiais-tecnicos-temporarios",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
     "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
     "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
@@ -1395,6 +1410,21 @@
     "localizacao": "Pinhal Grande - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpbmhhbC1ncmFuZGUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtZmFybWFjZXV0aWNv",
+    "orgao": "Prefeitura de Pinhal Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-selecao-para-farmaceutico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhal Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhal Grande - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItY29tLXJlbXVuZXJhY2FvLWRlLWF0ZS05MDY3",
     "orgao": "Prefeitura de Porto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-vagas-de-nivel-superior-com-remuneracao-de-ate-9067",
@@ -1483,6 +1513,21 @@
     "data_encerramento": "22/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Inhacorá - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIE91cm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvc2UtZG8tb3Vyby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1saWNlbmNpYWRvci1hbWJpZW50YWw=",
+    "orgao": "Prefeitura de São José do Ouro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-ouro-rs-abre-selecao-para-licenciador-ambiental",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José do Ouro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José do Ouro - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6lyaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2VyaW8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
