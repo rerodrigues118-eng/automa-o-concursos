@@ -1125,6 +1125,21 @@
     "localizacao": "Espumoso - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mZWxpei1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMzEyNg==",
+    "orgao": "Prefeitura de Feliz",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-com-salarios-de-ate-3126",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Feliz",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Feliz - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHaXJ1w6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2lydWEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW9yaWVudGFkb3ItZGUtYXRpdmlkYWRlcy1lc3BvcnRpdmFz",
     "orgao": "Prefeitura de Giruá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-girua-rs-abre-processo-seletivo-para-orientador-de-atividades-esportivas",
@@ -1393,6 +1408,21 @@
     "data_encerramento": "11/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Sério - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbWVjYW5pY28=",
+    "orgao": "Prefeitura de Sinimbu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sinimbu-rs-abre-processo-seletivo-para-o-cargo-de-mecanico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Sinimbu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Sinimbu - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLWRlLWVkdWNhY2FvLWluZmFudGlsLWUtcHJvZmVzc29yLWRlLWVkdWNhY2FvLWJhc2ljYQ==",
@@ -1680,6 +1710,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbS1lbS1jcmljaXVtYQ==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-tecnico-em-enfermagem-em-criciuma",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MvQ2Vwb25odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY29uZHV0b3Itc29jb3JyaXN0YS1lbS1jYW5vaW5oYXM=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc/Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-condutor-socorrista-em-canoinhas",
@@ -1721,6 +1766,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "21/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SU1BUyAtIEluc3RpdHV0byBNYXJpYSBTY2htaXR0aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1yZWdpb25hbC1kZS1hcmFyYW5ndWEtc2MtYWJyZS12YWdhcy1wYXJhLWF1eGlsaWFyLWRlLWNvemluaGEtZS1jb3ppbmhlaXJv",
+    "orgao": "IMAS - Instituto Maria Schmitt",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-vagas-para-auxiliar-de-cozinha-e-cozinheiro",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
