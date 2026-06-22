@@ -405,6 +405,21 @@
     "localizacao": "Saúde dos Municípios do Oeste do Paraná - PR"
   },
   {
+    "id": "Q09OU1VEIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkZSBTYcO6ZGUgZG8gU3Vkb2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvbnN1ZC1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTIwNg==",
+    "orgao": "CONSUD - Consórcio Intermunicipal de Saúde do Sudoeste",
+    "link": "https://www.pciconcursos.com.br/noticias/consud-pr-abre-concurso-publico-com-salarios-de-ate-15206",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLXZpc2l0YW50ZXMtZW0tcGFyYW5hdmFp",
     "orgao": "IFPR - Instituto Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-processo-seletivo-para-professores-visitantes-em-paranavai",
@@ -1290,6 +1305,21 @@
     "localizacao": "Tucunduva - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBYYW5ncmktTMOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXhhbmdyaS1sYS1ycy1hYnJlLXZhZ2FzLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTk2Ng==",
+    "orgao": "Prefeitura de Xangri-Lá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xangri-la-rs-abre-vagas-com-salarios-de-ate-9966",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Xangri",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Xangri - PR"
+  },
+  {
     "id": "VUZSR1MgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdWZyZ3MtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS0xNS12YWdhcy1wYXJhLXByb2Zlc3Nvci1kby1tYWdpc3RlcmlvLXN1cGVyaW9y",
     "orgao": "UFRGS - Universidade Federal do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/ufrgs-rs-abre-concurso-publico-com-15-vagas-para-professor-do-magisterio-superior",
@@ -1918,6 +1948,21 @@
     "data_encerramento": "30/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Cedro - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de São Miguel do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-abre-processo-seletivo-para-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Miguel do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Miguel do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTkx",
