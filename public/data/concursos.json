@@ -1,8 +1,8 @@
 [
   {
-    "id": "Q1JBIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgQWRtaW5pc3RyYcOnw6NvIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NyYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLWltZWRpYXRhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "id": "Q1JBIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgQWRtaW5pc3RyYcOnw6NvIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NyYS1wci1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "CRA - Conselho Regional de Administração do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/cra-pr-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+    "link": "https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Curitiba",
@@ -1170,6 +1170,21 @@
     "localizacao": "Morro Redondo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNdWl0b3MgQ2Fww7Vlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tdWl0b3MtY2Fwb2VzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1udXRyaWNpb25pc3Rh",
+    "orgao": "Prefeitura de Muitos Capões",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-muitos-capoes-rs-abre-processo-seletivo-para-nutricionista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Muitos Capões",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Muitos Capões - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIENhbmRlbMOhcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtY2FuZGVsYXJpYS1ycy1wcm9ycm9nYS1pbnNjcmljb2VzLXBhcmEtY29uY3Vyc28tcHVibGljbw==",
     "orgao": "Prefeitura de Nova Candelária",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-candelaria-rs-prorroga-inscricoes-para-concurso-publico",
@@ -1228,6 +1243,21 @@
     "data_encerramento": "29/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Palmeira das Missões - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpbmhhbC1ncmFuZGUtcnMtYWJyZS12YWdhcy1wYXJhLXBzaWNvbG9nby1lLW51dHJpY2lvbmlzdGE=",
+    "orgao": "Prefeitura de Pinhal Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-vagas-para-psicologo-e-nutricionista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhal Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhal Grande - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItY29tLXJlbXVuZXJhY2FvLWRlLWF0ZS05MDY3",
@@ -1455,6 +1485,21 @@
     "localizacao": "Itajaí - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBDYW1wbyBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1jYW1wby1hbGVncmUtc2MtYWJyZS1jb25jdXJzby1wYXJhLWFnZW50ZS1hZG1pbmlzdHJhdGl2by1paWktZS1jb250YWRvcg==",
+    "orgao": "Câmara de Campo Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-campo-alegre-sc-abre-concurso-para-agente-administrativo-iii-e-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Campo Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campo Alegre - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBDdXJpdGliYW5vc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWN1cml0aWJhbm9zLXNjLWFicmUtY29uY3Vyc28tcGFyYS1wcm9jdXJhZG9yLWp1cmlkaWNvLWUtY29udHJvbGFkb3ItaW50ZXJubw==",
     "orgao": "Câmara de Curitibanos",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-curitibanos-sc-abre-concurso-para-procurador-juridico-e-controlador-interno",
@@ -1485,9 +1530,9 @@
     "localizacao": "Lindoia do Sul - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
+    "id": "Q8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtcmVhYnJlLWluc2NyaWNvZXMtcGFyYS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Câmara de Palhoça",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-retifica-edital-de-concurso-publico",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-reabre-inscricoes-para-concurso-publico",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Palhoça",
@@ -1495,7 +1540,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "12/06/2026",
+    "data_encerramento": "06/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Palhoça - PR"
   },
@@ -1586,6 +1631,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYXMtcGFyYS1vLWhlbW9zYy1lbS1mbG9yaWFub3BvbGlzLWUtYmx1bWVuYXU=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vagas-para-o-hemosc-em-florianopolis-e-blumenau",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtYXNzaXN0ZW50ZS1kZS1jb21wcmFzLWlpaS1lLWxpZGVyLWRlLWxpbXBlemEtbm8tY2Vwb24tZGUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecoes-para-assistente-de-compras-iii-e-lider-de-limpeza-no-cepon-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1948,6 +2023,21 @@
     "data_encerramento": "26/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Novo Horizonte - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYSBTb2xhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbG1hLXNvbGEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTU1MTE=",
+    "orgao": "Prefeitura de Palma Sola",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palma-sola-sc-abre-processo-seletivo-com-salarios-de-ate-5511",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palma Sola",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palma Sola - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQaW5oZWlybyBQcmV0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oZWlyby1wcmV0by1zYy1hYnJlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMzE2MA==",
