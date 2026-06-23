@@ -330,6 +330,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q8OibWFyYSBkZSBJYmlwb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWliaXBvcmEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODAwNw==",
+    "orgao": "Câmara de Ibiporã",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-ibipora-pr-abre-concurso-publico-com-salarios-de-ate-8007",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Ibiporã",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibiporã - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBJdGFpcHVsw6JuZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtaXRhaXB1bGFuZGlhLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXplbGFkb3JhLWUtYXNzaXN0ZW50ZS1hZG1pbmlzdHJhdGl2bw==",
     "orgao": "Câmara de Itaipulândia",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-itaipulandia-pr-abre-concurso-publico-para-zeladora-e-assistente-administrativo",
@@ -2085,6 +2100,21 @@
     "localizacao": "Treze de Maio - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBYYXZhbnRpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUteGF2YW50aW5hLXNjLWRpdnVsZ2EtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc2FzLWFyZWFz",
+    "orgao": "Prefeitura de Xavantina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xavantina-sc-divulga-processos-seletivos-para-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Xavantina",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Xavantina - PR"
+  },
+  {
     "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYW1hZS1kZS1hcmFyYW5ndWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
     "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto",
     "link": "https://www.pciconcursos.com.br/noticias/samae-de-ararangua-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
@@ -2096,6 +2126,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "25/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgQXNzaXN0w6puY2lhIFNvY2lhbCwgTXVsaGVyIGUgRmFtw61saWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3Nhcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYXNzaXN0ZW50ZXMtc29jaWFpcy1lbS1kaXZlcnNhcy1yZWdpb2Vz",
+    "orgao": "SAS - Secretaria de Estado da Assistência Social, Mulher e Família",
+    "link": "https://www.pciconcursos.com.br/noticias/sas-sc-abre-processo-seletivo-para-assistentes-sociais-em-diversas-regioes",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
