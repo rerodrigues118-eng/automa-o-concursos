@@ -435,6 +435,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLXZpc2l0YW50ZXMtbm8tY2FtcHVzLWphZ3VhcmlhaXZh",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-vagas-para-professores-visitantes-no-campus-jaguariaiva",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBZ3Vkb3MgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFndWRvcy1kby1zdWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
     "orgao": "Prefeitura de Agudos do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agudos-do-sul-pr-abre-processo-seletivo-para-diversos-cargos",
@@ -660,6 +675,21 @@
     "localizacao": "Mandaguari - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIEVzcGVyYW7Dp2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1lc3BlcmFuY2EtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tY2luY28tdmFnYXM=",
+    "orgao": "Prefeitura de Nova Esperança",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-esperanca-pr-abre-processo-seletivo-com-cinco-vagas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Esperança",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Esperança - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJhbmFjaXR5aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhcmFuYWNpdHktcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de Paranacity",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paranacity-pr-abre-processo-seletivo-para-profissionais-da-educacao",
@@ -851,6 +881,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "29/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIEphZ3VhcGl0w6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhbWFlLWRlLWphZ3VhcGl0YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ0",
+    "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Jaguapitã",
+    "link": "https://www.pciconcursos.com.br/noticias/samae-de-jaguapita-pr-abre-concurso-publico-com-salarios-de-ate-7944",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1125,6 +1170,21 @@
     "localizacao": "Erechim - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtdGVzb3VyZWlybw==",
+    "orgao": "Prefeitura de Espumoso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-processo-seletivo-para-tesoureiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Espumoso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Espumoso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mZWxpei1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMzEyNg==",
     "orgao": "Prefeitura de Feliz",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-com-salarios-de-ate-3126",
@@ -1168,6 +1228,21 @@
     "data_encerramento": "21/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Morro Redondo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIENhbmRlbMOhcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtY2FuZGVsYXJpYS1ycy1wcm9ycm9nYS1pbnNjcmljb2VzLXBhcmEtY29uY3Vyc28tcHVibGljbw==",
+    "orgao": "Prefeitura de Nova Candelária",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-candelaria-rs-prorroga-inscricoes-para-concurso-publico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Candelária",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Candelária - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBPc8OzcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW9zb3Jpby1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtYXNzaXN0ZW50ZS1zb2NpYWwtZS1wcm9mZXNzb3I=",
@@ -1378,6 +1453,21 @@
     "data_encerramento": "25/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Sinimbu - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS12YWdhLXBhcmEtdGVjbmljby1hZ3JpY29sYQ==",
+    "orgao": "Prefeitura de Tavares",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-abre-vaga-para-tecnico-agricola",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tavares",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tavares - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLWRlLWVkdWNhY2FvLWluZmFudGlsLWUtcHJvZmVzc29yLWRlLWVkdWNhY2FvLWJhc2ljYQ==",
@@ -1978,6 +2068,21 @@
     "data_encerramento": "25/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Luzerna - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBkYSBGdW1hw6dhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLWRhLWZ1bWFjYS1zYy1hYnJlLXZhZ2FzLXBhcmEtdGVjbmljby1kZS1lbmZlcm1hZ2VtLWUtemVsYWRvcg==",
+    "orgao": "Prefeitura de Morro da Fumaça",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-da-fumaca-sc-abre-vagas-para-tecnico-de-enfermagem-e-zelador",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Morro da Fumaça",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Morro da Fumaça - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhvcml6b250ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZvLWhvcml6b250ZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDAwMw==",
