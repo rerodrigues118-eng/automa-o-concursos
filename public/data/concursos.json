@@ -225,6 +225,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "NcKqIFJNIC0gNcKqIFJlZ2nDo28gTWlsaXRhciBkbyBFeMOpcmNpdG8gQnJhc2lsZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvNS1yZWdpYW8tbWlsaXRhci1wci1leGVyY2l0by1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy1lLXNhcmdlbnRvcw==",
+    "orgao": "5ª RM - 5ª Região Militar do Exército Brasileiro",
+    "link": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
     "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
     "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
@@ -705,6 +720,21 @@
     "localizacao": "Querência do Norte - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBRdWl0YW5kaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWl0YW5kaW5oYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZmFybWFjZXV0aWNvLWUtcHNpY29sb2dv",
+    "orgao": "Prefeitura de Quitandinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quitandinha-pr-abre-processo-seletivo-para-farmaceutico-e-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Quitandinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Quitandinha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
     "orgao": "Prefeitura de Rio Azul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
@@ -866,6 +896,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "08/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "M8KqIFJNIC0gQ29tYW5kbyBkYSAzwqogUmVnacOjbyBNaWxpdGFyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb21hbmRvLWRhLTMtcmVnaWFvLW1pbGl0YXItcnMtYWJyZS1zZWxlY2FvLXBhcmEtb2ZpY2lhaXMtZS1zYXJnZW50b3MtdGVtcG9yYXJpb3M=",
+    "orgao": "3ª RM - Comando da 3ª Região Militar",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-3-regiao-militar-rs-abre-selecao-para-oficiais-e-sargentos-temporarios",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1033,6 +1078,21 @@
     "data_encerramento": "25/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Caxias do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBlZGFnb2dvLW5vLWNyYXM=",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-pedagogo-no-cras",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBEb2lzIElybcOjb3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG9pcy1pcm1hb3MtcnMtYWJyZS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
@@ -1215,6 +1275,21 @@
     "localizacao": "Pinhal Grande - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBDcnV6IGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YS1jcnV6LWRvLXN1bC1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtc2VydmVudGUtcGVkcmVpcm8tZS1vcGVyYXJpbw==",
+    "orgao": "Prefeitura de Santa Cruz do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-sul-rs-abre-selecoes-para-servente-pedreiro-e-operario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Cruz do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Cruz do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLWluc3RydXRvcmVzLWVkdWNhY2lvbmFpcw==",
     "orgao": "Prefeitura de Santo Antônio da Patrulha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-selecao-para-instrutores-educacionais",
@@ -1346,6 +1421,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Travesseiro - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00Mzk1",
+    "orgao": "Prefeitura de Travesseiro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-travesseiro-rs-abre-concurso-publico-com-salarios-de-ate-4395",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Travesseiro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Travesseiro - PR"
   },
