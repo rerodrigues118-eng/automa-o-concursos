@@ -735,6 +735,21 @@
     "localizacao": "Pitanga - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNDc1Ng==",
+    "orgao": "Prefeitura de Ponta Grossa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-abre-concurso-com-salarios-de-ate-14756",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ponta Grossa",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ponta Grossa - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBRdWVyw6puY2lhIGRvIE5vcnRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXF1ZXJlbmNpYS1kby1ub3J0ZS1wci1hYnJlLXNlbGVjYW8tcGFyYS1udXRyaWNpb25pc3Rh",
     "orgao": "Prefeitura de Querência do Norte",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-querencia-do-norte-pr-abre-selecao-para-nutricionista",
@@ -1215,6 +1230,21 @@
     "localizacao": "Feliz - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJYmlyYWlhcmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhaWFyYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTM1MjY=",
+    "orgao": "Prefeitura de Ibiraiaras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiraiaras-rs-abre-processo-seletivo-com-salarios-de-ate-3526",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ibiraiaras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibiraiaras - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBMYWdvw6NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhZ29hby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvLXZldGVyaW5hcmlv",
     "orgao": "Prefeitura de Lagoão",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoao-rs-abre-processo-seletivo-para-medico-veterinario",
@@ -1528,6 +1558,21 @@
     "data_encerramento": "21/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tucunduva - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3Jlcy1jb20tcmVtdW5lcmFjYW8tZGUtMjU3Ng==",
+    "orgao": "Prefeitura de Vale do Sol",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-selecao-para-professores-com-remuneracao-de-2576",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vale do Sol",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vale do Sol - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBYYW5ncmktTMOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXhhbmdyaS1sYS1ycy1hYnJlLXZhZ2FzLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTk2Ng==",
