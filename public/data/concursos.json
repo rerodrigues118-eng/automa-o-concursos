@@ -330,9 +330,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "TWFyaW5oYSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLW8tY29ycG8tYXV4aWxpYXItZGUtcHJhY2Fz",
+    "id": "TWFyaW5oYSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLW8tY29ycG8tYXV4aWxpYXItZGUtcHJhY2Fz",
     "orgao": "Marinha - Marinha do Brasil",
-    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-abre-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-prorroga-inscricoes-de-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -866,6 +866,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VTQSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIFNhw7pkZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXNhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLWVtLWRpdmVyc2FzLWFyZWFzLWRlLWF0dWFjYW8=",
+    "orgao": "SESA - Secretaria de Estado da Saúde do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/sesa-pr-abre-processo-seletivo-com-vagas-em-diversas-areas-de-atuacao",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1740,6 +1755,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkNUVCAtIEZ1bmRhw6fDo28gZGUgQ3VsdHVyYSBlIFR1cmlzbW8gZGUgVGltYsOzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRpbWJvLXNjLWFicmUtY29uY3Vyc28tcGFyYS1hLWZ1bmRhY2FvLWRlLWN1bHR1cmEtZS10dXJpc21v",
+    "orgao": "FCTT - Fundação de Cultura e Turismo de Timbó",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-timbo-sc-abre-concurso-para-a-fundacao-de-cultura-e-turismo",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SG9zcGl0YWwgUmVnaW9uYWwgRGVwdXRhZG8gQWZmb25zbyBHaGl6em8gZGUgQXJhcmFuZ3XDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaG9zcGl0YWwtcmVnaW9uYWwtZGUtYXJhcmFuZ3VhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hdXhpbGlhci1kZS1mYXJtYWNpYQ==",
+    "orgao": "Hospital Regional Deputado Affonso Ghizzo de Araranguá",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-processo-seletivo-para-auxiliar-de-farmacia",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLWZvcm1hZG9yLWVtLWJsdW1lbmF1",
     "orgao": "IFC - Instituto Federal Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-processo-seletivo-para-professor-formador-em-blumenau",
@@ -1751,6 +1796,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SU1BUyAtIEluc3RpdHV0byBNYXJpYSBTY2htaXR0aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1yZWdpb25hbC1kZS1hcmFyYW5ndWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY28tZGUtbGFib3JhdG9yaW8=",
+    "orgao": "IMAS - Instituto Maria Schmitt",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-processo-seletivo-para-tecnico-de-laboratorio",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
