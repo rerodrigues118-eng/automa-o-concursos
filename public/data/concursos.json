@@ -480,6 +480,21 @@
     "localizacao": "Ariranha do Ivaí - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS1lZHVjYWNpb25hbA==",
+    "orgao": "Prefeitura de Balsa Nova",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-agente-educacional",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Balsa Nova",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Balsa Nova - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCb2EgRXNwZXJhbsOnYSBkbyBJZ3Vhw6d1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS1lc3BlcmFuY2EtZG8taWd1YWN1LXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS03MzIx",
     "orgao": "Prefeitura de Boa Esperança do Iguaçu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-esperanca-do-iguacu-pr-abre-concurso-com-salarios-de-ate-7321",
@@ -1350,6 +1365,21 @@
     "localizacao": "Nova Candelária - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFBldHLDs3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcGV0cm9wb2xpcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0xMC12YWdhcw==",
+    "orgao": "Prefeitura de Nova Petrópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-petropolis-rs-abre-processo-seletivo-com-10-vagas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Petrópolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Petrópolis - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtYXJxdWl2aXN0YQ==",
     "orgao": "Prefeitura de Palmares do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-selecao-para-o-cargo-de-arquivista",
@@ -1800,6 +1830,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWZvbm9hdWRpb2xvZ28tYW5hbGlzdGEtZGUtZGhvLWUtYXNzaXN0ZW50ZS1kZS1jb21wcmFz",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-fonoaudiologo-analista-de-dho-e-assistente-de-compras",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbi9TQU1VaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1zZWxlY2FvLXBhcmEtbWVkaWNvLXJlZ3VsYWRvci1kYXMtdXJnZW5jaWFzLWRvLXNhbXU=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon/SAMU",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-medico-regulador-das-urgencias-do-samu",
@@ -2205,6 +2250,21 @@
     "localizacao": "Morro da Fumaça - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOYXZlZ2FudGVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5hdmVnYW50ZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
+    "orgao": "Prefeitura de Navegantes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-navegantes-sc-abre-processo-seletivo-para-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Navegantes",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Navegantes - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhvcml6b250ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZvLWhvcml6b250ZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDAwMw==",
     "orgao": "Prefeitura de Novo Horizonte",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-horizonte-sc-abre-processo-seletivo-com-salarios-de-ate-4003",
@@ -2263,6 +2323,21 @@
     "data_encerramento": "08/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pouso Redondo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1zZXJ2aWNvcy1nZXJhaXM=",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-agente-de-servicos-gerais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjkxMg==",
