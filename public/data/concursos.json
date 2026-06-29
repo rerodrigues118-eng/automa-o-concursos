@@ -225,21 +225,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcy9SZWRlIFNBUkFIaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hc3NvY2lhY2FvLWRhcy1waW9uZWlyYXMtc29jaWFpcy1hYnJlLXNlbGVjYW8tY29tLXZhZ2FzLXBhcmEtZW5nZW5oZWlyb3M=",
-    "orgao": "APS - Associação das Pioneiras Sociais/Rede SARAH",
-    "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-selecao-com-vagas-para-engenheiros",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
     "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
@@ -1575,21 +1560,6 @@
     "localizacao": "Vereadores de Joinville - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYXMtcGFyYS1lbmZlcm1laXJvLWUtdGVjbmljby1kZS1pbmZvcm1hdGljYS1lbS1sYWdlcy1lLWZsb3JpYW5vcG9saXM=",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vagas-para-enfermeiro-e-tecnico-de-informatica-em-lages-e-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWZvbm9hdWRpb2xvZ28tYW5hbGlzdGEtZGUtZGhvLWUtYXNzaXN0ZW50ZS1kZS1jb21wcmFz",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-fonoaudiologo-analista-de-dho-e-assistente-de-compras",
@@ -1601,21 +1571,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbi9TQU1VaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1zZWxlY2FvLXBhcmEtbWVkaWNvLXJlZ3VsYWRvci1kYXMtdXJnZW5jaWFzLWRvLXNhbXU=",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon/SAMU",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-medico-regulador-das-urgencias-do-samu",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1830,21 +1785,6 @@
     "localizacao": "Formosa do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1vcGVyYWNpb25hbA==",
-    "orgao": "Prefeitura de Fraiburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-selecao-para-agente-operacional",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Fraiburgo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Fraiburgo - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1lLW1lZGljby1kZS1zYXVkZS1kYS1mYW1pbGlh",
     "orgao": "Prefeitura de Fraiburgo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processos-seletivos-para-tecnico-de-enfermagem-e-medico-de-saude-da-familia",
@@ -1903,21 +1843,6 @@
     "data_encerramento": "29/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Gaspar - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWwgZCdPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1oZXJ2YWwtZG9lc3RlLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBzaWNvbG9nbw==",
-    "orgao": "Prefeitura de Herval d'Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-doeste-sc-abre-vaga-em-processo-seletivo-para-psicologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Herval",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Herval - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMYWdlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1sYWdlcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA3MTY=",
