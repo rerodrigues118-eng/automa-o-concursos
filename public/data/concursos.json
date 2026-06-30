@@ -195,6 +195,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
+    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "UE5EIC0gUHJvdmEgTmFjaW9uYWwgRG9jZW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJvdmEtbmFjaW9uYWwtZG9jZW50ZS0yMDI2LW9mZXJlY2Utb3BvcnR1bmlkYWRlcy1lbS1kaXZlcnNhcy1hcmVhcy1kYS1lZHVjYWNhby1iYXNpY2E=",
     "orgao": "PND - Prova Nacional Docente",
     "link": "https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica",
@@ -236,21 +251,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
-    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
-    "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -313,6 +313,21 @@
     "data_encerramento": "12/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
+    "orgao": "Prefeitura de Rio Azul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Azul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Azul - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBJYmlwb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWliaXBvcmEtcHItZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
@@ -690,21 +705,6 @@
     "localizacao": "Realeza - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
-    "orgao": "Prefeitura de Rio Azul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio Azul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Azul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JvLXByLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTExMDMx",
     "orgao": "Prefeitura de Rio Negro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negro-pr-abre-selecao-com-salarios-de-ate-11031",
@@ -883,6 +883,21 @@
     "data_encerramento": "01/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXhpYXMgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNheGlhcy1kby1zdWwtcnMtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTExNjE0",
+    "orgao": "Prefeitura de Caxias do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caxias-do-sul-rs-abre-concurso-com-salarios-de-ate-11614",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Caxias do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/06/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Caxias do Sul - PR"
   },
   {
     "id": "M8KqIFJNIC0gQ29tYW5kbyBkYSAzwqogUmVnacOjbyBNaWxpdGFyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb21hbmRvLWRhLTMtcmVnaWFvLW1pbGl0YXItcnMtYWJyZS1zZWxlY2FvLXBhcmEtb2ZpY2lhaXMtZS1zYXJnZW50b3MtdGVtcG9yYXJpb3M=",
@@ -1185,6 +1200,21 @@
     "localizacao": "Ibiraiaras - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBMYWdvw6NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhZ29hby1ycy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1lbmZlcm1laXJvLWUtdmlzaXRhZG9yLWRvLXBpbQ==",
+    "orgao": "Prefeitura de Lagoão",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoao-rs-abre-processos-seletivos-para-enfermeiro-e-visitador-do-pim",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Lagoão",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lagoão - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZWRvbmRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLXJlZG9uZG8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDY4NQ==",
     "orgao": "Prefeitura de Morro Redondo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-redondo-rs-abre-concurso-publico-com-salarios-de-ate-4685",
@@ -1243,6 +1273,36 @@
     "data_encerramento": "03/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Petrópolis - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODI5Mw==",
+    "orgao": "Prefeitura de Novo Hamburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Hamburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Hamburgo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBPc8OzcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW9zb3Jpby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9maXNzaW9uYWlzLWRhLXNhdWRlLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTEzNDM=",
+    "orgao": "Prefeitura de Osório",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osorio-rs-abre-selecao-para-profissionais-da-saude-com-salarios-de-ate-11343",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Osório",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Osório - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYSBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWVpcmEtZGFzLW1pc3NvZXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
@@ -1453,6 +1513,21 @@
     "data_encerramento": "29/06/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vale do Sol - PR"
+  },
+  {
+    "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNtLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3NvcmVzLWRvLW1hZ2lzdGVyaW8tc3VwZXJpb3I=",
+    "orgao": "UFSM - Universidade Federal de Santa Maria",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-publico-para-professores-do-magisterio-superior",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFqYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YWphaS1zYy1hYnJlLWNvbmN1cnNvcy1wdWJsaWNvcy1jb20tcmVtdW5lcmFjb2VzLWRlLWF0ZS0yNS1taWw=",
@@ -1963,6 +2038,21 @@
     "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Lindóia do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNaXJpbSBEb2NlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1pcmltLWRvY2Utc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtYXV4aWxpYXItZGUtY29uc3VsdG9yaW8tZGVudGFyaW8tZS1mYXhpbmVpcmE=",
+    "orgao": "Prefeitura de Mirim Doce",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirim-doce-sc-abre-processos-seletivos-para-auxiliar-de-consultorio-dentario-e-faxineira",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mirim Doce",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mirim Doce - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOYXZlZ2FudGVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5hdmVnYW50ZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
