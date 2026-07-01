@@ -240,6 +240,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpcyAoUmVkZSBTQVJBSClodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Fzc29jaWFjYW8tZGFzLXBpb25laXJhcy1zb2NpYWlzLXByb3Jyb2dhLWluc2NyaWNvZXMtZGUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lbmdlbmhlaXJvcw==",
+    "orgao": "APS - Associação das Pioneiras Sociais (Rede SARAH)",
+    "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-prorroga-inscricoes-de-processo-seletivo-para-engenheiros",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
     "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
@@ -328,6 +343,21 @@
     "data_encerramento": "14/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Azul - PR"
+  },
+  {
+    "id": "QUdFUEFSIC0gQWfDqm5jaWEgUmVndWxhZG9yYSBkZSBTZXJ2acOnb3MgUMO6YmxpY29zIERlbGVnYWRvcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ2VwYXItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWVzcGVjaWFsaXN0YXMtZW0tcmVndWxhY2Fv",
+    "orgao": "AGEPAR - Agência Reguladora de Serviços Públicos Delegados do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/agepar-pr-abre-concurso-publico-com-vagas-para-especialistas-em-regulacao",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBJYmlwb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWliaXBvcmEtcHItZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
@@ -600,9 +630,9 @@
     "localizacao": "Mandaguari - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNZXJjZWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tZXJjZWRlcy1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvcy1lLXBzaWNvbG9nb3M=",
+    "id": "UHJlZmVpdHVyYSBkZSBNZXJjZWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tZXJjZWRlcy1wci1kaXZ1bGdhLXJldGlmaWNhY2FvLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvcy1lLXBzaWNvbG9nb3M=",
     "orgao": "Prefeitura de Mercedes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mercedes-pr-abre-processo-seletivo-para-medicos-e-psicologos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mercedes-pr-divulga-retificacao-do-processo-seletivo-para-medicos-e-psicologos",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Mercedes",
@@ -613,6 +643,21 @@
     "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Mercedes - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXVsYSBGcmVpdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhdWxhLWZyZWl0YXMtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvcy1uYS1hcmVhLWRhLXNhdWRl",
+    "orgao": "Prefeitura de Paula Freitas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paula-freitas-pr-abre-processo-seletivo-para-cargos-na-area-da-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paula Freitas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paula Freitas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQaXRhbmdhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpdGFuZ2EtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcw==",
@@ -1020,6 +1065,21 @@
     "localizacao": "Cerro Grande do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDZXJybyBMYXJnb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jZXJyby1sYXJnby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItbmEtYXJlYS1kZS1lZHVjYWNhby1pbmZhbnRpbC1lLWFub3MtaW5pY2lhaXM=",
+    "orgao": "Prefeitura de Cerro Largo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-largo-rs-abre-selecao-para-professor-na-area-de-educacao-infantil-e-anos-iniciais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cerro Largo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cerro Largo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDaWRyZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaWRyZWlyYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FyZ29zLWRlLW5pdmVsLWZ1bmRhbWVudGFsLWUtbWVkaW8=",
     "orgao": "Prefeitura de Cidreira",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cidreira-rs-abre-processo-seletivo-para-cargos-de-nivel-fundamental-e-medio",
@@ -1106,6 +1166,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "08/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibiraiaras - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJYmlyYWlhcmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhaWFyYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNhLXNlcnZlbnRl",
+    "orgao": "Prefeitura de Ibiraiaras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiraiaras-rs-abre-processo-seletivo-para-o-cargo-de-domestica-servente",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ibiraiaras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ibiraiaras - PR"
   },
@@ -1198,6 +1273,21 @@
     "data_encerramento": "02/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Osório - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
+    "orgao": "Prefeitura de Palmares do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-selecao-para-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palmares do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palmares do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtcGFyYS1iaW9tZWRpY28tZmFybWFjZXV0aWNvLWUtbWVkaWNvLWVtZXJnZW5jaXN0YQ==",
@@ -1515,6 +1605,21 @@
     "localizacao": "Vereadores de Joinville - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWFzc2lzdGVudGUtYWRtaW5pc3RyYXRpdm8taS1lbS10dWJhcmFv",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-administrativo-i-em-tubarao",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLXZhZ2FzLXBhcmEtby1jZXBvbi1lbS1mbG9yaWFub3BvbGlz",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-com-vagas-para-o-cepon-em-florianopolis",
@@ -1526,6 +1631,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "01/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gSEVNT1NDIGRlIEpvaW52aWxsZS9TQ2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWVtLXZhZ2EtZXhjbHVzaXZhLXBhcmEtcGNk",
+    "orgao": "FAHECE - HEMOSC de Joinville/SC",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-em-vaga-exclusiva-para-pcd",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "Rk1FIC0gRnVuZGHDp8OjbyBNdW5pY2lwYWwgZGUgRWR1Y2HDp8OjbyBkZSBUdWJhcsOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZnVuZGFjYW8tbXVuaWNpcGFsLWRlLWVkdWNhY2FvLWRlLXR1YmFyYW8tc2MtbGFuY2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "FME - Fundação Municipal de Educação de Tubarão",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-municipal-de-educacao-de-tubarao-sc-lanca-processo-seletivo-para-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
