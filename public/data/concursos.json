@@ -555,6 +555,21 @@
     "localizacao": "Goioerê - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYWNpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhY2ktcHItYWJyZS12YWdhcy1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lZGljb3MtZS1mb25vYXVkaW9sb2dvcw==",
+    "orgao": "Prefeitura de Guaraci",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaraci-pr-abre-vagas-em-processo-seletivo-para-medicos-e-fonoaudiologos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Guaraci",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Guaraci - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBIb27Ds3JpbyBTZXJwYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ob25vcmlvLXNlcnBhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wc2ljb2xvZ28tZS1vcGVyYWRvci1kZS1tYXF1aW5hLXJvZG92aWFyaWE=",
     "orgao": "Prefeitura de Honório Serpa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-honorio-serpa-pr-abre-processo-seletivo-para-psicologo-e-operador-de-maquina-rodoviaria",
@@ -613,6 +628,36 @@
     "data_encerramento": "08/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Jardim Olinda - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBKdWFyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1qdWFyYS1tdC1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1hdXhpbGlhci1kZS1wcm9mZXNzb3I=",
+    "orgao": "Prefeitura de Juara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juara-mt-abre-processo-seletivo-para-o-cargo-de-auxiliar-de-professor",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Juara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Juara - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBMYXBhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhcGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUxMzA=",
+    "orgao": "Prefeitura de Lapa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lapa-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Lapa",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lapa - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYW5kYWd1YXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hbmRhZ3VhcmktcHItYW51bmNpYS12YWdhLXBhcmEtdGVjbmljby1lbS1zZWd1cmFuY2EtZG8tdHJhYmFsaG8=",
@@ -1605,6 +1650,21 @@
     "localizacao": "Vereadores de Joinville - PR"
   },
   {
+    "id": "RkFIRUNFaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYW51bmNpYS1zZWxlY29lcy1wYXJhLWFzc2lzdGVudGVzLWFkbWluaXN0cmF0aXZvcy1lbS1zYW8tbG91cmVuY28tZG8tb2VzdGUtZS1qb2ludmlsbGU=",
+    "orgao": "FAHECE",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-selecoes-para-assistentes-administrativos-em-sao-lourenco-do-oeste-e-joinville",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWFzc2lzdGVudGUtYWRtaW5pc3RyYXRpdm8taS1lbS10dWJhcmFv",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-administrativo-i-em-tubarao",
@@ -1616,6 +1676,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tZWRpY28taW50ZXJ2ZW5jaW9uaXN0YS1wY2QtZW0tZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-medico-intervencionista-pcd-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1813,6 +1888,21 @@
     "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Caçador - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBEb3V0b3IgUGVkcmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG91dG9yLXBlZHJpbmhvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWZpc2NhbC1kZS10cmlidXRvcw==",
+    "orgao": "Prefeitura de Doutor Pedrinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-pedrinho-sc-abre-concurso-publico-para-fiscal-de-tributos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Doutor Pedrinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Doutor Pedrinho - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGb3Jtb3NhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3Jtb3NhLWRvLXN1bC1zYy1hYnJlLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQ4ODg=",
