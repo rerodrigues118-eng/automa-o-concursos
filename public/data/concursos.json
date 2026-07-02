@@ -180,21 +180,6 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1hbnVuY2lhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS04MjM4LXZhZ2FzLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
-    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
-    "link": "https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
@@ -266,6 +251,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1hbnVuY2lhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS04MjM4LXZhZ2FzLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
+    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -1335,36 +1335,6 @@
     "localizacao": "Palmares do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtcGFyYS1iaW9tZWRpY28tZmFybWFjZXV0aWNvLWUtbWVkaWNvLWVtZXJnZW5jaXN0YQ==",
-    "orgao": "Prefeitura de Porto Alegre",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-vagas-para-biomedico-farmaceutico-e-medico-emergencista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Porto Alegre",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Porto Alegre - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBNYXXDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wb3J0by1tYXVhLXJzLWFicmUtdmFnYS1wYXJhLWNpcnVyZ2lhby1kZW50aXN0YQ==",
-    "orgao": "Prefeitura de Porto Mauá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-maua-rs-abre-vaga-para-cirurgiao-dentista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Porto Mauá",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Porto Mauá - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
     "orgao": "Prefeitura de Rio Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-processo-seletivo-para-o-cargo-de-motorista",
@@ -1691,21 +1661,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLXZhZ2FzLXBhcmEtby1jZXBvbi1lbS1mbG9yaWFub3BvbGlz",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-com-vagas-para-o-cepon-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2130,21 +2085,6 @@
     "localizacao": "Pouso Redondo - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1zZXJ2aWNvcy1nZXJhaXM=",
-    "orgao": "Prefeitura de Rancho Queimado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-agente-de-servicos-gerais",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rancho Queimado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rancho Queimado - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjkxMg==",
     "orgao": "Prefeitura de São Domingos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-processo-seletivo-com-salarios-de-ate-6912",
@@ -2261,21 +2201,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zpc3Npb25haXMtZGEtc2F1ZGUtbm8taG9zcGl0YWwtZHItd2FsZG9taXJvLWNvbGF1dHRp",
-    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-profissionais-da-saude-no-hospital-dr-waldomiro-colautti",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },

@@ -1116,99 +1116,6 @@
     }
   },
   {
-    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1hbnVuY2lhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS04MjM4LXZhZ2FzLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
-    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
-    "link": "https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 7.000 a R$ 22.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
-      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
-      "descricao_geral": "Oportunidade na área Federal focada no órgão IBGE - Instituto Brasileiro de Geografia e Estatística."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        },
-        {
-          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
-        },
-        {
-          "titulo": "Aula: Específicas [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+IBGE+-+Instituto+Brasileiro+de+Geografia+e+Estatística"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+IBGE+-+Instituto+Brasileiro+de+Geografia+e+Estatística"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/IBGE+-+Instituto+Brasileiro+de+Geografia+e+Estatística"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
@@ -1635,6 +1542,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/EEAR+-+Escola+de+Especialistas+de+Aeronáutica"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1hbnVuY2lhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS04MjM4LXZhZ2FzLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
+    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-anuncia-processo-seletivo-com-8238-vagas-para-o-censo-agropecuario-florestal-e-aquicola",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão IBGE - Instituto Brasileiro de Geografia e Estatística."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+IBGE+-+Instituto+Brasileiro+de+Geografia+e+Estatística"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+IBGE+-+Instituto+Brasileiro+de+Geografia+e+Estatística"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/IBGE+-+Instituto+Brasileiro+de+Geografia+e+Estatística"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -8277,192 +8277,6 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtdmFnYXMtcGFyYS1iaW9tZWRpY28tZmFybWFjZXV0aWNvLWUtbWVkaWNvLWVtZXJnZW5jaXN0YQ==",
-    "orgao": "Prefeitura de Porto Alegre",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-vagas-para-biomedico-farmaceutico-e-medico-emergencista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Porto Alegre",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Porto Alegre - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Porto Alegre."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Porto+Alegre"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Porto+Alegre"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Porto+Alegre"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBNYXXDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wb3J0by1tYXVhLXJzLWFicmUtdmFnYS1wYXJhLWNpcnVyZ2lhby1kZW50aXN0YQ==",
-    "orgao": "Prefeitura de Porto Mauá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-maua-rs-abre-vaga-para-cirurgiao-dentista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Porto Mauá",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Porto Mauá - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Porto Mauá."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Porto+Mauá"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Porto+Mauá"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Porto+Mauá"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
     "orgao": "Prefeitura de Rio Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-processo-seletivo-para-o-cargo-de-motorista",
@@ -10470,99 +10284,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/FAHECE+-+Fundação+de+Apoio+ao+Hemosc+e+Cepon"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLXZhZ2FzLXBhcmEtby1jZXBvbi1lbS1mbG9yaWFub3BvbGlz",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-com-vagas-para-o-cepon-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.000 a R$ 4.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
-      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
-      "descricao_geral": "Oportunidade na área Outros focada no órgão FAHECE - Fundação de Apoio ao HEMOSC/CEPON."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Matemática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+FAHECE+-+Fundação+de+Apoio+ao+HEMOSC/CEPON"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+FAHECE+-+Fundação+de+Apoio+ao+HEMOSC/CEPON"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/FAHECE+-+Fundação+de+Apoio+ao+HEMOSC/CEPON"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -13206,99 +12927,6 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1zZXJ2aWNvcy1nZXJhaXM=",
-    "orgao": "Prefeitura de Rancho Queimado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-agente-de-servicos-gerais",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rancho Queimado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rancho Queimado - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Rancho Queimado."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Rancho+Queimado"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Rancho+Queimado"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Rancho+Queimado"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjkxMg==",
     "orgao": "Prefeitura de São Domingos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-processo-seletivo-com-salarios-de-ate-6912",
@@ -14004,99 +13632,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/SEJURI+-+Secretaria+de+Estado+de+Justiça+e+Reintegração+Social+de+Santa+Catarina"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zpc3Npb25haXMtZGEtc2F1ZGUtbm8taG9zcGl0YWwtZHItd2FsZG9taXJvLWNvbGF1dHRp",
-    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-profissionais-da-saude-no-hospital-dr-waldomiro-colautti",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "01/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.000 a R$ 4.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
-      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
-      "descricao_geral": "Oportunidade na área Outros focada no órgão SES - Secretaria de Estado da Saúde de Santa Catarina."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Matemática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+SES+-+Secretaria+de+Estado+da+Saúde+de+Santa+Catarina"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+SES+-+Secretaria+de+Estado+da+Saúde+de+Santa+Catarina"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/SES+-+Secretaria+de+Estado+da+Saúde+de+Santa+Catarina"
         },
         {
           "titulo": "Banco de Questões Comentadas",
