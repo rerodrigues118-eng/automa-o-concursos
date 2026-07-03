@@ -510,6 +510,51 @@
     "localizacao": "Cambé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXBpdMOjbyBMZcO0bmlkYXMgTWFycXVlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBpdGFvLWxlb25pZGFzLW1hcnF1ZXMtcHItYWJyZS12YWdhLXBhcmEtbnV0cmljaW9uaXN0YQ==",
+    "orgao": "Prefeitura de Capitão Leônidas Marques",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capitao-leonidas-marques-pr-abre-vaga-para-nutricionista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Capitão Leônidas Marques",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capitão Leônidas Marques - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXN0cm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FzdHJvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtZGUtbml2ZWwtbWVkaW8=",
+    "orgao": "Prefeitura de Castro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-castro-pr-abre-concurso-publico-com-vagas-de-nivel-medio",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Castro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Castro - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDbGV2ZWzDom5kaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2xldmVsYW5kaWEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTYwOTc=",
+    "orgao": "Prefeitura de Clevelândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-clevelandia-pr-abre-processo-seletivo-com-salarios-de-ate-6097",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Clevelândia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Clevelândia - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDcnV6bWFsdGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jcnV6bWFsdGluYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMTEyMQ==",
     "orgao": "Prefeitura de Cruzmaltina",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruzmaltina-pr-abre-concurso-publico-com-salarios-de-ate-11121",
@@ -735,6 +780,36 @@
     "localizacao": "Ponta Grossa - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1wcm9mZXNzb3Jlcw==",
+    "orgao": "Prefeitura de Ponta Grossa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-publica-edital-de-concurso-publico-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ponta Grossa",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ponta Grossa - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLWFicmUtY29uY3Vyc28tY29tLXZhZ2FzLXBhcmEtYWdlbnRlcy1kZS1zYXVkZS1lLWFnZW50ZXMtZGUtY29tYmF0ZS1hcy1lbmRlbWlhcw==",
+    "orgao": "Prefeitura de Ponta Grossa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-abre-concurso-com-vagas-para-agentes-de-saude-e-agentes-de-combate-as-endemias",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ponta Grossa",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ponta Grossa - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBRdWl0YW5kaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWl0YW5kaW5oYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZmFybWFjZXV0aWNvLWUtcHNpY29sb2dv",
     "orgao": "Prefeitura de Quitandinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quitandinha-pr-abre-processo-seletivo-para-farmaceutico-e-psicologo",
@@ -840,9 +915,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "U0VTQSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIFNhw7pkZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXNhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLWVtLWRpdmVyc2FzLWFyZWFzLWRlLWF0dWFjYW8=",
+    "id": "U0VTQSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIFNhw7pkZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXNhLXByLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZGUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLWVtLWRpdmVyc2FzLWFyZWFzLWRlLWF0dWFjYW8=",
     "orgao": "SESA - Secretaria de Estado da Saúde do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/sesa-pr-abre-processo-seletivo-com-vagas-em-diversas-areas-de-atuacao",
+    "link": "https://www.pciconcursos.com.br/noticias/sesa-pr-divulga-retificacao-de-processo-seletivo-com-vagas-em-diversas-areas-de-atuacao",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -1245,6 +1320,21 @@
     "localizacao": "Ibiraiaras - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJbWLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Imbé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Imbé",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Imbé - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBMYWdvw6NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhZ29hby1ycy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1lbmZlcm1laXJvLWUtdmlzaXRhZG9yLWRvLXBpbQ==",
     "orgao": "Prefeitura de Lagoão",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoao-rs-abre-processos-seletivos-para-enfermeiro-e-visitador-do-pim",
@@ -1365,6 +1455,21 @@
     "localizacao": "Palmares do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYSBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWVpcmEtZGFzLW1pc3NvZXMtcnMtcmV0aWZpY2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtY29tdW5pdGFyaW8tZGUtc2F1ZGU=",
+    "orgao": "Prefeitura de Palmeira das Missões",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmeira-das-missoes-rs-retifica-processo-seletivo-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palmeira das Missões",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palmeira das Missões - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
     "orgao": "Prefeitura de Rio Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-processo-seletivo-para-o-cargo-de-motorista",
@@ -1408,6 +1513,36 @@
     "data_encerramento": "03/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-selecao-para-profissionais-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tcGVkcm8tZG8tc3VsLXJzLWFudW5jaWEtc2VsZWNhby1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
+    "orgao": "Prefeitura de São Pedro do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-anuncia-selecao-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFZhbGVudGltIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tdmFsZW50aW0tZG8tc3VsLXJzLWFicmUtY29uY3Vyc28tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
@@ -1710,6 +1845,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hdXhpbGlhci1hZG1pbmlzdHJhdGl2by1wY2QtZW0tZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-auxiliar-administrativo-pcd-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gSEVNT1NDIGRlIEpvaW52aWxsZS9TQ2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWVtLXZhZ2EtZXhjbHVzaXZhLXBhcmEtcGNk",
     "orgao": "FAHECE - HEMOSC de Joinville/SC",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-em-vaga-exclusiva-para-pcd",
@@ -1813,6 +1963,21 @@
     "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Arabutã - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCYW5kZWlyYW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYW5kZWlyYW50ZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Bandeirante",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bandeirante-sc-abre-processo-seletivo-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bandeirante",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bandeirante - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb20gSmFyZGltIGRhIFNlcnJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvbS1qYXJkaW0tZGEtc2VycmEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtbWVkaWNvLXZldGVyaW5hcmlv",
@@ -2145,6 +2310,21 @@
     "localizacao": "Pouso Redondo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gQ2FtcG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLWNhbXBvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDMwMw==",
+    "orgao": "Prefeitura de Rio do Campo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-campo-sc-abre-processo-seletivo-com-salarios-de-ate-10303",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio do Campo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio do Campo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjkxMg==",
     "orgao": "Prefeitura de São Domingos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-processo-seletivo-com-salarios-de-ate-6912",
@@ -2158,6 +2338,21 @@
     "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Domingos - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZpc2NhbC1kZS12aWdpbGFuY2lhLXNhbml0YXJpYQ==",
+    "orgao": "Prefeitura de São Lourenço do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-lourenco-do-oeste-sc-abre-processo-seletivo-para-fiscal-de-vigilancia-sanitaria",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Lourenço do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Lourenço do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lZHVjYWNhbw==",
