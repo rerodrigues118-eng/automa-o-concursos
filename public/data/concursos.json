@@ -240,6 +240,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "REFUQVBSRVYgLSBFbXByZXNhIGRlIFRlY25vbG9naWEgZSBJbmZvcm1hw6fDtWVzIGRhIFByZXZpZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZGF0YXByZXYtYnItZWRpdGFsLXB1YmxpY2Fkby1wYXJhLWRpdmVyc2FzLWFyZWFzLWNvbS1pbmljaWFpcy1kZS1hdGUtMTA2ODU=",
+    "orgao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
+    "link": "https://www.pciconcursos.com.br/noticias/dataprev-br-edital-publicado-para-diversas-areas-com-iniciais-de-ate-10685",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
@@ -598,6 +613,21 @@
     "data_encerramento": "05/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Honório Serpa - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJdmHDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdmFpLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8tZS1jdWx0dXJh",
+    "orgao": "Prefeitura de Ivaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivai-pr-abre-processo-seletivo-para-a-secretaria-de-educacao-e-cultura",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ivaí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ivaí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBKYWd1YXBpdMOjaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWphZ3VhcGl0YS1wci1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLWUtbW90b3Jpc3RhLWRlLXRyYW5zcG9ydGUtZXNjb2xhcg==",
@@ -1560,6 +1590,21 @@
     "localizacao": "Tavares - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUaXJhZGVudGVzIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aXJhZGVudGVzLWRvLXN1bC1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtZW5mZXJtZWlyby1lLWNvbnRyb2xhZG9yLWludGVybm8=",
+    "orgao": "Prefeitura de Tiradentes do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tiradentes-do-sul-rs-abre-selecoes-para-enfermeiro-e-controlador-interno",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tiradentes do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tiradentes do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00Mzk1",
     "orgao": "Prefeitura de Travesseiro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-travesseiro-rs-abre-concurso-publico-com-salarios-de-ate-4395",
@@ -1573,6 +1618,21 @@
     "data_encerramento": "23/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Travesseiro - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY29lcy1wYXJhLWF1eGlsaWFyLWVtLXNhdWRlLWJ1Y2FsLWUtb3BlcmFkb3ItZGUtbWFxdWluYXM=",
+    "orgao": "Prefeitura de Três Coroas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecoes-para-auxiliar-em-saude-bucal-e-operador-de-maquinas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Três Coroas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Três Coroas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUdWN1bmR1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVjdW5kdXZhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIwLW1pbA==",
@@ -2381,6 +2441,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FQRUMgLSBTZWNyZXRhcmlhIGRlIEVzdGFkbyBkYSBBZ3JpY3VsdHVyYSBlIFBlY3XDoXJpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvc2FwZWMtc2MtYWJyZS1jb25jdXJzby1jb20tMjAtdmFnYXMtcGFyYS1hbmFsaXN0YS10ZWNuaWNvLWFkbWluaXN0cmF0aXZvLWlp",
+    "orgao": "SAPEC - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/sapec-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
