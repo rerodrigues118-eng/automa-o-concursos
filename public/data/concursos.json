@@ -240,21 +240,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
-    "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
@@ -493,21 +478,6 @@
     "data_encerramento": "20/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bom Jesus do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1iw6lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtYmUtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTE0MDg4",
-    "orgao": "Prefeitura de Cambé",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cambe-pr-abre-concurso-publico-com-remuneracoes-de-ate-14088",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cambé",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/06/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cambé - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXBpdMOjbyBMZcO0bmlkYXMgTWFycXVlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBpdGFvLWxlb25pZGFzLW1hcnF1ZXMtcHItYWJyZS12YWdhLXBhcmEtbnV0cmljaW9uaXN0YQ==",
@@ -990,21 +960,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Qk0gLSBCcmlnYWRhIE1pbGl0YXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2JyaWdhZGEtbWlsaXRhci1ycy1kaXZ1bGdhLXNlbGVjb2VzLXBhcmEtc2FyZ2VudG9zLWUtdGVuZW50ZXMtdGVtcG9yYXJpb3M=",
-    "orgao": "BM - Brigada Militar",
-    "link": "https://www.pciconcursos.com.br/noticias/brigada-militar-rs-divulga-selecoes-para-sargentos-e-tenentes-temporarios",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "Q8OibWFyYSBkZSBCb20gUHJpbmPDrXBpb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWJvbS1wcmluY2lwaW8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYWdlbnRlLWUtYW5hbGlzdGEtbGVnaXNsYXRpdm8=",
     "orgao": "Câmara de Bom Princípio",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-bom-principio-rs-abre-concurso-publico-para-agente-e-analista-legislativo",
@@ -1063,21 +1018,6 @@
     "data_encerramento": "06/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SVBBTSAtIEluc3RpdHV0byBkZSBQcmV2aWTDqm5jaWEgZSBBc3Npc3TDqm5jaWEgTXVuaWNpcGFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pcGFtLWRlLWNheGlhcy1kby1zdWwtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTEtbWls",
-    "orgao": "IPAM - Instituto de Previdência e Assistência Municipal",
-    "link": "https://www.pciconcursos.com.br/noticias/ipam-de-caxias-do-sul-rs-abre-concurso-publico-com-salarios-de-ate-11-mil",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Previdência",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Previdência - PR"
   },
   {
     "id": "UG9sw61jaWEgUGVuYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3BvbGljaWEtcGVuYWwtcnMtcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1jb25jdXJzby1jb20tdmFnYXMtcGFyYS1uaXZlbC1tZWRpby1lLXN1cGVyaW9y",
@@ -1423,21 +1363,6 @@
     "data_encerramento": "28/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Novo Hamburgo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBPc8OzcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW9zb3Jpby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9maXNzaW9uYWlzLWRhLXNhdWRlLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTEzNDM=",
-    "orgao": "Prefeitura de Osório",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osorio-rs-abre-selecao-para-profissionais-da-saude-com-salarios-de-ate-11343",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Osório",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Osório - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
@@ -1993,21 +1918,6 @@
     "data_encerramento": "20/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bom Jardim da Serra - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCb20gSmVzdXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tLWplc3VzLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1lbnNpbm8tZnVuZGFtZW50YWw=",
-    "orgao": "Prefeitura de Bom Jesus",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jesus-sc-abre-selecao-para-professor-de-ensino-fundamental",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Bom Jesus",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Bom Jesus - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUzNjc=",
