@@ -180,6 +180,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
+    "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
@@ -330,6 +345,36 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q09OU1VEIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkZSBTYcO6ZGUgZG8gU3Vkb2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvbnN1ZC1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTIwNg==",
+    "orgao": "CONSUD - Consórcio Intermunicipal de Saúde do Sudoeste",
+    "link": "https://www.pciconcursos.com.br/noticias/consud-pr-abre-concurso-publico-com-salarios-de-ate-15206",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNDc1Ng==",
+    "orgao": "Prefeitura de Ponta Grossa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-abre-concurso-com-salarios-de-ate-14756",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ponta Grossa",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ponta Grossa - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
     "orgao": "Prefeitura de Rio Azul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
@@ -403,21 +448,6 @@
     "data_encerramento": "08/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Saúde dos Municípios do Oeste do Paraná - PR"
-  },
-  {
-    "id": "Q09OU1VEIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkZSBTYcO6ZGUgZG8gU3Vkb2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvbnN1ZC1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTIwNg==",
-    "orgao": "CONSUD - Consórcio Intermunicipal de Saúde do Sudoeste",
-    "link": "https://www.pciconcursos.com.br/noticias/consud-pr-abre-concurso-publico-com-salarios-de-ate-15206",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "30/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbG1pcmFudGUgVGFtYW5kYXLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbG1pcmFudGUtdGFtYW5kYXJlLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtZGUtb3BlcmFjb2VzLWk=",
@@ -675,21 +705,6 @@
     "localizacao": "Jardim Olinda - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBKdWFyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1qdWFyYS1tdC1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1hdXhpbGlhci1kZS1wcm9mZXNzb3I=",
-    "orgao": "Prefeitura de Juara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juara-mt-abre-processo-seletivo-para-o-cargo-de-auxiliar-de-professor",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Juara",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Juara - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBMYXBhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhcGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUxMzA=",
     "orgao": "Prefeitura de Lapa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lapa-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
@@ -718,6 +733,21 @@
     "data_encerramento": "06/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Mandaguari - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJpYSBIZWxlbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyaWEtaGVsZW5hLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NDU4",
+    "orgao": "Prefeitura de Maria Helena",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maria-helena-pr-abre-processo-seletivo-com-salarios-de-ate-5458",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Maria Helena",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Maria Helena - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNZXJjZWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tZXJjZWRlcy1wci1kaXZ1bGdhLXJldGlmaWNhY2FvLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvcy1lLXBzaWNvbG9nb3M=",
@@ -763,21 +793,6 @@
     "data_encerramento": "05/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pitanga - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNDc1Ng==",
-    "orgao": "Prefeitura de Ponta Grossa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-abre-concurso-com-salarios-de-ate-14756",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ponta Grossa",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "10/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ponta Grossa - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1wcm9mZXNzb3Jlcw==",
@@ -898,6 +913,21 @@
     "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Pedro do Iguaçu - PR"
+  },
+  {
+    "id": "UFJPQU1VU0VQIC0gQ29uc8OzcmNpbyBkZSBHZXN0w6NvIGRhIEFtdXNlcGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJvYW11c2VwLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NDE0",
+    "orgao": "PROAMUSEP - Consórcio de Gestão da Amusep",
+    "link": "https://www.pciconcursos.com.br/noticias/proamusep-pr-abre-processo-seletivo-com-salarios-de-ate-5414",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Gestão da Amusep",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gestão da Amusep - PR"
   },
   {
     "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIEphZ3VhcGl0w6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhbWFlLWRlLWphZ3VhcGl0YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ0",
@@ -1230,6 +1260,21 @@
     "localizacao": "Feliz - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGbG9yaWFubyBQZWl4b3RvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWZsb3JpYW5vLXBlaXhvdG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWRlLWRpc2NpcGxpbmE=",
+    "orgao": "Prefeitura de Floriano Peixoto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floriano-peixoto-rs-abre-processo-seletivo-para-auxiliar-de-disciplina",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Floriano Peixoto",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Floriano Peixoto - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHbG9yaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nbG9yaW5oYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLWRlLW1hdGVtYXRpY2E=",
     "orgao": "Prefeitura de Glorinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-glorinha-rs-abre-processo-seletivo-para-professor-de-matematica",
@@ -1380,6 +1425,21 @@
     "localizacao": "Nova Petrópolis - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIENhYnJhaXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1jYWJyYWlzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1lLWZvbm9hdWRpb2xvZ29z",
+    "orgao": "Prefeitura de Novo Cabrais",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-processo-seletivo-para-professores-e-fonoaudiologos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Cabrais",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Cabrais - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODI5Mw==",
     "orgao": "Prefeitura de Novo Hamburgo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
@@ -1438,6 +1498,21 @@
     "data_encerramento": "14/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pejuçara - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFnZW50ZS1kZS1maXNjYWxpemFjYW8tbXVuaWNpcGFs",
+    "orgao": "Prefeitura de Porto Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-concurso-publico-para-agente-de-fiscalizacao-municipal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Porto Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Porto Alegre - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
@@ -2173,6 +2248,21 @@
     "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Imbituba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBKYWd1YXJ1bmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFndWFydW5hLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS0yLXByb2Zlc3Nvci1iaWxpbmd1ZQ==",
+    "orgao": "Prefeitura de Jaguaruna",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaruna-sc-abre-processo-seletivo-para-2-professor-bilingue",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Jaguaruna",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Jaguaruna - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMYWdlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1sYWdlcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA3MTY=",
