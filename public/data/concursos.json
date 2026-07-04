@@ -1020,6 +1020,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Qk0gLSBCcmlnYWRhIE1pbGl0YXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2JyaWdhZGEtbWlsaXRhci1ycy1wcm9ycm9nYS1pbnNjcmljb2VzLW5vcy1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtc2FyZ2VudG9zLWUtdGVuZW50ZXM=",
+    "orgao": "BM - Brigada Militar",
+    "link": "https://www.pciconcursos.com.br/noticias/brigada-militar-rs-prorroga-inscricoes-nos-processos-seletivos-para-sargentos-e-tenentes",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBCb20gUHJpbmPDrXBpb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWJvbS1wcmluY2lwaW8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYWdlbnRlLWUtYW5hbGlzdGEtbGVnaXNsYXRpdm8=",
     "orgao": "Câmara de Bom Princípio",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-bom-principio-rs-abre-concurso-publico-para-agente-e-analista-legislativo",
@@ -1740,8 +1755,8 @@
     "localizacao": "Vereadores de Joinville - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtc2VsZWNvZXMtcGFyYS1hc3Npc3RlbnRlcy1hZG1pbmlzdHJhdGl2b3MtZW0tc2FvLWxvdXJlbmNvLWRvLW9lc3RlLWUtam9pbnZpbGxl",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtc2VsZWNvZXMtcGFyYS1hc3Npc3RlbnRlcy1hZG1pbmlzdHJhdGl2b3MtZW0tc2FvLWxvdXJlbmNvLWRvLW9lc3RlLWUtam9pbnZpbGxl",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-selecoes-para-assistentes-administrativos-em-sao-lourenco-do-oeste-e-joinville",
     "categoria": "Outros",
     "uf": "PR",
