@@ -180,21 +180,6 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
-    "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "02/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
@@ -206,21 +191,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "UE5EIC0gUHJvdmEgTmFjaW9uYWwgRG9jZW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJvdmEtbmFjaW9uYWwtZG9jZW50ZS0yMDI2LW9mZXJlY2Utb3BvcnR1bmlkYWRlcy1lbS1kaXZlcnNhcy1hcmVhcy1kYS1lZHVjYWNhby1iYXNpY2E=",
-    "orgao": "PND - Prova Nacional Docente",
-    "link": "https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -266,6 +236,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "06/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "RUVBUiAtIEVzY29sYSBkZSBFc3BlY2lhbGlzdGFzIGRlIEFlcm9uw6F1dGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kYS1hZXJvbmF1dGljYS1zcC1hYnJlLXZhZ2FzLWRlLW5pdmVsLW1lZGlvLXBhcmEtby1jdXJzby1kZS1mb3JtYWNhby1kZS1zYXJnZW50b3M=",
+    "orgao": "EEAR - Escola de Especialistas de Aeronáutica",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-aeronautica-sp-abre-vagas-de-nivel-medio-para-o-curso-de-formacao-de-sargentos",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -341,6 +326,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "12/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "UE5EIC0gUHJvdmEgTmFjaW9uYWwgRG9jZW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJvdmEtbmFjaW9uYWwtZG9jZW50ZS0yMDI2LW9mZXJlY2Utb3BvcnR1bmlkYWRlcy1lbS1kaXZlcnNhcy1hcmVhcy1kYS1lZHVjYWNhby1iYXNpY2E=",
+    "orgao": "PND - Prova Nacional Docente",
+    "link": "https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -1035,21 +1035,6 @@
     "localizacao": "Bom Princípio - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFNhcGlyYW5nYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXNhcGlyYW5nYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1vLWNhcmdvLWRlLWFnZW50ZS1hZG1pbmlzdHJhdGl2bw==",
-    "orgao": "Câmara de Vereadores de Sapiranga",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sapiranga-rs-abre-selecao-para-o-cargo-de-agente-administrativo",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Vereadores de Sapiranga",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vereadores de Sapiranga - PR"
-  },
-  {
     "id": "Q1JBIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgQWRtaW5pc3RyYcOnw6NvIGRvIFJpbyBHcmFuZGUgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jcmEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1uaXZlbC1tZWRpby1lLXN1cGVyaW9yLWVtLXBvcnRvLWFsZWdyZQ==",
     "orgao": "CRA - Conselho Regional de Administração do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/cra-rs-abre-concurso-publico-para-profissionais-de-nivel-medio-e-superior-em-porto-alegre",
@@ -1108,21 +1093,6 @@
     "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alvorada - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBkbyBRdWFyYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhcnJhLWRvLXF1YXJhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wc2ljb3BlZGFnb2dvLWNsaW5pY28=",
-    "orgao": "Prefeitura de Barra do Quaraí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-quarai-rs-abre-selecao-para-psicopedagogo-clinico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barra do Quaraí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barra do Quaraí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wZXN0cmUgZGEgU2VycmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcGVzdHJlLWRhLXNlcnJhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEzMTc5",
@@ -1245,21 +1215,6 @@
     "localizacao": "Espumoso - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mZWxpei1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMzEyNg==",
-    "orgao": "Prefeitura de Feliz",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-com-salarios-de-ate-3126",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Feliz",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Feliz - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBGbG9yaWFubyBQZWl4b3RvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWZsb3JpYW5vLXBlaXhvdG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWRlLWRpc2NpcGxpbmE=",
     "orgao": "Prefeitura de Floriano Peixoto",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floriano-peixoto-rs-abre-processo-seletivo-para-auxiliar-de-disciplina",
@@ -1350,21 +1305,6 @@
     "localizacao": "Imbé - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBMYWdvw6NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhZ29hby1ycy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1lbmZlcm1laXJvLWUtdmlzaXRhZG9yLWRvLXBpbQ==",
-    "orgao": "Prefeitura de Lagoão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoao-rs-abre-processos-seletivos-para-enfermeiro-e-visitador-do-pim",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lagoão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lagoão - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJxdWVzIGRlIFNvdXphaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcnF1ZXMtZGUtc291emEtcnMtYWJyZS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTE4MQ==",
     "orgao": "Prefeitura de Marques de Souza",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marques-de-souza-rs-abre-concurso-e-processo-seletivo-com-salarios-de-ate-5181",
@@ -1395,36 +1335,6 @@
     "localizacao": "Morro Redondo - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZXV0ZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9ycm8tcmV1dGVyLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhcmdvLWRlLW9wZXJhcmlv",
-    "orgao": "Prefeitura de Morro Reuter",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-reuter-rs-abre-selecao-para-cargo-de-operario",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Morro Reuter",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Morro Reuter - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFBldHLDs3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcGV0cm9wb2xpcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0xMC12YWdhcw==",
-    "orgao": "Prefeitura de Nova Petrópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-petropolis-rs-abre-processo-seletivo-com-10-vagas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Nova Petrópolis",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Nova Petrópolis - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIENhYnJhaXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1jYWJyYWlzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1lLWZvbm9hdWRpb2xvZ29z",
     "orgao": "Prefeitura de Novo Cabrais",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-processo-seletivo-para-professores-e-fonoaudiologos",
@@ -1453,36 +1363,6 @@
     "data_encerramento": "28/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Novo Hamburgo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
-    "orgao": "Prefeitura de Palmares do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-selecao-para-engenheiro-civil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Palmares do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Palmares do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYSBkYXMgTWlzc8O1ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWVpcmEtZGFzLW1pc3NvZXMtcnMtcmV0aWZpY2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtY29tdW5pdGFyaW8tZGUtc2F1ZGU=",
-    "orgao": "Prefeitura de Palmeira das Missões",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmeira-das-missoes-rs-retifica-processo-seletivo-para-agente-comunitario-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Palmeira das Missões",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Palmeira das Missões - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQZWp1w6dhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGVqdWNhcmEtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
@@ -1543,21 +1423,6 @@
     "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santa Tereza - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY3VpZGFkb3Itc29jaWFs",
-    "orgao": "Prefeitura de Santo Antônio da Patrulha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-publica-edital-de-processo-seletivo-para-cuidador-social",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Santo Antônio da Patrulha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
@@ -1648,21 +1513,6 @@
     "data_encerramento": "09/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Sinimbu - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS12YWdhLXBhcmEtYXVkaXRvci1kYS1yZWNlaXRhLW11bmljaXBhbA==",
-    "orgao": "Prefeitura de Tavares",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-abre-vaga-para-auditor-da-receita-municipal",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tavares",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tavares - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUaXJhZGVudGVzIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aXJhZGVudGVzLWRvLXN1bC1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtZW5mZXJtZWlyby1lLWNvbnRyb2xhZG9yLWludGVybm8=",
@@ -1890,21 +1740,6 @@
     "localizacao": "Vereadores de Joinville - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWFzc2lzdGVudGUtYWRtaW5pc3RyYXRpdm8taS1lbS10dWJhcmFv",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-administrativo-i-em-tubarao",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtc2VsZWNvZXMtcGFyYS1hc3Npc3RlbnRlcy1hZG1pbmlzdHJhdGl2b3MtZW0tc2FvLWxvdXJlbmNvLWRvLW9lc3RlLWUtam9pbnZpbGxl",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-selecoes-para-assistentes-administrativos-em-sao-lourenco-do-oeste-e-joinville",
@@ -1991,21 +1826,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SU1BUyAtIEluc3RpdHV0byBNYXJpYSBTY2htaXR0aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1yZWdpb25hbC1kZS1hcmFyYW5ndWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY28tZGUtbGFib3JhdG9yaW8=",
-    "orgao": "IMAS - Instituto Maria Schmitt",
-    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-processo-seletivo-para-tecnico-de-laboratorio",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2160,21 +1980,6 @@
     "localizacao": "Formosa do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1lLW1lZGljby1kZS1zYXVkZS1kYS1mYW1pbGlh",
-    "orgao": "Prefeitura de Fraiburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processos-seletivos-para-tecnico-de-enfermagem-e-medico-de-saude-da-familia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Fraiburgo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Fraiburgo - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1kZS1oaXN0b3JpYQ==",
     "orgao": "Prefeitura de Fraiburgo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-para-professores-de-historia",
@@ -2323,21 +2128,6 @@
     "data_encerramento": "06/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Mirim Doce - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOYXZlZ2FudGVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5hdmVnYW50ZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
-    "orgao": "Prefeitura de Navegantes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-navegantes-sc-abre-processo-seletivo-para-engenheiro-civil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Navegantes",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Navegantes - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtYSBTb2xhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbG1hLXNvbGEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTU1MTE=",
@@ -2561,21 +2351,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "27/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VKVVJJIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGUgSnVzdGnDp2EgZSBSZWludGVncmHDp8OjbyBTb2NpYWwgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlanVyaS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZmFybWFjZXV0aWNvcw==",
-    "orgao": "SEJURI - Secretaria de Estado de Justiça e Reintegração Social de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/sejuri-sc-abre-processo-seletivo-para-farmaceuticos",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
