@@ -1,5 +1,20 @@
 [
   {
+    "id": "UENQUiAtIFBvbMOtY2lhIENpdmlsIGRvIEVzdGFkbyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLWNpdmlsLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tcmVtdW5lcmFjb2VzLWF0ZS0yNjg3Ng==",
+    "orgao": "PCPR - Polícia Civil do Estado do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/policia-civil-pr-abre-concurso-publico-com-remuneracoes-ate-26876",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "Q1JBIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgQWRtaW5pc3RyYcOnw6NvIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NyYS1wci1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "CRA - Conselho Regional de Administração do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/cra-pr-retifica-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -11,6 +26,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
+    "id": "Q1JOLTggLSBDb25zZWxobyBSZWdpb25hbCBkZSBOdXRyacOnw6NvIGRhIDjCqiBSZWdpw6NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jcm4tOC1wci1zZWxlY2FvLXNpbXBsaWZpY2FkYS1hYnJlLXZhZ2EtcGFyYS10ZWNuaWNvLWRlLWNvbXByYXM=",
+    "orgao": "CRN-8 - Conselho Regional de Nutrição da 8ª Região",
+    "link": "https://www.pciconcursos.com.br/noticias/crn-8-pr-selecao-simplificada-abre-vaga-para-tecnico-de-compras",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Curitiba - PR"
   },
@@ -450,6 +480,21 @@
     "localizacao": "Loanda - PR"
   },
   {
+    "id": "Q0lTQU1VU0VQIC0gQ29uc8OzcmNpbyBQw7pibGljbyBJbnRlcm11bmljaXBhbCBkZSBTYcO6ZGUgZG8gU2V0ZW50cmnDo28gUGFyYW5hZW5zZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lzYW11c2VwLXByLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTY1ODE=",
+    "orgao": "CISAMUSEP - Consórcio Público Intermunicipal de Saúde do Setentrião Paranaense",
+    "link": "https://www.pciconcursos.com.br/noticias/cisamusep-pr-abre-selecao-com-salarios-de-ate-6581",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q09OU0FNVSAtIENvbnPDs3JjaW8gZGUgU2HDumRlIGRvcyBNdW5pY8OtcGlvcyBkbyBPZXN0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zYW11LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZhLWUtcHJlZW5jaGltZW50by1kZS12YWdhcy1pbWVkaWF0YXM=",
     "orgao": "CONSAMU - Consórcio de Saúde dos Municípios do Oeste do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/consamu-pr-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-e-preenchimento-de-vagas-imediatas",
@@ -463,21 +508,6 @@
     "data_encerramento": "08/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Saúde dos Municípios do Oeste do Paraná - PR"
-  },
-  {
-    "id": "UENQUiAtIFBvbMOtY2lhIENpdmlsIGRvIEVzdGFkbyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLWNpdmlsLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tcmVtdW5lcmFjb2VzLWF0ZS0yNjg3Ng==",
-    "orgao": "PCPR - Polícia Civil do Estado do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/policia-civil-pr-abre-concurso-publico-com-remuneracoes-ate-26876",
-    "categoria": "Policial",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbG1pcmFudGUgVGFtYW5kYXLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbG1pcmFudGUtdGFtYW5kYXJlLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtZGUtb3BlcmFjb2VzLWk=",
@@ -1095,6 +1125,21 @@
     "localizacao": "Campestre da Serra - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBCb21odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYm9tLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8tZS1jdWx0dXJh",
+    "orgao": "Prefeitura de Campo Bom",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-bom-rs-abre-processo-seletivo-para-a-secretaria-de-educacao-e-cultura",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Campo Bom",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campo Bom - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW5kZWzDoXJpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYW5kZWxhcmlhLXJzLWRpdnVsZ2EtcmV0aWZpY2Fjb2VzLWRlLWNvbmN1cnNvLXB1YmxpY28tZS1wcm9jZXNzby1zZWxldGl2bw==",
     "orgao": "Prefeitura de Candelária",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candelaria-rs-divulga-retificacoes-de-concurso-publico-e-processo-seletivo",
@@ -1290,6 +1335,21 @@
     "localizacao": "Imbé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBKYXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWphcmktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1oaXN0b3JpYQ==",
+    "orgao": "Prefeitura de Jari",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jari-rs-abre-processo-seletivo-para-professor-de-historia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Jari",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Jari - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJxdWVzIGRlIFNvdXphaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcnF1ZXMtZGUtc291emEtcnMtYWJyZS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTE4MQ==",
     "orgao": "Prefeitura de Marques de Souza",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marques-de-souza-rs-abre-concurso-e-processo-seletivo-com-salarios-de-ate-5181",
@@ -1408,6 +1468,21 @@
     "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santa Tereza - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byDDgm5nZWxvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRvLWFuZ2Vsby1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02MzY5",
+    "orgao": "Prefeitura de Santo Ângelo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-angelo-rs-abre-concurso-publico-com-salarios-de-ate-6369",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
@@ -1543,6 +1618,21 @@
     "data_encerramento": "13/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Coroas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcml1bmZvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyaXVuZm8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWEtc2VjcmV0YXJpYS1kZS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de Triunfo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-triunfo-rs-abre-processo-seletivo-para-a-secretaria-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Triunfo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Triunfo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUdWN1bmR1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHVjdW5kdXZhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIwLW1pbA==",
@@ -2186,6 +2276,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "22/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Miguel do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
+    "orgao": "Prefeitura de São Miguel do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-retifica-edital-de-concurso-publico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Miguel do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Miguel do Oeste - PR"
   },
