@@ -195,6 +195,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "MTHCqiBSTSAtIENvbWFuZG8gZGEgMTHCqiBSZWdpw6NvIE1pbGl0YXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvbWFuZG8tZGEtMTEtcmVnaWFvLW1pbGl0YXItZGYtZ28tZS10by1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy10ZWNuaWNvcy10ZW1wb3Jhcmlvcw==",
+    "orgao": "11ª RM - Comando da 11ª Região Militar",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-e-to-abre-selecao-para-oficiais-tecnicos-temporarios",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "NcKqIFJNIC0gNcKqIFJlZ2nDo28gTWlsaXRhciBkbyBFeMOpcmNpdG8gQnJhc2lsZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvNS1yZWdpYW8tbWlsaXRhci1wci1leGVyY2l0by1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy1lLXNhcmdlbnRvcw==",
     "orgao": "5ª RM - 5ª Região Militar do Exército Brasileiro",
     "link": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos",
@@ -448,6 +463,21 @@
     "data_encerramento": "08/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Saúde dos Municípios do Oeste do Paraná - PR"
+  },
+  {
+    "id": "UENQUiAtIFBvbMOtY2lhIENpdmlsIGRvIEVzdGFkbyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLWNpdmlsLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tcmVtdW5lcmFjb2VzLWF0ZS0yNjg3Ng==",
+    "orgao": "PCPR - Polícia Civil do Estado do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/policia-civil-pr-abre-concurso-publico-com-remuneracoes-ate-26876",
+    "categoria": "Policial",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbG1pcmFudGUgVGFtYW5kYXLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbG1pcmFudGUtdGFtYW5kYXJlLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtZGUtb3BlcmFjb2VzLWk=",
@@ -1033,6 +1063,21 @@
     "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alvorada - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCYXJyb3MgQ2Fzc2FsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhcnJvcy1jYXNzYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1vdG9yaXN0YS1kZS1jYXJyby1kZS1wYXNzZWlv",
+    "orgao": "Prefeitura de Barros Cassal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barros-cassal-rs-abre-processo-seletivo-para-motorista-de-carro-de-passeio",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Barros Cassal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Barros Cassal - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wZXN0cmUgZGEgU2VycmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcGVzdHJlLWRhLXNlcnJhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEzMTc5",
@@ -1890,6 +1935,21 @@
     "localizacao": "Formosa do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWNvbS1zYWxhcmlvcy1kZS0yMjky",
+    "orgao": "Prefeitura de Fraiburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-selecao-para-professores-com-salarios-de-2292",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fraiburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fraiburgo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHYXNwYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FzcGFyLXNjLWFicmUtdmFnYXMtZW0tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGVzLWNvbXVuaXRhcmlvcy1kZS1zYXVkZQ==",
     "orgao": "Prefeitura de Gaspar",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gaspar-sc-abre-vagas-em-processo-seletivo-para-agentes-comunitarios-de-saude",
@@ -2173,6 +2233,21 @@
     "data_encerramento": "22/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Treze de Maio - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWYXJnZW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdmFyZ2VtLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lbmdlbmhlaXJvLWNpdmls",
+    "orgao": "Prefeitura de Vargem",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargem-sc-abre-processo-seletivo-para-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vargem",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vargem - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBYYXZhbnRpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUteGF2YW50aW5hLXNjLWRpdnVsZ2EtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc2FzLWFyZWFz",
