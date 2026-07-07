@@ -480,9 +480,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q09OU0FNVSAtIENvbnPDs3JjaW8gZGUgU2HDumRlIGRvcyBNdW5pY8OtcGlvcyBkbyBPZXN0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zYW11LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZhLWUtcHJlZW5jaGltZW50by1kZS12YWdhcy1pbWVkaWF0YXM=",
+    "id": "Q09OU0FNVSAtIENvbnPDs3JjaW8gZGUgU2HDumRlIGRvcyBNdW5pY8OtcGlvcyBkbyBPZXN0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zYW11LXByLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZGUtcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "CONSAMU - Consórcio de Saúde dos Municípios do Oeste do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/consamu-pr-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-e-preenchimento-de-vagas-imediatas",
+    "link": "https://www.pciconcursos.com.br/noticias/consamu-pr-divulga-retificacao-de-processo-seletivo",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Saúde dos Municípios do Oeste do Paraná",
@@ -1770,6 +1770,21 @@
     "localizacao": "Vereadores de Joinville - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLXByb3Jyb2dhLWluc2NyaWNvZXMtcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWktcGNkLWVtLXNhby1sb3VyZW5jby1kby1vZXN0ZQ==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-para-assistente-administrativo-i-pcd-em-sao-lourenco-do-oeste",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWRlLWxhYm9yYXRvcmlvLWVtLWliaXJhbWE=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-de-laboratorio-em-ibirama",
@@ -1781,21 +1796,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "10/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1wcm9ycm9nYS1pbnNjcmljb2VzLXBhcmEtYXNzaXN0ZW50ZS1hZG1pbmlzdHJhdGl2by1pLXBjZC1lbS1zYW8tbG91cmVuY28tZG8tb2VzdGU=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-para-assistente-administrativo-i-pcd-em-sao-lourenco-do-oeste",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
