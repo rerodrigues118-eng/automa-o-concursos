@@ -315,36 +315,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "SU1FIC0gSW5zdGl0dXRvIE1pbGl0YXIgZGUgRW5nZW5oYXJpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW1lLWFicmUtY29uY3Vyc29zLXBhcmEtY3Vyc29zLWRlLWZvcm1hY2FvLWNvbS0xMDAtdmFnYXM=",
-    "orgao": "IME - Instituto Militar de Engenharia",
-    "link": "https://www.pciconcursos.com.br/noticias/ime-abre-concursos-para-cursos-de-formacao-com-100-vagas",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "SU1FIC0gSW5zdGl0dXRvIE1pbGl0YXIgZGUgRW5nZW5oYXJpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW5zdGl0dXRvLW1pbGl0YXItZGUtZW5nZW5oYXJpYS1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1kZS1uaXZlbC1zdXBlcmlvcg==",
-    "orgao": "IME - Instituto Militar de Engenharia",
-    "link": "https://www.pciconcursos.com.br/noticias/instituto-militar-de-engenharia-abre-concurso-com-vagas-de-nivel-superior",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "SVRBIC0gSW5zdGl0dXRvIFRlY25vbMOzZ2ljbyBkZSBBZXJvbsOhdXRpY2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2l0YS1kaXNwb25pYmlsaXphLWNlbnRlbmFzLWRlLXZhZ2FzLXBhcmEtY3Vyc28tZGUtZW5nZW5oYXJpYS1lbS1kaXZlcnNhcy1lc3BlY2lhbGlkYWRlcw==",
     "orgao": "ITA - Instituto Tecnológico de Aeronáutica",
     "link": "https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades",
@@ -705,21 +675,6 @@
     "localizacao": "Japurá - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBKYXJkaW0gT2xpbmRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWphcmRpbS1vbGluZGEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtZm9ub2F1ZGlvbG9nbw==",
-    "orgao": "Prefeitura de Jardim Olinda",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jardim-olinda-pr-abre-concurso-publico-para-fonoaudiologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Jardim Olinda",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Jardim Olinda - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBMYXBhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhcGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUxMzA=",
     "orgao": "Prefeitura de Lapa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lapa-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
@@ -930,21 +885,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "VUVQRyAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VlcGctcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTc5OTc=",
-    "orgao": "UEPG - Universidade Estadual de Ponta Grossa",
-    "link": "https://www.pciconcursos.com.br/noticias/uepg-pr-abre-processo-seletivo-com-salarios-de-ate-7997",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWNpZW5jaWFzLXNvY2lhaXMtZS1odW1hbmFz",
     "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
     "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-processo-seletivo-para-professor-substituto-de-ciencias-sociais-e-humanas",
@@ -1020,21 +960,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q1JRLVYgLSBDb25zZWxobyBSZWdpb25hbCBkZSBRdcOtbWljYSBkYSA1wqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JxLXYtcnMtcHJvcnJvZ2EtaW5zY3JpY29lcy1wYXJhLWNvbmN1cnNvLXB1YmxpY28=",
-    "orgao": "CRQ-V - Conselho Regional de Química da 5ª Região",
-    "link": "https://www.pciconcursos.com.br/noticias/crq-v-rs-prorroga-inscricoes-para-concurso-publico",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtdGVjbmljby1kZS1pbmZvcm1hdGljYQ==",
     "orgao": "Prefeitura de Alvorada",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-abre-processo-seletivo-para-tecnico-de-informatica",
@@ -1063,21 +988,6 @@
     "data_encerramento": "10/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Barros Cassal - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1wZXN0cmUgZGEgU2VycmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcGVzdHJlLWRhLXNlcnJhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEzMTc5",
-    "orgao": "Prefeitura de Campestre da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campestre-da-serra-rs-abre-concurso-publico-com-salarios-de-ate-13179",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Campestre da Serra",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Campestre da Serra - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBCb21odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYm9tLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8tZS1jdWx0dXJh",
@@ -1215,36 +1125,6 @@
     "localizacao": "Glorinha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJYmFyYW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliYXJhbWEtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtcHJvZmVzc29yLWRlLWdlb2dyYWZpYS1lLWF1eGlsaWFyLWRlLXNhdWRlLWJ1Y2Fs",
-    "orgao": "Prefeitura de Ibarama",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibarama-rs-abre-processos-seletivos-para-professor-de-geografia-e-auxiliar-de-saude-bucal",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ibarama",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ibarama - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJYmlyYWlhcmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhaWFyYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTM1MjY=",
-    "orgao": "Prefeitura de Ibiraiaras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiraiaras-rs-abre-processo-seletivo-com-salarios-de-ate-3526",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ibiraiaras",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ibiraiaras - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJYmlyYWlhcmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhaWFyYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNhLXNlcnZlbnRl",
     "orgao": "Prefeitura de Ibiraiaras",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiraiaras-rs-abre-processo-seletivo-para-o-cargo-de-domestica-servente",
@@ -1318,21 +1198,6 @@
     "data_encerramento": "01/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Marques de Souza - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNb250ZSBBbGVncmUgZG9zIENhbXBvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tb250ZS1hbGVncmUtZG9zLWNhbXBvcy1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtZW5mZXJtZWlyby1lLXBzaWNvbG9nbw==",
-    "orgao": "Prefeitura de Monte Alegre dos Campos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-dos-campos-rs-abre-selecoes-para-enfermeiro-e-psicologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Monte Alegre dos Campos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Monte Alegre dos Campos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZWRvbmRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLXJlZG9uZG8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDY4NQ==",
@@ -1800,21 +1665,6 @@
     "localizacao": "Vereadores de Joinville - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLXByb3Jyb2dhLWluc2NyaWNvZXMtcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWktcGNkLWVtLXNhby1sb3VyZW5jby1kby1vZXN0ZQ==",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-para-assistente-administrativo-i-pcd-em-sao-lourenco-do-oeste",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWRlLWxhYm9yYXRvcmlvLWVtLWliaXJhbWE=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-de-laboratorio-em-ibirama",
@@ -1935,21 +1785,6 @@
     "localizacao": "Bom Jardim da Serra - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUzNjc=",
-    "orgao": "Prefeitura de Braço do Norte",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-processo-seletivo-com-salarios-de-ate-5367",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Braço do Norte",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Braço do Norte - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCcnVzcXVlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJydXNxdWUtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Brusque",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -1993,21 +1828,6 @@
     "data_encerramento": "31/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Doutor Pedrinho - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBGb3Jtb3NhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3Jtb3NhLWRvLXN1bC1zYy1hYnJlLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQ4ODg=",
-    "orgao": "Prefeitura de Formosa do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-formosa-do-sul-sc-abre-seletivo-para-diversos-cargos-com-salarios-de-ate-14888",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Formosa do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Formosa do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWNvbS1zYWxhcmlvcy1kZS0yMjky",
@@ -2085,21 +1905,6 @@
     "localizacao": "Jaguaruna - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBMYWdlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1sYWdlcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA3MTY=",
-    "orgao": "Prefeitura de Lages",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lages-sc-abre-processo-seletivo-com-salarios-de-ate-10716",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lages",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lages - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBMaW5kw7NpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbGluZG9pYS1kby1zdWwtc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTc1NjE=",
     "orgao": "Prefeitura de Lindóia do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoia-do-sul-sc-abre-concurso-com-salarios-de-ate-7561",
@@ -2173,21 +1978,6 @@
     "data_encerramento": "10/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Piratuba - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQb3VzbyBSZWRvbmRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBvdXNvLXJlZG9uZG8tc2MtYWJyZS1jb25jdXJzby1wYXJhLWVuZ2VuaGVpcm8tYW1iaWVudGFs",
-    "orgao": "Prefeitura de Pouso Redondo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pouso-redondo-sc-abre-concurso-para-engenheiro-ambiental",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pouso Redondo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pouso Redondo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gQ2FtcG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLWNhbXBvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDMwMw==",
@@ -2411,21 +2201,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "27/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtcHJvY2Vzc28tc2VsZXRpdm8tYWJyZS12YWdhLXBhcmEtdGVjbmljby1lbS1hdGl2aWRhZGVzLWFkbWluaXN0cmF0aXZhcw==",
-    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-processo-seletivo-abre-vaga-para-tecnico-em-atividades-administrativas",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
