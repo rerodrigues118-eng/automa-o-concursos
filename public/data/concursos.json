@@ -690,6 +690,21 @@
     "localizacao": "Lapa - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYW5ndWVpcmluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFuZ3VlaXJpbmhhLXByLWFicmUtc2VsZWNhby1wYXJhLWRpdmVyc29zLW5pdmVpcy1kZS1lc2NvbGFyaWRhZGU=",
+    "orgao": "Prefeitura de Mangueirinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mangueirinha-pr-abre-selecao-para-diversos-niveis-de-escolaridade",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mangueirinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mangueirinha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJpYSBIZWxlbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyaWEtaGVsZW5hLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NDU4",
     "orgao": "Prefeitura de Maria Helena",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maria-helena-pr-abre-processo-seletivo-com-salarios-de-ate-5458",
@@ -1470,6 +1485,21 @@
     "localizacao": "Travesseiro - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1zYXVkZS1idWNhbA==",
+    "orgao": "Prefeitura de Travesseiro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-travesseiro-rs-abre-selecao-para-auxiliar-de-saude-bucal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Travesseiro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Travesseiro - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY29lcy1wYXJhLWF1eGlsaWFyLWVtLXNhdWRlLWJ1Y2FsLWUtb3BlcmFkb3ItZGUtbWFxdWluYXM=",
     "orgao": "Prefeitura de Três Coroas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecoes-para-auxiliar-em-saude-bucal-e-operador-de-maquinas",
@@ -1965,9 +1995,9 @@
     "localizacao": "Palma Sola - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQaW5oZWlybyBQcmV0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oZWlyby1wcmV0by1zYy1hYnJlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMzE2MA==",
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oZWlybyBQcmV0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oZWlyby1wcmV0by1zYy1kaXZ1bGdhLXJldGlmaWNhY29lcy1kZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "Prefeitura de Pinheiro Preto",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinheiro-preto-sc-abre-concurso-e-processo-seletivo-com-salarios-de-ate-13160",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinheiro-preto-sc-divulga-retificacoes-de-concurso-publico-e-processo-seletivo",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Pinheiro Preto",
