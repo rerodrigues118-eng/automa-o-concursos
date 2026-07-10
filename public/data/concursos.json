@@ -960,6 +960,21 @@
     "localizacao": "Barros Cassal - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYWnDp2FyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWljYXJhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de Caiçara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caicara-rs-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Caiçara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Caiçara - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBCb21odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYm9tLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8tZS1jdWx0dXJh",
     "orgao": "Prefeitura de Campo Bom",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-bom-rs-abre-processo-seletivo-para-a-secretaria-de-educacao-e-cultura",
@@ -1815,6 +1830,21 @@
     "localizacao": "Grão - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHcsOjby1QYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmFvLXBhcmEtc2MtYWJyZS12YWdhLXBhcmEtYWdlbnRlLWRlLXNlcnZpY29zLWdlcmFpcw==",
+    "orgao": "Prefeitura de Grão-Pará",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-grao-para-sc-abre-vaga-para-agente-de-servicos-gerais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Grão",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Grão - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJbGhvdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWxob3RhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjExMTM=",
     "orgao": "Prefeitura de Ilhota",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-processo-seletivo-com-salarios-de-ate-21113",
@@ -1978,6 +2008,21 @@
     "data_encerramento": "05/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Salete - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIENyaXN0w7N2w6NvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tY3Jpc3RvdmFvLWRvLXN1bC1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA5OTk=",
+    "orgao": "Prefeitura de São Cristóvão do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-cristovao-do-sul-sc-abre-concurso-com-salarios-de-ate-10999",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Cristóvão do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Cristóvão do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjkxMg==",
