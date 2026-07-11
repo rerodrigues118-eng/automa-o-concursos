@@ -885,6 +885,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODI5Mw==",
+    "orgao": "Prefeitura de Novo Hamburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Hamburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Hamburgo - PR"
+  },
+  {
     "id": "M8KqIFJNIC0gQ29tYW5kbyBkYSAzwqogUmVnacOjbyBNaWxpdGFyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb21hbmRvLWRhLTMtcmVnaWFvLW1pbGl0YXItcnMtYWJyZS1zZWxlY2FvLXBhcmEtb2ZpY2lhaXMtZS1zYXJnZW50b3MtdGVtcG9yYXJpb3M=",
     "orgao": "3ª RM - Comando da 3ª Região Militar",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-3-regiao-militar-rs-abre-selecao-para-oficiais-e-sargentos-temporarios",
@@ -1153,21 +1168,6 @@
     "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Novo Cabrais - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODI5Mw==",
-    "orgao": "Prefeitura de Novo Hamburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Novo Hamburgo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Novo Hamburgo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJvYsOpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhcm9iZS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLXBhcmEtcHJvZmVzc29yZXM=",
@@ -1560,9 +1560,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYXJnby1kZS1lbmZlcm1laXJvLWludGVydmVuY2lvbmlzdGEtZW0tam9pbnZpbGxl",
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLW8tc2FtdS1lbS1qb2FjYWJhLWUtY2hhcGVjbw==",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-cargo-de-enfermeiro-intervencionista-em-joinville",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-o-samu-em-joacaba-e-chapeco",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -1575,9 +1575,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MvQ2Vwb25odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1vLXNhbXUtZW0tam9hY2FiYS1lLWNoYXBlY28=",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc/Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-o-samu-em-joacaba-e-chapeco",
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYXJnby1kZS1lbmZlcm1laXJvLWludGVydmVuY2lvbmlzdGEtZW0tam9pbnZpbGxl",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-cargo-de-enfermeiro-intervencionista-em-joinville",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
