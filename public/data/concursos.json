@@ -300,36 +300,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "SVRBIC0gSW5zdGl0dXRvIFRlY25vbMOzZ2ljbyBkZSBBZXJvbsOhdXRpY2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2l0YS1kaXNwb25pYmlsaXphLWNlbnRlbmFzLWRlLXZhZ2FzLXBhcmEtY3Vyc28tZGUtZW5nZW5oYXJpYS1lbS1kaXZlcnNhcy1lc3BlY2lhbGlkYWRlcw==",
-    "orgao": "ITA - Instituto Tecnológico de Aeronáutica",
-    "link": "https://www.pciconcursos.com.br/noticias/ita-disponibiliza-centenas-de-vagas-para-curso-de-engenharia-em-diversas-especialidades",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "TWFyaW5oYSAtIE1hcmluaGEgZG8gQnJhc2lsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tYXJpbmhhLWRvLWJyYXNpbC1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLWNvbmN1cnNvLWNvbS12YWdhcy1wYXJhLW8tY29ycG8tYXV4aWxpYXItZGUtcHJhY2Fz",
-    "orgao": "Marinha - Marinha do Brasil",
-    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-prorroga-inscricoes-de-concurso-com-vagas-para-o-corpo-auxiliar-de-pracas",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "UE5EIC0gUHJvdmEgTmFjaW9uYWwgRG9jZW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJvdmEtbmFjaW9uYWwtZG9jZW50ZS0yMDI2LW9mZXJlY2Utb3BvcnR1bmlkYWRlcy1lbS1kaXZlcnNhcy1hcmVhcy1kYS1lZHVjYWNhby1iYXNpY2E=",
     "orgao": "PND - Prova Nacional Docente",
     "link": "https://www.pciconcursos.com.br/noticias/prova-nacional-docente-2026-oferece-oportunidades-em-diversas-areas-da-educacao-basica",
@@ -585,21 +555,6 @@
     "localizacao": "Goioerê - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYWNpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhY2ktcHItYWJyZS12YWdhcy1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lZGljb3MtZS1mb25vYXVkaW9sb2dvcw==",
-    "orgao": "Prefeitura de Guaraci",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaraci-pr-abre-vagas-em-processo-seletivo-para-medicos-e-fonoaudiologos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Guaraci",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Guaraci - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJdmHDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdmFpLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8tZS1jdWx0dXJh",
     "orgao": "Prefeitura de Ivaí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivai-pr-abre-processo-seletivo-para-a-secretaria-de-educacao-e-cultura",
@@ -795,21 +750,6 @@
     "localizacao": "Rio Branco do Ivaí - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSb2zDom5kaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcm9sYW5kaWEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlcmFwZXV0YS1vY3VwYWNpb25hbA==",
-    "orgao": "Prefeitura de Rolândia",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rolandia-pr-abre-processo-seletivo-para-terapeuta-ocupacional",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rolândia",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rolândia - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRhIEJvYSBWaXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kYS1ib2EtdmlzdGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQ1MzY=",
     "orgao": "Prefeitura de São José da Boa Vista",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-boa-vista-pr-abre-processo-seletivo-com-salarios-de-ate-4536",
@@ -898,21 +838,6 @@
     "data_encerramento": "28/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Novo Hamburgo - PR"
-  },
-  {
-    "id": "M8KqIFJNIC0gQ29tYW5kbyBkYSAzwqogUmVnacOjbyBNaWxpdGFyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb21hbmRvLWRhLTMtcmVnaWFvLW1pbGl0YXItcnMtYWJyZS1zZWxlY2FvLXBhcmEtb2ZpY2lhaXMtZS1zYXJnZW50b3MtdGVtcG9yYXJpb3M=",
-    "orgao": "3ª RM - Comando da 3ª Região Militar",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-3-regiao-militar-rs-abre-selecao-para-oficiais-e-sargentos-temporarios",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBCb20gUHJpbmPDrXBpb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWJvbS1wcmluY2lwaW8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYWdlbnRlLWUtYW5hbGlzdGEtbGVnaXNsYXRpdm8=",
@@ -1440,21 +1365,6 @@
     "localizacao": "Lindoia do Sul - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBQYWxob8OnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBhbGhvY2Etc2MtcmVhYnJlLWluc2NyaWNvZXMtcGFyYS1jb25jdXJzby1wdWJsaWNv",
-    "orgao": "Câmara de Palhoça",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-palhoca-sc-reabre-inscricoes-para-concurso-publico",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Palhoça",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "06/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Palhoça - PR"
-  },
-  {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFhhdmFudGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXhhdmFudGluYS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtbml2ZWlzLWZ1bmRhbWVudGFsLWUtc3VwZXJpb3I=",
     "orgao": "Câmara de Vereadores de Xavantina",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-xavantina-sc-abre-concurso-para-niveis-fundamental-e-superior",
@@ -1528,51 +1438,6 @@
     "data_encerramento": "16/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vereadores de Joinville - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1zdXBlcnZpc29yLWRlLWF0ZW5kaW1lbnRvLWVtLWZsb3JpYW5vcG9saXM=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-supervisor-de-atendimento-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLW8tc2FtdS1lbS1qb2FjYWJhLWUtY2hhcGVjbw==",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-o-samu-em-joacaba-e-chapeco",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYXJnby1kZS1lbmZlcm1laXJvLWludGVydmVuY2lvbmlzdGEtZW0tam9pbnZpbGxl",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-cargo-de-enfermeiro-intervencionista-em-joinville",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "12/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "RnVuZGHDp8OjbyBJbm92ZXJzYVN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZnVuZGFjYW8taW5vdmVyc2FzdWwtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1oaXN0b3JpYQ==",
