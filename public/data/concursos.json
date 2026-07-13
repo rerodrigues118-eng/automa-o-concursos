@@ -645,6 +645,21 @@
     "localizacao": "Maria Helena - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXXDoSBkYSBTZXJyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXVhLWRhLXNlcnJhLXByLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1jb21iYXRlLWFzLWVuZGVtaWFzLWUtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Mauá da Serra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-da-serra-pr-abre-selecao-para-agente-de-combate-as-endemias-e-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mauá da Serra",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mauá da Serra - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNZXJjZWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tZXJjZWRlcy1wci1kaXZ1bGdhLXJldGlmaWNhY2FvLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvcy1lLXBzaWNvbG9nb3M=",
     "orgao": "Prefeitura de Mercedes",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mercedes-pr-divulga-retificacao-do-processo-seletivo-para-medicos-e-psicologos",
@@ -1290,6 +1305,21 @@
     "localizacao": "Tucunduva - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBVbmlzdGFsZGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdW5pc3RhbGRhLXJzLWFicmUtc2VsZWNhby1wYXJhLWluc3RydXRvci1kZS1pbmZvcm1hdGljYQ==",
+    "orgao": "Prefeitura de Unistalda",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-unistalda-rs-abre-selecao-para-instrutor-de-informatica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Unistalda",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Unistalda - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXNlbGVjYW8tY29tLXZhZ2EtcGFyYS1maXNjYWwtc2FuaXRhcmlv",
     "orgao": "Prefeitura de Vale do Sol",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-selecao-com-vaga-para-fiscal-sanitario",
@@ -1363,6 +1393,21 @@
     "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Lindoia do Sul - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBMaW5kw7NpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1saW5kb2lhLWRvLXN1bC1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YS1hZG1pbmlzdHJhdGl2by1lLWNvbnRhZG9y",
+    "orgao": "Câmara de Lindóia do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-lindoia-do-sul-rs-abre-concurso-publico-para-analista-administrativo-e-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Lindóia do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lindóia do Sul - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFhhdmFudGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXhhdmFudGluYS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtbml2ZWlzLWZ1bmRhbWVudGFsLWUtc3VwZXJpb3I=",
@@ -1483,6 +1528,21 @@
     "data_encerramento": "04/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Schroeder - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBcnJvaW8gVHJpbnRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFycm9pby10cmludGEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUzNTk=",
+    "orgao": "Prefeitura de Arroio Trinta",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arroio-trinta-sc-abre-processo-seletivo-com-salarios-de-ate-5359",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Arroio Trinta",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Arroio Trinta - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYW5kZWlyYW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYW5kZWlyYW50ZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
