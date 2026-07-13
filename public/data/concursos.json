@@ -555,6 +555,21 @@
     "localizacao": "Goioerê - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGHDum5hIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGF1bmEtZG8tc3VsLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTMw",
+    "orgao": "Prefeitura de Itaúna do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itauna-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itaúna do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itaúna do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdmHDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdmFpLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8tZS1jdWx0dXJh",
     "orgao": "Prefeitura de Ivaí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivai-pr-abre-processo-seletivo-para-a-secretaria-de-educacao-e-cultura",
@@ -870,6 +885,21 @@
     "localizacao": "Bom Princípio - PR"
   },
   {
+    "id": "SENQQSAtIEhvc3BpdGFsIGRlIENsw61uaWNhcyBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2hjcGEtcnMtYW51bmNpYS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
+    "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/hcpa-rs-anuncia-selecao-para-cadastro-de-reserva-em-diversas-areas",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Clínicas de Porto Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Clínicas de Porto Alegre - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtdGVjbmljby1kZS1pbmZvcm1hdGljYQ==",
     "orgao": "Prefeitura de Alvorada",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-abre-processo-seletivo-para-tecnico-de-informatica",
@@ -988,6 +1018,36 @@
     "data_encerramento": "13/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Cerro Largo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIEJpY2Fjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLWJpY2Fjby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZW5mZXJtZWlyby1lLXBzaWNvbG9nbw==",
+    "orgao": "Prefeitura de Coronel Bicaco",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-bicaco-rs-abre-processo-seletivo-para-enfermeiro-e-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Coronel Bicaco",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Coronel Bicaco - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWdyYW1hZG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvLWRlLXBzaWNvbG9nbw==",
+    "orgao": "Prefeitura de Gramado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-rs-abre-processo-seletivo-para-cargo-de-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gramado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gramado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJYmlyYWlhcmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhaWFyYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNhLXNlcnZlbnRl",
@@ -1168,6 +1228,21 @@
     "data_encerramento": "05/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS12YWdhcy1lbS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZWR1Y2Fkb3Jlcy1zb2NpYWlz",
+    "orgao": "Prefeitura de Rio Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-vagas-em-processos-seletivos-para-educadores-sociais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Grande - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byDDgm5nZWxvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRvLWFuZ2Vsby1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02MzY5",
@@ -1483,6 +1558,21 @@
     "data_encerramento": "16/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vereadores de Joinville - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLWFzc2lzdGVudGUtZGUtbGFib3JhdG9yaW8taS1uby1oZW1vc2MtZGUtbGFnZXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-de-laboratorio-i-no-hemosc-de-lages",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "RnVuZGHDp8OjbyBJbm92ZXJzYVN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZnVuZGFjYW8taW5vdmVyc2FzdWwtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1oaXN0b3JpYQ==",
