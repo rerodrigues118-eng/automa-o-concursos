@@ -675,6 +675,21 @@
     "localizacao": "Mercedes - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFNhbnRhIFJvc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1zYW50YS1yb3NhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb25vYXVkaW9sb2dv",
+    "orgao": "Prefeitura de Nova Santa Rosa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-santa-rosa-pr-abre-processo-seletivo-para-fonoaudiologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Santa Rosa",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Santa Rosa - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYWxtZWlyYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1uYS1zYXVkZQ==",
     "orgao": "Prefeitura de Palmeira",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmeira-pr-abre-processo-seletivo-para-cadastro-de-reserva-na-saude",
@@ -855,6 +870,21 @@
     "localizacao": "Bom Princípio - PR"
   },
   {
+    "id": "Q09NVVIgLSBDb21wYW5oaWEgTXVuaWNpcGFsIGRlIFVyYmFuaXNtb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tdXItbm92by1oYW1idXJnby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0zMC12YWdhcy1wYXJhLXNlcnZlbnRlcw==",
+    "orgao": "COMUR - Companhia Municipal de Urbanismo",
+    "link": "https://www.pciconcursos.com.br/noticias/comur-novo-hamburgo-rs-abre-processo-seletivo-com-30-vagas-para-serventes",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SENQQSAtIEhvc3BpdGFsIGRlIENsw61uaWNhcyBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2hjcGEtcnMtYW51bmNpYS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
     "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/hcpa-rs-anuncia-selecao-para-cadastro-de-reserva-em-diversas-areas",
@@ -868,6 +898,21 @@
     "data_encerramento": "10/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Clínicas de Porto Alegre - PR"
+  },
+  {
+    "id": "T0dNTy9SRyAtIMOTcmfDo28gR2VzdG9yIGRlIE3Do28gZGUgT2JyYSBkbyBUcmFiYWxobyBQb3J0dcOhcmlvIEF2dWxzbyBkbyBQb3J0byBPcmdhbml6YWRvIGRvIFJpbyBHcmFuZGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL29nbW8tcmctcnMtYWJyZS1zZWxlY2FvLWNvbS05MC12YWdhcy1wYXJhLWVzdGl2YWRvcg==",
+    "orgao": "OGMO/RG - Órgão Gestor de Mão de Obra do Trabalho Portuário Avulso do Porto Organizado do Rio Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/ogmo-rg-rs-abre-selecao-com-90-vagas-para-estivador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtdGVjbmljby1kZS1pbmZvcm1hdGljYQ==",
@@ -1168,6 +1213,21 @@
     "data_encerramento": "05/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBRdWV2ZWRvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWV2ZWRvcy1ycy1hYnJlLXNlbGVjYW8tcGFyYS1vLWNhcmdvLWRlLXNlcnZpY29zLWRpdmVyc29z",
+    "orgao": "Prefeitura de Quevedos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quevedos-rs-abre-selecao-para-o-cargo-de-servicos-diversos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Quevedos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Quevedos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS12YWdhcy1lbS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZWR1Y2Fkb3Jlcy1zb2NpYWlz",
@@ -1873,6 +1933,21 @@
     "data_encerramento": "16/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio do Campo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kby1zdWwtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWd1YXJkYS1tdW5pY2lwYWw=",
+    "orgao": "Prefeitura de Rio do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-sul-sc-abre-concurso-publico-com-vagas-para-guarda-municipal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWxldGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsZXRlLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXM=",
