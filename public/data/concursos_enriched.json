@@ -2139,99 +2139,6 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
-    "orgao": "Prefeitura de Rio Azul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio Azul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Azul - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Rio Azul."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Rio+Azul"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Rio+Azul"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Rio+Azul"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "QUdFUEFSIC0gQWfDqm5jaWEgUmVndWxhZG9yYSBkZSBTZXJ2acOnb3MgUMO6YmxpY29zIERlbGVnYWRvcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ2VwYXItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWVzcGVjaWFsaXN0YXMtZW0tcmVndWxhY2Fv",
     "orgao": "AGEPAR - Agência Reguladora de Serviços Públicos Delegados do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/agepar-pr-abre-concurso-publico-com-vagas-para-especialistas-em-regulacao",
@@ -4611,6 +4518,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Ponta+Grossa"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
+    "orgao": "Prefeitura de Rio Azul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Azul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Azul - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Rio Azul."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Rio+Azul"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Rio+Azul"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Rio+Azul"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -7068,99 +7068,6 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQZWp1w6dhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGVqdWNhcmEtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de Pejuçara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pejucara-rs-abre-processos-seletivos-para-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pejuçara",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pejuçara - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Pejuçara."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Pejuçara"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Pejuçara"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Pejuçara"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlcy1kZS1lZHVjYWNhby1maXNpY2EtZS1jb29yZGVuYWRvcmVz",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-agentes-de-educacao-fisica-e-coordenadores",
@@ -7773,99 +7680,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+São+Valentim+do+Sul"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTYXB1Y2FpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FwdWNhaWEtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de Sapucaia do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sapucaia-do-sul-rs-abre-selecao-para-cadastro-de-reserva-na-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Sapucaia do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Sapucaia do Sul - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Sapucaia do Sul."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Sapucaia+do+Sul"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Sapucaia+do+Sul"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Sapucaia+do+Sul"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -8742,99 +8556,6 @@
     }
   },
   {
-    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFhhdmFudGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXhhdmFudGluYS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtbml2ZWlzLWZ1bmRhbWVudGFsLWUtc3VwZXJpb3I=",
-    "orgao": "Câmara de Vereadores de Xavantina",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-xavantina-sc-abre-concurso-para-niveis-fundamental-e-superior",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Vereadores de Xavantina",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vereadores de Xavantina - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.000 a R$ 4.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
-      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
-      "descricao_geral": "Oportunidade na área Outros focada no órgão Câmara de Vereadores de Xavantina."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Matemática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Câmara+de+Vereadores+de+Xavantina"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Câmara+de+Vereadores+de+Xavantina"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Câmara+de+Vereadores+de+Xavantina"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "Q0lHQU1WQUxJIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkZSBHZXN0w6NvIFDDumJsaWNhIGRvIFZhbGUgZG8gSXRhcG9jdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lnYW12YWxpLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWFkbWluaXN0cmF0aXZv",
     "orgao": "CIGAMVALI - Consórcio Intermunicipal de Gestão Pública do Vale do Itapocu",
     "link": "https://www.pciconcursos.com.br/noticias/cigamvali-sc-abre-vaga-em-processo-seletivo-para-auxiliar-administrativo",
@@ -9168,99 +8889,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/CVJ+-+Câmara+de+Vereadores+de+Joinville"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLXByb3Jyb2dhLWFzLWluc2NyaWNvZXMtZG8tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWktZW0tdHViYXJhbw==",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-as-inscricoes-do-processo-seletivo-para-assistente-administrativo-i-em-tubarao",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.000 a R$ 4.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
-      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
-      "descricao_geral": "Oportunidade na área Outros focada no órgão FAHECE - Fundação de Apoio ao HEMOSC e CEPON."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Matemática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+FAHECE+-+Fundação+de+Apoio+ao+HEMOSC+e+CEPON"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+FAHECE+-+Fundação+de+Apoio+ao+HEMOSC+e+CEPON"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/FAHECE+-+Fundação+de+Apoio+ao+HEMOSC+e+CEPON"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -11028,99 +10656,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Grão-Pará"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJbGhvdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWxob3RhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjExMTM=",
-    "orgao": "Prefeitura de Ilhota",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-processo-seletivo-com-salarios-de-ate-21113",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ilhota",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ilhota - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.500 a R$ 5.500",
-      "carga_horaria": "40h semanais",
-      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
-      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
-      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Ilhota."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Ilhota"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Ilhota"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Ilhota"
         },
         {
           "titulo": "Banco de Questões Comentadas",

@@ -345,21 +345,6 @@
     "localizacao": "Ponta Grossa - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
-    "orgao": "Prefeitura de Rio Azul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio Azul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Azul - PR"
-  },
-  {
     "id": "QUdFUEFSIC0gQWfDqm5jaWEgUmVndWxhZG9yYSBkZSBTZXJ2acOnb3MgUMO6YmxpY29zIERlbGVnYWRvcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ2VwYXItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWVzcGVjaWFsaXN0YXMtZW0tcmVndWxhY2Fv",
     "orgao": "AGEPAR - Agência Reguladora de Serviços Públicos Delegados do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/agepar-pr-abre-concurso-publico-com-vagas-para-especialistas-em-regulacao",
@@ -748,6 +733,21 @@
     "data_encerramento": "29/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ponta Grossa - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
+    "orgao": "Prefeitura de Rio Azul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Azul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Azul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gQnJhbmNvIGRvIEl2YcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1icmFuY28tZG8taXZhaS1wci1hYnJlLXNlbGVjYW8tcGFyYS1kZW50aXN0YS1lLXRlY25pY28tZW0tZW5mZXJtYWdlbQ==",
@@ -1140,21 +1140,6 @@
     "localizacao": "Parobé - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQZWp1w6dhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGVqdWNhcmEtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de Pejuçara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pejucara-rs-abre-processos-seletivos-para-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pejuçara",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pejuçara - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlcy1kZS1lZHVjYWNhby1maXNpY2EtZS1jb29yZGVuYWRvcmVz",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-agentes-de-educacao-fisica-e-coordenadores",
@@ -1258,21 +1243,6 @@
     "data_encerramento": "19/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Valentim do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTYXB1Y2FpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FwdWNhaWEtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de Sapucaia do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sapucaia-do-sul-rs-abre-selecao-para-cadastro-de-reserva-na-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Sapucaia do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Sapucaia do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00Mzk1",
@@ -1410,21 +1380,6 @@
     "localizacao": "Lindóia do Sul - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFhhdmFudGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXhhdmFudGluYS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtbml2ZWlzLWZ1bmRhbWVudGFsLWUtc3VwZXJpb3I=",
-    "orgao": "Câmara de Vereadores de Xavantina",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-xavantina-sc-abre-concurso-para-niveis-fundamental-e-superior",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Vereadores de Xavantina",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vereadores de Xavantina - PR"
-  },
-  {
     "id": "Q0lHQU1WQUxJIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkZSBHZXN0w6NvIFDDumJsaWNhIGRvIFZhbGUgZG8gSXRhcG9jdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lnYW12YWxpLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWFkbWluaXN0cmF0aXZv",
     "orgao": "CIGAMVALI - Consórcio Intermunicipal de Gestão Pública do Vale do Itapocu",
     "link": "https://www.pciconcursos.com.br/noticias/cigamvali-sc-abre-vaga-em-processo-seletivo-para-auxiliar-administrativo",
@@ -1483,21 +1438,6 @@
     "data_encerramento": "16/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vereadores de Joinville - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLXByb3Jyb2dhLWFzLWluc2NyaWNvZXMtZG8tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWktZW0tdHViYXJhbw==",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-as-inscricoes-do-processo-seletivo-para-assistente-administrativo-i-em-tubarao",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLWFzc2lzdGVudGUtZGUtbGFib3JhdG9yaW8taS1uby1oZW1vc2MtZGUtbGFnZXM=",
@@ -1783,21 +1723,6 @@
     "data_encerramento": "31/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Grão - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJbGhvdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWxob3RhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjExMTM=",
-    "orgao": "Prefeitura de Ilhota",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-processo-seletivo-com-salarios-de-ate-21113",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ilhota",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ilhota - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJbmRhaWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWluZGFpYWwtc2MtYWJyZS1zZWxlY2FvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjA2NzEtcGFyYS1hLXNlY3JldGFyaWEtZGUtc2F1ZGU=",
