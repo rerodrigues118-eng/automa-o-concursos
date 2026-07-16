@@ -225,21 +225,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
-    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
-    "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "MTHCqiBSTSAtIENvbWFuZG8gZGEgMTHCqiBSZWdpw6NvIE1pbGl0YXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvbWFuZG8tZGEtMTEtcmVnaWFvLW1pbGl0YXItZGYtZ28tZS10by1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy10ZWNuaWNvcy10ZW1wb3Jhcmlvcw==",
     "orgao": "11ª RM - Comando da 11ª Região Militar",
     "link": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-e-to-abre-selecao-para-oficiais-tecnicos-temporarios",
@@ -296,6 +281,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXNwb25pYmlsaXphLTE0MTQtdmFnYXMtcGFyYS1hZ2VudGUtZS1hbmFsaXN0YS1jZW5zaXRhcmlvLWVtLW5vdm8tcHJvY2Vzc28tc2VsZXRpdm8=",
+    "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-disponibiliza-1414-vagas-para-agente-e-analista-censitario-em-novo-processo-seletivo",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -480,21 +480,6 @@
     "localizacao": "Bom Jesus do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYXBpdMOjbyBMZcO0bmlkYXMgTWFycXVlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBpdGFvLWxlb25pZGFzLW1hcnF1ZXMtcHItYWJyZS12YWdhLXBhcmEtbnV0cmljaW9uaXN0YQ==",
-    "orgao": "Prefeitura de Capitão Leônidas Marques",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capitao-leonidas-marques-pr-abre-vaga-para-nutricionista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Capitão Leônidas Marques",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Capitão Leônidas Marques - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXN0cm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FzdHJvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtZGUtbml2ZWwtbWVkaW8=",
     "orgao": "Prefeitura de Castro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-castro-pr-abre-concurso-publico-com-vagas-de-nivel-medio",
@@ -615,21 +600,6 @@
     "localizacao": "Lapa - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNYW5ndWVpcmluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFuZ3VlaXJpbmhhLXByLWFicmUtc2VsZWNhby1wYXJhLWRpdmVyc29zLW5pdmVpcy1kZS1lc2NvbGFyaWRhZGU=",
-    "orgao": "Prefeitura de Mangueirinha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mangueirinha-pr-abre-selecao-para-diversos-niveis-de-escolaridade",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Mangueirinha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Mangueirinha - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJpYSBIZWxlbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyaWEtaGVsZW5hLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NDU4",
     "orgao": "Prefeitura de Maria Helena",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maria-helena-pr-abre-processo-seletivo-com-salarios-de-ate-5458",
@@ -658,21 +628,6 @@
     "data_encerramento": "27/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Mauá da Serra - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNZXJjZWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tZXJjZWRlcy1wci1kaXZ1bGdhLXJldGlmaWNhY2FvLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvcy1lLXBzaWNvbG9nb3M=",
-    "orgao": "Prefeitura de Mercedes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mercedes-pr-divulga-retificacao-do-processo-seletivo-para-medicos-e-psicologos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Mercedes",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Mercedes - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFNhbnRhIFJvc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1zYW50YS1yb3NhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb25vYXVkaW9sb2dv",
@@ -915,21 +870,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtdGVjbmljby1kZS1pbmZvcm1hdGljYQ==",
-    "orgao": "Prefeitura de Alvorada",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-abre-processo-seletivo-para-tecnico-de-informatica",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Alvorada",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Alvorada - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCYXLDo28gZGUgQ290ZWdpcGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFyYW8tZGUtY290ZWdpcGUtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Barão de Cotegipe",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-de-cotegipe-rs-abre-processo-seletivo-para-professores",
@@ -1050,21 +990,6 @@
     "localizacao": "Ibiraiaras - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJYmlydWLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pYmlydWJhLXJzLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZhcm1hY2V1dGljbw==",
-    "orgao": "Prefeitura de Ibirubá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiruba-rs-abre-vaga-em-processo-seletivo-para-farmaceutico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ibirubá",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ibirubá - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJbmRlcGVuZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbmRlcGVuZGVuY2lhLXJzLWFicmUtc2VsZWNhby1jb20tdmFnYS1wYXJhLXBzaWNvbG9nbw==",
     "orgao": "Prefeitura de Independência",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-independencia-rs-abre-selecao-com-vaga-para-psicologo",
@@ -1155,21 +1080,6 @@
     "localizacao": "Nova Santa Rita - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIENhYnJhaXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1jYWJyYWlzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1lLWZvbm9hdWRpb2xvZ29z",
-    "orgao": "Prefeitura de Novo Cabrais",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-processo-seletivo-para-professores-e-fonoaudiologos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Novo Cabrais",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Novo Cabrais - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQYW50YW5vIEdyYW5kZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYW50YW5vLWdyYW5kZS1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNlZ3VyYW5jYS1wdWJsaWNhLXRyYW5zaXRvLWUtZGVmZXNhLWNpdmls",
     "orgao": "Prefeitura de Pantano Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pantano-grande-rs-abre-selecoes-para-a-secretaria-de-seguranca-publica-transito-e-defesa-civil",
@@ -1198,21 +1108,6 @@
     "data_encerramento": "05/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Parobé - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlcy1kZS1lZHVjYWNhby1maXNpY2EtZS1jb29yZGVuYWRvcmVz",
-    "orgao": "Prefeitura de Pelotas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-agentes-de-educacao-fisica-e-coordenadores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pelotas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pelotas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFnZW50ZS1kZS1maXNjYWxpemFjYW8tbXVuaWNpcGFs",
@@ -1425,21 +1320,6 @@
     "localizacao": "Unistalda - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXNlbGVjYW8tY29tLXZhZ2EtcGFyYS1maXNjYWwtc2FuaXRhcmlv",
-    "orgao": "Prefeitura de Vale do Sol",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-selecao-com-vaga-para-fiscal-sanitario",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vale do Sol",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vale do Sol - PR"
-  },
-  {
     "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNtLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3NvcmVzLWRvLW1hZ2lzdGVyaW8tc3VwZXJpb3I=",
     "orgao": "UFSM - Universidade Federal de Santa Maria",
     "link": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-publico-para-professores-do-magisterio-superior",
@@ -1468,21 +1348,6 @@
     "data_encerramento": "27/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Catanduvas - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWxpbmRvaWEtZG8tc3VsLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3RhLWFkbWluaXN0cmF0aXZvLWUtY29udGFkb3I=",
-    "orgao": "Câmara de Lindoia do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-lindoia-do-sul-sc-abre-concurso-publico-para-analista-administrativo-e-contador",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Lindoia do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lindoia do Sul - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBMaW5kw7NpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1saW5kb2lhLWRvLXN1bC1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YS1hZG1pbmlzdHJhdGl2by1lLWNvbnRhZG9y",
@@ -1526,21 +1391,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "Q0lTQU1VUkVMIC0gQ29uc8OzcmNpbyBJbnRlcmZlZGVyYXRpdm8gZGUgU2HDumRlIGRhIEFNVVJFTGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lzYW11cmVsLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS01NTA2",
-    "orgao": "CISAMUREL - Consórcio Interfederativo de Saúde da AMUREL",
-    "link": "https://www.pciconcursos.com.br/noticias/cisamurel-sc-abre-concurso-com-salarios-de-ate-5506",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1601,21 +1451,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RnVuZGHDp8OjbyBJbm92ZXJzYVN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZnVuZGFjYW8taW5vdmVyc2FzdWwtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1oaXN0b3JpYQ==",
-    "orgao": "Fundação InoversaSul",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-inoversasul-sc-abre-processo-seletivo-para-professor-de-historia",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1770,21 +1605,6 @@
     "localizacao": "Cunha Porã - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDdW5oYXRhw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY3VuaGF0YWktc2MtcHVibGljYS1lZGl0YWwtZGUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS03MTc4",
-    "orgao": "Prefeitura de Cunhataí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunhatai-sc-publica-edital-de-processo-seletivo-com-salarios-de-ate-7178",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cunhataí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cunhataí - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBEb3V0b3IgUGVkcmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG91dG9yLXBlZHJpbmhvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWZpc2NhbC1kZS10cmlidXRvcw==",
     "orgao": "Prefeitura de Doutor Pedrinho",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-pedrinho-sc-abre-concurso-publico-para-fiscal-de-tributos",
@@ -1920,21 +1740,6 @@
     "localizacao": "Jaguaruna - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBMaW5kw7NpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbGluZG9pYS1kby1zdWwtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
-    "orgao": "Prefeitura de Lindóia do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoia-do-sul-sc-abre-processo-seletivo-para-agente-comunitario-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lindóia do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lindóia do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYWxtZWlyYS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtcGVkcmVpcm8tZS1vcGVyYWRvci1kZS1lcXVpcGFtZW50b3MtaWlp",
     "orgao": "Prefeitura de Palmeira",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmeira-sc-abre-concurso-para-pedreiro-e-operador-de-equipamentos-iii",
@@ -2038,21 +1843,6 @@
     "data_encerramento": "13/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Cristóvão do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjkxMg==",
-    "orgao": "Prefeitura de São Domingos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-processo-seletivo-com-salarios-de-ate-6912",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Domingos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Domingos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZpc2NhbC1kZS12aWdpbGFuY2lhLXNhbml0YXJpYQ==",
