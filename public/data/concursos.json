@@ -465,21 +465,6 @@
     "localizacao": "Balsa Nova - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCb2EgRXNwZXJhbsOnYSBkbyBJZ3Vhw6d1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS1lc3BlcmFuY2EtZG8taWd1YWN1LXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS03MzIx",
-    "orgao": "Prefeitura de Boa Esperança do Iguaçu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-esperanca-do-iguacu-pr-abre-concurso-com-salarios-de-ate-7321",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Boa Esperança do Iguaçu",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Boa Esperança do Iguaçu - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCb20gSmVzdXMgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvbS1qZXN1cy1kby1zdWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTU0MTU=",
     "orgao": "Prefeitura de Bom Jesus do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jesus-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-5415",
@@ -523,21 +508,6 @@
     "data_encerramento": "07/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Coronel Vivida - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDcnV6bWFsdGluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jcnV6bWFsdGluYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMTEyMQ==",
-    "orgao": "Prefeitura de Cruzmaltina",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cruzmaltina-pr-abre-concurso-publico-com-salarios-de-ate-11121",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cruzmaltina",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cruzmaltina - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHZW5lcmFsIENhcm5laXJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWdlbmVyYWwtY2FybmVpcm8tcHItYWJyZS1jb25jdXJzby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
@@ -748,21 +718,6 @@
     "data_encerramento": "17/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Branco do Ivaí - PR"
-  },
-  {
-    "id": "UFJPQU1VU0VQIC0gQ29uc8OzcmNpbyBkZSBHZXN0w6NvIGRhIEFtdXNlcGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJvYW11c2VwLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NDE0",
-    "orgao": "PROAMUSEP - Consórcio de Gestão da Amusep",
-    "link": "https://www.pciconcursos.com.br/noticias/proamusep-pr-abre-processo-seletivo-com-salarios-de-ate-5414",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Gestão da Amusep",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Gestão da Amusep - PR"
   },
   {
     "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIEphZ3VhcGl0w6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhbWFlLWRlLWphZ3VhcGl0YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ0",
@@ -1050,36 +1005,6 @@
     "localizacao": "Espumoso - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWdyYW1hZG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvLWRlLXBzaWNvbG9nbw==",
-    "orgao": "Prefeitura de Gramado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-rs-abre-processo-seletivo-para-cargo-de-psicologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Gramado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Gramado - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJYmlyYWlhcmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhaWFyYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZG9tZXN0aWNhLXNlcnZlbnRl",
-    "orgao": "Prefeitura de Ibiraiaras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiraiaras-rs-abre-processo-seletivo-para-o-cargo-de-domestica-servente",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ibiraiaras",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ibiraiaras - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtbWF0ZW1hdGljYQ==",
     "orgao": "Prefeitura de Igrejinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-processo-seletivo-para-professor-de-matematica",
@@ -1303,21 +1228,6 @@
     "data_encerramento": "24/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Grande - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBDcnV6IGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YS1jcnV6LWRvLXN1bC1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZWR1Y2Fkb3Itc29jaWFs",
-    "orgao": "Prefeitura de Santa Cruz do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-sul-rs-abre-processo-seletivo-para-educador-social",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Santa Cruz do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Santa Cruz do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBSb3NhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXJvc2EtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yZXM=",
@@ -1601,36 +1511,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "Q1ZKIC0gQ8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEpvaW52aWxsZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWpvaW52aWxsZS1zYy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTgyOA==",
-    "orgao": "CVJ - Câmara de Vereadores de Joinville",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-joinville-sc-retifica-concurso-publico-com-salarios-de-ate-9828",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Vereadores de Joinville",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vereadores de Joinville - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLWFzc2lzdGVudGUtZGUtbGFib3JhdG9yaW8taS1uby1oZW1vc2MtZGUtbGFnZXM=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-de-laboratorio-i-no-hemosc-de-lages",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2040,21 +1920,6 @@
     "localizacao": "Piratuba - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gQ2FtcG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLWNhbXBvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDMwMw==",
-    "orgao": "Prefeitura de Rio do Campo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-campo-sc-abre-processo-seletivo-com-salarios-de-ate-10303",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio do Campo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio do Campo - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kby1zdWwtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWd1YXJkYS1tdW5pY2lwYWw=",
     "orgao": "Prefeitura de Rio do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-sul-sc-abre-concurso-publico-com-vagas-para-guarda-municipal",
@@ -2098,21 +1963,6 @@
     "data_encerramento": "13/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Cristóvão do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZpc2NhbC1kZS12aWdpbGFuY2lhLXNhbml0YXJpYQ==",
-    "orgao": "Prefeitura de São Lourenço do Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-lourenco-do-oeste-sc-abre-processo-seletivo-para-fiscal-de-vigilancia-sanitaria",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Lourenço do Oeste",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Lourenço do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS12YWdhcy1wYXJhLW9kb250b2xvZ28tZS1mYXJtYWNldXRpY28=",
