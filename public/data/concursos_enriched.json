@@ -1953,6 +1953,99 @@
     }
   },
   {
+    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtY29uY3Vyc29zLWNvbS12YWdhcy1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3MtZGUtZXhlY3VjYW8tZS1wcm9maXNzaW9uYWlz",
+    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão UENP - Universidade Estadual do Norte do Paraná."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+UENP+-+Universidade+Estadual+do+Norte+do+Paraná"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+UENP+-+Universidade+Estadual+do+Norte+do+Paraná"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/UENP+-+Universidade+Estadual+do+Norte+do+Paraná"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "QUdFUEFSIC0gQWfDqm5jaWEgUmVndWxhZG9yYSBkZSBTZXJ2acOnb3MgUMO6YmxpY29zIERlbGVnYWRvcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ2VwYXItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWVzcGVjaWFsaXN0YXMtZW0tcmVndWxhY2Fv",
     "orgao": "AGEPAR - Agência Reguladora de Serviços Públicos Delegados do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/agepar-pr-abre-concurso-publico-com-vagas-para-especialistas-em-regulacao",
@@ -4332,99 +4425,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/SAMAE+-+Serviço+Autônomo+Municipal+de+Água+e+Esgoto+de+Jaguapitã"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtY29uY3Vyc29zLWNvbS12YWdhcy1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3MtZGUtZXhlY3VjYW8tZS1wcm9maXNzaW9uYWlz",
-    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.000 a R$ 4.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
-      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
-      "descricao_geral": "Oportunidade na área Outros focada no órgão UENP - Universidade Estadual do Norte do Paraná."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Matemática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+UENP+-+Universidade+Estadual+do+Norte+do+Paraná"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+UENP+-+Universidade+Estadual+do+Norte+do+Paraná"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/UENP+-+Universidade+Estadual+do+Norte+do+Paraná"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -8353,6 +8353,99 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "U0FQRSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEFncmljdWx0dXJhIGUgUGVjdcOhcmlhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYXBlLXNjLWFicmUtY29uY3Vyc28tY29tLTIwLXZhZ2FzLXBhcmEtYW5hbGlzdGEtdGVjbmljby1hZG1pbmlzdHJhdGl2by1paQ==",
+    "orgao": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/sape-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+SAPE+-+Secretaria+de+Estado+da+Agricultura+e+Pecuária+de+Santa+Catarina"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+SAPE+-+Secretaria+de+Estado+da+Agricultura+e+Pecuária+de+Santa+Catarina"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/SAPE+-+Secretaria+de+Estado+da+Agricultura+e+Pecuária+de+Santa+Catarina"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",
@@ -13260,99 +13353,6 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/SANEFRAI+-+Autarquia+Municipal+de+Saneamento+de+Fraiburgo"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
-    "id": "U0FQRUMgLSBTZWNyZXRhcmlhIGRlIEVzdGFkbyBkYSBBZ3JpY3VsdHVyYSBlIFBlY3XDoXJpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvc2FwZWMtc2MtYWJyZS1jb25jdXJzby1jb20tMjAtdmFnYXMtcGFyYS1hbmFsaXN0YS10ZWNuaWNvLWFkbWluaXN0cmF0aXZvLWlp",
-    "orgao": "SAPEC - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/sapec-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 2.000 a R$ 4.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
-      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
-      "descricao_geral": "Oportunidade na área Outros focada no órgão SAPEC - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Português [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
-        },
-        {
-          "titulo": "Aula: Matemática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
-        },
-        {
-          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
-        },
-        {
-          "titulo": "Aula: Informática [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+SAPEC+-+Secretaria+de+Estado+da+Agricultura+e+Pecuária+de+Santa+Catarina"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+SAPEC+-+Secretaria+de+Estado+da+Agricultura+e+Pecuária+de+Santa+Catarina"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/SAPEC+-+Secretaria+de+Estado+da+Agricultura+e+Pecuária+de+Santa+Catarina"
         },
         {
           "titulo": "Banco de Questões Comentadas",

@@ -315,6 +315,21 @@
     "localizacao": "Ponta Grossa - PR"
   },
   {
+    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtY29uY3Vyc29zLWNvbS12YWdhcy1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3MtZGUtZXhlY3VjYW8tZS1wcm9maXNzaW9uYWlz",
+    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "QUdFUEFSIC0gQWfDqm5jaWEgUmVndWxhZG9yYSBkZSBTZXJ2acOnb3MgUMO6YmxpY29zIERlbGVnYWRvcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ2VwYXItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWVzcGVjaWFsaXN0YXMtZW0tcmVndWxhY2Fv",
     "orgao": "AGEPAR - Agência Reguladora de Serviços Públicos Delegados do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/agepar-pr-abre-concurso-publico-com-vagas-para-especialistas-em-regulacao",
@@ -701,21 +716,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtY29uY3Vyc29zLWNvbS12YWdhcy1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3MtZGUtZXhlY3VjYW8tZS1wcm9maXNzaW9uYWlz",
-    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1346,6 +1346,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "29/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FQRSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEFncmljdWx0dXJhIGUgUGVjdcOhcmlhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYXBlLXNjLWFicmUtY29uY3Vyc28tY29tLTIwLXZhZ2FzLXBhcmEtYW5hbGlzdGEtdGVjbmljby1hZG1pbmlzdHJhdGl2by1paQ==",
+    "orgao": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/sape-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2141,21 +2156,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0FQRUMgLSBTZWNyZXRhcmlhIGRlIEVzdGFkbyBkYSBBZ3JpY3VsdHVyYSBlIFBlY3XDoXJpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvc2FwZWMtc2MtYWJyZS1jb25jdXJzby1jb20tMjAtdmFnYXMtcGFyYS1hbmFsaXN0YS10ZWNuaWNvLWFkbWluaXN0cmF0aXZvLWlp",
-    "orgao": "SAPEC - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/sapec-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
