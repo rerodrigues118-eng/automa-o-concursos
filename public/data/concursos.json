@@ -1215,6 +1215,21 @@
     "localizacao": "Tapejara - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtc2VydmVudGU=",
+    "orgao": "Prefeitura de Tavares",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-abre-processo-seletivo-para-o-cargo-de-servente",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tavares",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tavares - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUZW5lbnRlIFBvcnRlbGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdGVuZW50ZS1wb3J0ZWxhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1jb21wdXRhY2Fv",
     "orgao": "Prefeitura de Tenente Portela",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tenente-portela-rs-abre-selecao-para-professor-de-computacao",
@@ -1603,6 +1618,21 @@
     "data_encerramento": "05/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brusque - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYWxlZ3JlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRlLW5pdmVsLXN1cGVyaW9yLW5hLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de Campo Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-sc-abre-processo-seletivo-para-profissionais-de-nivel-superior-na-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Campo Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campo Alegre - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtc2VsZWNhby1wYXJhLWF1eGlsaWFyLWRlLXNlcnZpY29zLWdlcmFpcy1uYS1lZHVjYWNhbw==",
