@@ -240,21 +240,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "NcKqIFJNIC0gNcKqIFJlZ2nDo28gTWlsaXRhciBkbyBFeMOpcmNpdG8gQnJhc2lsZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvNS1yZWdpYW8tbWlsaXRhci1wci1leGVyY2l0by1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy1lLXNhcmdlbnRvcw==",
-    "orgao": "5ª RM - 5ª Região Militar do Exército Brasileiro",
-    "link": "https://www.pciconcursos.com.br/noticias/5-regiao-militar-pr-exercito-abre-selecao-para-oficiais-e-sargentos",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
@@ -463,21 +448,6 @@
     "data_encerramento": "31/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Balsa Nova - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCb20gSmVzdXMgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvbS1qZXN1cy1kby1zdWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTU0MTU=",
-    "orgao": "Prefeitura de Bom Jesus do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jesus-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-5415",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Bom Jesus do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Bom Jesus do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXN0cm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FzdHJvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtZGUtbml2ZWwtbWVkaW8=",
@@ -705,21 +675,6 @@
     "localizacao": "Rio Azul - PR"
   },
   {
-    "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvIGRlIEphZ3VhcGl0w6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhbWFlLWRlLWphZ3VhcGl0YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ0",
-    "orgao": "SAMAE - Serviço Autônomo Municipal de Água e Esgoto de Jaguapitã",
-    "link": "https://www.pciconcursos.com.br/noticias/samae-de-jaguapita-pr-abre-concurso-publico-com-salarios-de-ate-7944",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "VU5JQ0VOVFJPIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRvIENlbnRyby1PZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pY2VudHJvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1jb2xhYm9yYWRvcmVz",
     "orgao": "UNICENTRO - Universidade Estadual do Centro-Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/unicentro-pr-abre-processo-seletivo-para-professores-colaboradores",
@@ -915,21 +870,6 @@
     "localizacao": "Cerro Grande do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS12YWdhLXBhcmEtbWVkaWNvLWVuZG9jcmlub2xvZ2lzdGE=",
-    "orgao": "Prefeitura de Erechim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erechim-rs-abre-vaga-para-medico-endocrinologista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Erechim",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Erechim - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZW0tZGl2ZXJzYXMtYXJlYXM=",
     "orgao": "Prefeitura de Espumoso",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-processo-seletivo-para-professores-em-diversas-areas",
@@ -1048,21 +988,6 @@
     "data_encerramento": "21/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Morro Redondo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZXV0ZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9ycm8tcmV1dGVyLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtc2VydmVudGUtZGUtZXNjb2xh",
-    "orgao": "Prefeitura de Morro Reuter",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-reuter-rs-abre-selecao-para-o-cargo-de-servente-de-escola",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Morro Reuter",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Morro Reuter - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFNhbnRhIFJpdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1zYW50YS1yaXRhLXJzLWxhbmNhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWF0ZS00NTg3",
@@ -1213,21 +1138,6 @@
     "data_encerramento": "10/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFZhbMOpcmlvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tdmFsZXJpby1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBzaWNvbG9nbw==",
-    "orgao": "Prefeitura de São Valério do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-valerio-do-sul-rs-abre-processo-seletivo-para-psicologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Valério do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Valério do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXRlbmRlbnRlLWRlLWNvbnN1bHRvcmlvLW9kb250b2xvZ2ljbw==",
@@ -1470,36 +1380,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q0lTLUdSQU5GUE9MSVMgLSBDb25zw7NyY2lvIFDDumJsaWNvIEludGVyZmVkZXJhdGl2byBkZSBTYcO6ZGUgZGEgUmVnacOjbyBkYSBHcmFuZGUgRmxvcmlhbsOzcG9saXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Npcy1ncmFuZnBvbGlzLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTU4MDc=",
-    "orgao": "CIS-GRANFPOLIS - Consórcio Público Interfederativo de Saúde da Região da Grande Florianópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/cis-granfpolis-sc-abre-concurso-publico-com-salarios-de-ate-5807",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLXRlY25pY28tZGUtc2VndXJhbmNhLWRvLXRyYWJhbGhvLWktbm8taGVtb3NjLWRlLWZsb3JpYW5vcG9saXM=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-de-seguranca-do-trabalho-i-no-hemosc-de-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWZvbm9hdWRpb2xvZ28taS1uby1jZXBvbi1kZS1mbG9yaWFub3BvbGlz",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-fonoaudiologo-i-no-cepon-de-florianopolis",
@@ -1526,21 +1406,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "Rk1FQyAtIEZ1bmRhw6fDo28gTXVuaWNpcGFsIGRlIEVzcG9ydGUgZSBDdWx0dXJhIGRlIFBhbGhvw6dhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdW5kYWNhby1tdW5pY2lwYWwtZGUtZXNwb3J0ZS1lLWN1bHR1cmEtZGUtcGFsaG9jYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1pbnN0cnV0b3Jlcw==",
-    "orgao": "FMEC - Fundação Municipal de Esporte e Cultura de Palhoça",
-    "link": "https://www.pciconcursos.com.br/noticias/fundacao-municipal-de-esporte-e-cultura-de-palhoca-sc-abre-selecao-para-instrutores",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1650,21 +1515,6 @@
     "localizacao": "Apiúna - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBcnJvaW8gVHJpbnRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFycm9pby10cmludGEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUzNTk=",
-    "orgao": "Prefeitura de Arroio Trinta",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arroio-trinta-sc-abre-processo-seletivo-com-salarios-de-ate-5359",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Arroio Trinta",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Arroio Trinta - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxuZcOhcmlvIFBpw6dhcnJhc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWxuZWFyaW8tcGljYXJyYXMtc2MtYWJyZS1jb25jdXJzby1wYXJhLWEtZ3VhcmRhLW11bmljaXBhbA==",
     "orgao": "Prefeitura de Balneário Piçarras",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-picarras-sc-abre-concurso-para-a-guarda-municipal",
@@ -1693,21 +1543,6 @@
     "data_encerramento": "31/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bandeirante - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCb20gSmFyZGltIGRhIFNlcnJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvbS1qYXJkaW0tZGEtc2VycmEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtbWVkaWNvLXZldGVyaW5hcmlv",
-    "orgao": "Prefeitura de Bom Jardim da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jardim-da-serra-sc-abre-concurso-publico-para-medico-veterinario",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Bom Jardim da Serra",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Bom Jardim da Serra - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb21iaW5oYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tYmluaGFzLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kYS1maXNjYWxpemFjYW8tZGUtdGVtcG9yYWRhLWUtYWdlbnRlLWRhLXRwYQ==",
@@ -1753,21 +1588,6 @@
     "data_encerramento": "07/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Campo Alegre - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtc2VsZWNhby1wYXJhLWF1eGlsaWFyLWRlLXNlcnZpY29zLWdlcmFpcy1uYS1lZHVjYWNhbw==",
-    "orgao": "Prefeitura de Campos Novos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-selecao-para-auxiliar-de-servicos-gerais-na-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Campos Novos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Campos Novos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDdW5oYSBQb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdW5oYS1wb3JhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjI1MDQ=",
@@ -2188,21 +2008,6 @@
     "data_encerramento": "27/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vargem - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBYYXZhbnRpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUteGF2YW50aW5hLXNjLWRpdnVsZ2EtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc2FzLWFyZWFz",
-    "orgao": "Prefeitura de Xavantina",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xavantina-sc-divulga-processos-seletivos-para-diversas-areas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Xavantina",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Xavantina - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgSXR1cG9yYW5nYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWNhbWFyYS1kZS1pdHVwb3JhbmdhLXNjLWxhbmNhbS1xdWF0cm8tZWRpdGFpcy1kZS1jb25jdXJzby1wdWJsaWNv",
