@@ -240,9 +240,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jZW5zby1hZ3JvcGVjdWFyaW8tZmxvcmVzdGFsLWUtYXF1aWNvbGE=",
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1yZXRpZmljYS1lZGl0YWwtZGUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNlbnNvLWFncm9wZWN1YXJpby1mbG9yZXN0YWwtZS1hcXVpY29sYQ==",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
-    "link": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-retifica-edital-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -255,9 +255,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1wcm9ycm9nYS1pbnNjcmljb2VzLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWUtYW5hbGlzdGEtY2Vuc2l0YXJpbw==",
+    "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXZ1bGdhLXJldGlmaWNhY2FvLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWUtYW5hbGlzdGEtY2Vuc2l0YXJpbw==",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
-    "link": "https://www.pciconcursos.com.br/noticias/ibge-prorroga-inscricoes-do-processo-seletivo-para-agente-e-analista-censitario",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-divulga-retificacao-do-processo-seletivo-para-agente-e-analista-censitario",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -675,6 +675,21 @@
     "localizacao": "Rio Azul - PR"
   },
   {
+    "id": "U0VFRCAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEVkdWNhw6fDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlZWQtcHItcHVibGljYS1lZGl0YWwtZGUtcHNzLXBhcmEtY29udHJhdGFjYW8tZGUtcHJvZmVzc29yZXMtZS1wZWRhZ29nb3M=",
+    "orgao": "SEED - Secretaria de Estado da Educação",
+    "link": "https://www.pciconcursos.com.br/noticias/seed-pr-publica-edital-de-pss-para-contratacao-de-professores-e-pedagogos",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VU5JQ0VOVFJPIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRvIENlbnRyby1PZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pY2VudHJvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1jb2xhYm9yYWRvcmVz",
     "orgao": "UNICENTRO - Universidade Estadual do Centro-Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/unicentro-pr-abre-processo-seletivo-para-professores-colaboradores",
@@ -750,6 +765,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "REVNSEFCIC0gRGVwYXJ0YW1lbnRvIE11bmljaXBhbCBkZSBIYWJpdGHDp8Ojb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZGVtaGFiLWRlLXBvcnRvLWFsZWdyZS1ycy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTE4MjI=",
+    "orgao": "DEMHAB - Departamento Municipal de Habitação",
+    "link": "https://www.pciconcursos.com.br/noticias/demhab-de-porto-alegre-rs-abre-concurso-com-salarios-de-ate-11822",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFVUkdTIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBkYSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmF1cmdzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRlLW5pdmVsLXRlY25pY28=",
+    "orgao": "FAURGS - Fundação de Apoio da Universidade Federal do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/faurgs-rs-abre-processo-seletivo-para-profissionais-de-nivel-tecnico",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SENQQSAtIEhvc3BpdGFsIGRlIENsw61uaWNhcyBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2hjcGEtcnMtYW51bmNpYS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
     "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/hcpa-rs-anuncia-selecao-para-cadastro-de-reserva-em-diversas-areas",
@@ -778,6 +823,21 @@
     "data_encerramento": "12/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBbGVncmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFsZWdyaWEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtdHJhdG9yaXN0YS1hZ3JpY29sYQ==",
+    "orgao": "Prefeitura de Alegria",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alegria-rs-abre-processo-seletivo-para-o-cargo-de-tratorista-agricola",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Alegria",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Alegria - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBdWd1c3RvIFBlc3RhbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYXVndXN0by1wZXN0YW5hLXJzLWFicmUtdmFnYS1wYXJhLXByb2Zlc3Nvci1kZS1wb3J0dWd1ZXM=",
@@ -1140,6 +1200,21 @@
     "localizacao": "Santo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1hbm9zLWluaWNpYWlz",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-selecao-para-professor-de-anos-iniciais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXRlbmRlbnRlLWRlLWNvbnN1bHRvcmlvLW9kb250b2xvZ2ljbw==",
     "orgao": "Prefeitura de Sinimbu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sinimbu-rs-abre-selecao-para-atendente-de-consultorio-odontologico",
@@ -1485,6 +1560,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZTQyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZzYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1jYXJnb3MtZGUtdGVjbmljb3MtYWRtaW5pc3RyYXRpdm9zLWVtLWVkdWNhY2Fv",
+    "orgao": "IFSC - Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsc-abre-concurso-publico-para-cargos-de-tecnicos-administrativos-em-educacao",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UE1TIC0gUHJlZmVpdHVyYSBkZSBTY2hyb2VkZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2Nocm9lZGVyLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtbXVuaWNpcGFsLWRlLWVkdWNhY2Fv",
     "orgao": "PMS - Prefeitura de Schroeder",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-abre-processo-seletivo-para-a-secretaria-municipal-de-educacao",
@@ -1710,6 +1800,21 @@
     "localizacao": "Grão - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJbWJpdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJpdHViYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtbGlicmFz",
+    "orgao": "Prefeitura de Imbituba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-selecao-para-professor-de-libras",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Imbituba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Imbituba - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJbmRhaWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWluZGFpYWwtc2MtYWJyZS1zZWxlY2FvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjA2NzEtcGFyYS1hLXNlY3JldGFyaWEtZGUtc2F1ZGU=",
     "orgao": "Prefeitura de Indaial",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indaial-sc-abre-selecao-com-salarios-de-ate-20671-para-a-secretaria-de-saude",
@@ -1740,9 +1845,9 @@
     "localizacao": "Itá - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFqYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YWphaS1zYy1hYnJlLWNvbmN1cnNvcy1wdWJsaWNvcy1jb20tcmVtdW5lcmFjb2VzLWRlLWF0ZS0yNS1taWw=",
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFqYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YWphaS1zYy1yZXRpZmljYS1lZGl0YWlzLWRlLWNvbmN1cnNvcy1wdWJsaWNvcw==",
     "orgao": "Prefeitura de Itajaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-concursos-publicos-com-remuneracoes-de-ate-25-mil",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-retifica-editais-de-concursos-publicos",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Itajaí",
