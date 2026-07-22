@@ -660,6 +660,21 @@
     "localizacao": "Ponta Grossa - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gQWxlZ3JlIEQnT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLWFsZWdyZS1kb2VzdGUtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQzMjI=",
+    "orgao": "Prefeitura de Rancho Alegre D'Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-alegre-doeste-pr-abre-concurso-publico-com-salarios-de-ate-14322",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Alegre - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yaW8tYXp1bC1wci1hYnJlLW5vdm9zLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTIyLW1pbA==",
     "orgao": "Prefeitura de Rio Azul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-azul-pr-abre-novos-concursos-com-salarios-de-ate-22-mil",
@@ -1003,6 +1018,36 @@
     "data_encerramento": "03/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Forquetinha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHcmF2YXRhw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3JhdmF0YWktcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLWVkdWNhY2FvLWVzcGVjaWFsLWluY2x1c2l2YQ==",
+    "orgao": "Prefeitura de Gravataí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gravatai-rs-abre-selecao-para-agente-de-educacao-especial-inclusiva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gravataí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gravataí - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHcmF2YXRhw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3JhdmF0YWktcnMtYWJyZS1zZWxlY2FvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzk1NQ==",
+    "orgao": "Prefeitura de Gravataí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gravatai-rs-abre-selecao-com-salarios-de-ate-7955",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gravataí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gravataí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtbWF0ZW1hdGljYQ==",
@@ -1395,6 +1440,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWJsdW1lbmF1LXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWNvbnRyb2xhZG9yLWludGVybm8tZS1wcm9jdXJhZG9y",
+    "orgao": "Câmara de Blumenau",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-blumenau-sc-abre-concurso-publico-para-controlador-interno-e-procurador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Blumenau",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Blumenau - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBDYXRhbmR1dmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtY2F0YW5kdXZhcy1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODgzMw==",
     "orgao": "Câmara de Catanduvas",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-catanduvas-sc-abre-concurso-com-salarios-de-ate-8833",
@@ -1620,6 +1680,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SU1QIC0gSW5zdGl0dXRvIGRvIE1laW8gQW1iaWVudGUgZGUgQmFsbmXDoXJpbyBQacOnYXJyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2luc3RpdHV0by1kby1tZWlvLWFtYmllbnRlLWRlLWJhbG5lYXJpby1waWNhcnJhcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1mb3JtYXItY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "IMP - Instituto do Meio Ambiente de Balneário Piçarras",
+    "link": "https://www.pciconcursos.com.br/noticias/instituto-do-meio-ambiente-de-balneario-picarras-sc-abre-concurso-publico-para-formar-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Meio Ambiente de Balneário Piçarras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Meio Ambiente de Balneário Piçarras - PR"
+  },
+  {
     "id": "UE1TIC0gUHJlZmVpdHVyYSBkZSBTY2hyb2VkZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2Nocm9lZGVyLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtbXVuaWNpcGFsLWRlLWVkdWNhY2Fv",
     "orgao": "PMS - Prefeitura de Schroeder",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-abre-processo-seletivo-para-a-secretaria-municipal-de-educacao",
@@ -1785,6 +1860,21 @@
     "localizacao": "Doutor Pedrinho - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGbG9yaWFuw7Nwb2xpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mbG9yaWFub3BvbGlzLXNjLWRpdnVsZ2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Florianópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florianopolis-sc-divulga-processo-seletivo-para-profissionais-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Florianópolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Florianópolis - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWNvbS1zYWxhcmlvcy1kZS0yMjky",
     "orgao": "Prefeitura de Fraiburgo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-selecao-para-professores-com-salarios-de-2292",
@@ -1933,6 +2023,21 @@
     "data_encerramento": "24/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Jaguaruna - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYWNpZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYWNpZWlyYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhcy1wYXJhLWEtYXJlYS1kYS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de Macieira",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macieira-sc-abre-processo-seletivo-com-vagas-para-a-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Macieira",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Macieira - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBkYSBGdW1hw6dhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLWRhLWZ1bWFjYS1zYy1hYnJlLXNlbGVjb2VzLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
@@ -2143,6 +2248,21 @@
     "data_encerramento": "27/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Timbó - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBCYXJyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1iYXJyYXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1vbml0b3Jlcy1lLXRlY25pY29zLWRlLWVuZmVybWFnZW0=",
+    "orgao": "Prefeitura de Três Barras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-barras-sc-abre-processo-seletivo-para-monitores-e-tecnicos-de-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Três Barras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Três Barras - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcmV6ZSBkZSBNYWlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyZXplLWRlLW1haW8tc2MtYWJyZS1zZWxlY2FvLXBhcmEtYXV4aWxpYXItZGUtc2FsYS1lLXZpZ2lh",
