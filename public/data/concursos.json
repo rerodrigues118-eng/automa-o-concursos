@@ -285,9 +285,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNDc1Ng==",
+    "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZG8tY29uY3Vyc28tcHVibGljbw==",
     "orgao": "Prefeitura de Ponta Grossa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-abre-concurso-com-salarios-de-ate-14756",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-divulga-retificacao-do-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Ponta Grossa",
@@ -300,9 +300,9 @@
     "localizacao": "Ponta Grossa - PR"
   },
   {
-    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtY29uY3Vyc29zLWNvbS12YWdhcy1wYXJhLWFnZW50ZXMtdW5pdmVyc2l0YXJpb3MtZGUtZXhlY3VjYW8tZS1wcm9maXNzaW9uYWlz",
+    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLXJldGlmaWNhLWNvbmN1cnNvcy1jb20tdmFnYXMtcGFyYS1hZ2VudGVzLXVuaXZlcnNpdGFyaW9zLWRlLWV4ZWN1Y2FvLWUtcHJvZmlzc2lvbmFpcw==",
     "orgao": "UENP - Universidade Estadual do Norte do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-retifica-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -690,6 +690,21 @@
     "localizacao": "Toledo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBVbXVhcmFtYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS11bXVhcmFtYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hZ2VudGUtZGEtYXV0b3JpZGFkZS1kZS10cmFuc2l0bw==",
+    "orgao": "Prefeitura de Umuarama",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-umuarama-pr-abre-concurso-publico-para-agente-da-autoridade-de-transito",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Umuarama",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Umuarama - PR"
+  },
+  {
     "id": "U0VFRCAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEVkdWNhw6fDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlZWQtcHItcHVibGljYS1lZGl0YWwtZGUtcHNzLXBhcmEtY29udHJhdGFjYW8tZGUtcHJvZmVzc29yZXMtZS1wZWRhZ29nb3M=",
     "orgao": "SEED - Secretaria de Estado da Educação",
     "link": "https://www.pciconcursos.com.br/noticias/seed-pr-publica-edital-de-pss-para-contratacao-de-professores-e-pedagogos",
@@ -735,9 +750,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODI5Mw==",
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura de Novo Hamburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-abre-concurso-publico-com-salarios-de-ate-8293",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-divulga-retificacao-de-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Novo Hamburgo",
@@ -1661,6 +1676,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "13/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Balneário Piçarras - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCYWxuZcOhcmlvIFBpw6dhcnJhc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWxuZWFyaW8tcGljYXJyYXMtc2MtYWJyZS1jb25jdXJzb3MtZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTIyOTM2",
+    "orgao": "Prefeitura de Balneário Piçarras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-picarras-sc-abre-concursos-e-processo-seletivo-com-salarios-de-ate-22936",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Balneário Piçarras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Balneário Piçarras - PR"
   },
