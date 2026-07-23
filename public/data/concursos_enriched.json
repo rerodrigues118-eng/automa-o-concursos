@@ -3348,6 +3348,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBMb25kcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1sb25kcmluYS1wci1hYnJlLXRlc3RlLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZGUtZWR1Y2FjYW8tYmFzaWNhLWUtZGUtZWR1Y2FjYW8tZmlzaWNh",
+    "orgao": "Prefeitura de Londrina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-londrina-pr-abre-teste-seletivo-para-professores-de-educacao-basica-e-de-educacao-fisica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Londrina",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Londrina - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Londrina."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Londrina"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Londrina"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Londrina"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJpYSBIZWxlbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyaWEtaGVsZW5hLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NDU4",
     "orgao": "Prefeitura de Maria Helena",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maria-helena-pr-abre-processo-seletivo-com-salarios-de-ate-5458",
@@ -3402,6 +3495,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Maria+Helena"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJpcMOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcmlwYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1yZW11bmVyYWNhby1kZS1hdGUtMTQ1Nzg=",
+    "orgao": "Prefeitura de Maripá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maripa-pr-abre-processo-seletivo-com-remuneracao-de-ate-14578",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Maripá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Maripá - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Maripá."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Maripá"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Maripá"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Maripá"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -5284,6 +5470,99 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBanVyaWNhYmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWp1cmljYWJhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tb25pdG9yLWVzY29sYXI=",
+    "orgao": "Prefeitura de Ajuricaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ajuricaba-rs-abre-processo-seletivo-para-monitor-escolar",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ajuricaba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ajuricaba - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Ajuricaba."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Ajuricaba"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Ajuricaba"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Ajuricaba"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",
@@ -9207,6 +9486,192 @@
     }
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWNvb3JkZW5hZG9yLWRlLXN1cHJpbWVudG9zLW5vLWNlcG9uLWRlLWZsb3JpYW5vcG9saXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-coordenador-de-suprimentos-no-cepon-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão FAHECE - Fundação de Apoio ao HEMOSC e CEPON."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+FAHECE+-+Fundação+de+Apoio+ao+HEMOSC+e+CEPON"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+FAHECE+-+Fundação+de+Apoio+ao+HEMOSC+e+CEPON"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/FAHECE+-+Fundação+de+Apoio+ao+HEMOSC+e+CEPON"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1kZS1hdXhpbGlhci1kZS1oaWdpZW5pemFjYW8tcGFyYS1vLXNhbXUtZGUteGFueGVyZQ==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-auxiliar-de-higienizacao-para-o-samu-de-xanxere",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão FAHECE - Fundação de Apoio ao Hemosc e Cepon."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+FAHECE+-+Fundação+de+Apoio+ao+Hemosc+e+Cepon"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+FAHECE+-+Fundação+de+Apoio+ao+Hemosc+e+Cepon"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/FAHECE+-+Fundação+de+Apoio+ao+Hemosc+e+Cepon"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1lbmZlcm1laXJvLWktbmEtY2VudHJhbC1kZS1xdWltaW90ZXJhcGlh",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-enfermeiro-i-na-central-de-quimioterapia",
@@ -9841,6 +10306,99 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "SU1BUyAtIEluc3RpdHV0byBNYXJpYSBTY2htaXR0aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1yZWdpb25hbC1kZS1hcmFyYW5ndWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbQ==",
+    "orgao": "IMAS - Instituto Maria Schmitt",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-processo-seletivo-para-tecnico-de-enfermagem",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão IMAS - Instituto Maria Schmitt."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+IMAS+-+Instituto+Maria+Schmitt"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+IMAS+-+Instituto+Maria+Schmitt"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/IMAS+-+Instituto+Maria+Schmitt"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",

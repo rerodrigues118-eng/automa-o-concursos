@@ -540,6 +540,21 @@
     "localizacao": "Japurá - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBMb25kcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1sb25kcmluYS1wci1hYnJlLXRlc3RlLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZGUtZWR1Y2FjYW8tYmFzaWNhLWUtZGUtZWR1Y2FjYW8tZmlzaWNh",
+    "orgao": "Prefeitura de Londrina",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-londrina-pr-abre-teste-seletivo-para-professores-de-educacao-basica-e-de-educacao-fisica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Londrina",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Londrina - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJpYSBIZWxlbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyaWEtaGVsZW5hLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NDU4",
     "orgao": "Prefeitura de Maria Helena",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maria-helena-pr-abre-processo-seletivo-com-salarios-de-ate-5458",
@@ -553,6 +568,21 @@
     "data_encerramento": "04/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Maria Helena - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJpcMOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcmlwYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1yZW11bmVyYWNhby1kZS1hdGUtMTQ1Nzg=",
+    "orgao": "Prefeitura de Maripá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maripa-pr-abre-processo-seletivo-com-remuneracao-de-ate-14578",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Maripá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Maripá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXXDoSBkYSBTZXJyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXVhLWRhLXNlcnJhLXByLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1jb21iYXRlLWFzLWVuZGVtaWFzLWUtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
@@ -853,6 +883,21 @@
     "data_encerramento": "12/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBanVyaWNhYmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWp1cmljYWJhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tb25pdG9yLWVzY29sYXI=",
+    "orgao": "Prefeitura de Ajuricaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ajuricaba-rs-abre-processo-seletivo-para-monitor-escolar",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ajuricaba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ajuricaba - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBbGVncmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFsZWdyaWEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtdHJhdG9yaXN0YS1hZ3JpY29sYQ==",
@@ -1485,6 +1530,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWNvb3JkZW5hZG9yLWRlLXN1cHJpbWVudG9zLW5vLWNlcG9uLWRlLWZsb3JpYW5vcG9saXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-coordenador-de-suprimentos-no-cepon-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1kZS1hdXhpbGlhci1kZS1oaWdpZW5pemFjYW8tcGFyYS1vLXNhbXUtZGUteGFueGVyZQ==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-auxiliar-de-higienizacao-para-o-samu-de-xanxere",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1lbmZlcm1laXJvLWktbmEtY2VudHJhbC1kZS1xdWltaW90ZXJhcGlh",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-enfermeiro-i-na-central-de-quimioterapia",
@@ -1586,6 +1661,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "17/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SU1BUyAtIEluc3RpdHV0byBNYXJpYSBTY2htaXR0aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1yZWdpb25hbC1kZS1hcmFyYW5ndWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbQ==",
+    "orgao": "IMAS - Instituto Maria Schmitt",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-processo-seletivo-para-tecnico-de-enfermagem",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
