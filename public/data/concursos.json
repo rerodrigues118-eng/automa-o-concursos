@@ -225,21 +225,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "MTHCqiBSTSAtIENvbWFuZG8gZGEgMTHCqiBSZWdpw6NvIE1pbGl0YXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvbWFuZG8tZGEtMTEtcmVnaWFvLW1pbGl0YXItZGYtZ28tZS10by1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy10ZWNuaWNvcy10ZW1wb3Jhcmlvcw==",
-    "orgao": "11ª RM - Comando da 11ª Região Militar",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-e-to-abre-selecao-para-oficiais-tecnicos-temporarios",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1yZXRpZmljYS1lZGl0YWwtZGUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNlbnNvLWFncm9wZWN1YXJpby1mbG9yZXN0YWwtZS1hcXVpY29sYQ==",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-retifica-edital-de-processo-seletivo-para-o-censo-agropecuario-florestal-e-aquicola",
@@ -780,21 +765,6 @@
     "localizacao": "Novo Hamburgo - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIENvdGlwb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWNvdGlwb3JhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLXNlY3JldGFyaW8=",
-    "orgao": "Câmara de Vereadores de Cotiporã",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-cotipora-rs-abre-processo-seletivo-para-o-cargo-de-secretario",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Vereadores de Cotiporã",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vereadores de Cotiporã - PR"
-  },
-  {
     "id": "Q09NVVIgLSBDb21wYW5oaWEgTXVuaWNpcGFsIGRlIFVyYmFuaXNtb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tdXItbm92by1oYW1idXJnby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0zMC12YWdhcy1wYXJhLXNlcnZlbnRlcw==",
     "orgao": "COMUR - Companhia Municipal de Urbanismo",
     "link": "https://www.pciconcursos.com.br/noticias/comur-novo-hamburgo-rs-abre-processo-seletivo-com-30-vagas-para-serventes",
@@ -898,21 +868,6 @@
     "data_encerramento": "24/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alegria - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBBdWd1c3RvIFBlc3RhbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYXVndXN0by1wZXN0YW5hLXJzLWFicmUtdmFnYS1wYXJhLXByb2Zlc3Nvci1kZS1wb3J0dWd1ZXM=",
-    "orgao": "Prefeitura de Augusto Pestana",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-augusto-pestana-rs-abre-vaga-para-professor-de-portugues",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Augusto Pestana",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Augusto Pestana - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYXJyb3MgQ2Fzc2FsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhcnJvcy1jYXNzYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zpc3Npb25hbC1kZS1lZHVjYWNhby1maXNpY2E=",
@@ -1365,21 +1320,6 @@
     "localizacao": "Três Coroas - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUcmluZGFkZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJpbmRhZGUtZG8tc3VsLXJzLWFicmUtdmFnYS1wYXJhLXByb2Zlc3Nvci1kZS1lZHVjYWNhby1maXNpY2E=",
-    "orgao": "Prefeitura de Trindade do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-do-sul-rs-abre-vaga-para-professor-de-educacao-fisica",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Trindade do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Trindade do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBWaWN0b3IgR3JhZWZmaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY3Rvci1ncmFlZmYtcnMtYWJyZS12YWdhcy1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW9wZXJhcmlvcw==",
     "orgao": "Prefeitura de Victor Graeff",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-victor-graeff-rs-abre-vagas-em-processo-seletivo-para-operarios",
@@ -1500,21 +1440,6 @@
     "localizacao": "Penha - PR"
   },
   {
-    "id": "Q0lHQU1WQUxJIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkZSBHZXN0w6NvIFDDumJsaWNhIGRvIFZhbGUgZG8gSXRhcG9jdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lnYW12YWxpLXNjLWFicmUtdmFnYS1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWFkbWluaXN0cmF0aXZv",
-    "orgao": "CIGAMVALI - Consórcio Intermunicipal de Gestão Pública do Vale do Itapocu",
-    "link": "https://www.pciconcursos.com.br/noticias/cigamvali-sc-abre-vaga-em-processo-seletivo-para-auxiliar-administrativo",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWZvbm9hdWRpb2xvZ28taS1uby1jZXBvbi1kZS1mbG9yaWFub3BvbGlz",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-fonoaudiologo-i-no-cepon-de-florianopolis",
@@ -1526,21 +1451,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jb25kdXRvci1zb2NvcnJpc3RhLW5vLXNhbXUtZGUtbmF2ZWdhbnRlcw==",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-condutor-socorrista-no-samu-de-navegantes",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2220,21 +2130,6 @@
     "localizacao": "São Lourenço do Oeste - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lZHVjYWNhbw==",
-    "orgao": "Prefeitura de São Miguel do Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-abre-processo-seletivo-para-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Miguel do Oeste",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Miguel do Oeste - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura de São Miguel do Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-retifica-edital-de-concurso-publico",
@@ -2308,21 +2203,6 @@
     "data_encerramento": "02/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Barras - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUcmV6ZSBkZSBNYWlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyZXplLWRlLW1haW8tc2MtYWJyZS1zZWxlY2FvLXBhcmEtYXV4aWxpYXItZGUtc2FsYS1lLXZpZ2lh",
-    "orgao": "Prefeitura de Treze de Maio",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-treze-de-maio-sc-abre-selecao-para-auxiliar-de-sala-e-vigia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Treze de Maio",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Treze de Maio - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcmV6ZSBkZSBNYWlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyZXplLWRlLW1haW8tc2MtYWJyZS12YWdhcy1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
