@@ -570,6 +570,21 @@
     "localizacao": "Maripá - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXRpbmhvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXRpbmhvcy1wci1wdWJsaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjAzMzA=",
+    "orgao": "Prefeitura de Matinhos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matinhos-pr-publica-edital-de-concurso-publico-com-salarios-de-ate-20330",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Matinhos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Matinhos - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXXDoSBkYSBTZXJyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXVhLWRhLXNlcnJhLXByLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1jb21iYXRlLWFzLWVuZGVtaWFzLWUtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
     "orgao": "Prefeitura de Mauá da Serra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maua-da-serra-pr-abre-selecao-para-agente-de-combate-as-endemias-e-agente-comunitario-de-saude",
@@ -583,6 +598,21 @@
     "data_encerramento": "27/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Mauá da Serra - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIEF1cm9yYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbXVuaWNpcGlvLWRlLW5vdmEtYXVyb3JhLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Nova Aurora",
+    "link": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-aurora-pr-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Aurora",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Aurora - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFNhbnRhIFJvc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1zYW50YS1yb3NhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb25vYXVkaW9sb2dv",
@@ -1080,6 +1110,21 @@
     "localizacao": "Itaqui - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBMaWJlcmF0byBTYWx6YW5vaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxpYmVyYXRvLXNhbHphbm8tcnMtYWJyZS1pbnNjcmljb2VzLXBhcmEtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01NTAw",
+    "orgao": "Prefeitura de Liberato Salzano",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-liberato-salzano-rs-abre-inscricoes-para-processo-seletivo-com-salarios-de-ate-5500",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Liberato Salzano",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Liberato Salzano - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXF1aW7DqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXF1aW5lLXJzLWFicmUtc2VsZWNvZXMtcGFyYS1tb3RvcmlzdGEtZS1wcm9mZXNzb3I=",
     "orgao": "Prefeitura de Maquiné",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-selecoes-para-motorista-e-professor",
@@ -1258,6 +1303,21 @@
     "data_encerramento": "07/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS12YWdhcy1wYXJhLW1lZGljb3M=",
+    "orgao": "Prefeitura de Sinimbu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sinimbu-rs-abre-processos-seletivos-com-vagas-para-medicos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Sinimbu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Sinimbu - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtc2VydmVudGU=",
