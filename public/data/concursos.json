@@ -510,21 +510,6 @@
     "localizacao": "General Carneiro - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGHDum5hIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGF1bmEtZG8tc3VsLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTMw",
-    "orgao": "Prefeitura de Itaúna do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itauna-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itaúna do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itaúna do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBKYXB1csOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWphcHVyYS1wci1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjY3NjI=",
     "orgao": "Prefeitura de Japurá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-japura-pr-divulga-retificacao-de-concurso-com-salarios-de-ate-26762",
@@ -1275,36 +1260,6 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXRlbmRlbnRlLWRlLWNvbnN1bHRvcmlvLW9kb250b2xvZ2ljbw==",
-    "orgao": "Prefeitura de Sinimbu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sinimbu-rs-abre-selecao-para-atendente-de-consultorio-odontologico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Sinimbu",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Sinimbu - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUYXBlamFyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YXBlamFyYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNvcy1jYXJnb3M=",
-    "orgao": "Prefeitura de Tapejara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tapejara-rs-abre-processo-seletivo-para-cadastro-de-reserva-em-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tapejara",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tapejara - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtc2VydmVudGU=",
     "orgao": "Prefeitura de Tavares",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-abre-processo-seletivo-para-o-cargo-de-servente",
@@ -1333,36 +1288,6 @@
     "data_encerramento": "24/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tenente Portela - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUcmF2ZXNzZWlyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10cmF2ZXNzZWlyby1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00Mzk1",
-    "orgao": "Prefeitura de Travesseiro",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-travesseiro-rs-abre-concurso-publico-com-salarios-de-ate-4395",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Travesseiro",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Travesseiro - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVuZmVybWVpcm8=",
-    "orgao": "Prefeitura de Três Coroas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-processo-seletivo-para-enfermeiro",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Três Coroas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Três Coroas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWaWN0b3IgR3JhZWZmaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY3Rvci1ncmFlZmYtcnMtYWJyZS12YWdhcy1lbS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW9wZXJhcmlvcw==",
@@ -1515,21 +1440,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWVuZmVybWVpcm8tZS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWVtLWZsb3JpYW5vcG9saXM=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-enfermeiro-e-assistente-administrativo-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tZWRpY28taWktbm8tY2Vwb24tZGUtZmxvcmlhbm9wb2xpcw==",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-medico-ii-no-cepon-de-florianopolis",
@@ -1616,21 +1526,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SEVNT1NDIC0gQ2VudHJvIGRlIEhlbWF0b2xvZ2lhIGUgSGVtb3RlcmFwaWEgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1vLWhlbW9zYy1kZS1qb2FjYWJh",
-    "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-o-hemosc-de-joacaba",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2175,21 +2070,6 @@
     "localizacao": "Peritiba - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQaW5oZWlybyBQcmV0b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oZWlyby1wcmV0by1zYy1kaXZ1bGdhLXJldGlmaWNhY29lcy1kZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
-    "orgao": "Prefeitura de Pinheiro Preto",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinheiro-preto-sc-divulga-retificacoes-de-concurso-publico-e-processo-seletivo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pinheiro Preto",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pinheiro Preto - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdHViYS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTQ3My04MA==",
     "orgao": "Prefeitura de Piratuba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratuba-sc-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-21473-80",
@@ -2471,21 +2351,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "27/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1lbS1lbmZlcm1hZ2VtLW5vLWhvc3BpdGFsLWdvdmVybmFkb3ItY2Vsc28tcmFtb3M=",
-    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-selecao-para-tecnico-em-enfermagem-no-hospital-governador-celso-ramos",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
