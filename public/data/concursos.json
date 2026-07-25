@@ -1380,6 +1380,21 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tcGVkcm8tZG8tc3VsLXJzLWFicmUtc2VsZWNvZXMtcGFyYS1hZ2VudGUtY29tdW5pdGFyaW8tZGUtc2F1ZGUtZS1tb3RvcmlzdGE=",
+    "orgao": "Prefeitura de São Pedro do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-abre-selecoes-para-agente-comunitario-de-saude-e-motorista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFZhbMOpcmlvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tdmFsZXJpby1kby1zdWwtcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHNpY29sb2dvLWUtYXNzaXN0ZW50ZS1zb2NpYWw=",
     "orgao": "Prefeitura de São Valério do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-valerio-do-sul-rs-abre-selecao-para-psicologo-e-assistente-social",
@@ -1646,6 +1661,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "26/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNvZXMtcGFyYS1jb25kdXRvci1lbmZlcm1laXJvLWUtbWVkaWNvLW5vLXNhbXUtZGUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecoes-para-condutor-enfermeiro-e-medico-no-samu-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
