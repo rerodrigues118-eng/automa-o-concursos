@@ -1260,6 +1260,21 @@
     "localizacao": "Sinimbu - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUYXZhcmVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhdmFyZXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvcg==",
+    "orgao": "Prefeitura de Tavares",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tavares-rs-abre-processo-seletivo-para-professor",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tavares",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tavares - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY29lcy1wYXJhLWF1eGlsaWFyLWVtLXNhdWRlLWJ1Y2FsLWUtcHJvZmVzc29yLWRlLWhpc3Rvcmlh",
     "orgao": "Prefeitura de Três Coroas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecoes-para-auxiliar-em-saude-bucal-e-professor-de-historia",
@@ -1963,6 +1978,21 @@
     "data_encerramento": "27/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Peritiba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQZXRyb2zDom5kaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGV0cm9sYW5kaWEtc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNvcy1jYXJnb3M=",
+    "orgao": "Prefeitura de Petrolândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-petrolandia-sc-abre-selecao-para-cadastro-de-reserva-em-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Petrolândia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Petrolândia - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdHViYS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTQ3My04MA==",
