@@ -11253,6 +11253,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXBpdmFyaSBkZSBCYWl4b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBpdmFyaS1kZS1iYWl4by1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hZ2VudGUtZGEtZGVmZXNhLWNpdmls",
+    "orgao": "Prefeitura de Capivari de Baixo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capivari-de-baixo-sc-abre-concurso-publico-para-agente-da-defesa-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Capivari de Baixo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capivari de Baixo - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Capivari de Baixo."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Capivari+de+Baixo"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Capivari+de+Baixo"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Capivari+de+Baixo"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDdW5oYSBQb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdW5oYS1wb3JhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjI1MDQ=",
     "orgao": "Prefeitura de Cunha Porã",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-pora-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-22504",
@@ -12369,6 +12462,99 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Joinville",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Joinville",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Joinville - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Joinville."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Joinville"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Joinville"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Joinville"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYWNpZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYWNpZWlyYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhcy1wYXJhLWEtYXJlYS1kYS1lZHVjYWNhbw==",
     "orgao": "Prefeitura de Macieira",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macieira-sc-abre-processo-seletivo-com-vagas-para-a-area-da-educacao",
@@ -13074,6 +13260,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Rio+do+Sul"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSb21lbMOibmRpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yb21lbGFuZGlhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1uaXZlaXMtZGUtZXNjb2xhcmlkYWRl",
+    "orgao": "Prefeitura de Romelândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-romelandia-sc-abre-processo-seletivo-para-diversos-niveis-de-escolaridade",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Romelândia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Romelândia - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Romelândia."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Romelândia"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Romelândia"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Romelândia"
         },
         {
           "titulo": "Banco de Questões Comentadas",
