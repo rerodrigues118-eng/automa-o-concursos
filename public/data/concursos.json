@@ -810,21 +810,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "VU5JQ0VOVFJPIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRvIENlbnRyby1PZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pY2VudHJvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1jb2xhYm9yYWRvcmVz",
-    "orgao": "UNICENTRO - Universidade Estadual do Centro-Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/unicentro-pr-abre-processo-seletivo-para-professores-colaboradores",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWNpZW5jaWFzLXNvY2lhaXMtZS1odW1hbmFz",
     "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
     "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-processo-seletivo-para-professor-substituto-de-ciencias-sociais-e-humanas",
@@ -853,21 +838,6 @@
     "data_encerramento": "13/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
-    "orgao": "Prefeitura de Novo Hamburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-divulga-retificacao-de-concurso-publico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Novo Hamburgo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Novo Hamburgo - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtc2lsdmVpcmEtbWFydGlucy1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vZmljaWFsLWFkbWluaXN0cmF0aXZv",
@@ -1290,6 +1260,21 @@
     "localizacao": "Nova Santa Rita - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhhbWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8taGFtYnVyZ28tcnMtZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
+    "orgao": "Prefeitura de Novo Hamburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-hamburgo-rs-divulga-retificacao-de-concurso-publico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Hamburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Hamburgo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJvYsOpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhcm9iZS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLXBhcmEtcHJvZmVzc29yZXM=",
     "orgao": "Prefeitura de Parobé",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-parobe-rs-abre-concurso-publico-com-vagas-para-professores",
@@ -1318,21 +1303,6 @@
     "data_encerramento": "05/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto Alegre - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS12YWdhcy1lbS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZWR1Y2Fkb3Jlcy1zb2NpYWlz",
-    "orgao": "Prefeitura de Rio Grande",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-vagas-em-processos-seletivos-para-educadores-sociais",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio Grande",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Grande - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXNzaXN0ZW50ZS1zb2NpYWwtbnV0cmljaW9uaXN0YS1lLXBzaWNvbG9nbw==",
@@ -1860,21 +1830,6 @@
     "localizacao": "Schroeder - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBcGnDum5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFwaXVuYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1lbmZlcm1laXJvLWUtZmFybWFjZXV0aWNv",
-    "orgao": "Prefeitura de Apiúna",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiuna-sc-abre-selecao-para-enfermeiro-e-farmaceutico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Apiúna",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Apiúna - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBBcmFidXTDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcmFidXRhLXNjLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZG8tY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTY3NDI=",
     "orgao": "Prefeitura de Arabutã",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arabuta-sc-divulga-retificacao-do-concurso-publico-com-salarios-de-ate-6742",
@@ -2173,21 +2128,6 @@
     "data_encerramento": "31/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itá - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFqYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YWphaS1zYy1yZXRpZmljYS1lZGl0YWlzLWRlLWNvbmN1cnNvcy1wdWJsaWNvcw==",
-    "orgao": "Prefeitura de Itajaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-retifica-editais-de-concursos-publicos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itajaí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/07/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itajaí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFwaXJhbmdhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBpcmFuZ2Etc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
