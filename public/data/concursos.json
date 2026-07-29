@@ -450,6 +450,21 @@
     "localizacao": "Cianorte - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDb250ZW5kYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb250ZW5kYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01MjE5",
+    "orgao": "Prefeitura de Contenda",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contenda-pr-abre-concurso-publico-com-salarios-de-ate-5219",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Contenda",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Contenda - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIFZpdmlkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLXZpdmlkYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhLXBhcmEtZmFybWFjZXV0aWNv",
     "orgao": "Prefeitura de Coronel Vivida",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-vivida-pr-abre-processo-seletivo-com-vaga-para-farmaceutico",
@@ -703,6 +718,21 @@
     "data_encerramento": "29/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ponta Grossa - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBRdWF0cm8gUG9udGVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXF1YXRyby1wb250ZXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTU5NzA=",
+    "orgao": "Prefeitura de Quatro Pontes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quatro-pontes-pr-abre-concurso-publico-com-salarios-de-ate-15970",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Quatro Pontes",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Quatro Pontes - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gQWxlZ3JlIEQnT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLWFsZWdyZS1kb2VzdGUtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQzMjI=",
@@ -1048,6 +1078,21 @@
     "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canela - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDaHXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaHVpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS12YWdhLWRlLWVuZ2VuaGVpcm8tY2l2aWw=",
+    "orgao": "Prefeitura de Chuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chui-rs-abre-processo-seletivo-para-vaga-de-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Chuí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Chuí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDb3RpcG9yw6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY290aXBvcmEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWRlLXNhdWRlLWJ1Y2Fs",
@@ -1470,6 +1515,21 @@
     "localizacao": "Três Coroas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBWaWN0b3IgR3JhZWZmaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY3Rvci1ncmFlZmYtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXV4aWxpYXItZGUtbGltcGV6YS1leHRlcm5h",
+    "orgao": "Prefeitura de Victor Graeff",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-victor-graeff-rs-abre-selecao-para-auxiliar-de-limpeza-externa",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Victor Graeff",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Victor Graeff - PR"
+  },
+  {
     "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNtLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3NvcmVzLWRvLW1hZ2lzdGVyaW8tc3VwZXJpb3I=",
     "orgao": "UFSM - Universidade Federal de Santa Maria",
     "link": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-publico-para-professores-do-magisterio-superior",
@@ -1616,6 +1676,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1kZS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLXBhcmEtcGNkLW5vLXNhbXUtZGUtc2FvLWxvdXJlbmNvLWRvLW9lc3Rl",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-de-assistente-administrativo-para-pcd-no-samu-de-sao-lourenco-do-oeste",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1933,6 +2008,21 @@
     "data_encerramento": "03/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Capivari de Baixo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Chapecó",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-publica-edital-de-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Chapecó",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Chapecó - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDdW5oYSBQb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdW5oYS1wb3JhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjI1MDQ=",
@@ -2471,6 +2561,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtcHJvY2Vzc28tc2VsZXRpdm8tb2ZlcmVjZS12YWdhcy1wYXJhLW8taG9zcGl0YWwtZS1tYXRlcm5pZGFkZS10ZXJlemEtcmFtb3M=",
+    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-processo-seletivo-oferece-vagas-para-o-hospital-e-maternidade-tereza-ramos",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   }
