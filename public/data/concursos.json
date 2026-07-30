@@ -1065,6 +1065,21 @@
     "localizacao": "Cotiporã - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBEb2lzIElybcOjb3MgZGFzIE1pc3PDtWVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWRvaXMtaXJtYW9zLWRhcy1taXNzb2VzLXJzLWFicmUtc2VsZWNhby1wYXJhLWFzc2lzdGVudGUtc29jaWFsLWVuZmVybWVpcm8tZS1wc2ljb2xvZ28=",
+    "orgao": "Prefeitura de Dois Irmãos das Missões",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dois-irmaos-das-missoes-rs-abre-selecao-para-assistente-social-enfermeiro-e-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Dois Irmãos das Missões",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Dois Irmãos das Missões - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYS1wYXJhLW1vdG9yaXN0YS1kZS1vbmlidXM=",
     "orgao": "Prefeitura de Erechim",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erechim-rs-abre-processo-seletivo-com-vaga-para-motorista-de-onibus",
@@ -2385,6 +2400,36 @@
     "localizacao": "Tangará - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUaW1iw7NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdGltYm8tc2MtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTcyNDc=",
+    "orgao": "Prefeitura de Timbó",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-timbo-sc-retifica-concurso-publico-com-salarios-de-ate-7247",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Timbó",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Timbó - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUaW1iw7MsIFNBTUFFIGUgVElNQk9QUkVWaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRpbWJvLXNjLXJldGlmaWNhLWNvbmN1cnNvcy1wdWJsaWNvcy1wYXJhLWRpdmVyc29zLWNhcmdvcy1lLWFyZWFz",
+    "orgao": "Prefeitura de Timbó, SAMAE e TIMBOPREV",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-timbo-sc-retifica-concursos-publicos-para-diversos-cargos-e-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Timbó",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Timbó - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBCYXJyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1iYXJyYXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1vbml0b3Jlcy1lLXRlY25pY29zLWRlLWVuZmVybWFnZW0=",
     "orgao": "Prefeitura de Três Barras",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-barras-sc-abre-processo-seletivo-para-monitores-e-tecnicos-de-enfermagem",
@@ -2456,6 +2501,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FORUZSQUkgLSBBdXRhcnF1aWEgTXVuaWNpcGFsIGRlIFNhbmVhbWVudG8gZGUgRnJhaWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYW5lZnJhaS1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtYWdlbnRlLW9wZXJhY2lvbmFsLWUtZW5nZW5oZWlyby1zYW5pdGFyaXN0YQ==",
+    "orgao": "SANEFRAI - Autarquia Municipal de Saneamento de Fraiburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/sanefrai-sc-abre-selecoes-para-agente-operacional-e-engenheiro-sanitarista",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
