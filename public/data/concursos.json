@@ -1035,6 +1035,21 @@
     "localizacao": "Canela - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW51ZG9zIGRvIFZhbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FudWRvcy1kby12YWxlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTMyNDI=",
+    "orgao": "Prefeitura de Canudos do Vale",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canudos-do-vale-rs-abre-concurso-publico-com-salarios-de-ate-3242",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Canudos do Vale",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Canudos do Vale - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDaHXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaHVpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS12YWdhLWRlLWVuZ2VuaGVpcm8tY2l2aWw=",
     "orgao": "Prefeitura de Chuí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chui-rs-abre-processo-seletivo-para-vaga-de-engenheiro-civil",
@@ -1318,6 +1333,21 @@
     "data_encerramento": "30/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Grande - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBkbyBKYWN1w61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tZG8tamFjdWktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tcHJvZ3JhbWEtY2FzLXRlYWNvbGhl",
+    "orgao": "Prefeitura de Salto do Jacuí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-do-jacui-rs-abre-processo-seletivo-para-o-programa-cas-teacolhe",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Salto do Jacuí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/07/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Salto do Jacuí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBSb3NhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXJvc2EtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yZXM=",
