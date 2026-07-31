@@ -225,6 +225,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "REVQQSAtIERpcmV0b3JpYSBkZSBFZHVjYcOnw6NvIFByZXBhcmF0w7NyaWEgZSBBc3Npc3RlbmNpYWwgKEV4w6lyY2l0bylodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2RlY2V4LWJyYXNpbC1zZWxlY2FvLXBhcmEtY29sZWdpb3MtbWlsaXRhcmVzLWFicmUtdmFnYXMtZW0tZGl2ZXJzYXMtY2lkYWRlcw==",
+    "orgao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
+    "link": "https://www.pciconcursos.com.br/noticias/decex-brasil-selecao-para-colegios-militares-abre-vagas-em-diversas-cidades",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "SUJHRSAtIEluc3RpdHV0byBCcmFzaWxlaXJvIGRlIEdlb2dyYWZpYSBlIEVzdGF0w61zdGljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWJnZS1kaXZ1bGdhLXJldGlmaWNhY2FvLWRvLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWUtYW5hbGlzdGEtY2Vuc2l0YXJpbw==",
     "orgao": "IBGE - Instituto Brasileiro de Geografia e Estatística",
     "link": "https://www.pciconcursos.com.br/noticias/ibge-divulga-retificacao-do-processo-seletivo-para-agente-e-analista-censitario",
@@ -373,6 +388,21 @@
     "data_encerramento": "30/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "TWF0aW5ob3NQUkVWIC0gSW5zdGl0dXRvIGRlIFByZXZpZMOqbmNpYSBkb3MgU2Vydmlkb3JlcyBQw7pibGljb3MgZGUgTWF0aW5ob3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL21hdGluaG9zcHJldi1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vcy1jYXJnb3MtZGUtdGVjbmljby1hZG1pbmlzdHJhdGl2by1lLWNvbnRhZG9y",
+    "orgao": "MatinhosPREV - Instituto de Previdência dos Servidores Públicos de Matinhos",
+    "link": "https://www.pciconcursos.com.br/noticias/matinhosprev-pr-abre-concurso-publico-para-os-cargos-de-tecnico-administrativo-e-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Previdência dos Servidores Públicos de Matinhos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Previdência dos Servidores Públicos de Matinhos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlcmFwZXV0YS1vY3VwYWNpb25hbA==",
@@ -735,6 +765,21 @@
     "localizacao": "Rancho Alegre - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSb2zDom5kaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcm9sYW5kaWEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Rolândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rolandia-pr-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rolândia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rolândia - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUb2xlZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9sZWRvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXJlbXVuZXJhY29lcy1kZS1hdGUtMjExOTI=",
     "orgao": "Prefeitura de Toledo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toledo-pr-abre-processo-seletivo-com-remuneracoes-de-ate-21192",
@@ -825,6 +870,21 @@
     "localizacao": "Silveira Martins - PR"
   },
   {
+    "id": "Q0lTR1MgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIFNhw7pkZSBkbyBHcmFuZGUgU2FyYW5kaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lzZ3MtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYS1wYXJhLW8tY2FyZ28tZGUtY29udGFkb3I=",
+    "orgao": "CISGS - Consórcio Intermunicipal de Saúde do Grande Sarandi",
+    "link": "https://www.pciconcursos.com.br/noticias/cisgs-rs-abre-processo-seletivo-com-vaga-para-o-cargo-de-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q1JFTUVSUyAtIENvbnNlbGhvIFJlZ2lvbmFsIGRlIE1lZGljaW5hIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JlbWVycy1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1tZWRpY28tZmlzY2FsLWUtYWdlbnRlLWZpc2NhbA==",
     "orgao": "CREMERS - Conselho Regional de Medicina do Estado do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/cremers-rs-abre-concurso-publico-para-medico-fiscal-e-agente-fiscal",
@@ -866,6 +926,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkhHViAtIEZ1bmRhw6fDo28gSG9zcGl0YWxhciBHZXTDumxpbyBWYXJnYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZoZ3YtcG9ydG8tYWxlZ3JlLXJzLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tYXV4aWxpYXItZGUtcmVndWxhY2FvLW1lZGljYQ==",
+    "orgao": "FHGV - Fundação Hospitalar Getúlio Vargas",
+    "link": "https://www.pciconcursos.com.br/noticias/fhgv-porto-alegre-rs-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1320,6 +1395,21 @@
     "localizacao": "Porto Alegre - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBNYXXDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wb3J0by1tYXVhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2EtcGFyYS1udXRyaWNpb25pc3Rh",
+    "orgao": "Prefeitura de Porto Mauá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-maua-rs-abre-processo-seletivo-com-vaga-para-nutricionista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Porto Mauá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Porto Mauá - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBkbyBKYWN1w61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tZG8tamFjdWktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tcHJvZ3JhbWEtY2FzLXRlYWNvbGhl",
     "orgao": "Prefeitura de Salto do Jacuí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salto-do-jacui-rs-abre-processo-seletivo-para-o-programa-cas-teacolhe",
@@ -1608,6 +1698,36 @@
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tZWRpY28tcmVndWxhZG9yLWRhcy11cmdlbmNpYXMtcGNkLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-medico-regulador-das-urgencias-pcd-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWNvbmR1dG9yLXNvY29ycmlzdGEtZW0tc2FvLW1pZ3VlbC1kby1vZXN0ZQ==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-condutor-socorrista-em-sao-miguel-do-oeste",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWFzc2lzdGVudGUtZGUtY29tcHJhcy1paWktbm8tc2FtdS1kZS1mbG9yaWFub3BvbGlz",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-de-compras-iii-no-samu-de-florianopolis",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
