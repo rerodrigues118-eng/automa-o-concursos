@@ -15,6 +15,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "Q1JQIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgUHNpY29sb2dpYSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jcnAtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtYXNzZXNzb3ItZGUtdGk=",
+    "orgao": "CRP - Conselho Regional de Psicologia do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/crp-pr-abre-processo-seletivo-para-o-cargo-de-assessor-de-ti",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "Q1JBIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgQWRtaW5pc3RyYcOnw6NvIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NyYS1wci1wcm9ycm9nYS1pbnNjcmljb2VzLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLWltZWRpYXRhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
     "orgao": "CRA - Conselho Regional de Administração do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/cra-pr-prorroga-inscricoes-de-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -1245,6 +1260,21 @@
     "localizacao": "Independência - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWZvcm1hci1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Itaqui",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-abre-processos-seletivos-para-formar-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itaqui",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itaqui - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBKYXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWphcmktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtdmlzaXRhZG9yLWRvLXBpbQ==",
     "orgao": "Prefeitura de Jari",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jari-rs-abre-processo-seletivo-para-o-cargo-de-visitador-do-pim",
@@ -2293,6 +2323,21 @@
     "data_encerramento": "07/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Palmeira - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2EtcGFyYS1mYXJtYWNldXRpY28=",
+    "orgao": "Prefeitura de Paraíso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraiso-sc-abre-processo-seletivo-com-vaga-para-farmaceutico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paraíso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paraíso - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdHViYS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTQ3My04MA==",
