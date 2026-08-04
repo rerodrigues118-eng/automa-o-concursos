@@ -315,21 +315,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBJYmlwb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWliaXBvcmEtcHItZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
-    "orgao": "Câmara de Ibiporã",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-ibipora-pr-divulga-retificacao-de-concurso-publico",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Ibiporã",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ibiporã - PR"
-  },
-  {
     "id": "Q8OibWFyYSBkZSBJbWJpdHV2YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWltYml0dXZhLXByLWFicmUtc2VsZWNhby1jb20tcmVtdW5lcmFjb2VzLWRlLWF0ZS03NjM3",
     "orgao": "Câmara de Imbituva",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-imbituva-pr-abre-selecao-com-remuneracoes-de-ate-7637",
@@ -673,21 +658,6 @@
     "data_encerramento": "26/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Aurora - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFNhbnRhIFJvc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1zYW50YS1yb3NhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb25vYXVkaW9sb2dv",
-    "orgao": "Prefeitura de Nova Santa Rosa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-santa-rosa-pr-abre-processo-seletivo-para-fonoaudiologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Nova Santa Rosa",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Nova Santa Rosa - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXVsYSBGcmVpdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhdWxhLWZyZWl0YXMtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF0ZW5kZW50ZS1hZG1pbmlzdHJhdGl2by1lLWFzc2lzdGVudGUtc29jaWFs",
@@ -1110,36 +1080,6 @@
     "localizacao": "Dois Irmãos das Missões - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBGb3JxdWV0aW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3JxdWV0aW5oYS1ycy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDc2Mw==",
-    "orgao": "Prefeitura de Forquetinha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-forquetinha-rs-abre-concurso-com-salarios-de-ate-4763",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Forquetinha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Forquetinha - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBHcmF2YXRhw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3JhdmF0YWktcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLWVkdWNhY2FvLWVzcGVjaWFsLWluY2x1c2l2YQ==",
-    "orgao": "Prefeitura de Gravataí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gravatai-rs-abre-selecao-para-agente-de-educacao-especial-inclusiva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Gravataí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Gravataí - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWZvcm1hci1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Itaqui",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-abre-processos-seletivos-para-formar-cadastro-de-reserva",
@@ -1470,21 +1410,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtZGUtdGVjbmljby1kZS1pbmZvcm1hdGljYS1leGNsdXNpdmEtcGFyYS1wY2QtZW0tZmxvcmlhbm9wb2xpcw==",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-de-tecnico-de-informatica-exclusiva-para-pcd-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "Rk1BUyAtIEZ1bmRvIE11bmljaXBhbCBkZSBBc3Npc3TDqm5jaWEgU29jaWFsIGRlIEliaWNhcsOpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaWNhcmUtc2MtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYXNzaXN0ZW50ZS1zb2NpYWw=",
     "orgao": "FMAS - Fundo Municipal de Assistência Social de Ibicaré",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibicare-sc-abre-vaga-em-processo-seletivo-para-assistente-social",
@@ -1753,21 +1678,6 @@
     "data_encerramento": "24/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Cunha Porã - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWNvbS1zYWxhcmlvcy1kZS0yMjky",
-    "orgao": "Prefeitura de Fraiburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-selecao-para-professores-com-salarios-de-2292",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Fraiburgo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Fraiburgo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYXJnb3MtZGUtbml2ZWwtZnVuZGFtZW50YWwtZS1zdXBlcmlvcg==",
