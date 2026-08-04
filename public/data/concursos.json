@@ -405,6 +405,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXZpc2l0YW50ZS1lbS1lbmdlbmhhcmlhLWNpdmlsLW5vLWNhbXB1cy11bXVhcmFtYQ==",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-vaga-para-professor-visitante-em-engenharia-civil-no-campus-umuarama",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "TWF0aW5ob3NQUkVWIC0gSW5zdGl0dXRvIGRlIFByZXZpZMOqbmNpYSBkb3MgU2Vydmlkb3JlcyBQw7pibGljb3MgZGUgTWF0aW5ob3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL21hdGluaG9zcHJldi1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vcy1jYXJnb3MtZGUtdGVjbmljby1hZG1pbmlzdHJhdGl2by1lLWNvbnRhZG9y",
     "orgao": "MatinhosPREV - Instituto de Previdência dos Servidores Públicos de Matinhos",
     "link": "https://www.pciconcursos.com.br/noticias/matinhosprev-pr-abre-concurso-publico-para-os-cargos-de-tecnico-administrativo-e-contador",
@@ -810,6 +825,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGVzLXVuaXZlcnNpdGFyaW9z",
+    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-processo-seletivo-para-agentes-universitarios",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1wcm9mZXNzb3ItZG8tbWFnaXN0ZXJpby1zdXBlcmlvcg==",
     "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
     "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-concurso-publico-para-o-cargo-de-professor-do-magisterio-superior",
@@ -821,6 +851,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "13/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "w4FndWEgZGUgSXZvdGkgLSBBdXRhcnF1aWEgZGUgQWJhc3RlY2ltZW50byBkZSDDgWd1YSBlIEVzZ290YW1lbnRvIFNhbml0w6FyaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2FndWEtZGUtaXZvdGktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTExMQ==",
+    "orgao": "Água de Ivoti - Autarquia de Abastecimento de Água e Esgotamento Sanitário",
+    "link": "https://www.pciconcursos.com.br/noticias/agua-de-ivoti-rs-abre-concurso-publico-com-salarios-de-ate-9111",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
