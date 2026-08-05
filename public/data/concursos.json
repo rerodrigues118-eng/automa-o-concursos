@@ -405,6 +405,21 @@
     "localizacao": "Previdência dos Servidores Públicos de Matinhos - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWVtLWZhcm1hY2lh",
+    "orgao": "Prefeitura de Balsa Nova",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-auxiliar-em-farmacia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Balsa Nova",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Balsa Nova - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYXJyYWPDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmFjYW8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTUwODg=",
     "orgao": "Prefeitura de Barracão",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barracao-pr-abre-processo-seletivo-com-salarios-de-ate-5088",
@@ -748,6 +763,21 @@
     "data_encerramento": "09/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rolândia - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUdW5hcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXR1bmFzLWRvLXBhcmFuYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1kaXZlcnNhcy1hcmVhcw==",
+    "orgao": "Prefeitura de Tunas do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tunas-do-parana-pr-abre-processo-seletivo-para-profissionais-de-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tunas do Paraná",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tunas do Paraná - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVbXVhcmFtYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS11bXVhcmFtYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hZ2VudGUtZGEtYXV0b3JpZGFkZS1kZS10cmFuc2l0bw==",
@@ -1320,6 +1350,21 @@
     "localizacao": "Silveira Martins - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUYXBlamFyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YXBlamFyYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhcy1wYXJhLWNvemluaGVpcm8=",
+    "orgao": "Prefeitura de Tapejara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tapejara-rs-abre-processo-seletivo-com-vagas-para-cozinheiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tapejara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tapejara - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUcml1bmZvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyaXVuZm8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXNzaXN0ZW50ZS1zb2NpYWwtZWR1Y2Fkb3Itc29jaWFsLWUtcHNpY29sb2dv",
     "orgao": "Prefeitura de Triunfo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-triunfo-rs-abre-selecao-para-assistente-social-educador-social-e-psicologo",
@@ -1526,6 +1571,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "07/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SE1JU0MgLSBIb3NwaXRhbCBNYXRlcm5vIEluZmFudGlsIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1tYXRlcm5vLWluZmFudGlsLXNhbnRhLWNhdGFyaW5hLXNjLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTYxMTA=",
+    "orgao": "HMISC - Hospital Materno Infantil Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-materno-infantil-santa-catarina-sc-abre-selecao-com-salarios-de-ate-6110",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2008,6 +2068,21 @@
     "data_encerramento": "28/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Salto Veloso - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBIZWxlbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGEtaGVsZW5hLXNjLWFicmUtZWRpdGFpcy1kZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
+    "orgao": "Prefeitura de Santa Helena",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-helena-sc-abre-editais-de-concurso-publico-e-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Helena",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Helena - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIENyaXN0w7N2w6NvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tY3Jpc3RvdmFvLWRvLXN1bC1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA5OTk=",
