@@ -6324,9 +6324,9 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW51ZG9zIGRvIFZhbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FudWRvcy1kby12YWxlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTMyNDI=",
+    "id": "UHJlZmVpdHVyYSBkZSBDYW51ZG9zIGRvIFZhbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FudWRvcy1kby12YWxlLXJzLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura de Canudos do Vale",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canudos-do-vale-rs-abre-concurso-publico-com-salarios-de-ate-3242",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canudos-do-vale-rs-retifica-edital-de-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Canudos do Vale",
@@ -6334,7 +6334,100 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "28/08/2026",
+    "data_encerramento": "02/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Canudos do Vale - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Canudos do Vale."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Canudos+do+Vale"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Canudos+do+Vale"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Canudos+do+Vale"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW51ZG9zIGRvIFZhbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FudWRvcy1kby12YWxlLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1jb21iYXRlLWFzLWVuZGVtaWFz",
+    "orgao": "Prefeitura de Canudos do Vale",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canudos-do-vale-rs-abre-selecao-para-agente-de-combate-as-endemias",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Canudos do Vale",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canudos do Vale - PR",
     "detalhes_cargo": {
@@ -7347,9 +7440,9 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFnZW50ZS1kZS1maXNjYWxpemFjYW8tbXVuaWNpcGFs",
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZG8tY29uY3Vyc28tcHVibGljby1wYXJhLWFnZW50ZS1kZS1maXNjYWxpemFjYW8tbXVuaWNpcGFs",
     "orgao": "Prefeitura de Porto Alegre",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-concurso-publico-para-agente-de-fiscalizacao-municipal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-divulga-retificacao-do-concurso-publico-para-agente-de-fiscalizacao-municipal",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Porto Alegre",
@@ -7998,9 +8091,9 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbHZlaXJhLW1hcnRpbnMtcnMtYWJyZS1jb25jdXJzby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjc1Nw==",
+    "id": "UHJlZmVpdHVyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbHZlaXJhLW1hcnRpbnMtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1lLW1hbnRlbS1wcm9jZXNzby1zZWxldGl2by1pbmFsdGVyYWRv",
     "orgao": "Prefeitura de Silveira Martins",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-silveira-martins-rs-abre-concurso-e-processo-seletivo-com-salarios-de-ate-6757",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-silveira-martins-rs-retifica-concurso-publico-e-mantem-processo-seletivo-inalterado",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Silveira Martins",
@@ -8370,9 +8463,9 @@
     }
   },
   {
-    "id": "U0FQRSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEFncmljdWx0dXJhIGUgUGVjdcOhcmlhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYXBlLXNjLWFicmUtY29uY3Vyc28tY29tLTIwLXZhZ2FzLXBhcmEtYW5hbGlzdGEtdGVjbmljby1hZG1pbmlzdHJhdGl2by1paQ==",
+    "id": "U0FQRSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEFncmljdWx0dXJhIGUgUGVjdcOhcmlhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYXBlLXNjLXJldGlmaWNhLWVkaXRhbC1kby1jb25jdXJzby1wdWJsaWNvLXBhcmEtYW5hbGlzdGEtdGVjbmljby1hZG1pbmlzdHJhdGl2by1paQ==",
     "orgao": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/sape-sc-abre-concurso-com-20-vagas-para-analista-tecnico-administrativo-ii",
+    "link": "https://www.pciconcursos.com.br/noticias/sape-sc-retifica-edital-do-concurso-publico-para-analista-tecnico-administrativo-ii",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -11346,9 +11439,9 @@
     }
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1wcm9jZXNzby1zZWxldGl2bw==",
     "orgao": "Prefeitura de Joinville",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-retifica-edital-de-processo-seletivo",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Joinville",
