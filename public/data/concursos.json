@@ -510,6 +510,21 @@
     "localizacao": "Coronel Vivida - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIFZpdmlkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLXZpdmlkYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTUyNQ==",
+    "orgao": "Prefeitura de Coronel Vivida",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-vivida-pr-abre-concurso-publico-com-salarios-de-ate-21525",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Coronel Vivida",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Coronel Vivida - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFuY2lzY28gQWx2ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mcmFuY2lzY28tYWx2ZXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDEzNA==",
     "orgao": "Prefeitura de Francisco Alve",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-alves-pr-abre-concurso-publico-com-salarios-de-ate-4134",
@@ -750,6 +765,21 @@
     "localizacao": "Rancho Alegre - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSZW5hc2NlbsOnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yZW5hc2NlbmNhLXByLWFicmUtdmFnYXMtcGFyYS1hcHJlbmRpei1hdXhpbGlhci1hZG1pbmlzdHJhdGl2bw==",
+    "orgao": "Prefeitura de Renascença",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-renascenca-pr-abre-vagas-para-aprendiz-auxiliar-administrativo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Renascença",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Renascença - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSb2zDom5kaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcm9sYW5kaWEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Rolândia",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rolandia-pr-abre-processo-seletivo-para-professores",
@@ -900,9 +930,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q1JFTUVSUyAtIENvbnNlbGhvIFJlZ2lvbmFsIGRlIE1lZGljaW5hIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JlbWVycy1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1tZWRpY28tZmlzY2FsLWUtYWdlbnRlLWZpc2NhbA==",
+    "id": "Q1JFTUVSUyAtIENvbnNlbGhvIFJlZ2lvbmFsIGRlIE1lZGljaW5hIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JlbWVycy1ycy1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1wYXJhLW1lZGljby1maXNjYWwtZS1hZ2VudGUtZmlzY2Fs",
     "orgao": "CREMERS - Conselho Regional de Medicina do Estado do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/cremers-rs-abre-concurso-publico-para-medico-fiscal-e-agente-fiscal",
+    "link": "https://www.pciconcursos.com.br/noticias/cremers-rs-retifica-edital-de-concurso-publico-para-medico-fiscal-e-agente-fiscal",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -910,7 +940,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "31/08/2026",
+    "data_encerramento": "07/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1140,6 +1170,21 @@
     "localizacao": "Erechim - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGb3JxdWV0aW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3JxdWV0aW5oYS1ycy1wcm9ycm9nYS1pbnNjcmljb2VzLWRvLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDc2Mw==",
+    "orgao": "Prefeitura de Forquetinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-forquetinha-rs-prorroga-inscricoes-do-concurso-com-salarios-de-ate-4763",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Forquetinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Forquetinha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWdyYW1hZG8tcnMtYWJyZS1zZWxlY2FvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Gramado",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-rs-abre-selecao-com-vagas-para-professores",
@@ -1243,6 +1288,21 @@
     "data_encerramento": "28/07/2026",
     "status": "Inscrições abertas",
     "localizacao": "Novo Hamburgo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtby1jYXJnby1kZS1jb3ppbmhlaXJv",
+    "orgao": "Prefeitura de Pelotas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-o-cargo-de-cozinheiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pelotas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pelotas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBSb3NhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXJvc2EtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yZXM=",
@@ -1560,6 +1620,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RlVOQkFNQSAtIEZ1bmRhw6fDo28gZG8gTWVpbyBBbWJpZW50ZSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Z1bmJhbWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZW5nZW5oZWlyby1jaXZpbA==",
+    "orgao": "FUNBAMA - Fundação do Meio Ambiente de Braço do Norte",
+    "link": "https://www.pciconcursos.com.br/noticias/funbama-sc-abre-processo-seletivo-para-o-cargo-de-engenheiro-civil",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtc2VsZWNvZXMtcGFyYS1wcm9maXNzaW9uYWlzLWRlLWRpdmVyc2FzLWFyZWFzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzU0Ng==",
     "orgao": "FURB - Fundação Universidade Regional de Blumenau",
     "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-selecoes-para-profissionais-de-diversas-areas-com-salarios-de-ate-7546",
@@ -1755,6 +1830,21 @@
     "localizacao": "Bombinhas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQyMjg=",
+    "orgao": "Prefeitura de Braço do Norte",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-processo-seletivo-com-salarios-de-ate-4228",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Braço do Norte",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Braço do Norte - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYWxlZ3JlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRlLW5pdmVsLXN1cGVyaW9yLW5hLWVkdWNhY2Fv",
     "orgao": "Prefeitura de Campo Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-alegre-sc-abre-processo-seletivo-para-profissionais-de-nivel-superior-na-educacao",
@@ -1768,6 +1858,21 @@
     "data_encerramento": "07/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Campo Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLW1vdG9yaXN0YQ==",
+    "orgao": "Prefeitura de Campos Novos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-processo-seletivo-para-o-cargo-de-motorista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Campos Novos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campos Novos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXBpdmFyaSBkZSBCYWl4b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBpdmFyaS1kZS1iYWl4by1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hZ2VudGUtZGEtZGVmZXNhLWNpdmls",
@@ -1995,6 +2100,21 @@
     "localizacao": "Piratuba - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWUtYXV4aWxpYXJlcw==",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-professores-e-auxiliares",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kby1zdWwtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWd1YXJkYS1tdW5pY2lwYWw=",
     "orgao": "Prefeitura de Rio do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-sul-sc-abre-concurso-publico-com-vagas-para-guarda-municipal",
@@ -2023,6 +2143,21 @@
     "data_encerramento": "07/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JpbmhvLXNjLWFicmUtc2VsZWNhby1wYXJhLW1lZGljby1wc2lxdWlhdHJh",
+    "orgao": "Prefeitura de Rio Negrinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-abre-selecao-para-medico-psiquiatra",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Negrinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Negrinho - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSb21lbMOibmRpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yb21lbGFuZGlhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1uaXZlaXMtZGUtZXNjb2xhcmlkYWRl",
