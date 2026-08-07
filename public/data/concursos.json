@@ -885,6 +885,21 @@
     "localizacao": "Silveira Martins - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIENyaXNzaXVtYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1jcmlzc2l1bWFsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLWNvbnRhZG9y",
+    "orgao": "Câmara de Vereadores de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-crissiumal-rs-abre-processo-seletivo-para-o-cargo-de-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Crissiumal - PR"
+  },
+  {
     "id": "Q0lTR1MgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIFNhw7pkZSBkbyBHcmFuZGUgU2FyYW5kaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lzZ3MtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYS1wYXJhLW8tY2FyZ28tZGUtY29udGFkb3I=",
     "orgao": "CISGS - Consórcio Intermunicipal de Saúde do Grande Sarandi",
     "link": "https://www.pciconcursos.com.br/noticias/cisgs-rs-abre-processo-seletivo-com-vaga-para-o-cargo-de-contador",
@@ -975,6 +990,21 @@
     "localizacao": "Clínicas de Porto Alegre - PR"
   },
   {
+    "id": "TEFNRUYgLSBMYWJvcmF0w7NyaW8gZGUgTWV0YWx1cmdpYSBGw61zaWNhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYXVyZ3MtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVuZ2VuaGVpcm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjA4MDU=",
+    "orgao": "LAMEF - Laboratório de Metalurgia Física",
+    "link": "https://www.pciconcursos.com.br/noticias/faurgs-rs-abre-processo-seletivo-para-engenheiros-com-salarios-de-ate-20805",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "T0dNTy9SRyAtIMOTcmfDo28gR2VzdG9yIGRlIE3Do28gZGUgT2JyYSBkbyBUcmFiYWxobyBQb3J0dcOhcmlvIEF2dWxzbyBkbyBQb3J0byBPcmdhbml6YWRvIGRvIFJpbyBHcmFuZGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL29nbW8tcmctcnMtYWJyZS1zZWxlY2FvLWNvbS05MC12YWdhcy1wYXJhLWVzdGl2YWRvcg==",
     "orgao": "OGMO/RG - Órgão Gestor de Mão de Obra do Trabalho Portuário Avulso do Porto Organizado do Rio Grande",
     "link": "https://www.pciconcursos.com.br/noticias/ogmo-rg-rs-abre-selecao-com-90-vagas-para-estivador",
@@ -1048,6 +1078,21 @@
     "data_encerramento": "10/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Caiçara - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDw6JuZGlkbyBHb2TDs2lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZGlkby1nb2RvaS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWRlLWNvbWJhdGUtYXMtZW5kZW1pYXM=",
+    "orgao": "Prefeitura de Cândido Godói",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-godoi-rs-abre-processo-seletivo-para-agente-de-combate-as-endemias",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cândido Godói",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cândido Godói - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW5lbGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZWxhLXJzLWFicmUtY29uY3Vyc28tY29tLXJlbXVuZXJhY2FvLWRlLWF0ZS01MTMw",
@@ -1470,6 +1515,21 @@
     "localizacao": "Penha - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFBhcmHDrXNvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtcGFyYWlzby1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1jb250cm9sYWRvci1pbnRlcm5v",
+    "orgao": "Câmara de Vereadores de Paraíso",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-paraiso-sc-abre-concurso-publico-para-controlador-interno",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Paraíso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Paraíso - PR"
+  },
+  {
     "id": "Q2FzYSBMYXIgUGVxdWVubyBQcsOtbmNpcGUgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIFNlcnZpw6dvIFNvY2lvYXNzaXN0ZW5jaWFsIGRlIEFsdGEgQ29tcGxleGlkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zb3JjaW8tY2FzYS1sYXItcGVxdWVuby1wcmluY2lwZS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
     "orgao": "Casa Lar Pequeno Príncipe - Consórcio Intermunicipal de Serviço Socioassistencial de Alta Complexidade",
     "link": "https://www.pciconcursos.com.br/noticias/consorcio-casa-lar-pequeno-principe-sc-abre-concurso-para-cadastro-de-reserva",
@@ -1571,6 +1631,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "14/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SG9zcGl0YWwgTXVuaWNpcGFsIFNhbnRvIEFudMO0bmlvIGRlIExlYm9uIFLDqWdpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaG9zcGl0YWwtbXVuaWNpcGFsLXNhbnRvLWFudG9uaW8tZGUtbGVib24tcmVnaXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbQ==",
+    "orgao": "Hospital Municipal Santo Antônio de Lebon Régis",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-municipal-santo-antonio-de-lebon-regis-sc-abre-processo-seletivo-para-tecnico-em-enfermagem",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
