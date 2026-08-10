@@ -360,6 +360,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFVIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBEZXNlbnZvbHZpbWVudG8gZGEgVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRvIENlbnRyby1PZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmF1LXByLWFudW5jaWEtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtZGUtYXBvaW8tdGVjbmljby1hZG1pbmlzdHJhdGl2by1jdWx0dXJhbA==",
+    "orgao": "FAU - Fundação de Apoio ao Desenvolvimento da Universidade Estadual do Centro-Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/fau-pr-anuncia-processo-seletivo-para-agente-de-apoio-tecnico-administrativo-cultural",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXZpc2l0YW50ZS1lbS1lbmdlbmhhcmlhLWNpdmlsLW5vLWNhbXB1cy11bXVhcmFtYQ==",
     "orgao": "IFPR - Instituto Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-vaga-para-professor-visitante-em-engenharia-civil-no-campus-umuarama",
@@ -1305,6 +1320,21 @@
     "localizacao": "Triunfo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtcHNpY29sb2dvLWUtYXV4aWxpYXItZGUtY29uc3VsdG9yaW8tb2RvbnRvbG9naWNv",
+    "orgao": "Prefeitura de Vale do Sol",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-selecoes-para-psicologo-e-auxiliar-de-consultorio-odontologico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vale do Sol",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vale do Sol - PR"
+  },
+  {
     "id": "U0FQRSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEFncmljdWx0dXJhIGUgUGVjdcOhcmlhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYXBlLXNjLXJldGlmaWNhLWVkaXRhbC1kby1jb25jdXJzby1wdWJsaWNvLXBhcmEtYW5hbGlzdGEtdGVjbmljby1hZG1pbmlzdHJhdGl2by1paQ==",
     "orgao": "SAPE - Secretaria de Estado da Agricultura e Pecuária de Santa Catarina",
     "link": "https://www.pciconcursos.com.br/noticias/sape-sc-retifica-edital-do-concurso-publico-para-analista-tecnico-administrativo-ii",
@@ -1406,6 +1436,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "29/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "Q2VsZXNjIC0gQ2VsZXNjIERpc3RyaWJ1acOnw6NvIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NlbGVzYy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc29zLWNhcmdvcw==",
+    "orgao": "Celesc - Celesc Distribuição S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/celesc-sc-abre-concurso-publico-para-cadastro-de-reserva-em-diversos-cargos",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2066,6 +2111,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "27/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0NHw4FTIC0gQ29tcGFuaGlhIGRlIEfDoXMgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NjZ2FzLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtcGFyYS10ZWNuaWNvcy1kZS1nYXMtbmF0dXJhbA==",
+    "orgao": "SCGÁS - Companhia de Gás de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/scgas-sc-abre-concurso-publico-com-vagas-para-tecnicos-de-gas-natural",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
