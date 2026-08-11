@@ -1455,6 +1455,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q0lTQU1BIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBTZXJyYSBDYXRhcmluZW5zZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lzYW1hLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0zMDQ3LWVtLWxhZ2Vz",
+    "orgao": "CISAMA - Consórcio Intermunicipal Serra Catarinense",
+    "link": "https://www.pciconcursos.com.br/noticias/cisama-sc-abre-processo-seletivo-com-salarios-de-ate-3047-em-lages",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1pLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-de-enfermagem-i-em-florianopolis",
@@ -1920,6 +1935,21 @@
     "localizacao": "Painel - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE1MTI2",
+    "orgao": "Prefeitura de Paraíso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraiso-sc-abre-concurso-publico-com-salarios-de-ate-15126",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paraíso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paraíso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdHViYS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTQ3My04MA==",
     "orgao": "Prefeitura de Piratuba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratuba-sc-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-21473-80",
@@ -2070,6 +2100,21 @@
     "localizacao": "São José do Cedro - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRlIEFsY8OibnRhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLXBlZHJvLWRlLWFsY2FudGFyYS1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjQ2MA==",
+    "orgao": "Prefeitura de São Pedro de Alcântara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-de-alcantara-sc-abre-concurso-com-salarios-de-ate-6460",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro de Alcântara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro de Alcântara - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgSXR1cG9yYW5nYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWNhbWFyYS1kZS1pdHVwb3JhbmdhLXNjLWxhbmNhbS1xdWF0cm8tZWRpdGFpcy1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura e Câmara de Ituporanga",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-ituporanga-sc-lancam-quatro-editais-de-concurso-publico",
@@ -2156,6 +2201,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "10/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEwLW1pbA==",
+    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-com-salarios-de-ate-10-mil",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   }
