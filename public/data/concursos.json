@@ -375,6 +375,21 @@
     "localizacao": "Previdência dos Servidores Públicos de Matinhos - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBcHVjYXJhbmEsIEF1dGFycXVpYSBNdW5pY2lwYWwgZGUgRWR1Y2HDp8OjbyBlIEF1dGFycXVpYSBNdW5pY2lwYWwgZGUgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFwdWNhcmFuYS1wci1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLXNhbGFyaW9zLWRlLWF0ZS0xMTk1Nw==",
+    "orgao": "Prefeitura de Apucarana, Autarquia Municipal de Educação e Autarquia Municipal de Saúde",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apucarana-pr-abre-processos-seletivos-com-salarios-de-ate-11957",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Apucarana",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Apucarana - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyLWVtLWZhcm1hY2lh",
     "orgao": "Prefeitura de Balsa Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-auxiliar-em-farmacia",
@@ -1873,6 +1888,21 @@
     "data_encerramento": "17/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Joinville - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1saW5kb2lhLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
+    "orgao": "Prefeitura de Lindoia do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoia-do-sul-sc-abre-processo-seletivo-para-cadastro-de-reserva-de-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Lindoia do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lindoia do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIEVyZWNoaW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1lcmVjaGltLXNjLWxhbmNhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yNzQ2NQ==",
