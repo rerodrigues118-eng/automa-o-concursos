@@ -1,8 +1,8 @@
 [
   {
-    "id": "UENQUiAtIFBvbMOtY2lhIENpdmlsIGRvIEVzdGFkbyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLWNpdmlsLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tcmVtdW5lcmFjb2VzLWF0ZS0yNjg3Ng==",
+    "id": "UENQUiAtIFBvbMOtY2lhIENpdmlsIGRvIEVzdGFkbyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLWNpdmlsLXByLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTI2ODc2",
     "orgao": "PCPR - Polícia Civil do Estado do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/policia-civil-pr-abre-concurso-publico-com-remuneracoes-ate-26876",
+    "link": "https://www.pciconcursos.com.br/noticias/policia-civil-pr-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-26876",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Curitiba",
@@ -225,9 +225,9 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "REFUQVBSRVYgLSBFbXByZXNhIGRlIFRlY25vbG9naWEgZSBJbmZvcm1hw6fDtWVzIGRhIFByZXZpZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZGF0YXByZXYtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1kZS1uaXZlbC1zdXBlcmlvci1lbS1kaXZlcnNhcy1jaWRhZGVzLWRvLWJyYXNpbA==",
+    "id": "REFUQVBSRVYgLSBFbXByZXNhIGRlIFRlY25vbG9naWEgZSBJbmZvcm1hw6fDtWVzIGRhIFByZXZpZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZGF0YXByZXYtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItZW0tZGl2ZXJzYXMtY2lkYWRlcy1kby1icmFzaWw=",
     "orgao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
-    "link": "https://www.pciconcursos.com.br/noticias/dataprev-abre-concurso-publico-com-vagas-de-nivel-superior-em-diversas-cidades-do-brasil",
+    "link": "https://www.pciconcursos.com.br/noticias/dataprev-retifica-concurso-publico-com-vagas-de-nivel-superior-em-diversas-cidades-do-brasil",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -1740,6 +1740,21 @@
     "localizacao": "Bombinhas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCb3R1dmVyw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm90dXZlcmEtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWNvbXVuaXRhcmlvLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Botuverá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-botuvera-sc-abre-selecao-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Botuverá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Botuverá - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQyMjg=",
     "orgao": "Prefeitura de Braço do Norte",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-processo-seletivo-com-salarios-de-ate-4228",
@@ -1860,6 +1875,21 @@
     "localizacao": "Garuva - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYWNpYWJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhY2lhYmEtc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Guaraciaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaraciaba-sc-abre-processos-seletivos-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Guaraciaba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Guaraciaba - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFwaXJhbmdhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBpcmFuZ2Etc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
     "orgao": "Prefeitura de Itapiranga",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapiranga-sc-abre-selecao-para-cadastro-de-reserva-de-professores",
@@ -1873,6 +1903,21 @@
     "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itapiranga - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZGUtaW5nbGVz",
+    "orgao": "Prefeitura de Itapoá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-abre-processo-seletivo-para-professores-de-ingles",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itapoá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itapoá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1wcm9jZXNzby1zZWxldGl2bw==",
@@ -2055,6 +2100,21 @@
     "localizacao": "São Cristóvão do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb2FvLWRvLW9lc3RlLXNjLWFicmUtdmFnYS1wYXJhLXByb2Zlc3Nvci1kZS1lZHVjYWNhby1maXNpY2E=",
+    "orgao": "Prefeitura de São João do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-oeste-sc-abre-vaga-para-professor-de-educacao-fisica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São João do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São João do Oeste - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIENlZHJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3NlLWRvLWNlZHJvLXNjLWFicmUtY29uY3Vyc28tZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtODczMg==",
     "orgao": "Prefeitura de São José do Cedro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-cedro-sc-abre-concurso-e-processos-seletivos-com-salarios-de-ate-8732",
@@ -2083,6 +2143,36 @@
     "data_encerramento": "13/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Pedro de Alcântara - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de Tangará",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tangara-sc-publica-edital-de-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tangará",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tangará - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWaWRhbCBSYW1vc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12aWRhbC1yYW1vcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01NzYw",
+    "orgao": "Prefeitura de Vidal Ramos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vidal-ramos-sc-abre-concurso-publico-com-salarios-de-ate-5760",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vidal Ramos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vidal Ramos - PR"
   },
   {
     "id": "U0FORUZSQUkgLSBBdXRhcnF1aWEgTXVuaWNpcGFsIGRlIFNhbmVhbWVudG8gZGUgRnJhaWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYW5lZnJhaS1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtYWdlbnRlLW9wZXJhY2lvbmFsLWUtZW5nZW5oZWlyby1zYW5pdGFyaXN0YQ==",
