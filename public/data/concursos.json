@@ -1095,6 +1095,21 @@
     "localizacao": "Erechim - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODA1OA==",
+    "orgao": "Prefeitura de Estrela",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-rs-abre-concurso-publico-com-salarios-de-ate-8058",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Estrela",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Estrela - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWZvcm1hci1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Itaqui",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-abre-processos-seletivos-para-formar-cadastro-de-reserva",
@@ -1155,6 +1170,21 @@
     "localizacao": "Morro Reuter - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIENhbmRlbMOhcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtY2FuZGVsYXJpYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Nova Candelária",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-candelaria-rs-abre-processo-seletivo-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Candelária",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Candelária - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFNhbnRhIFJpdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1zYW50YS1yaXRhLXJzLWxhbmNhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWF0ZS00NTg3",
     "orgao": "Prefeitura de Nova Santa Rita",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-santa-rita-rs-lanca-concurso-publico-com-salarios-ate-4587",
@@ -1168,6 +1198,36 @@
     "data_encerramento": "17/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Santa Rita - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lbmdlbmhlaXJvLWNpdmls",
+    "orgao": "Prefeitura de Palmares do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-processo-seletivo-para-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palmares do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palmares do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFyYWktcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlcy1jb211bml0YXJpb3MtZGUtc2F1ZGU=",
+    "orgao": "Prefeitura de Paraí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-parai-rs-abre-selecao-para-agentes-comunitarios-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paraí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paraí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFyYWlzby1kby1zdWwtcnMtYWJyZS12YWdhLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtaW5zdGFsYWRvci1oaWRyYXVsaWNv",
@@ -1185,6 +1245,21 @@
     "localizacao": "Paraíso do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXNzbyBGdW5kb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXNzby1mdW5kby1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtcHJvZmlzc2lvbmFpcy1kYS1zYXVkZQ==",
+    "orgao": "Prefeitura de Passo Fundo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-fundo-rs-abre-selecoes-para-profissionais-da-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Passo Fundo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Passo Fundo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtby1jYXJnby1kZS1jb3ppbmhlaXJv",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-o-cargo-de-cozinheiro",
@@ -1196,6 +1271,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "14/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pelotas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtb3BlcmFkb3ItZGUtc2Vydmljb3MtcG9zdGFpcw==",
+    "orgao": "Prefeitura de Pelotas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-operador-de-servicos-postais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pelotas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pelotas - PR"
   },
@@ -1533,6 +1623,21 @@
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1kZS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWktcGNkLW5vLWhlbW9zYy1kZS1mbG9yaWFub3BvbGlz",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-de-assistente-administrativo-i-pcd-no-hemosc-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWRpdnVsZ2EtcHJvY2Vzc29zLXNlbGV0aXZvcy1jb20tdmFnYXMtcGFyYS1vLWNlcG9uLWRlLWZsb3JpYW5vcG9saXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-divulga-processos-seletivos-com-vagas-para-o-cepon-de-florianopolis",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -2023,6 +2128,21 @@
     "data_encerramento": "11/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Massaranduba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNb25kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vbmRhaS1zYy1hYnJlLWVkaXRhaXMtcGFyYS1jb25jdXJzb3MtZS1wcm9jZXNzby1zZWxldGl2by1jb20tZGl2ZXJzYXMtdmFnYXM=",
+    "orgao": "Prefeitura de Mondaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mondai-sc-abre-editais-para-concursos-e-processo-seletivo-com-diversas-vagas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mondaí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mondaí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIEVyZWNoaW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1lcmVjaGltLXNjLWxhbmNhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yNzQ2NQ==",
