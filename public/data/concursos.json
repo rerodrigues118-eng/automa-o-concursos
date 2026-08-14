@@ -915,6 +915,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBDYXDDo28gZG8gTGXDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1jYXBhby1kby1sZWFvLXJzLXJldG9tYS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYXNzaXN0ZW50ZS1sZWdpc2xhdGl2by1lLWNvbnRhZG9y",
+    "orgao": "Câmara de Capão do Leão",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-capao-do-leao-rs-retoma-concurso-publico-para-assistente-legislativo-e-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Capão do Leão",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capão do Leão - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtc2lsdmVpcmEtbWFydGlucy1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vZmljaWFsLWFkbWluaXN0cmF0aXZv",
     "orgao": "Câmara de Silveira Martins",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-silveira-martins-rs-abre-concurso-publico-para-oficial-administrativo",
@@ -1063,6 +1078,21 @@
     "data_encerramento": "02/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canudos do Vale - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gQm9uaXRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBhby1ib25pdG8tZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbQ==",
+    "orgao": "Prefeitura de Capão Bonito do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capao-bonito-do-sul-rs-abre-selecao-para-tecnico-em-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Capão Bonito do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capão Bonito do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1lbS1lbmZlcm1hZ2Vt",
@@ -1303,6 +1333,21 @@
     "data_encerramento": "14/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pinhal Grande - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSZWx2YWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJlbHZhZG8tcnMtYWJyZS1jb25jdXJzby1wYXJhLWRpdmVyc29zLWNhcmdvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTgyOTc=",
+    "orgao": "Prefeitura de Relvado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-relvado-rs-abre-concurso-para-diversos-cargos-com-salarios-de-ate-8297",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Relvado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Relvado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBSb3NhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXJvc2EtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yZXM=",
@@ -1631,6 +1676,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "16/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1pLWVtLWxhZ2Vz",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-tecnico-de-enfermagem-i-em-lages",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1zYXVkZS1lbS1jcmljaXVtYS1lLWJsdW1lbmF1",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-profissionais-de-saude-em-criciuma-e-blumenau",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1980,6 +2055,21 @@
     "localizacao": "Fraiburgo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGcmVpIFJvZ8OpcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWZyZWktcm9nZXJpby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMzY2MTk=",
+    "orgao": "Prefeitura de Frei Rogério",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-frei-rogerio-sc-abre-processo-seletivo-com-salarios-de-ate-36619",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Frei Rogério",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Frei Rogério - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHYXJ1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FydXZhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZXJhcGV1dGEtb2N1cGFjaW9uYWwtZS1mb25vYXVkaW9sb2dv",
     "orgao": "Prefeitura de Garuva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garuva-sc-abre-processo-seletivo-para-terapeuta-ocupacional-e-fonoaudiologo",
@@ -2141,6 +2231,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Paraíso - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtdmFnYXMtZW0tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tb3RvcmlzdGFz",
+    "orgao": "Prefeitura de Paraíso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraiso-sc-abre-vagas-em-processo-seletivo-para-motoristas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Paraíso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Paraíso - PR"
   },
