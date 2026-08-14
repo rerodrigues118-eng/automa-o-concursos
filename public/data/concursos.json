@@ -1005,21 +1005,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "TEFNRUYgLSBMYWJvcmF0w7NyaW8gZGUgTWV0YWx1cmdpYSBGw61zaWNhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYXVyZ3MtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVuZ2VuaGVpcm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjA4MDU=",
-    "orgao": "LAMEF - Laboratório de Metalurgia Física",
-    "link": "https://www.pciconcursos.com.br/noticias/faurgs-rs-abre-processo-seletivo-para-engenheiros-com-salarios-de-ate-20805",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSDDgWd1YSBTYW50YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hZ3VhLXNhbnRhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wc2ljb2xvZ28tZS1vcGVyYWRvci1kZS1tYXF1aW5hcw==",
     "orgao": "Prefeitura de Água Santa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agua-santa-rs-abre-processo-seletivo-para-psicologo-e-operador-de-maquinas",
@@ -1048,21 +1033,6 @@
     "data_encerramento": "15/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Cachoeira do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDw6JuZGlkbyBHb2TDs2lodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZGlkby1nb2RvaS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYWdlbnRlLWRlLWNvbWJhdGUtYXMtZW5kZW1pYXM=",
-    "orgao": "Prefeitura de Cândido Godói",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-godoi-rs-abre-processo-seletivo-para-agente-de-combate-as-endemias",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cândido Godói",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cândido Godói - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW51ZG9zIGRvIFZhbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FudWRvcy1kby12YWxlLXJzLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
@@ -1168,21 +1138,6 @@
     "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itaqui - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNYXJpYW5hIFBpbWVudGVsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcmlhbmEtcGltZW50ZWwtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
-    "orgao": "Prefeitura de Mariana Pimentel",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mariana-pimentel-rs-abre-processos-seletivos-com-vagas-imediatas-e-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Mariana Pimentel",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Mariana Pimentel - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXRvIFF1ZWltYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hdG8tcXVlaW1hZG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXNlcnZlbnRl",
@@ -1440,21 +1395,6 @@
     "localizacao": "Três Coroas - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtcHNpY29sb2dvLWUtYXV4aWxpYXItZGUtY29uc3VsdG9yaW8tb2RvbnRvbG9naWNv",
-    "orgao": "Prefeitura de Vale do Sol",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-selecoes-para-psicologo-e-auxiliar-de-consultorio-odontologico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vale do Sol",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vale do Sol - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUmVkZW50b3JhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLXJlZGVudG9yYS1ycy1hYnJlbS1lZGl0YWlzLWRlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "Prefeitura e Câmara de Redentora",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-redentora-rs-abrem-editais-de-concurso-e-processo-seletivo",
@@ -1513,21 +1453,6 @@
     "data_encerramento": "25/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Blumenau - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBMaW5kw7NpYSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1saW5kb2lhLWRvLXN1bC1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YS1hZG1pbmlzdHJhdGl2by1lLWNvbnRhZG9y",
-    "orgao": "Câmara de Lindóia do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-lindoia-do-sul-rs-abre-concurso-publico-para-analista-administrativo-e-contador",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Lindóia do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lindóia do Sul - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBQZW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBlbmhhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
@@ -1631,36 +1556,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "14/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbS1pLWVtLWJsdW1lbmF1",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-em-enfermagem-i-em-blumenau",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZWNuaWNvLWVtLWVuZmVybWFnZW0tZW0tYmx1bWVuYXU=",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-em-enfermagem-em-blumenau",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1905,21 +1800,6 @@
     "localizacao": "Arabutã - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCYWxuZcOhcmlvIFBpw6dhcnJhc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWxuZWFyaW8tcGljYXJyYXMtc2MtYWJyZS1jb25jdXJzby1wYXJhLWEtZ3VhcmRhLW11bmljaXBhbA==",
-    "orgao": "Prefeitura de Balneário Piçarras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-picarras-sc-abre-concurso-para-a-guarda-municipal",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Balneário Piçarras",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Balneário Piçarras - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxuZcOhcmlvIFBpw6dhcnJhc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWxuZWFyaW8tcGljYXJyYXMtc2MtYWJyZS1jb25jdXJzb3MtZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTIyOTM2",
     "orgao": "Prefeitura de Balneário Piçarras",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-picarras-sc-abre-concursos-e-processo-seletivo-com-salarios-de-ate-22936",
@@ -1933,21 +1813,6 @@
     "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Balneário Piçarras - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBCb25pdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmEtYm9uaXRhLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kZS1jb21iYXRlLWEtZW5kZW1pYXMtZS1hdXhpbGlhci1kZS1jb25zdWx0b3Jpby1vZG9udG9sb2dpY28=",
-    "orgao": "Prefeitura de Barra Bonita",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-bonita-sc-abre-selecao-para-agente-de-combate-a-endemias-e-auxiliar-de-consultorio-odontologico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barra Bonita",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barra Bonita - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCZWxtb250ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iZWxtb250ZS1zYy1wdWJsaWNhLWVkaXRhaXMtZGUtY29uY3Vyc28tZS1wcm9jZXNzby1zZWxldGl2by1jb20tZGl2ZXJzYXMtdmFnYXM=",
@@ -2098,21 +1963,6 @@
     "data_encerramento": "24/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Cunha Porã - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBEZXNjYW5zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1kZXNjYW5zby1zYy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3Jlcy1kZS1zZXJpZXMtaW5pY2lhaXM=",
-    "orgao": "Prefeitura de Descanso",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-descanso-sc-abre-selecao-para-professores-de-series-iniciais",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Descanso",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Descanso - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYXJnb3MtZGUtbml2ZWwtZnVuZGFtZW50YWwtZS1zdXBlcmlvcg==",
@@ -2310,21 +2160,6 @@
     "localizacao": "Piratuba - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kby1zdWwtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWd1YXJkYS1tdW5pY2lwYWw=",
-    "orgao": "Prefeitura de Rio do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-sul-sc-abre-concurso-publico-com-vagas-para-guarda-municipal",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JpbmhvLXNjLWFicmUtc2VsZWNhby1wYXJhLW1lZGljby1wc2lxdWlhdHJh",
     "orgao": "Prefeitura de Rio Negrinho",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-abre-selecao-para-medico-psiquiatra",
@@ -2383,21 +2218,6 @@
     "data_encerramento": "03/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santa Helena - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIENyaXN0w7N2w6NvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tY3Jpc3RvdmFvLWRvLXN1bC1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA5OTk=",
-    "orgao": "Prefeitura de São Cristóvão do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-cristovao-do-sul-sc-abre-concurso-com-salarios-de-ate-10999",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Cristóvão do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Cristóvão do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb2FvLWRvLW9lc3RlLXNjLWFicmUtdmFnYS1wYXJhLXByb2Zlc3Nvci1kZS1lZHVjYWNhby1maXNpY2E=",
