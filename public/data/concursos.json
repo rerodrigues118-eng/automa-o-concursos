@@ -1,5 +1,20 @@
 [
   {
+    "id": "VEpQUiAtIFRyaWJ1bmFsIGRlIEp1c3Rpw6dhIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyaWJ1bmFsLWRlLWp1c3RpY2EtZG8tcGFyYW5hLWFicmUtY29uY3Vyc28tcGFyYS1vLWNhcmdvLWRlLWNvbnRhZG9y",
+    "orgao": "TJPR - Tribunal de Justiça do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/tribunal-de-justica-do-parana-abre-concurso-para-o-cargo-de-contador",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "UENQUiAtIFBvbMOtY2lhIENpdmlsIGRvIEVzdGFkbyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wb2xpY2lhLWNpdmlsLXByLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTI2ODc2",
     "orgao": "PCPR - Polícia Civil do Estado do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/policia-civil-pr-retifica-edital-de-concurso-publico-com-remuneracoes-de-ate-26876",
@@ -825,6 +840,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcy1jb2xhYm9yYWRvcmVz",
+    "orgao": "UEM - Universidade Estadual de Maringá",
+    "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-processo-seletivo-com-vagas-para-professores-colaboradores",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGVzLXVuaXZlcnNpdGFyaW9z",
     "orgao": "UENP - Universidade Estadual do Norte do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-processo-seletivo-para-agentes-universitarios",
@@ -1110,6 +1140,21 @@
     "localizacao": "Erechim - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXNlbGVjYW8tY29tLXZhZ2EtcGFyYS1lbGV0cmljaXN0YQ==",
+    "orgao": "Prefeitura de Espumoso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-selecao-com-vaga-para-eletricista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Espumoso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Espumoso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODA1OA==",
     "orgao": "Prefeitura de Estrela",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-rs-abre-concurso-publico-com-salarios-de-ate-8058",
@@ -1136,6 +1181,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Guarani das Missões - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW5pIGRhcyBNaXNzw7Vlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFyYW5pLWRhcy1taXNzb2VzLXJzLWFicmUtdmFnYXMtcGFyYS1tb25pdG9yZXMtZGUtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Guarani das Missões",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarani-das-missoes-rs-abre-vagas-para-monitores-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Guarani das Missões",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guarani das Missões - PR"
   },
@@ -1393,6 +1453,21 @@
     "data_encerramento": "04/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tapera - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9yb3BpLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTg5MDA=",
+    "orgao": "Prefeitura de Toropi",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toropi-rs-abre-concurso-publico-com-salarios-de-ate-8900",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Toropi",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Toropi - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9ycmVzLXJzLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
