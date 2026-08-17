@@ -315,6 +315,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBGbG9yZXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWZsb3Jlc3RhLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3RhLWUtdGVjbmljby1sZWdpc2xhdGl2b3M=",
+    "orgao": "Câmara de Floresta",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-floresta-pr-abre-concurso-publico-para-analista-e-tecnico-legislativos",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Floresta",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Floresta - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBKYWd1YXJpYcOtdmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1qYWd1YXJpYWl2YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXJlbXVuZXJhY29lcy1kZS1hdGUtMTE1ODg=",
     "orgao": "Câmara de Jaguariaíva",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-jaguariaiva-pr-abre-concurso-publico-com-remuneracoes-de-ate-11588",
@@ -630,6 +645,21 @@
     "localizacao": "Paula Freitas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQZXJvYmFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlcm9iYWwtcHItYWJyZS1jb25jdXJzb3MtcGFyYS1kaXZlcnNvcy1jYXJnb3MtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Perobal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-perobal-pr-abre-concursos-para-diversos-cargos-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Perobal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Perobal - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQb250YSBHcm9zc2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9udGEtZ3Jvc3NhLXByLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZG8tY29uY3Vyc28tcHVibGljbw==",
     "orgao": "Prefeitura de Ponta Grossa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ponta-grossa-pr-divulga-retificacao-do-concurso-publico",
@@ -748,6 +778,21 @@
     "data_encerramento": "19/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Umuarama - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIFRhbWFyYW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhbWFyYW5hLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTg3NTI=",
+    "orgao": "Prefeitura do Município de Tamarana",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamarana-pr-abre-concurso-publico-com-salarios-de-ate-8752",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Município de Tamarana",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Município de Tamarana - PR"
   },
   {
     "id": "U0VFRCAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEVkdWNhw6fDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlZWQtcHItcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWUtcGVkYWdvZ29z",
