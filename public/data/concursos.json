@@ -255,9 +255,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "REVQQSAtIERpcmV0b3JpYSBkZSBFZHVjYcOnw6NvIFByZXBhcmF0w7NyaWEgZSBBc3Npc3RlbmNpYWwgKEV4w6lyY2l0bylodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2RlY2V4LWJyYXNpbC1zZWxlY2FvLXBhcmEtY29sZWdpb3MtbWlsaXRhcmVzLWFicmUtdmFnYXMtZW0tZGl2ZXJzYXMtY2lkYWRlcw==",
+    "id": "REVQQSAtIERpcmV0b3JpYSBkZSBFZHVjYcOnw6NvIFByZXBhcmF0w7NyaWEgZSBBc3Npc3RlbmNpYWwgKEV4w6lyY2l0bylodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2RlY2V4LWJyYXNpbC1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY29sZWdpb3MtbWlsaXRhcmVz",
     "orgao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
-    "link": "https://www.pciconcursos.com.br/noticias/decex-brasil-selecao-para-colegios-militares-abre-vagas-em-diversas-cidades",
+    "link": "https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -465,9 +465,9 @@
     "localizacao": "Cianorte - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDb250ZW5kYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb250ZW5kYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01MjE5",
+    "id": "UHJlZmVpdHVyYSBkZSBDb250ZW5kYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb250ZW5kYS1wci1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTUyMTk=",
     "orgao": "Prefeitura de Contenda",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contenda-pr-abre-concurso-publico-com-salarios-de-ate-5219",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contenda-pr-retifica-edital-de-concurso-publico-com-salarios-de-ate-5219",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Contenda",
@@ -480,9 +480,9 @@
     "localizacao": "Contenda - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIFZpdmlkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLXZpdmlkYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTUyNQ==",
+    "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIFZpdmlkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLXZpdmlkYS1wci1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIxNTI1",
     "orgao": "Prefeitura de Coronel Vivida",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-vivida-pr-abre-concurso-publico-com-salarios-de-ate-21525",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-vivida-pr-retifica-edital-de-concurso-publico-com-salarios-de-ate-21525",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Coronel Vivida",
@@ -705,9 +705,9 @@
     "localizacao": "Quitandinha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gQWxlZ3JlIEQnT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLWFsZWdyZS1kb2VzdGUtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQzMjI=",
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gQWxlZ3JlIEQnT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLWFsZWdyZS1kb2VzdGUtcHItcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNDMyMg==",
     "orgao": "Prefeitura de Rancho Alegre D'Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-alegre-doeste-pr-abre-concurso-publico-com-salarios-de-ate-14322",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-alegre-doeste-pr-retifica-edital-de-concurso-publico-com-salarios-de-ate-14322",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Rancho Alegre",
@@ -1020,6 +1020,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFVUkdTIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBkYSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmF1cmdzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2EtcGFyYS10ZWNuaWNvLWVtLXVzaW5hZ2VtLWk=",
+    "orgao": "FAURGS - Fundação de Apoio da Universidade Federal do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/faurgs-rs-abre-processo-seletivo-com-vaga-para-tecnico-em-usinagem-i",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkhHViAtIEZ1bmRhw6fDo28gSG9zcGl0YWxhciBHZXTDumxpbyBWYXJnYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZoZ3YtcG9ydG8tYWxlZ3JlLXJzLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tYXV4aWxpYXItZGUtcmVndWxhY2FvLW1lZGljYQ==",
     "orgao": "FHGV - Fundação Hospitalar Getúlio Vargas",
     "link": "https://www.pciconcursos.com.br/noticias/fhgv-porto-alegre-rs-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica",
@@ -1033,6 +1048,21 @@
     "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCb20gUmV0aXJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ib20tcmV0aXJvLWRvLXN1bC1ycy1hYnJlLXNlbGVjYW8tcGFyYS1zZXJ2aWNvcy1nZXJhaXM=",
+    "orgao": "Prefeitura de Bom Retiro do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-do-sul-rs-abre-selecao-para-servicos-gerais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bom Retiro do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bom Retiro do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYWNob2VpcmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNhY2hvZWlyYS1kby1zdWwtcnMtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTE5NTM1",
@@ -1123,6 +1153,21 @@
     "data_encerramento": "18/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Estrela - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGYXJyb3VwaWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mYXJyb3VwaWxoYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Farroupilha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-farroupilha-rs-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Farroupilha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Farroupilha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW5pIGRhcyBNaXNzw7Vlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFyYW5pLWRhcy1taXNzb2VzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tb25pdG9yLWRlLWVkdWNhY2Fv",
@@ -1305,6 +1350,21 @@
     "localizacao": "Relvado - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBDcnV6IGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YS1jcnV6LWRvLXN1bC1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtaW5mb3JtYXRpY2E=",
+    "orgao": "Prefeitura de Santa Cruz do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-cruz-do-sul-rs-abre-selecao-para-professor-de-informatica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Cruz do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Cruz do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbHZlaXJhLW1hcnRpbnMtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1lLW1hbnRlbS1wcm9jZXNzby1zZWxldGl2by1pbmFsdGVyYWRv",
     "orgao": "Prefeitura de Silveira Martins",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-silveira-martins-rs-retifica-concurso-publico-e-mantem-processo-seletivo-inalterado",
@@ -1485,9 +1545,9 @@
     "localizacao": "Vereadores de Paraíso - PR"
   },
   {
-    "id": "Q2FzYSBMYXIgUGVxdWVubyBQcsOtbmNpcGUgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIFNlcnZpw6dvIFNvY2lvYXNzaXN0ZW5jaWFsIGRlIEFsdGEgQ29tcGxleGlkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zb3JjaW8tY2FzYS1sYXItcGVxdWVuby1wcmluY2lwZS1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "id": "Q2FzYSBMYXIgUGVxdWVubyBQcsOtbmNpcGUgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIFNlcnZpw6dvIFNvY2lvYXNzaXN0ZW5jaWFsIGRlIEFsdGEgQ29tcGxleGlkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zb3JjaW8tY2FzYS1sYXItcGVxdWVuby1wcmluY2lwZS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
     "orgao": "Casa Lar Pequeno Príncipe - Consórcio Intermunicipal de Serviço Socioassistencial de Alta Complexidade",
-    "link": "https://www.pciconcursos.com.br/noticias/consorcio-casa-lar-pequeno-principe-sc-abre-concurso-para-cadastro-de-reserva",
+    "link": "https://www.pciconcursos.com.br/noticias/consorcio-casa-lar-pequeno-principe-sc-divulga-retificacao-de-concurso-para-cadastro-de-reserva",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -2055,9 +2115,9 @@
     "localizacao": "Paraíso - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdHViYS1zYy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTMzMg==",
+    "id": "UHJlZmVpdHVyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdHViYS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLXByb2Nlc3NvLXNlbGV0aXZv",
     "orgao": "Prefeitura de Piratuba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratuba-sc-abre-processos-seletivos-com-salarios-de-ate-15332",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratuba-sc-divulga-retificacao-de-processo-seletivo",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Piratuba",
