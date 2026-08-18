@@ -240,6 +240,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "VHJhbnNwZXRybyAtIFBldHJvYnJhcyBUcmFuc3BvcnRlIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyYW5zcGV0cm8tcHVibGljYS1lZGl0YWlzLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
+    "orgao": "Transpetro - Petrobras Transporte S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "REFUQVBSRVYgLSBFbXByZXNhIGRlIFRlY25vbG9naWEgZSBJbmZvcm1hw6fDtWVzIGRhIFByZXZpZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZGF0YXByZXYtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItZW0tZGl2ZXJzYXMtY2lkYWRlcy1kby1icmFzaWw=",
     "orgao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
     "link": "https://www.pciconcursos.com.br/noticias/dataprev-retifica-concurso-publico-com-vagas-de-nivel-superior-em-diversas-cidades-do-brasil",
@@ -266,21 +281,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "VHJhbnNwZXRybyAtIFBldHJvYnJhcyBUcmFuc3BvcnRlIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyYW5zcGV0cm8tcHVibGljYS1lZGl0YWlzLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
-    "orgao": "Transpetro - Petrobras Transporte S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
