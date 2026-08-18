@@ -255,6 +255,36 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "QWdTVVMgLSBBZ8OqbmNpYSBCcmFzaWxlaXJhIGRlIEFwb2lvIMOgIEdlc3TDo28gZG8gU1VTaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ3N1cy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YS1uby1wcm9qZXRvLXNlc210",
+    "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+    "link": "https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "QWdTVVMgLSBBZ8OqbmNpYSBCcmFzaWxlaXJhIGRlIEFwb2lvIMOgIEdlc3TDo28gZG8gU1VTaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ3N1cy1hYnJlLXNlbGVjYW8tcGFyYS1wc2ljb2xvZ28tY29tLXJlbXVuZXJhY2FvLWRlLTg4MDA=",
+    "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
+    "link": "https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remuneracao-de-8800",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "REFUQVBSRVYgLSBFbXByZXNhIGRlIFRlY25vbG9naWEgZSBJbmZvcm1hw6fDtWVzIGRhIFByZXZpZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZGF0YXByZXYtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtZGUtbml2ZWwtc3VwZXJpb3ItZW0tZGl2ZXJzYXMtY2lkYWRlcy1kby1icmFzaWw=",
     "orgao": "DATAPREV - Empresa de Tecnologia e Informações da Previdência",
     "link": "https://www.pciconcursos.com.br/noticias/dataprev-retifica-concurso-publico-com-vagas-de-nivel-superior-em-diversas-cidades-do-brasil",
@@ -1260,6 +1290,21 @@
     "localizacao": "Nova Candelária - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFBldHLDs3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcGV0cm9wb2xpcy1ycy1hYnJlLXZhZ2FzLXBhcmEtZGl2ZXJzb3Mtbml2ZWlzLWRlLWVzY29sYXJpZGFkZQ==",
+    "orgao": "Prefeitura de Nova Petrópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-petropolis-rs-abre-vagas-para-diversos-niveis-de-escolaridade",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Petrópolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Petrópolis - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lbmdlbmhlaXJvLWNpdmls",
     "orgao": "Prefeitura de Palmares do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-processo-seletivo-para-engenheiro-civil",
@@ -1350,6 +1395,21 @@
     "localizacao": "Santa Cruz do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YW5hIGRhIEJvYSBWaXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YW5hLWRhLWJvYS12aXN0YS1ycy1hYnJlLXZhZ2EtcGFyYS1tZWRpY28tZGEtZXNmLWlp",
+    "orgao": "Prefeitura de Santana da Boa Vista",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-da-boa-vista-rs-abre-vaga-para-medico-da-esf-ii",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santana da Boa Vista",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santana da Boa Vista - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbHZlaXJhLW1hcnRpbnMtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1lLW1hbnRlbS1wcm9jZXNzby1zZWxldGl2by1pbmFsdGVyYWRv",
     "orgao": "Prefeitura de Silveira Martins",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-silveira-martins-rs-retifica-concurso-publico-e-mantem-processo-seletivo-inalterado",
@@ -1438,6 +1498,21 @@
     "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Três Coroas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Vale do Sol",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vale do Sol",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vale do Sol - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUmVkZW50b3JhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLXJlZGVudG9yYS1ycy1hYnJlbS1lZGl0YWlzLWRlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
@@ -1586,6 +1661,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "04/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbS1pLW5vLWhlbW9zYy1kZS1mbG9yaWFub3BvbGlz",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-em-enfermagem-i-no-hemosc-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS10ZWNuaWNvLWF1eGlsaWFyLWRlLXJlZ3VsYWNhby1tZWRpY2EtZW0tY2hhcGVjbw==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-tecnico-auxiliar-de-regulacao-medica-em-chapeco",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1918,6 +2023,21 @@
     "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itapoá - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLXByb3Jyb2dhLWluc2NyaWNvZXMtcGFyYS1vLXByb2Nlc3NvLXNlbGV0aXZvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "Prefeitura de Joinville",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-prorroga-inscricoes-para-o-processo-seletivo-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Joinville",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Joinville - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1saW5kb2lhLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
