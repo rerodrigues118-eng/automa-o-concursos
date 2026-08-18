@@ -285,21 +285,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLXJldGlmaWNhLWNvbmN1cnNvcy1jb20tdmFnYXMtcGFyYS1hZ2VudGVzLXVuaXZlcnNpdGFyaW9zLWRlLWV4ZWN1Y2FvLWUtcHJvZmlzc2lvbmFpcw==",
-    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-retifica-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "QUdFUEFSIC0gQWfDqm5jaWEgUmVndWxhZG9yYSBkZSBTZXJ2acOnb3MgUMO6YmxpY29zIERlbGVnYWRvcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ2VwYXItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWVzcGVjaWFsaXN0YXMtZW0tcmVndWxhY2Fv",
     "orgao": "AGEPAR - Agência Reguladora de Serviços Públicos Delegados do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/agepar-pr-abre-concurso-publico-com-vagas-para-especialistas-em-regulacao",
@@ -855,6 +840,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLXJldGlmaWNhLWNvbmN1cnNvcy1jb20tdmFnYXMtcGFyYS1hZ2VudGVzLXVuaXZlcnNpdGFyaW9zLWRlLWV4ZWN1Y2FvLWUtcHJvZmlzc2lvbmFpcw==",
+    "orgao": "UENP - Universidade Estadual do Norte do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-retifica-concursos-com-vagas-para-agentes-universitarios-de-execucao-e-profissionais",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VUVOUCAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBOb3J0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW5wLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGVzLXVuaXZlcnNpdGFyaW9z",
     "orgao": "UENP - Universidade Estadual do Norte do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/uenp-pr-abre-processo-seletivo-para-agentes-universitarios",
@@ -1230,21 +1230,6 @@
     "localizacao": "Itaqui - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNYXRvIFF1ZWltYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hdG8tcXVlaW1hZG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXNlcnZlbnRl",
-    "orgao": "Prefeitura de Mato Queimado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mato-queimado-rs-abre-processo-seletivo-para-servente",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Mato Queimado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Mato Queimado - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZXV0ZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9ycm8tcmV1dGVyLXJzLWFicmUtc2VsZWNhby1wYXJhLW9wZXJhcmlv",
     "orgao": "Prefeitura de Morro Reuter",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-reuter-rs-abre-selecao-para-operario",
@@ -1273,21 +1258,6 @@
     "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Candelária - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFNhbnRhIFJpdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1zYW50YS1yaXRhLXJzLWxhbmNhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWF0ZS00NTg3",
-    "orgao": "Prefeitura de Nova Santa Rita",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-santa-rita-rs-lanca-concurso-publico-com-salarios-ate-4587",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Nova Santa Rita",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Nova Santa Rita - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lbmdlbmhlaXJvLWNpdmls",
@@ -1620,21 +1590,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1zYXVkZS1lbS1jcmljaXVtYS1lLWJsdW1lbmF1",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-profissionais-de-saude-em-criciuma-e-blumenau",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RlVOQkFNQSAtIEZ1bmRhw6fDo28gZG8gTWVpbyBBbWJpZW50ZSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Z1bmJhbWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZW5nZW5oZWlyby1jaXZpbA==",
     "orgao": "FUNBAMA - Fundação do Meio Ambiente de Braço do Norte",
     "link": "https://www.pciconcursos.com.br/noticias/funbama-sc-abre-processo-seletivo-para-o-cargo-de-engenheiro-civil",
@@ -1691,36 +1646,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZTQyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZzYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vLWNhcmdvLWRlLXByb2Zlc3Nvci1lYnR0LWVtLWRpdmVyc29zLWNhbXBp",
-    "orgao": "IFSC - Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsc-abre-concurso-publico-para-o-cargo-de-professor-ebtt-em-diversos-campi",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZTQyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkZSBTYW50YSBDYXRhcmluYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZzYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1jYXJnb3MtZGUtdGVjbmljb3MtYWRtaW5pc3RyYXRpdm9zLWVtLWVkdWNhY2Fv",
-    "orgao": "IFSC - Instituto Federal de Educação, Ciência e Tecnologia de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsc-abre-concurso-publico-para-cargos-de-tecnicos-administrativos-em-educacao",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1950,21 +1875,6 @@
     "localizacao": "Frei Rogério - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBHYXJ1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FydXZhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZXJhcGV1dGEtb2N1cGFjaW9uYWwtZS1mb25vYXVkaW9sb2dv",
-    "orgao": "Prefeitura de Garuva",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garuva-sc-abre-processo-seletivo-para-terapeuta-ocupacional-e-fonoaudiologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Garuva",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Garuva - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYWNpYWJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhY2lhYmEtc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
     "orgao": "Prefeitura de Guaraciaba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaraciaba-sc-abre-processos-seletivos-para-formacao-de-cadastro-de-reserva",
@@ -2008,21 +1918,6 @@
     "data_encerramento": "20/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itapoá - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1wcm9jZXNzby1zZWxldGl2bw==",
-    "orgao": "Prefeitura de Joinville",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-retifica-edital-de-processo-seletivo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Joinville",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Joinville - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1saW5kb2lhLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
@@ -2083,21 +1978,6 @@
     "data_encerramento": "10/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Erechim - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQYWluZWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFpbmVsLXNjLWFicmUtdmFnYXMtZW0tY29uY3Vyc28tZS1wcm9jZXNzb3Mtc2VsZXRpdm9z",
-    "orgao": "Prefeitura de Painel",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-painel-sc-abre-vagas-em-concurso-e-processos-seletivos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Painel",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Painel - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE1MTI2",
