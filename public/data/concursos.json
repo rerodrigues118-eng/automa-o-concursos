@@ -1275,6 +1275,21 @@
     "localizacao": "Itaqui - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNb250ZSBBbGVncmUgZG9zIENhbXBvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tb250ZS1hbGVncmUtZG9zLWNhbXBvcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHNpY29sb2dv",
+    "orgao": "Prefeitura de Monte Alegre dos Campos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-dos-campos-rs-abre-processo-seletivo-para-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Monte Alegre dos Campos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Monte Alegre dos Campos - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBSZXV0ZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9ycm8tcmV1dGVyLXJzLWFicmUtc2VsZWNhby1wYXJhLW9wZXJhcmlv",
     "orgao": "Prefeitura de Morro Reuter",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-reuter-rs-abre-selecao-para-operario",
@@ -1528,6 +1543,21 @@
     "data_encerramento": "11/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Redentora - PR"
+  },
+  {
+    "id": "VUZSR1MgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdWZyZ3MtcnMtYWJyZS1jb25jdXJzby1jb20tMjAtdmFnYXMtcGFyYS1wcm9mZXNzb3ItZG8tbWFnaXN0ZXJpby1zdXBlcmlvcg==",
+    "orgao": "UFRGS - Universidade Federal do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/ufrgs-rs-abre-concurso-com-20-vagas-para-professor-do-magisterio-superior",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "U0FQRSAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEFncmljdWx0dXJhIGUgUGVjdcOhcmlhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYXBlLXNjLXJldGlmaWNhLWVkaXRhbC1kby1jb25jdXJzby1wdWJsaWNvLXBhcmEtYW5hbGlzdGEtdGVjbmljby1hZG1pbmlzdHJhdGl2by1paQ==",
@@ -1920,6 +1950,21 @@
     "localizacao": "Braço do Norte - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYWxtb25odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FsbW9uLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTczMTQ=",
+    "orgao": "Prefeitura de Calmon",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-calmon-sc-abre-concurso-publico-com-salarios-de-ate-7314",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Calmon",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Calmon - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLW1vdG9yaXN0YQ==",
     "orgao": "Prefeitura de Campos Novos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-processo-seletivo-para-o-cargo-de-motorista",
@@ -2128,6 +2173,21 @@
     "data_encerramento": "10/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Erechim - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFRyZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZhLXRyZW50by1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYXV4aWxpYXItZGUtc2Vydmljb3MtZ2VyYWlz",
+    "orgao": "Prefeitura de Nova Trento",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-trento-sc-abre-processo-seletivo-para-auxiliar-de-servicos-gerais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Trento",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Trento - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE1MTI2",
