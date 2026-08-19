@@ -915,9 +915,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWRlLWVuc2luby1zdXBlcmlvci1lbS1kaXZlcnNhcy1hcmVhcw==",
+    "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItcmV0aWZpY2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1kZS1lbnNpbm8tc3VwZXJpb3I=",
     "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/unioeste-pr-abre-processo-seletivo-para-professores-de-ensino-superior-em-diversas-areas",
+    "link": "https://www.pciconcursos.com.br/noticias/unioeste-pr-retifica-processo-seletivo-para-professores-de-ensino-superior",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -1573,6 +1573,21 @@
     "data_encerramento": "25/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Blumenau - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBDb25jw7NyZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtY29uY29yZGlhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWNvbnRhZG9y",
+    "orgao": "Câmara de Concórdia",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-concordia-sc-abre-concurso-publico-para-contador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Concórdia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Concórdia - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFBhcmHDrXNvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtcGFyYWlzby1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1jb250cm9sYWRvci1pbnRlcm5v",
