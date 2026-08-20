@@ -240,9 +240,9 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "VHJhbnNwZXRybyAtIFBldHJvYnJhcyBUcmFuc3BvcnRlIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyYW5zcGV0cm8tcHVibGljYS1lZGl0YWlzLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
+    "id": "VHJhbnNwZXRybyAtIFBldHJvYnJhcyBUcmFuc3BvcnRlIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyYW5zcGV0cm8tcHVibGljYS1lZGl0YWlzLXJldGlmaWNhZG9zLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
     "orgao": "Transpetro - Petrobras Transporte S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-de-processos-seletivos-para-diversos-cargos",
+    "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -2203,6 +2203,21 @@
     "data_encerramento": "09/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Paraíso - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQZXRyb2zDom5kaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGV0cm9sYW5kaWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "Prefeitura de Petrolândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-petrolandia-sc-abre-processo-seletivo-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Petrolândia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Petrolândia - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQaXJhdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdHViYS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLXByb2Nlc3NvLXNlbGV0aXZv",
