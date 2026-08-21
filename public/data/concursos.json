@@ -720,21 +720,6 @@
     "localizacao": "Tapejara - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBUdW5hcyBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXR1bmFzLWRvLXBhcmFuYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1kaXZlcnNhcy1hcmVhcw==",
-    "orgao": "Prefeitura de Tunas do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tunas-do-parana-pr-abre-processo-seletivo-para-profissionais-de-diversas-areas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tunas do Paraná",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tunas do Paraná - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIFRhbWFyYW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhbWFyYW5hLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTg3NTI=",
     "orgao": "Prefeitura do Município de Tamarana",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tamarana-pr-abre-concurso-publico-com-salarios-de-ate-8752",
@@ -1245,21 +1230,6 @@
     "localizacao": "Ibirubá - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFxdWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhcXVpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLW5hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de Itaqui",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaqui-rs-abre-processo-seletivo-para-cadastro-de-reserva-na-secretaria-de-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itaqui",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itaqui - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBMYWdvYSBkb3MgVHLDqnMgQ2FudG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhZ29hLWRvcy10cmVzLWNhbnRvcy1ycy1hYnJlLXZhZ2EtcGFyYS1hdXhpbGlhci1kZS1lbnNpbm8=",
     "orgao": "Prefeitura de Lagoa dos Três Cantos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lagoa-dos-tres-cantos-rs-abre-vaga-para-auxiliar-de-ensino",
@@ -1453,36 +1423,6 @@
     "data_encerramento": "10/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Toropi - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYXV4aWxpYXItZGUtcHJvZmVzc29y",
-    "orgao": "Prefeitura de Três Coroas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecao-para-auxiliar-de-professor",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Três Coroas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Três Coroas - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
-    "orgao": "Prefeitura de Vale do Sol",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-processo-seletivo-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vale do Sol",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vale do Sol - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUmVkZW50b3JhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLXJlZGVudG9yYS1ycy1hYnJlbS1lZGl0YWlzLWRlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
@@ -1710,21 +1650,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS10ZWNuaWNvLWF1eGlsaWFyLWRlLXJlZ3VsYWNhby1tZWRpY2EtZW0tY2hhcGVjbw==",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-tecnico-auxiliar-de-regulacao-medica-em-chapeco",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gSEVNT1NDaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFzc2lzdGVudGUtYWRtaW5pc3RyYXRpdm8tcGNkLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - HEMOSC",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-pcd-em-florianopolis",
@@ -1755,51 +1680,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtc2VsZWNvZXMtcGFyYS1wcm9maXNzaW9uYWlzLWRlLWRpdmVyc2FzLWFyZWFzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzU0Ng==",
-    "orgao": "FURB - Fundação Universidade Regional de Blumenau",
-    "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-selecoes-para-profissionais-de-diversas-areas-com-salarios-de-ate-7546",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SG9zcGl0YWwgTXVuaWNpcGFsIFNhbnRvIEFudMO0bmlvIGRlIExlYm9uIFLDqWdpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaG9zcGl0YWwtbXVuaWNpcGFsLXNhbnRvLWFudG9uaW8tZGUtbGVib24tcmVnaXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbQ==",
-    "orgao": "Hospital Municipal Santo Antônio de Lebon Régis",
-    "link": "https://www.pciconcursos.com.br/noticias/hospital-municipal-santo-antonio-de-lebon-regis-sc-abre-processo-seletivo-para-tecnico-em-enfermagem",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SU1QIC0gSW5zdGl0dXRvIGRvIE1laW8gQW1iaWVudGUgZGUgQmFsbmXDoXJpbyBQacOnYXJyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2luc3RpdHV0by1kby1tZWlvLWFtYmllbnRlLWRlLWJhbG5lYXJpby1waWNhcnJhcy1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28=",
-    "orgao": "IMP - Instituto do Meio Ambiente de Balneário Piçarras",
-    "link": "https://www.pciconcursos.com.br/noticias/instituto-do-meio-ambiente-de-balneario-picarras-sc-divulga-retificacao-de-concurso-publico",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Meio Ambiente de Balneário Piçarras",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Meio Ambiente de Balneário Piçarras - PR"
-  },
-  {
     "id": "SU5QUkVWSUQgLSBJbnN0aXR1dG8gZGUgUHJldmlkw6puY2lhIFNvY2lhbCBkb3MgU2Vydmlkb3JlcyBQw7pibGljb3MgZG8gTXVuaWPDrXBpbyBkZSBWaWRlaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbnByZXZpZC12aWRlaXJhLXNjLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZGUtY29uY3Vyc28tcHVibGljby1wYXJhLWFnZW50ZS1hZG1pbmlzdHJhdGl2by1wcmV2aWRlbmNpYXJpby1lLWFuYWxpc3RhLXByZXZpZGVuY2lhcmlv",
     "orgao": "INPREVID - Instituto de Previdência Social dos Servidores Públicos do Município de Videira",
     "link": "https://www.pciconcursos.com.br/noticias/inprevid-videira-sc-divulga-retificacao-de-concurso-publico-para-agente-administrativo-previdenciario-e-analista-previdenciario",
@@ -1828,21 +1708,6 @@
     "data_encerramento": "24/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Arabutã - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYWxuZcOhcmlvIFBpw6dhcnJhc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYWxuZWFyaW8tcGljYXJyYXMtc2MtYWJyZS1jb25jdXJzb3MtZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTIyOTM2",
-    "orgao": "Prefeitura de Balneário Piçarras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balneario-picarras-sc-abre-concursos-e-processo-seletivo-com-salarios-de-ate-22936",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Balneário Piçarras",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Balneário Piçarras - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCZWxtb250ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iZWxtb250ZS1zYy1wdWJsaWNhLWVkaXRhaXMtZGUtY29uY3Vyc28tZS1wcm9jZXNzby1zZWxldGl2by1jb20tZGl2ZXJzYXMtdmFnYXM=",
@@ -1903,21 +1768,6 @@
     "data_encerramento": "25/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Botuverá - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQyMjg=",
-    "orgao": "Prefeitura de Braço do Norte",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-processo-seletivo-com-salarios-de-ate-4228",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Braço do Norte",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Braço do Norte - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYWxtb25odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FsbW9uLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTczMTQ=",
@@ -2023,51 +1873,6 @@
     "data_encerramento": "08/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guaraciaba - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFwaXJhbmdhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBpcmFuZ2Etc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
-    "orgao": "Prefeitura de Itapiranga",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapiranga-sc-abre-selecao-para-cadastro-de-reserva-de-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itapiranga",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itapiranga - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtZGUtaW5nbGVz",
-    "orgao": "Prefeitura de Itapoá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-abre-processo-seletivo-para-professores-de-ingles",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itapoá",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itapoá - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBKb2ludmlsbGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtam9pbnZpbGxlLXNjLXByb3Jyb2dhLWluc2NyaWNvZXMtcGFyYS1vLXByb2Nlc3NvLXNlbGV0aXZvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
-    "orgao": "Prefeitura de Joinville",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joinville-sc-prorroga-inscricoes-para-o-processo-seletivo-de-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Joinville",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Joinville - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1saW5kb2lhLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
@@ -2308,21 +2113,6 @@
     "data_encerramento": "14/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tangará - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUaW1iw6kgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRpbWJlLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtb2RvbnRvbG9nby1lLWZhcm1hY2V1dGljbw==",
-    "orgao": "Prefeitura de Timbé do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-timbe-do-sul-sc-abre-processo-seletivo-para-odontologo-e-farmaceutico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Timbé do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Timbé do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWaWRhbCBSYW1vc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12aWRhbC1yYW1vcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01NzYw",
