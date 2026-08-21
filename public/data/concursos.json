@@ -1020,6 +1020,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "T0dNTy9SRyAtIMOTcmfDo28gR2VzdG9yIGRlIE3Do28gZGUgT2JyYSBkbyBUcmFiYWxobyBQb3J0dcOhcmlvIEF2dWxzbyBkbyBQb3J0byBPcmdhbml6YWRvIGRvIFJpbyBHcmFuZGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL29nbW8tcmctcnMtcmVhYnJlLWluc2NyaWNvZXMtZG8tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lc3RpdmFkb3I=",
+    "orgao": "OGMO/RG - Órgão Gestor de Mão de Obra do Trabalho Portuário Avulso do Porto Organizado do Rio Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/ogmo-rg-rs-reabre-inscricoes-do-processo-seletivo-para-estivador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBY2VndcOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFjZWd1YS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1lbmdlbmhlaXJvLWNpdmls",
     "orgao": "Prefeitura de Aceguá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-acegua-rs-abre-selecao-para-engenheiro-civil",
@@ -2143,6 +2158,21 @@
     "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Trento - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBPdGFjw61saW8gQ29zdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtb3RhY2lsaW8tY29zdGEtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYS1hcmVhLWRhLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de Otacílio Costa",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-otacilio-costa-sc-abre-selecao-para-a-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Otacílio Costa",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Otacílio Costa - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE1MTI2",
