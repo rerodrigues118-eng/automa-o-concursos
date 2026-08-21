@@ -1200,6 +1200,21 @@
     "localizacao": "Feliz - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGbG9yaWFubyBQZWl4b3RvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWZsb3JpYW5vLXBlaXhvdG8tcnMtYWJyZS12YWdhcy1wYXJhLWFnZW50ZS1kZS1jb21iYXRlLWFzLWVuZGVtaWFzLWUtYWdlbnRlLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Floriano Peixoto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-floriano-peixoto-rs-abre-vagas-para-agente-de-combate-as-endemias-e-agente-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Floriano Peixoto",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Floriano Peixoto - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW5pIGRhcyBNaXNzw7Vlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFyYW5pLWRhcy1taXNzb2VzLXJzLWFicmUtdmFnYXMtcGFyYS1tb25pdG9yZXMtZGUtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de Guarani das Missões",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarani-das-missoes-rs-abre-vagas-para-monitores-de-educacao",
@@ -1228,6 +1243,21 @@
     "data_encerramento": "21/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ibirubá - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL211bmljaXBpby1kZS1pZ3JlamluaGEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1hcnRlcw==",
+    "orgao": "Prefeitura de Igrejinha",
+    "link": "https://www.pciconcursos.com.br/noticias/municipio-de-igrejinha-rs-abre-processo-seletivo-para-professor-de-artes",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Igrejinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Igrejinha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMYWdvYSBkb3MgVHLDqnMgQ2FudG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhZ29hLWRvcy10cmVzLWNhbnRvcy1ycy1hYnJlLXZhZ2EtcGFyYS1hdXhpbGlhci1kZS1lbnNpbm8=",
@@ -1378,6 +1408,36 @@
     "data_encerramento": "24/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santana da Boa Vista - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEZyYW5jaXNjbyBkZSBQYXVsYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tZnJhbmNpc2NvLWRlLXBhdWxhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
+    "orgao": "Prefeitura de São Francisco de Paula",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-francisco-de-paula-rs-abre-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Francisco de Paula",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Francisco de Paula - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFZpY2VudGUgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby12aWNlbnRlLWRvLXN1bC1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDk2OA==",
+    "orgao": "Prefeitura de São Vicente do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-vicente-do-sul-rs-abre-processo-seletivo-com-salarios-de-ate-4968",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Vicente do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Vicente do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbHZlaXJhLW1hcnRpbnMtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1lLW1hbnRlbS1wcm9jZXNzby1zZWxldGl2by1pbmFsdGVyYWRv",
@@ -1650,6 +1710,51 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWFzc2lzdGVudGVzLWFkbWluaXN0cmF0aXZvcy1wY2Qtbm8tc2FtdQ==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-assistentes-administrativos-pcd-no-samu",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1lbS1mbG9yaWFub3BvbGlz",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-de-enfermagem-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWFzc2lzdGVudGVzLWFkbWluaXN0cmF0aXZvcy1pLXBjZA==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-assistentes-administrativos-i-pcd",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gSEVNT1NDaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFzc2lzdGVudGUtYWRtaW5pc3RyYXRpdm8tcGNkLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - HEMOSC",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-pcd-em-florianopolis",
@@ -1676,6 +1781,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "15/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SEVNT1NDIC0gQ2VudHJvIGRlIEhlbWF0b2xvZ2lhIGUgSGVtb3RlcmFwaWEgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLXBjZC1uby1oZW1vc2MtZGUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-assistente-administrativo-pcd-no-hemosc-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1873,6 +1993,21 @@
     "data_encerramento": "08/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guaraciaba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBKYXJhZ3XDoSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFyYWd1YS1kby1zdWwtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmlzc2lvbmFpcy1uYS1hcmVhLWRhLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de Jaraguá do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-abre-selecao-para-profissionais-na-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Jaraguá do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Jaraguá do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1saW5kb2lhLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
