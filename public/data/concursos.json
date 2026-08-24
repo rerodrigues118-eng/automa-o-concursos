@@ -330,21 +330,6 @@
     "localizacao": "Floresta - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBKYWd1YXJpYcOtdmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1qYWd1YXJpYWl2YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXJlbXVuZXJhY29lcy1kZS1hdGUtMTE1ODg=",
-    "orgao": "Câmara de Jaguariaíva",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-jaguariaiva-pr-abre-concurso-publico-com-remuneracoes-de-ate-11588",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Jaguariaíva",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Jaguariaíva - PR"
-  },
-  {
     "id": "Q0lTT1AgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIFNhw7pkZSBkbyBPZXN0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jaXNvcC1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTQ3MQ==",
     "orgao": "CISOP - Consórcio Intermunicipal de Saúde do Oeste do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/cisop-pr-abre-concurso-publico-com-salarios-de-ate-15471",
@@ -1215,21 +1200,6 @@
     "localizacao": "São Vicente do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbHZlaXJhLW1hcnRpbnMtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1lLW1hbnRlbS1wcm9jZXNzby1zZWxldGl2by1pbmFsdGVyYWRv",
-    "orgao": "Prefeitura de Silveira Martins",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-silveira-martins-rs-retifica-concurso-publico-e-mantem-processo-seletivo-inalterado",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Silveira Martins",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Silveira Martins - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUYXBlcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdGFwZXJhLXJzLWFicmUtdmFnYXMtcGFyYS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "Prefeitura de Tapera",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tapera-rs-abre-vagas-para-concurso-publico-e-processo-seletivo",
@@ -1618,21 +1588,6 @@
     "data_encerramento": "24/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Belmonte - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCb20gSmVzdXMgZG8gT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tLWplc3VzLWRvLW9lc3RlLXNjLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZGUtY29uY3Vyc28tcHVibGljbw==",
-    "orgao": "Prefeitura de Bom Jesus do Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-jesus-do-oeste-sc-divulga-retificacao-de-concurso-publico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Bom Jesus do Oeste",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Bom Jesus do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb21iaW5oYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tYmluaGFzLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kYS1maXNjYWxpemFjYW8tZGUtdGVtcG9yYWRhLWUtYWdlbnRlLWRhLXRwYQ==",
