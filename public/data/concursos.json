@@ -1020,21 +1020,6 @@
     "localizacao": "Erechim - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFc3B1bW9zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lc3B1bW9zby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1jb29yZGVuYWRvci1kby1jcmFz",
-    "orgao": "Prefeitura de Espumoso",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-espumoso-rs-abre-selecao-para-coordenador-do-cras",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Espumoso",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Espumoso - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODA1OA==",
     "orgao": "Prefeitura de Estrela",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-rs-abre-concurso-publico-com-salarios-de-ate-8058",
@@ -1230,6 +1215,36 @@
     "localizacao": "Toropi - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBWaWxhIE5vdmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpbGEtbm92YS1kby1zdWwtcnMtYWJyZS12YWdhcy1wYXJhLWZpc2lvdGVyYXBldXRhLWUtY29udGFkb3I=",
+    "orgao": "Prefeitura de Vila Nova do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-vagas-para-fisioterapeuta-e-contador",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vila Nova do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vila Nova do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWaWxhIE5vdmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpbGEtbm92YS1kby1zdWwtcnMtYWJyZS1zZWxlY2FvLXBhcmEtbWVkaWNvLXBlZGlhdHJh",
+    "orgao": "Prefeitura de Vila Nova do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-selecao-para-medico-pediatra",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vila Nova do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vila Nova do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUmVkZW50b3JhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLXJlZGVudG9yYS1ycy1hYnJlbS1lZGl0YWlzLWRlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
     "orgao": "Prefeitura e Câmara de Redentora",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-redentora-rs-abrem-editais-de-concurso-e-processo-seletivo",
@@ -1256,6 +1271,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNtLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcy1kby1tYWdpc3RlcmlvLXN1cGVyaW9y",
+    "orgao": "UFSM - Universidade Federal de Santa Maria",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-publico-com-vagas-para-professores-do-magisterio-superior",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2021,6 +2051,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "31/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U01FQyAtIFNlY3JldGFyaWEgTXVuaWNpcGFsIGRlIEVkdWNhw6fDo28gZSBDdWx0dXJhIGRlIENhbXBvcyBOb3Zvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYW1wb3Mtbm92b3Mtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "SMEC - Secretaria Municipal de Educação e Cultura de Campos Novos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campos-novos-sc-abre-selecao-para-professores",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   }
