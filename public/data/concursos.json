@@ -465,21 +465,6 @@
     "localizacao": "Francisco Alve - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJcmF0aWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcmF0aS1wci1hYnJlLXNlbGVjYW8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLW5hLWVkdWNhY2Fv",
-    "orgao": "Prefeitura de Irati",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irati-pr-abre-selecao-para-cadastro-de-reserva-na-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Irati",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Irati - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNYWxsZXRodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFsbGV0LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLWNvbnRhZG9y",
     "orgao": "Prefeitura de Mallet",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mallet-pr-abre-processo-seletivo-para-o-cargo-de-contador",
@@ -675,21 +660,6 @@
     "localizacao": "Município de Tamarana - PR"
   },
   {
-    "id": "U0VFRCAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEVkdWNhw6fDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlZWQtcHItcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWUtcGVkYWdvZ29z",
-    "orgao": "SEED - Secretaria de Estado da Educação",
-    "link": "https://www.pciconcursos.com.br/noticias/seed-pr-publica-edital-retificado-de-processo-seletivo-para-professores-e-pedagogos",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLXRlbXBvcmFyaW9zLWNvbS1kaXZlcnNhcy1hcmVhcy1kZS1hdHVhY2Fv",
     "orgao": "UEL - Universidade Estadual de Londrina",
     "link": "https://www.pciconcursos.com.br/noticias/uel-pr-abre-processo-seletivo-para-professores-temporarios-com-diversas-areas-de-atuacao",
@@ -870,21 +840,6 @@
     "localizacao": "Guaporé - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBTaWx2ZWlyYSBNYXJ0aW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtc2lsdmVpcmEtbWFydGlucy1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vZmljaWFsLWFkbWluaXN0cmF0aXZv",
-    "orgao": "Câmara de Silveira Martins",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-silveira-martins-rs-abre-concurso-publico-para-oficial-administrativo",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Silveira Martins",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Silveira Martins - PR"
-  },
-  {
     "id": "Q1JFTUVSUyAtIENvbnNlbGhvIFJlZ2lvbmFsIGRlIE1lZGljaW5hIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JlbWVycy1ycy1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1wYXJhLW1lZGljby1maXNjYWwtZS1hZ2VudGUtZmlzY2Fs",
     "orgao": "CREMERS - Conselho Regional de Medicina do Estado do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/cremers-rs-retifica-edital-de-concurso-publico-para-medico-fiscal-e-agente-fiscal",
@@ -896,21 +851,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "07/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFVUkdTIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBkYSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmF1cmdzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRlLW5pdmVsLXRlY25pY28=",
-    "orgao": "FAURGS - Fundação de Apoio da Universidade Federal do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/faurgs-rs-abre-processo-seletivo-para-profissionais-de-nivel-tecnico",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1018,21 +958,6 @@
     "data_encerramento": "02/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canudos do Vale - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gQm9uaXRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBhby1ib25pdG8tZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbQ==",
-    "orgao": "Prefeitura de Capão Bonito do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capao-bonito-do-sul-rs-abre-selecao-para-tecnico-em-enfermagem",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Capão Bonito do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Capão Bonito do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZpc2lvdGVyYXBldXRh",
@@ -1168,21 +1093,6 @@
     "data_encerramento": "13/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Relvado - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTYW50YW5hIGRhIEJvYSBWaXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50YW5hLWRhLWJvYS12aXN0YS1ycy1hYnJlLXZhZ2EtcGFyYS1tZWRpY28tZGEtZXNmLWlp",
-    "orgao": "Prefeitura de Santana da Boa Vista",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santana-da-boa-vista-rs-abre-vaga-para-medico-da-esf-ii",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Santana da Boa Vista",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Santana da Boa Vista - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEZyYW5jaXNjbyBkZSBQYXVsYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tZnJhbmNpc2NvLWRlLXBhdWxhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
@@ -1485,21 +1395,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWZpc2lvdGVyYXBldXRhLWktY29tLWF0dWFjYW8tbm8tY2Vwb24=",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-fisioterapeuta-i-com-atuacao-no-cepon",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWFuYWxpc3RhLWRlLXNpc3RlbWFzLWNvbS1zYWxhcmlvLWRlLTY3NTM=",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-analista-de-sistemas-com-salario-de-6753",
@@ -1665,36 +1560,6 @@
     "localizacao": "Previdência Social dos Servidores Públicos do Município de Videira - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBcmFidXTDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcmFidXRhLXNjLWRpdnVsZ2EtcmV0aWZpY2FjYW8tZG8tY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTY3NDI=",
-    "orgao": "Prefeitura de Arabutã",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arabuta-sc-divulga-retificacao-do-concurso-publico-com-salarios-de-ate-6742",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Arabutã",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Arabutã - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCZWxtb250ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iZWxtb250ZS1zYy1wdWJsaWNhLWVkaXRhaXMtZGUtY29uY3Vyc28tZS1wcm9jZXNzby1zZWxldGl2by1jb20tZGl2ZXJzYXMtdmFnYXM=",
-    "orgao": "Prefeitura de Belmonte",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belmonte-sc-publica-editais-de-concurso-e-processo-seletivo-com-diversas-vagas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Belmonte",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Belmonte - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCb21iaW5oYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tYmluaGFzLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kYS1maXNjYWxpemFjYW8tZGUtdGVtcG9yYWRhLWUtYWdlbnRlLWRhLXRwYQ==",
     "orgao": "Prefeitura de Bombinhas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bombinhas-sc-abre-selecao-para-agente-da-fiscalizacao-de-temporada-e-agente-da-tpa",
@@ -1798,21 +1663,6 @@
     "data_encerramento": "08/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Chapecó - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDdW5oYSBQb3LDo2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdW5oYS1wb3JhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjI1MDQ=",
-    "orgao": "Prefeitura de Cunha Porã",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cunha-pora-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-22504",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Cunha Porã",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Cunha Porã - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmVpIFJvZ8OpcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWZyZWktcm9nZXJpby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMzY2MTk=",
@@ -1978,21 +1828,6 @@
     "data_encerramento": "31/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Piratuba - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JpbmhvLXNjLWFicmUtc2VsZWNhby1wYXJhLW1lZGljby1wc2lxdWlhdHJh",
-    "orgao": "Prefeitura de Rio Negrinho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-abre-selecao-para-medico-psiquiatra",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio Negrinho",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "24/08/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Negrinho - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBWZWxvc29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tdmVsb3NvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTkxNTE=",
