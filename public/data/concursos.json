@@ -735,6 +735,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZGUtcHJvZmVzc29yLXZpc2l0YW50ZS1lLWVzdHJhbmdlaXJv",
+    "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
+    "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-processo-seletivo-para-cadastro-de-reserva-de-professor-visitante-e-estrangeiro",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLW11c2ljYS1lLXRlY25vbG9naWE=",
+    "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
+    "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-processo-seletivo-para-professor-substituto-de-musica-e-tecnologia",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItcmV0aWZpY2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1kZS1lbnNpbm8tc3VwZXJpb3I=",
     "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/unioeste-pr-retifica-processo-seletivo-para-professores-de-ensino-superior",
@@ -1033,6 +1063,21 @@
     "data_encerramento": "28/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pinhal - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpbmhhbC1ncmFuZGUtcnMtYWJyZS1zZWxlY29lcy1wYXJhLWFzc2lzdGVudGUtc29jaWFsLWUtdmV0ZXJpbmFyaW8=",
+    "orgao": "Prefeitura de Pinhal Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-selecoes-para-assistente-social-e-veterinario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhal Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhal Grande - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSZWx2YWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJlbHZhZG8tcnMtYWJyZS1jb25jdXJzby1wYXJhLWRpdmVyc29zLWNhcmdvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTgyOTc=",
@@ -1410,8 +1455,8 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWktcGNkLWVtLWNhY2Fkb3I=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWktcGNkLWVtLWNhY2Fkb3I=",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-i-pcd-em-cacador",
     "categoria": "Outros",
     "uf": "PR",
@@ -1530,6 +1575,21 @@
     "localizacao": "Previdência Social dos Servidores Públicos do Município de Videira - PR"
   },
   {
+    "id": "UE1KUyAtIFByZWZlaXR1cmEgZGUgSmFyYWd1w6EgZG8gU3VsIGUgU0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gTXVuaWNpcGFsIGRlIMOBZ3VhIGUgRXNnb3RvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtc2FtYWUtZGUtamFyYWd1YS1kby1zdWwtc2MtYWJyZW0tY29uY3Vyc29zLXB1YmxpY29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTU2MDU=",
+    "orgao": "PMJS - Prefeitura de Jaraguá do Sul e SAMAE - Serviço Autônomo Municipal de Água e Esgoto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-samae-de-jaragua-do-sul-sc-abrem-concursos-publicos-com-salarios-de-ate-15605",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Jaraguá do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Jaraguá do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ibHVtZW5hdS1zYy1wdWJsaWNhLWVkaXRhaXMtZGUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de Blumenau",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-publica-editais-de-processos-seletivos-para-profissionais-da-educacao",
@@ -1618,6 +1678,21 @@
     "data_encerramento": "08/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Chapecó - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBEZXNjYW5zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1kZXNjYW5zby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS16ZWxhZG9y",
+    "orgao": "Prefeitura de Descanso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-descanso-sc-abre-processo-seletivo-para-o-cargo-de-zelador",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Descanso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Descanso - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmVpIFJvZ8OpcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWZyZWktcm9nZXJpby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMzY2MTk=",
@@ -1755,6 +1830,21 @@
     "localizacao": "Nova Erechim - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBPcmxlYW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW9ybGVhbnMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1hLXNlY3JldGFyaWEtZGUtc2F1ZGU=",
+    "orgao": "Prefeitura de Orleans",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orleans-sc-abre-processo-seletivo-com-vagas-para-a-secretaria-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Orleans",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Orleans - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBPdGFjw61saW8gQ29zdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtb3RhY2lsaW8tY29zdGEtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYS1hcmVhLWRhLWVkdWNhY2Fv",
     "orgao": "Prefeitura de Otacílio Costa",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-otacilio-costa-sc-abre-selecao-para-a-area-da-educacao",
@@ -1798,6 +1888,21 @@
     "data_encerramento": "31/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Piratuba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JpbmhvLXNjLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTE4NTM4",
+    "orgao": "Prefeitura de Rio Negrinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-abre-selecao-com-salarios-de-ate-18538",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Negrinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Negrinho - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBWZWxvc29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsdG8tdmVsb3NvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTkxNTE=",
