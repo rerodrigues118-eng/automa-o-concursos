@@ -1320,6 +1320,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "QU1BSSAtIEFzc29jaWHDp8OjbyBkb3MgTXVuaWPDrXBpb3MgZG8gQWx0byBJcmFuaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvYW1haS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTcyNg==",
+    "orgao": "AMAI - Associação dos Municípios do Alto Irani",
+    "link": "https://www.pciconcursos.com.br/noticias/amai-sc-abre-processo-seletivo-com-salarios-de-ate-9726",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBCYWxuZcOhcmlvIFJpbmPDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1iYWxuZWFyaW8tcmluY2FvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFnZW50ZS1kZS1jb250cmF0YWNhby1lLW1vdG9yaXN0YQ==",
     "orgao": "Câmara de Balneário Rincão",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-balneario-rincao-sc-abre-concurso-publico-para-agente-de-contratacao-e-motorista",
@@ -1575,6 +1590,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLWF1eGlsaWFyLWRlLWhpZ2llbml6YWNhby1uby1zYW11LWRlLWJydXNxdWU=",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-auxiliar-de-higienizacao-no-samu-de-brusque",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gSEVNT1NDaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFzc2lzdGVudGUtYWRtaW5pc3RyYXRpdm8tcGNkLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - HEMOSC",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-administrativo-pcd-em-florianopolis",
@@ -1648,6 +1678,21 @@
     "data_encerramento": "31/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Previdência Social dos Servidores Públicos do Município de Videira - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ibHVtZW5hdS1zYy1wdWJsaWNhLWVkaXRhaXMtZGUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Blumenau",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-publica-editais-de-processos-seletivos-para-profissionais-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Blumenau",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Blumenau - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb21iaW5oYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tYmluaGFzLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1kYS1maXNjYWxpemFjYW8tZGUtdGVtcG9yYWRhLWUtYWdlbnRlLWRhLXRwYQ==",
@@ -1798,6 +1843,21 @@
     "data_encerramento": "08/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Jaraguá do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBKb3PDqSBCb2l0ZXV4aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWpvc2UtYm9pdGV1eC1zYy1hYnJlLXNlbGVjYW8tcGFyYS1zZXJ2ZW50ZS1tZXJlbmRlaXJh",
+    "orgao": "Prefeitura de José Boiteux",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jose-boiteux-sc-abre-selecao-para-servente-merendeira",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "José Boiteux",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "José Boiteux - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2lhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1saW5kb2lhLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1kZS1wcm9mZXNzb3Jlcw==",
