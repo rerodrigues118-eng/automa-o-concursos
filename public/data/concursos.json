@@ -840,6 +840,21 @@
     "localizacao": "Guaporé - PR"
   },
   {
+    "id": "Q0JNUlMgLSBDb3JwbyBkZSBCb21iZWlyb3MgTWlsaXRhciBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2JtcnMtcnMtYWJyZS1zZWxlY29lcy1wYXJhLWd1YXJkYS12aWRhcy1jaXZpcy10ZW1wb3Jhcmlvcw==",
+    "orgao": "CBMRS - Corpo de Bombeiros Militar do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/cbmrs-rs-abre-selecoes-para-guarda-vidas-civis-temporarios",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q1JFTUVSUyAtIENvbnNlbGhvIFJlZ2lvbmFsIGRlIE1lZGljaW5hIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JlbWVycy1ycy1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1wYXJhLW1lZGljby1maXNjYWwtZS1hZ2VudGUtZmlzY2Fs",
     "orgao": "CREMERS - Conselho Regional de Medicina do Estado do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/cremers-rs-retifica-edital-de-concurso-publico-para-medico-fiscal-e-agente-fiscal",
@@ -868,6 +883,21 @@
     "data_encerramento": "04/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBanVyaWNhYmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWp1cmljYWJhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLXNvY2lhbA==",
+    "orgao": "Prefeitura de Ajuricaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ajuricaba-rs-abre-processo-seletivo-para-assistente-social",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ajuricaba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ajuricaba - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBcnJvaW8gZG8gUGFkcmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYXJyb2lvLWRvLXBhZHJlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtdmlzaXRhZG9yLWRvLXBpbQ==",
@@ -958,6 +988,21 @@
     "data_encerramento": "31/08/2026",
     "status": "Inscrições abertas",
     "localizacao": "Doutor Maurício Cardoso - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS1zZWxlY2FvLXBhcmEtb3BlcmFkb3Jlcy1kZS1tYXF1aW5hcw==",
+    "orgao": "Prefeitura de Erechim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erechim-rs-abre-selecao-para-operadores-de-maquinas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Erechim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Erechim - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODA1OA==",
@@ -1065,6 +1110,21 @@
     "localizacao": "Pinhal Grande - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpbmhhbC1ncmFuZGUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtb3BlcmFkb3ItZGUtbWFxdWluYXMtZS1vcGVyYXJpbw==",
+    "orgao": "Prefeitura de Pinhal Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-selecao-para-operador-de-maquinas-e-operario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhal Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhal Grande - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSZWx2YWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJlbHZhZG8tcnMtYWJyZS1jb25jdXJzby1wYXJhLWRpdmVyc29zLWNhcmdvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTgyOTc=",
     "orgao": "Prefeitura de Relvado",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-relvado-rs-abre-concurso-para-diversos-cargos-com-salarios-de-ate-8297",
@@ -1108,6 +1168,21 @@
     "data_encerramento": "04/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Francisco de Paula - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIE5vcnRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3NlLWRvLW5vcnRlLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZXMtcmVkdXRvcmVzLWRlLWRhbm9z",
+    "orgao": "Prefeitura de São José do Norte",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-norte-rs-abre-selecao-para-agentes-redutores-de-danos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José do Norte",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José do Norte - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFZpY2VudGUgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby12aWNlbnRlLWRvLXN1bC1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDk2OA==",
@@ -1335,6 +1410,21 @@
     "localizacao": "Vereadores de Paraíso - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFPDo28gSm9hcXVpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXNhby1qb2FxdWltLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTk4NzA=",
+    "orgao": "Câmara de Vereadores de São Joaquim",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-joaquim-sc-abre-concurso-publico-com-salarios-de-ate-9870",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de São Joaquim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de São Joaquim - PR"
+  },
+  {
     "id": "Q2FzYSBMYXIgUGVxdWVubyBQcsOtbmNpcGUgLSBDb25zw7NyY2lvIEludGVybXVuaWNpcGFsIGRlIFNlcnZpw6dvIFNvY2lvYXNzaXN0ZW5jaWFsIGRlIEFsdGEgQ29tcGxleGlkYWRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zb3JjaW8tY2FzYS1sYXItcGVxdWVuby1wcmluY2lwZS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
     "orgao": "Casa Lar Pequeno Príncipe - Consórcio Intermunicipal de Serviço Socioassistencial de Alta Complexidade",
     "link": "https://www.pciconcursos.com.br/noticias/consorcio-casa-lar-pequeno-principe-sc-divulga-retificacao-de-concurso-para-cadastro-de-reserva",
@@ -1466,6 +1556,66 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWVuZmVybWVpcm8tZGEtcXVhbGlkYWRlLW5vLXNhbXUtZGUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-enfermeiro-da-qualidade-no-samu-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLW1vdG9yaXN0YS1uby1oZW1vc2MtZGUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-motorista-no-hemosc-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbiAoU0FNVSlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLXZhZ2FzLXBhcmEtby1zYW11LWVtLWRpZmVyZW50ZXMtbXVuaWNpcGlvcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon (SAMU)",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-com-vagas-para-o-samu-em-diferentes-municipios",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/08/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2FzLXBhcmEtYXV4aWxpYXJlcy1kZS1oaWdpZW5pemFjYW8tZW0tYmx1bWVuYXUtZS1yaW8tZG8tc3Vs",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vagas-para-auxiliares-de-higienizacao-em-blumenau-e-rio-do-sul",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1920,6 +2070,21 @@
     "localizacao": "Santa Helena - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb2FvLWRvLW9lc3RlLXNjLWFicmUtdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcy1oYWJpbGl0YWRvcy1lLW5hby1oYWJpbGl0YWRvcw==",
+    "orgao": "Prefeitura de São João do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-oeste-sc-abre-vagas-para-professores-habilitados-e-nao-habilitados",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São João do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São João do Oeste - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRlIEFsY8OibnRhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLXBlZHJvLWRlLWFsY2FudGFyYS1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjQ2MA==",
     "orgao": "Prefeitura de São Pedro de Alcântara",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-de-alcantara-sc-abre-concurso-com-salarios-de-ate-6460",
@@ -1963,6 +2128,21 @@
     "data_encerramento": "17/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vidal Ramos - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBYYW54ZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS14YW54ZXJlLXNjLWFicmUtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Xanxerê",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-xanxere-sc-abre-edital-de-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Xanxerê",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Xanxerê - PR"
   },
   {
     "id": "U0FORUZSQUkgLSBBdXRhcnF1aWEgTXVuaWNpcGFsIGRlIFNhbmVhbWVudG8gZGUgRnJhaWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYW5lZnJhaS1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtYWdlbnRlLW9wZXJhY2lvbmFsLWUtZW5nZW5oZWlyby1zYW5pdGFyaXN0YQ==",
