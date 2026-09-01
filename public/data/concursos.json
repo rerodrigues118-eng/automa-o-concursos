@@ -465,6 +465,21 @@
     "localizacao": "Francisco Alve - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFpcHVsw6JuZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YWlwdWxhbmRpYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTA3Mw==",
+    "orgao": "Prefeitura de Itaipulândia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaipulandia-pr-abre-concurso-publico-com-salarios-de-ate-15073",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itaipulândia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itaipulândia - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXRpbmhvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXRpbmhvcy1wci1wdWJsaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtZ3VhcmRhLWNpdmlsLW11bmljaXBhbA==",
     "orgao": "Prefeitura de Matinhos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matinhos-pr-publica-edital-de-concurso-publico-para-guarda-civil-municipal",
@@ -825,6 +840,21 @@
     "localizacao": "Piratini - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFNhbnRhIELDoXJiYXJhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXNhbnRhLWJhcmJhcmEtZG8tc3VsLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXNlcnZlbnRlLWludGVybmE=",
+    "orgao": "Câmara de Vereadores de Santa Bárbara do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-santa-barbara-do-sul-rs-abre-concurso-publico-para-servente-interna",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Santa Bárbara do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Santa Bárbara do Sul - PR"
+  },
+  {
     "id": "Q0JNUlMgLSBDb3JwbyBkZSBCb21iZWlyb3MgTWlsaXRhciBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2JtcnMtcnMtYWJyZS1zZWxlY29lcy1wYXJhLWd1YXJkYS12aWRhcy1jaXZpcy10ZW1wb3Jhcmlvcw==",
     "orgao": "CBMRS - Corpo de Bombeiros Militar do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/cbmrs-rs-abre-selecoes-para-guarda-vidas-civis-temporarios",
@@ -855,6 +885,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RVBUQyAtIEVtcHJlc2EgUMO6YmxpY2EgZGUgVHJhbnNwb3J0ZSBlIENpcmN1bGHDp8OjbyBTL0FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VwdGMtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTk3ODA=",
+    "orgao": "EPTC - Empresa Pública de Transporte e Circulação S/A",
+    "link": "https://www.pciconcursos.com.br/noticias/eptc-porto-alegre-rs-abre-concurso-publico-com-salarios-de-ate-9780",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SG9zcGl0YWwgQmVuZWZpY2VudGUgRHIuIEPDqXNhciBTYW50b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2hvc3BpdGFsLWJlbmVmaWNlbnRlLWRyLWNlc2FyLXNhbnRvcy1ycy1hYnJlLXNlbGVjYW8tY29tLXNhbGFyaW9zLWRlLWF0ZS02MDUw",
     "orgao": "Hospital Beneficente Dr. César Santos",
     "link": "https://www.pciconcursos.com.br/noticias/hospital-beneficente-dr-cesar-santos-rs-abre-selecao-com-salarios-de-ate-6050",
@@ -866,6 +911,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "04/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1lbS1wYXNzby1mdW5kbw==",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-em-passo-fundo",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1785,6 +1845,21 @@
     "localizacao": "Massaranduba - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXNzYXJhbmR1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFzc2FyYW5kdWJhLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yNDcyMg==",
+    "orgao": "Prefeitura de Massaranduba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-massaranduba-sc-abre-concurso-com-salarios-de-ate-24722",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Massaranduba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Massaranduba - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNb25kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vbmRhaS1zYy1hYnJlLWVkaXRhaXMtcGFyYS1jb25jdXJzb3MtZS1wcm9jZXNzby1zZWxldGl2by1jb20tZGl2ZXJzYXMtdmFnYXM=",
     "orgao": "Prefeitura de Mondaí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mondai-sc-abre-editais-para-concursos-e-processo-seletivo-com-diversas-vagas",
@@ -2066,6 +2141,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "04/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U01FIC0gU2VjcmV0YXJpYSBNdW5pY2lwYWwgZGUgRWR1Y2HDp8OjbyBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ub2F1ZGlvbG9nbw==",
+    "orgao": "SME - Secretaria Municipal de Educação de Itapoá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-abre-processo-seletivo-para-fonoaudiologo",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
