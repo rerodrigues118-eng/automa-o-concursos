@@ -315,21 +315,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNYXJpYWx2YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJpYWx2YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02NzY4",
-    "orgao": "Prefeitura de Marialva",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Marialva",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Marialva - PR"
-  },
-  {
     "id": "Q8OibWFyYSBkZSBGbG9yZXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWZsb3Jlc3RhLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3RhLWUtdGVjbmljby1sZWdpc2xhdGl2b3M=",
     "orgao": "Câmara de Floresta",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-floresta-pr-abre-concurso-publico-para-analista-e-tecnico-legislativos",
@@ -358,36 +343,6 @@
     "data_encerramento": "21/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "TWF0aW5ob3NQUkVWIC0gSW5zdGl0dXRvIGRlIFByZXZpZMOqbmNpYSBkb3MgU2Vydmlkb3JlcyBQw7pibGljb3MgZGUgTWF0aW5ob3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL21hdGluaG9zcHJldi1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vcy1jYXJnb3MtZGUtdGVjbmljby1hZG1pbmlzdHJhdGl2by1lLWNvbnRhZG9y",
-    "orgao": "MatinhosPREV - Instituto de Previdência dos Servidores Públicos de Matinhos",
-    "link": "https://www.pciconcursos.com.br/noticias/matinhosprev-pr-abre-concurso-publico-para-os-cargos-de-tecnico-administrativo-e-contador",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Previdência dos Servidores Públicos de Matinhos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Previdência dos Servidores Públicos de Matinhos - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcw==",
-    "orgao": "Prefeitura de Balsa Nova",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-com-vagas-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Balsa Nova",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Balsa Nova - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNvbmR1dG9yLWRlLXZlaWN1bG9zLWRhLWVkdWNhY2Fv",
@@ -448,6 +403,21 @@
     "data_encerramento": "28/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itaipulândia - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJpYWx2YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJpYWx2YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02NzY4",
+    "orgao": "Prefeitura de Marialva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Marialva",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Marialva - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNaXJhZG9yaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1pcmFkb3ItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTUxNTk=",
@@ -1005,21 +975,6 @@
     "localizacao": "Maquiné - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQYWxtYXJlcyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFsbWFyZXMtZG8tc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
-    "orgao": "Prefeitura de Palmares do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmares-do-sul-rs-abre-processo-seletivo-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Palmares do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Palmares do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpbmhhbC1ncmFuZGUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtb3BlcmFkb3ItZGUtbWFxdWluYXMtZS1vcGVyYXJpbw==",
     "orgao": "Prefeitura de Pinhal Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-selecao-para-operador-de-maquinas-e-operario",
@@ -1108,21 +1063,6 @@
     "data_encerramento": "07/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Norte - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1zZWxlY29lcy1wYXJhLW1lZGljby1lLWVkdWNhZG9yLWZpc2ljbw==",
-    "orgao": "Prefeitura de Sinimbu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sinimbu-rs-abre-selecoes-para-medico-e-educador-fisico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Sinimbu",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Sinimbu - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTb2JyYWRpbmhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNvYnJhZGluaG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtbW9uaXRvci1kZS1lZHVjYWNhby1pbmZhbnRpbA==",
@@ -1440,36 +1380,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWFuYWxpc3RhLWRlLXF1YWxpZGFkZS1pLW5vLWhlbW9zYy1kZS1mbG9yaWFub3BvbGlz",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-analista-de-qualidade-i-no-hemosc-de-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLWFzc2lzdGVudGUtc29jaWFsLWktbm8tY2Vwb24tZGUtZmxvcmlhbm9wb2xpcw==",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-o-cargo-de-assistente-social-i-no-cepon-de-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLWNvbmR1dG9yLXNvY29ycmlzdGEtZW0tbGFnZXM=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-condutor-socorrista-em-lages",
@@ -1511,21 +1421,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "07/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2FzLXBhcmEtYXV4aWxpYXJlcy1kZS1oaWdpZW5pemFjYW8tZW0tYmx1bWVuYXUtZS1yaW8tZG8tc3Vs",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vagas-para-auxiliares-de-higienizacao-em-blumenau-e-rio-do-sul",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1663,21 +1558,6 @@
     "data_encerramento": "14/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Calmon - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYXBpdmFyaSBkZSBCYWl4b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBpdmFyaS1kZS1iYWl4by1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hZ2VudGUtZGEtZGVmZXNhLWNpdmls",
-    "orgao": "Prefeitura de Capivari de Baixo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capivari-de-baixo-sc-abre-concurso-publico-para-agente-da-defesa-civil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Capivari de Baixo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Capivari de Baixo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
@@ -1993,21 +1873,6 @@
     "data_encerramento": "04/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Negrinho - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBIZWxlbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FudGEtaGVsZW5hLXNjLWFicmUtZWRpdGFpcy1kZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
-    "orgao": "Prefeitura de Santa Helena",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-helena-sc-abre-editais-de-concurso-publico-e-processo-seletivo-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Santa Helena",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "03/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Santa Helena - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEJlbnRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tYmVudG8tZG8tc3VsLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMDc5NQ==",
