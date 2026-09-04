@@ -270,9 +270,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "QWdTVVMgLSBBZ8OqbmNpYSBCcmFzaWxlaXJhIGRlIEFwb2lvIMOgIEdlc3TDo28gZG8gU1VTaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ3N1cy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YS1uby1wcm9qZXRvLXNlc210",
+    "id": "QWdTVVMgLSBBZ8OqbmNpYSBCcmFzaWxlaXJhIGRlIEFwb2lvIMOgIEdlc3TDo28gZG8gU1VTaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ3N1cy1yZXRpZmljYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmEtbm8tcHJvamV0by1zZXNtdA==",
     "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
-    "link": "https://www.pciconcursos.com.br/noticias/agsus-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt",
+    "link": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-projeto-sesmt",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -285,9 +285,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "QWdTVVMgLSBBZ8OqbmNpYSBCcmFzaWxlaXJhIGRlIEFwb2lvIMOgIEdlc3TDo28gZG8gU1VTaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ3N1cy1hYnJlLXNlbGVjYW8tcGFyYS1wc2ljb2xvZ28tY29tLXJlbXVuZXJhY2FvLWRlLTg4MDA=",
+    "id": "QWdTVVMgLSBBZ8OqbmNpYSBCcmFzaWxlaXJhIGRlIEFwb2lvIMOgIEdlc3TDo28gZG8gU1VTaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ3N1cy1yZXRpZmljYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBzaWNvbG9nb3M=",
     "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
-    "link": "https://www.pciconcursos.com.br/noticias/agsus-abre-selecao-para-psicologo-com-remuneracao-de-8800",
+    "link": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-psicologos",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -900,6 +900,21 @@
     "localizacao": "Canela - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW5ndcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYW5ndWN1LXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTc0NzA=",
+    "orgao": "Prefeitura de Canguçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cangucu-rs-abre-concurso-publico-com-salarios-de-ate-7470",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Canguçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Canguçu - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODA1OA==",
     "orgao": "Prefeitura de Estrela",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-rs-abre-concurso-publico-com-salarios-de-ate-8058",
@@ -973,6 +988,21 @@
     "data_encerramento": "04/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Pinhal Grande - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBNYXXDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wb3J0by1tYXVhLXJzLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbQ==",
+    "orgao": "Prefeitura de Porto Mauá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-maua-rs-abre-selecao-para-tecnico-em-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Porto Mauá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Porto Mauá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSZWx2YWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJlbHZhZG8tcnMtYWJyZS1jb25jdXJzby1wYXJhLWRpdmVyc29zLWNhcmdvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTgyOTc=",
@@ -1350,6 +1380,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RU1BU0EgLSBFbXByZXNhIE11bmljaXBhbCBkZSDDgWd1YSBlIFNhbmVhbWVudG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VtYXNhLWRlLWJhbG5lYXJpby1jYW1ib3JpdS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhLXBhcmEtZmlzY2FsLXNhbml0YXJpc3Rh",
+    "orgao": "EMASA - Empresa Municipal de Água e Saneamento",
+    "link": "https://www.pciconcursos.com.br/noticias/emasa-de-balneario-camboriu-sc-abre-processo-seletivo-com-vaga-para-fiscal-sanitarista",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RVBBR1JJIC0gRW1wcmVzYSBkZSBQZXNxdWlzYSBBZ3JvcGVjdcOhcmlhIGUgRXh0ZW5zw6NvIFJ1cmFsIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9lcGFncmktc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1pbmljaWFpcy1kZS1hdGUtMTY5OTA=",
     "orgao": "EPAGRI - Empresa de Pesquisa Agropecuária e Extensão Rural de Santa Catarina",
     "link": "https://www.pciconcursos.com.br/noticias/epagri-sc-abre-concurso-publico-com-salarios-iniciais-de-ate-16990",
@@ -1485,6 +1530,21 @@
     "localizacao": "Balneário Piçarras - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBCb25pdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmEtYm9uaXRhLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS04MzQ0",
+    "orgao": "Prefeitura de Barra Bonita",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-bonita-sc-abre-concurso-com-salarios-de-ate-8344",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Barra Bonita",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Barra Bonita - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ibHVtZW5hdS1zYy1wdWJsaWNhLWVkaXRhaXMtZGUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de Blumenau",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-publica-editais-de-processos-seletivos-para-profissionais-da-educacao",
@@ -1545,9 +1605,9 @@
     "localizacao": "Calmon - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLXByb3Jyb2dhLWFzLWluc2NyaWNvZXMtZG8tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
     "orgao": "Prefeitura de Chapecó",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-publica-edital-de-processo-seletivo-para-professores",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-prorroga-as-inscricoes-do-processo-seletivo-para-professores",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Chapecó",
@@ -1903,6 +1963,21 @@
     "data_encerramento": "17/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "São João do Itaperiú - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb2FvLWRvLW9lc3RlLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de São João do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-oeste-sc-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São João do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São João do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvYXF1aW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvYXF1aW0tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAzMzA=",
