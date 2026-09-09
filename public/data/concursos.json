@@ -495,21 +495,6 @@
     "localizacao": "Piên - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBRdWF0cm8gUG9udGVzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXF1YXRyby1wb250ZXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTU5NzA=",
-    "orgao": "Prefeitura de Quatro Pontes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quatro-pontes-pr-abre-concurso-publico-com-salarios-de-ate-15970",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Quatro Pontes",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Quatro Pontes - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEplcsO0bmltbyBkYSBTZXJyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tamVyb25pbW8tZGEtc2VycmEtcHItYWJyZS12YWdhLXBhcmEtbWVkaWNvLWRhLWVzdHJhdGVnaWEtc2F1ZGUtZGEtZmFtaWxpYQ==",
     "orgao": "Prefeitura de São Jerônimo da Serra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jeronimo-da-serra-pr-abre-vaga-para-medico-da-estrategia-saude-da-familia",
@@ -538,21 +523,6 @@
     "data_encerramento": "30/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tamarana - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUYXBlamFyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YXBlamFyYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLXBhcmEtcHJvZmVzc29yZXM=",
-    "orgao": "Prefeitura de Tapejara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tapejara-pr-abre-concurso-publico-com-vagas-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tapejara",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tapejara - PR"
   },
   {
     "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcy1jb2xhYm9yYWRvcmVz",
@@ -1020,51 +990,6 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de São José do Inhacorá",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São José do Inhacorá",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São José do Inhacorá - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTb2JyYWRpbmhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNvYnJhZGluaG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtbW9uaXRvci1kZS1lZHVjYWNhby1pbmZhbnRpbA==",
-    "orgao": "Prefeitura de Sobradinho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sobradinho-rs-abre-selecao-para-monitor-de-educacao-infantil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Sobradinho",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Sobradinho - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUaXJhZGVudGVzIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aXJhZGVudGVzLWRvLXN1bC1ycy1hYnJlLXNlbGVjYW8tcGFyYS10ZWNuaWNvLWVtLWVuZmVybWFnZW0=",
-    "orgao": "Prefeitura de Tiradentes do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tiradentes-do-sul-rs-abre-selecao-para-tecnico-em-enfermagem",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tiradentes do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tiradentes do Sul - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9yb3BpLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTg5MDA=",
     "orgao": "Prefeitura de Toropi",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toropi-rs-abre-concurso-publico-com-salarios-de-ate-8900",
@@ -1196,21 +1121,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "QU1BSSAtIEFzc29jaWHDp8OjbyBkb3MgTXVuaWPDrXBpb3MgZG8gQWx0byBJcmFuaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvYW1haS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTcyNg==",
-    "orgao": "AMAI - Associação dos Municípios do Alto Irani",
-    "link": "https://www.pciconcursos.com.br/noticias/amai-sc-abre-processo-seletivo-com-salarios-de-ate-9726",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1395,21 +1305,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtNDAtdmFnYXMtcGFyYS1vZmljaWFpcy1kZS1tYW51dGVuY2FvLW5vLWhlbW9zYy1kZS1jaGFwZWNv",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-40-vagas-para-oficiais-de-manutencao-no-hemosc-de-chapeco",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RlVKQU1BIC0gRnVuZGHDp8OjbyBKYXJhZ3VhZW5zZSBkZSBNZWlvIEFtYmllbnRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdWphbWEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtZmlzY2FsLWRlLWJlbS1lc3Rhci1hbmltYWw=",
     "orgao": "FUJAMA - Fundação Jaraguaense de Meio Ambiente",
     "link": "https://www.pciconcursos.com.br/noticias/fujama-sc-abre-concurso-publico-para-fiscal-de-bem-estar-animal",
@@ -1528,21 +1423,6 @@
     "data_encerramento": "28/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Blumenau - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWEtc2VjcmV0YXJpYS1kZS1zYXVkZQ==",
-    "orgao": "Prefeitura de Braço do Norte",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-processo-seletivo-para-a-secretaria-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Braço do Norte",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Braço do Norte - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCcnVuw7Nwb2xpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1icnVub3BvbGlzLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
@@ -1665,21 +1545,6 @@
     "localizacao": "Guabiruba - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYWNpYWJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhY2lhYmEtc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de Guaraciaba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaraciaba-sc-abre-processos-seletivos-para-formacao-de-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Guaraciaba",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Guaraciaba - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWF0YW1idWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWF0YW1idS1zYy1wdWJsaWNhLWVkaXRhbC1kZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEzMTI1",
     "orgao": "Prefeitura de Guatambu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guatambu-sc-publica-edital-de-processo-seletivo-com-salarios-de-ate-13125",
@@ -1693,21 +1558,6 @@
     "data_encerramento": "14/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guatambu - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBKYXJhZ3XDoSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFyYWd1YS1kby1zdWwtc2MtcmV0aWZpY2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLW5hLWFyZWEtZGEtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de Jaraguá do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-retifica-processo-seletivo-para-profissionais-na-area-da-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Jaraguá do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "08/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Jaraguá do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMb250cmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxvbnRyYXMtc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTgxMDU=",
