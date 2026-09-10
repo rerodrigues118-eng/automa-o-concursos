@@ -390,6 +390,21 @@
     "localizacao": "Coronel Vivida - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFbsOpYXMgTWFycXVlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lbmVhcy1tYXJxdWVzLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTg2",
+    "orgao": "Prefeitura de Enéas Marques",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-eneas-marques-pr-abre-processo-seletivo-com-salarios-de-ate-5986",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Enéas Marques",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Enéas Marques - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYXB1YXZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhcHVhdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tNDAtdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcw==",
     "orgao": "Prefeitura de Guarapuava",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarapuava-pr-abre-processo-seletivo-com-40-vagas-para-professores",
@@ -795,6 +810,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q1JFTUVSUyAtIENvbnNlbGhvIFJlZ2lvbmFsIGRlIE1lZGljaW5hIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JlbWVycy1ycy1yZWFicmUtaW5zY3JpY29lcy1kby1jb25jdXJzby1wdWJsaWNvLXBhcmEtbWVkaWNvLWZpc2NhbC1lLWFnZW50ZS1maXNjYWw=",
+    "orgao": "CREMERS - Conselho Regional de Medicina do Estado do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/cremers-rs-reabre-inscricoes-do-concurso-publico-para-medico-fiscal-e-agente-fiscal",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RVBUQyAtIEVtcHJlc2EgUMO6YmxpY2EgZGUgVHJhbnNwb3J0ZSBlIENpcmN1bGHDp8OjbyBTL0FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VwdGMtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTk3ODA=",
     "orgao": "EPTC - Empresa Pública de Transporte e Circulação S/A",
     "link": "https://www.pciconcursos.com.br/noticias/eptc-porto-alegre-rs-abre-concurso-publico-com-salarios-de-ate-9780",
@@ -1168,6 +1198,21 @@
     "data_encerramento": "18/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Concórdia - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBJYmlyYW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtaWJpcmFtYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS04NTAw",
+    "orgao": "Câmara de Ibirama",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-ibirama-sc-abre-concurso-publico-com-salarios-de-ate-8500",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Ibirama",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibirama - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBQb250ZSBBbHRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtcG9udGUtYWx0YS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTA1",
@@ -1560,6 +1605,21 @@
     "localizacao": "Frei Rogério - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHcmF2YXRhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmF2YXRhbC1zYy1hYnJlLXNlbGVjYW8tcGFyYS10ZWNuaWNvLWRlLWVuZmVybWFnZW0tbmEtbW90b2xhbmNpYS1kby1zYW11",
+    "orgao": "Prefeitura de Gravatal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gravatal-sc-abre-selecao-para-tecnico-de-enfermagem-na-motolancia-do-samu",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gravatal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gravatal - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFiaXJ1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3VhYmlydWJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc29zLWNhcmdvcw==",
     "orgao": "Prefeitura de Guabiruba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guabiruba-sc-abre-processo-seletivo-para-cadastro-de-reserva-em-diversos-cargos",
@@ -1886,6 +1946,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Joaquim - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvYXF1aW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvYXF1aW0tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de São Joaquim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Joaquim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Joaquim - PR"
   },
