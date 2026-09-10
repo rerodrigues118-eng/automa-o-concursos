@@ -255,9 +255,9 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "VHJhbnNwZXRybyAtIFBldHJvYnJhcyBUcmFuc3BvcnRlIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyYW5zcGV0cm8tcHVibGljYS1lZGl0YWlzLXJldGlmaWNhZG9zLWRlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
+    "id": "VHJhbnNwZXRybyAtIFBldHJvYnJhcyBUcmFuc3BvcnRlIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyYW5zcGV0cm8tcHVibGljYS1yZXRpZmljYWNvZXMtZGUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
     "orgao": "Transpetro - Petrobras Transporte S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-editais-retificados-de-processos-seletivos-para-diversos-cargos",
+    "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -990,6 +990,21 @@
     "localizacao": "Imbé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFBldHLDs3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcGV0cm9wb2xpcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVjYW5pY28=",
+    "orgao": "Prefeitura de Nova Petrópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-petropolis-rs-abre-processo-seletivo-para-mecanico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Petrópolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Petrópolis - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLXJlZHV0b3ItZGUtZGFub3M=",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-agente-redutor-de-danos",
@@ -1050,6 +1065,21 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRhIFNlcnJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1wZWRyby1kYS1zZXJyYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTA3",
+    "orgao": "Prefeitura de São Pedro da Serra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-da-serra-rs-abre-concurso-publico-com-salarios-de-ate-7907",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro da Serra",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro da Serra - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9yb3BpLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTg5MDA=",
     "orgao": "Prefeitura de Toropi",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toropi-rs-abre-concurso-publico-com-salarios-de-ate-8900",
@@ -1093,6 +1123,21 @@
     "data_encerramento": "15/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tuparendi - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIFJlYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdmFsZS1yZWFsLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Vale Real",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-real-rs-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vale Real",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vale Real - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUG9ydMOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWNhbWFyYS1kZS1wb3J0YW8tcnMtYWJyZW0tY29uY3Vyc29zLXB1YmxpY29zLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
@@ -1391,6 +1436,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "15/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUNTTCAtIEluc3RpdHV0byBDdWx0dXJhbCBkZSBTw6NvIExvdXJlbsOnb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW5zdGl0dXRvLWN1bHR1cmFsLWRlLXNhby1sb3VyZW5jby1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTg1NQ==",
+    "orgao": "ICSL - Instituto Cultural de São Lourenço",
+    "link": "https://www.pciconcursos.com.br/noticias/instituto-cultural-de-sao-lourenco-sc-abre-concurso-com-salarios-de-ate-5855",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
