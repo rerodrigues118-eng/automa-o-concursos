@@ -420,6 +420,36 @@
     "localizacao": "Itaipulândia - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJdmFpcG9yw6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXZhaXBvcmEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTgxMDY=",
+    "orgao": "Prefeitura de Ivaiporã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivaipora-pr-abre-concurso-publico-com-salarios-de-ate-18106",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ivaiporã",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ivaiporã - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJdmFpcG9yw6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXZhaXBvcmEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYWdlbnRlcy1kZS1zYXVkZS1lLWRlLWVuZGVtaWFz",
+    "orgao": "Prefeitura de Ivaiporã",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivaipora-pr-abre-concurso-publico-para-agentes-de-saude-e-de-endemias",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ivaiporã",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ivaiporã - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJpYWx2YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJpYWx2YS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02NzY4",
     "orgao": "Prefeitura de Marialva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marialva-pr-abre-concurso-publico-com-salarios-de-ate-6768",
@@ -566,6 +596,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWNvbGFib3JhZG9yZXMtZW0tZGl2ZXJzYXMtYXJlYXM=",
+    "orgao": "UEM - Universidade Estadual de Maringá",
+    "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-processo-seletivo-para-professores-colaboradores-em-diversas-areas",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
