@@ -465,6 +465,21 @@
     "localizacao": "Nossa Senhora das Graças - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFRlYmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtdGViYXMtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjA2MTY=",
+    "orgao": "Prefeitura de Nova Tebas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-tebas-pr-abre-concurso-publico-com-salarios-de-ate-20616",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Tebas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Tebas - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQacOqbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waWVuLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNzI1Mw==",
     "orgao": "Prefeitura de Piên",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pien-pr-abre-processo-seletivo-com-salarios-de-ate-17253",
@@ -1110,9 +1125,9 @@
     "localizacao": "Portão - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUmVkZW50b3JhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLXJlZGVudG9yYS1ycy1hYnJlbS1lZGl0YWlzLWRlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
+    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUmVkZW50b3JhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWUtY2FtYXJhLWRlLXJlZGVudG9yYS1ycy1wcm9ycm9nYW0taW5zY3JpY29lcy1wYXJhLWNvbmN1cnNvLXB1YmxpY28tZS1wcm9jZXNzby1zZWxldGl2bw==",
     "orgao": "Prefeitura e Câmara de Redentora",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-redentora-rs-abrem-editais-de-concurso-e-processo-seletivo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-redentora-rs-prorrogam-inscricoes-para-concurso-publico-e-processo-seletivo",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Redentora",
@@ -1120,7 +1135,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "11/09/2026",
+    "data_encerramento": "22/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Redentora - PR"
   },
@@ -1391,6 +1406,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "15/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RnVuZGHDp8OjbyBJbm92ZXJzYVN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZnVuZGFjYW8taW5vdmVyc2FzdWwtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyZXMtZGUtc2FsYQ==",
+    "orgao": "Fundação InoversaSul",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-inoversasul-sc-abre-processo-seletivo-para-auxiliares-de-sala",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1783,6 +1813,21 @@
     "data_encerramento": "26/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Otacílio Costa - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBPdXJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW91cm8tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTU5NQ==",
+    "orgao": "Prefeitura de Ouro",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ouro-sc-abre-concurso-publico-com-salarios-de-ate-5595",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ouro",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ouro - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYWxtZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYWxtZWlyYS1zYy1hYnJlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
