@@ -345,6 +345,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCZWxhIFZpc3RhIGRvIFBhcmHDrXNvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJlbGEtdmlzdGEtZG8tcGFyYWlzby1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hc3Npc3RlbnRlLXNvY2lhbC1lLXBzaWNvbG9nbw==",
+    "orgao": "Prefeitura de Bela Vista do Paraíso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-do-paraiso-pr-abre-concurso-publico-para-assistente-social-e-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bela Vista do Paraíso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bela Vista do Paraíso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXN0cm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FzdHJvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLW8tY2FyZ28tZGUtdGVjbmljby1lbS1lbmZlcm1hZ2Vt",
     "orgao": "Prefeitura de Castro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-castro-pr-abre-concurso-publico-para-o-cargo-de-tecnico-em-enfermagem",
@@ -675,6 +690,51 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci12aXNpdGFudGUtZW0tZW5nZW5oYXJpYS1kZS1tYXRlcmlhaXM=",
+    "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
+    "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-processo-seletivo-para-professor-visitante-em-engenharia-de-materiais",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLXZpc2l0YW50ZXMtZS1lc3RyYW5nZWlyb3MtZW0tZW5nZW5oYXJpYS1xdWltaWNh",
+    "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
+    "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-processo-seletivo-para-professores-visitantes-e-estrangeiros-em-engenharia-quimica",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VU5JTEEgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkYSBJbnRlZ3Jhw6fDo28gTGF0aW5vLUFtZXJpY2FuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pbGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci12aXNpdGFudGUtbmEtYXJlYS1kZS1lbmdlbmhhcmlhLWRlLW1hdGVyaWFpcw==",
+    "orgao": "UNILA - Universidade Federal da Integração Latino-Americana",
+    "link": "https://www.pciconcursos.com.br/noticias/unila-pr-abre-processo-seletivo-para-professor-visitante-na-area-de-engenharia-de-materiais",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VU5JT0VTVEUgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gT2VzdGUgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdW5pb2VzdGUtcHItcmV0aWZpY2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1kZS1lbnNpbm8tc3VwZXJpb3I=",
     "orgao": "UNIOESTE - Universidade Estadual do Oeste do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/unioeste-pr-retifica-processo-seletivo-para-professores-de-ensino-superior",
@@ -975,6 +1035,21 @@
     "localizacao": "Nova Petrópolis - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYW50YW5vIEdyYW5kZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYW50YW5vLWdyYW5kZS1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Pantano Grande",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pantano-grande-rs-abre-selecoes-para-a-secretaria-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pantano Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pantano Grande - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLXJlZHV0b3ItZGUtZGFub3M=",
     "orgao": "Prefeitura de Pelotas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-selecao-para-agente-redutor-de-danos",
@@ -1106,6 +1181,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "14/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZQZWwgLSBVbml2ZXJzaWRhZGUgRmVkZXJhbCBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnBlbC1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vLWNhcmdvLWRlLXByb2Zlc3Nvci1kby1tYWdpc3RlcmlvLXN1cGVyaW9y",
+    "orgao": "UFPel - Universidade Federal de Pelotas",
+    "link": "https://www.pciconcursos.com.br/noticias/ufpel-rs-abre-concurso-publico-para-o-cargo-de-professor-do-magisterio-superior",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1545,9 +1635,24 @@
     "localizacao": "Guatambu - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBMb250cmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxvbnRyYXMtc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTgxMDU=",
+    "id": "UHJlZmVpdHVyYSBkZSBJbmRhaWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWluZGFpYWwtc2MtcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1wcm9jZXNzby1zZWxldGl2bw==",
+    "orgao": "Prefeitura de Indaial",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indaial-sc-publica-edital-retificado-de-processo-seletivo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Indaial",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Indaial - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBMb250cmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxvbnRyYXMtc2MtZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura de Lontras",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lontras-sc-abre-concurso-com-salarios-de-ate-8105",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lontras-sc-divulga-retificacao-de-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Lontras",
@@ -1575,9 +1680,9 @@
     "localizacao": "Maravilha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNYXNzYXJhbmR1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFzc2FyYW5kdWJhLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yNDcyMg==",
+    "id": "UHJlZmVpdHVyYSBkZSBNYXNzYXJhbmR1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFzc2FyYW5kdWJhLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTI0NzIy",
     "orgao": "Prefeitura de Massaranduba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-massaranduba-sc-abre-concurso-com-salarios-de-ate-24722",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-massaranduba-sc-retifica-edital-de-concurso-com-salarios-de-ate-24722",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Massaranduba",
