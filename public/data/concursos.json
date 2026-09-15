@@ -960,9 +960,9 @@
     "localizacao": "Barão - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXLDo28gZGUgQ290ZWdpcGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFyYW8tZGUtY290ZWdpcGUtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzQ5OQ==",
+    "id": "UHJlZmVpdHVyYSBkZSBCYXLDo28gZGUgQ290ZWdpcGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFyYW8tZGUtY290ZWdpcGUtcnMtYWx0ZXJhLXBlcmlvZG8tZGUtaW5zY3JpY29lcy1wYXJhLWNvbmN1cnNvLXB1YmxpY28=",
     "orgao": "Prefeitura de Barão de Cotegipe",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-de-cotegipe-rs-abre-concurso-publico-com-salarios-de-ate-7499",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-de-cotegipe-rs-altera-periodo-de-inscricoes-para-concurso-publico",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Barão de Cotegipe",
@@ -970,7 +970,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "09/10/2026",
+    "data_encerramento": "30/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Barão de Cotegipe - PR"
   },
@@ -1016,6 +1016,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Canguçu - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW5ndcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYW5ndWN1LXJzLWFicmUtc2VsZWNhby1wYXJhLWVuZ2VuaGVpcm8tY2l2aWwtZS1nZW9sb2dv",
+    "orgao": "Prefeitura de Canguçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cangucu-rs-abre-selecao-para-engenheiro-civil-e-geologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Canguçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canguçu - PR"
   },
@@ -1213,6 +1228,21 @@
     "data_encerramento": "22/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Redentora - PR"
+  },
+  {
+    "id": "VEpSUyAtIFRyaWJ1bmFsIGRlIEp1c3Rpw6dhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdGpycy1yZWFicmUtY29uY3Vyc28tcGFyYS1vdXRvcmdhLWRlLWRlbGVnYWNvZXMtZGUtbm90YXMtZS1kZS1yZWdpc3Rybw==",
+    "orgao": "TJRS - Tribunal de Justiça do Estado do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/tjrs-reabre-concurso-para-outorga-de-delegacoes-de-notas-e-de-registro",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "VEpSUyAtIFRyaWJ1bmFsIGRlIEp1c3Rpw6dhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdGpycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1qdWl6LWRlLWRpcmVpdG8tc3Vic3RpdHV0bw==",
