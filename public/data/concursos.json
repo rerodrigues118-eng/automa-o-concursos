@@ -510,21 +510,6 @@
     "localizacao": "Nova Tebas - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQacOqbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waWVuLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNzI1Mw==",
-    "orgao": "Prefeitura de Piên",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pien-pr-abre-processo-seletivo-com-salarios-de-ate-17253",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Piên",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Piên - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEplcsO0bmltbyBkYSBTZXJyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tamVyb25pbW8tZGEtc2VycmEtcHItYWJyZS12YWdhLXBhcmEtbWVkaWNvLWRhLWVzdHJhdGVnaWEtc2F1ZGUtZGEtZmFtaWxpYQ==",
     "orgao": "Prefeitura de São Jerônimo da Serra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jeronimo-da-serra-pr-abre-vaga-para-medico-da-estrategia-saude-da-familia",
@@ -1005,21 +990,6 @@
     "localizacao": "Canguçu - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIEJpY2Fjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLWJpY2Fjby1ycy1hYnJlLXZhZ2FzLXBhcmEtYWdlbnRlLXZpc2l0YWRvci1kby1waW0=",
-    "orgao": "Prefeitura de Coronel Bicaco",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-bicaco-rs-abre-vagas-para-agente-visitador-do-pim",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Coronel Bicaco",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Coronel Bicaco - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODA1OA==",
     "orgao": "Prefeitura de Estrela",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-rs-abre-concurso-publico-com-salarios-de-ate-8058",
@@ -1035,21 +1005,6 @@
     "localizacao": "Estrela - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJbWLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTY5NQ==",
-    "orgao": "Prefeitura de Imbé",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-abre-processo-seletivo-com-salarios-de-ate-21695",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Imbé",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Imbé - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJbmRlcGVuZMOqbmNpYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbmRlcGVuZGVuY2lhLXJzLWFicmUtc2VsZWNhby1wYXJhLWF1eGlsaWFyLWVtLXNhdWRlLWJ1Y2Fs",
     "orgao": "Prefeitura de Independência",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-independencia-rs-abre-selecao-para-auxiliar-em-saude-bucal",
@@ -1063,21 +1018,6 @@
     "data_encerramento": "18/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Independência - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFBldHLDs3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcGV0cm9wb2xpcy1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVjYW5pY28=",
-    "orgao": "Prefeitura de Nova Petrópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-petropolis-rs-abre-processo-seletivo-para-mecanico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Nova Petrópolis",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Nova Petrópolis - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYW50YW5vIEdyYW5kZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYW50YW5vLWdyYW5kZS1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNhdWRl",
@@ -1635,21 +1575,6 @@
     "localizacao": "Blumenau - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYWxtb25odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FsbW9uLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTczMTQ=",
-    "orgao": "Prefeitura de Calmon",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-calmon-sc-abre-concurso-publico-com-salarios-de-ate-7314",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Calmon",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Calmon - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLXByb3Jyb2dhLWFzLWluc2NyaWNvZXMtZG8tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
     "orgao": "Prefeitura de Chapecó",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-prorroga-as-inscricoes-do-processo-seletivo-para-professores",
@@ -1755,21 +1680,6 @@
     "localizacao": "Guabiruba - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBHdWF0YW1idWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWF0YW1idS1zYy1wdWJsaWNhLWVkaXRhbC1kZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEzMTI1",
-    "orgao": "Prefeitura de Guatambu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guatambu-sc-publica-edital-de-processo-seletivo-com-salarios-de-ate-13125",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Guatambu",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Guatambu - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJbmRhaWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWluZGFpYWwtc2MtcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1wcm9jZXNzby1zZWxldGl2bw==",
     "orgao": "Prefeitura de Indaial",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-indaial-sc-publica-edital-retificado-de-processo-seletivo",
@@ -1828,36 +1738,6 @@
     "data_encerramento": "09/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Massaranduba - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNb3JybyBkYSBGdW1hw6dhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vcnJvLWRhLWZ1bWFjYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1tb3RvcmlzdGE=",
-    "orgao": "Prefeitura de Morro da Fumaça",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-morro-da-fumaca-sc-abre-processo-seletivo-para-o-cargo-de-motorista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Morro da Fumaça",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Morro da Fumaça - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBPcmxlYW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW9ybGVhbnMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtcGFyYS1hLXNlY3JldGFyaWEtZGUtc2F1ZGU=",
-    "orgao": "Prefeitura de Orleans",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orleans-sc-abre-processo-seletivo-com-vagas-para-a-secretaria-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Orleans",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Orleans - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBPdGFjw61saW8gQ29zdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtb3RhY2lsaW8tY29zdGEtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYS1hcmVhLWRhLWVkdWNhY2Fv",
@@ -1950,21 +1830,6 @@
     "localizacao": "Princesa - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLW5lZ3JpbmhvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRlLW5pdmVsLXN1cGVyaW9y",
-    "orgao": "Prefeitura de Rio Negrinho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-abre-processo-seletivo-para-profissionais-de-nivel-superior",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio Negrinho",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Negrinho - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEJlbnRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tYmVudG8tZG8tc3VsLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMDc5NQ==",
     "orgao": "Prefeitura de São Bento do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-bento-do-sul-sc-abre-processo-seletivo-com-salarios-de-ate-20795",
@@ -2053,21 +1918,6 @@
     "data_encerramento": "28/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Ludgero - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
-    "orgao": "Prefeitura de Tangará",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tangara-sc-publica-edital-de-processo-seletivo-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tangará",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tangará - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVbmnDo28gZG8gT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdW5pYW8tZG8tb2VzdGUtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXM=",
