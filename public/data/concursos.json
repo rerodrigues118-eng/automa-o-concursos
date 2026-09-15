@@ -420,6 +420,21 @@
     "localizacao": "Itaipulândia - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFwZWphcmEgRCdPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGFwZWphcmEtZG9lc3RlLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3MtZGUtbml2ZWwtZnVuZGFtZW50YWw=",
+    "orgao": "Prefeitura de Itapejara D'Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapejara-doeste-pr-abre-processo-seletivo-para-diversos-cargos-de-nivel-fundamental",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itapejara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itapejara - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdmFpcG9yw6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXZhaXBvcmEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTgxMDY=",
     "orgao": "Prefeitura de Ivaiporã",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivaipora-pr-abre-concurso-publico-com-salarios-de-ate-18106",
@@ -885,6 +900,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RE1BRSAtIERlcGFydGFtZW50byBNdW5pY2lwYWwgZGUgw4FndWEgZSBFc2dvdG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9kbWFlLXBvcnRvLWFsZWdyZS1ycy1hYnJlLXZhZ2FzLXBhcmEtbW9udGFkb3ItZWxldHJvbWVjYW5pY28tZS10ZWNuaWNvLWVtLXNhbmVhbWVudG8=",
+    "orgao": "DMAE - Departamento Municipal de Água e Esgotos",
+    "link": "https://www.pciconcursos.com.br/noticias/dmae-porto-alegre-rs-abre-vagas-para-montador-eletromecanico-e-tecnico-em-saneamento",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RVBUQyAtIEVtcHJlc2EgUMO6YmxpY2EgZGUgVHJhbnNwb3J0ZSBlIENpcmN1bGHDp8OjbyBTL0FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VwdGMtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTk3ODA=",
     "orgao": "EPTC - Empresa Pública de Transporte e Circulação S/A",
     "link": "https://www.pciconcursos.com.br/noticias/eptc-porto-alegre-rs-abre-concurso-publico-com-salarios-de-ate-9780",
@@ -1185,9 +1215,9 @@
     "localizacao": "Redentora - PR"
   },
   {
-    "id": "VEpSUyAtIFRyaWJ1bmFsIGRlIEp1c3Rpw6dhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdGpycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLTMwLXZhZ2FzLXBhcmEtby1jYXJnby1kZS1qdWl6LWRlLWRpcmVpdG8tc3Vic3RpdHV0bw==",
+    "id": "VEpSUyAtIFRyaWJ1bmFsIGRlIEp1c3Rpw6dhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdGpycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1qdWl6LWRlLWRpcmVpdG8tc3Vic3RpdHV0bw==",
     "orgao": "TJRS - Tribunal de Justiça do Estado do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/tjrs-abre-concurso-publico-com-30-vagas-para-o-cargo-de-juiz-de-direito-substituto",
+    "link": "https://www.pciconcursos.com.br/noticias/tjrs-retifica-concurso-publico-para-o-cargo-de-juiz-de-direito-substituto",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -1413,6 +1443,21 @@
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1pLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-de-enfermagem-i-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYXMtcGFyYS1hc3Npc3RlbnRlLWRlLWNvbXVuaWNhY2FvLXBjZC1lLWF1eGlsaWFyLWRlLWhpZ2llbml6YWNhby1uby1zYW11",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vagas-para-assistente-de-comunicacao-pcd-e-auxiliar-de-higienizacao-no-samu",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -1695,6 +1740,21 @@
     "localizacao": "Indaial - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBKYWJvcsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWphYm9yYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMzgxMw==",
+    "orgao": "Prefeitura de Jaborá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jabora-sc-abre-concurso-publico-com-salarios-de-ate-13813",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Jaborá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Jaborá - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBMb250cmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxvbnRyYXMtc2MtZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura de Lontras",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lontras-sc-divulga-retificacao-de-concurso-publico",
@@ -1961,6 +2021,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VKVVJJIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGUgSnVzdGnDp2EgZSBSZWludGVncmHDp8OjbyBTb2NpYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlanVyaS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtbWVkaWNvLWNsaW5pY28tZ2VyYWw=",
+    "orgao": "SEJURI - Secretaria de Estado de Justiça e Reintegração Social",
+    "link": "https://www.pciconcursos.com.br/noticias/sejuri-sc-abre-processo-seletivo-para-medico-clinico-geral",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
