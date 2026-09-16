@@ -915,6 +915,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBbHRvIEFsZWdyZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHRvLWFsZWdyZS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtcG9ydHVndWVzLWUtaW5nbGVz",
+    "orgao": "Prefeitura de Alto Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-alegre-rs-abre-selecao-para-professor-de-portugues-e-ingles",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Alto Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Alto Alegre - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1hbnVuY2lhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xODk3NA==",
     "orgao": "Prefeitura de Alvorada",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-anuncia-concurso-publico-com-salarios-de-ate-18974",
@@ -1003,6 +1018,21 @@
     "data_encerramento": "22/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canguçu - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDb3F1ZWlyb3MgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvcXVlaXJvcy1kby1zdWwtcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1uaXZlbC1zdXBlcmlvcg==",
+    "orgao": "Prefeitura de Coqueiros do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coqueiros-do-sul-rs-abre-selecao-para-profissionais-de-nivel-superior",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Coqueiros do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Coqueiros do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFc3RyZWxhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVzdHJlbGEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODA1OA==",
@@ -1678,6 +1708,21 @@
     "data_encerramento": "16/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Jaborá - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBKb3PDqSBCb2l0ZXV4aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWpvc2UtYm9pdGV1eC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de José Boiteux",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jose-boiteux-sc-abre-processo-seletivo-para-a-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "José Boiteux",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "José Boiteux - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBMb250cmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxvbnRyYXMtc2MtZGl2dWxnYS1yZXRpZmljYWNhby1kZS1jb25jdXJzby1wdWJsaWNv",
