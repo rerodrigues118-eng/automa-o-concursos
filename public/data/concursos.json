@@ -360,6 +360,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
+    "orgao": "Prefeitura de Balsa Nova",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-o-cargo-de-motorista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Balsa Nova",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Balsa Nova - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCZWxhIFZpc3RhIGRvIFBhcmHDrXNvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJlbGEtdmlzdGEtZG8tcGFyYWlzby1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hc3Npc3RlbnRlLXNvY2lhbC1lLXBzaWNvbG9nbw==",
     "orgao": "Prefeitura de Bela Vista do Paraíso",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-do-paraiso-pr-abre-concurso-publico-para-assistente-social-e-psicologo",
@@ -990,6 +1005,21 @@
     "localizacao": "Barão de Cotegipe - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF0ZW5kZW50ZS1lLW1lcmVuZGVpcm8=",
+    "orgao": "Prefeitura de Boa Vista do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-do-sul-rs-abre-processo-seletivo-para-atendente-e-merendeiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Boa Vista do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Boa Vista do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYWliYXTDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWliYXRlLXJzLWFicmUtc2VsZWNhby1wYXJhLWNpcnVyZ2lhby1kZW50aXN0YS1lLWVuZmVybWVpcm8=",
     "orgao": "Prefeitura de Caibaté",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-selecao-para-cirurgiao-dentista-e-enfermeiro",
@@ -1213,6 +1243,21 @@
     "data_encerramento": "07/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Pedro da Serra - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9ycmVzLXJzLWFudW5jaWEtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "Prefeitura de Torres",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-anuncia-processos-seletivos-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Torres",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Torres - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLXNvY2lhbA==",
@@ -1725,6 +1770,21 @@
     "localizacao": "Indaial - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJcHVtaXJpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcHVtaXJpbS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02OTkw",
+    "orgao": "Prefeitura de Ipumirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipumirim-sc-abre-concurso-publico-com-salarios-de-ate-6990",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ipumirim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ipumirim - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBKYWJvcsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWphYm9yYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMzgxMw==",
     "orgao": "Prefeitura de Jaborá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jabora-sc-abre-concurso-publico-com-salarios-de-ate-13813",
@@ -1965,6 +2025,21 @@
     "localizacao": "São Joaquim - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3NlLXNjLWFicmUtY29uY3Vyc28tY29tLTMwMC12YWdhcy1wYXJhLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8tZXNwZWNpYWw=",
+    "orgao": "Prefeitura de São José",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-abre-concurso-com-300-vagas-para-auxiliares-de-educacao-especial",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEx1ZGdlcm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWx1ZGdlcm8tc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1uYS1zYXVkZQ==",
     "orgao": "Prefeitura de São Ludgero",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-ludgero-sc-abre-selecao-para-cadastro-de-reserva-na-saude",
@@ -1993,6 +2068,21 @@
     "data_encerramento": "24/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "União do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWYXJnZcOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YXJnZWFvLXNjLWFicmUtY29uY3Vyc28tY29tLXZhZ2FzLWltZWRpYXRhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "Prefeitura de Vargeão",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargeao-sc-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vargeão",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vargeão - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWaWRhbCBSYW1vc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12aWRhbC1yYW1vcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01NzYw",
