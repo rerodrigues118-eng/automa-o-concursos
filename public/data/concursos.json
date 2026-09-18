@@ -1425,6 +1425,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBDYXBpbnphbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWNhcGluemFsLXNjLWFudW5jaWEtY29uY3Vyc28tcHVibGljby1wYXJhLWNhcmdvcy1kZS1uaXZlbC1zdXBlcmlvcg==",
+    "orgao": "Câmara de Capinzal",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-capinzal-sc-anuncia-concurso-publico-para-cargos-de-nivel-superior",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Capinzal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Capinzal - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBDb25jw7NyZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtY29uY29yZGlhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWNvbnRhZG9y",
     "orgao": "Câmara de Concórdia",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-concordia-sc-abre-concurso-publico-para-contador",
@@ -2143,6 +2158,36 @@
     "data_encerramento": "16/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIENlcnJpdG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvc2UtZG8tY2Vycml0by1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLWRlLWxpYnJhcw==",
+    "orgao": "Prefeitura de São José do Cerrito",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-cerrito-sc-abre-processo-seletivo-para-professor-de-libras",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José do Cerrito",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José do Cerrito - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHNpY29sb2dv",
+    "orgao": "Prefeitura de São Lourenço do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-lourenco-do-oeste-sc-abre-selecao-para-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Lourenço do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Lourenço do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEx1ZGdlcm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWx1ZGdlcm8tc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1uYS1zYXVkZQ==",
