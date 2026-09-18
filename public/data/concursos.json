@@ -300,21 +300,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "REVQQSAtIERpcmV0b3JpYSBkZSBFZHVjYcOnw6NvIFByZXBhcmF0w7NyaWEgZSBBc3Npc3RlbmNpYWwgKEV4w6lyY2l0bylodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2RlY2V4LWJyYXNpbC1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY29sZWdpb3MtbWlsaXRhcmVz",
-    "orgao": "DEPA - Diretoria de Educação Preparatória e Assistencial (Exército)",
-    "link": "https://www.pciconcursos.com.br/noticias/decex-brasil-divulga-retificacao-de-processo-seletivo-para-colegios-militares",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "RlVOQUkgLSBGdW5kYcOnw6NvIE5hY2lvbmFsIGRvcyBQb3ZvcyBJbmTDrWdlbmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdW5haS1yZXRpZmljYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVzcGVjaWFsaXN0YXMtdGVtcG9yYXJpb3MtZW0tcHJvdGVjYW8tdGVycml0b3JpYWw=",
     "orgao": "FUNAI - Fundação Nacional dos Povos Indígenas",
     "link": "https://www.pciconcursos.com.br/noticias/funai-retifica-processo-seletivo-para-especialistas-temporarios-em-protecao-territorial",
@@ -1215,21 +1200,6 @@
     "localizacao": "Pantano Grande - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFyYWktcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTMxNjU=",
-    "orgao": "Prefeitura de Paraí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-parai-rs-abre-processo-seletivo-com-salarios-de-ate-3165",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Paraí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Paraí - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBpbmhhbC1ncmFuZGUtcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLWNvbWJhdGUtYXMtZW5kZW1pYXM=",
     "orgao": "Prefeitura de Pinhal Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-grande-rs-abre-selecao-para-agente-de-combate-as-endemias",
@@ -1303,21 +1273,6 @@
     "data_encerramento": "24/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Torres - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBWYWxlIGRvIFNvbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12YWxlLWRvLXNvbC1ycy1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLXNvY2lhbA==",
-    "orgao": "Prefeitura de Vale do Sol",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-do-sol-rs-abre-selecao-para-monitor-social",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vale do Sol",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vale do Sol - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWYWxlIFJlYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdmFsZS1yZWFsLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
@@ -1575,36 +1530,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbS1pLWVtLWZsb3JpYW5vcG9saXM=",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-de-enfermagem-i-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYXMtcGFyYS1hc3Npc3RlbnRlLWRlLWNvbXVuaWNhY2FvLXBjZC1lLWF1eGlsaWFyLWRlLWhpZ2llbml6YWNhby1uby1zYW11",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vagas-para-assistente-de-comunicacao-pcd-e-auxiliar-de-higienizacao-no-samu",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLWVuZmVybWVpcm8tZW0tdHViYXJhbw==",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-enfermeiro-em-tubarao",
@@ -1811,21 +1736,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Fraiburgo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtbXVzaWNhbGl6YWNhby1lLWF1eGlsaWFyLWVkdWNhY2lvbmFs",
-    "orgao": "Prefeitura de Fraiburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-para-professor-de-musicalizacao-e-auxiliar-educacional",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Fraiburgo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fraiburgo - PR"
   },
@@ -2085,21 +1995,6 @@
     "localizacao": "São Bento do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIGRvIEl0YXBlcmnDumh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9hby1kby1pdGFwZXJpdS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hZ2VudGVzLWNvbXVuaXRhcmlvcy1kZS1zYXVkZQ==",
-    "orgao": "Prefeitura de São João do Itaperiú",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-itaperiu-sc-abre-selecao-para-agentes-comunitarios-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São João do Itaperiú",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São João do Itaperiú - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb2FvLWRvLW9lc3RlLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
     "orgao": "Prefeitura de São João do Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-oeste-sc-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
@@ -2263,21 +2158,6 @@
     "data_encerramento": "08/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vargeão - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBWaWRhbCBSYW1vc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12aWRhbC1yYW1vcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS01NzYw",
-    "orgao": "Prefeitura de Vidal Ramos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vidal-ramos-sc-abre-concurso-publico-com-salarios-de-ate-5760",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vidal Ramos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "17/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vidal Ramos - PR"
   },
   {
     "id": "U0VGQVogLSBTZWNyZXRhcmlhIGRlIEVzdGFkbyBkYSBGYXplbmRhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZWZhei1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vLWNhcmdvLWRlLWF1ZGl0b3ItZXN0YWR1YWwtZGUtZmluYW5jYXMtcHVibGljYXM=",
