@@ -435,6 +435,21 @@
     "localizacao": "Coronel Vivida - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBEb3V0b3IgVWx5c3Nlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1kb3V0b3ItdWx5c3Nlcy1wci1hYnJlLXNlbGVjYW8tY29tLXNhbGFyaW9zLWRlLWF0ZS0zNDgy",
+    "orgao": "Prefeitura de Doutor Ulysses",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-ulysses-pr-abre-selecao-com-salarios-de-ate-3482",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Doutor Ulysses",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Doutor Ulysses - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBFbsOpYXMgTWFycXVlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lbmVhcy1tYXJxdWVzLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTg2",
     "orgao": "Prefeitura de Enéas Marques",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-eneas-marques-pr-abre-processo-seletivo-com-salarios-de-ate-5986",
@@ -508,6 +523,21 @@
     "data_encerramento": "13/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ivaiporã - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbGluZG9lc3RlLXByLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1yZWdlbnRl",
+    "orgao": "Prefeitura de Lindoeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoeste-pr-abre-selecao-para-professor-regente",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Lindoeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lindoeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNaXJhZG9yaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1pcmFkb3ItcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTUxNTk=",
@@ -613,6 +643,21 @@
     "data_encerramento": "05/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Verê - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgU2lxdWVpcmEgQ2FtcG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZS1tdW5pY2lwaW8tZGUtc2lxdWVpcmEtY2FtcG9zLXByLWFicmVtLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTE2Njgx",
+    "orgao": "Prefeitura e Câmara de Siqueira Campos",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-e-municipio-de-siqueira-campos-pr-abrem-concursos-com-salarios-de-ate-16681",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Siqueira Campos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Siqueira Campos - PR"
   },
   {
     "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLW5hLWFyZWEtZGEtbWVkaWNpbmE=",
@@ -915,6 +960,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q1BEL1VGUkdTIC0gQ2VudHJvIGRlIFByb2Nlc3NhbWVudG8gZGUgRGFkb3MgZGEgVW5pdmVyc2lkYWRlIEZlZGVyYWwgZG8gUmlvIEdyYW5kZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NwZC11ZnJncy1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9ncmFtYWRvci1kZS1yZWRlcw==",
+    "orgao": "CPD/UFRGS - Centro de Processamento de Dados da Universidade Federal do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/cpd-ufrgs-rs-abre-selecao-para-programador-de-redes",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RVBUQyAtIEVtcHJlc2EgUMO6YmxpY2EgZGUgVHJhbnNwb3J0ZSBlIENpcmN1bGHDp8OjbyBTL0FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2VwdGMtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTk3ODA=",
     "orgao": "EPTC - Empresa Pública de Transporte e Circulação S/A",
     "link": "https://www.pciconcursos.com.br/noticias/eptc-porto-alegre-rs-abre-concurso-publico-com-salarios-de-ate-9780",
@@ -945,6 +1005,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "TEFDVCAtIExhYm9yYXTDs3JpbyBkZSBBbsOhbGlzZXMgQ2zDrW5pY2FzIGUgVG94aWNvbMOzZ2ljYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2xhY3QtZmF1cmdzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jb2xldGFkb3ItaQ==",
+    "orgao": "LACT - Laboratório de Análises Clínicas e Toxicológicas",
+    "link": "https://www.pciconcursos.com.br/noticias/lact-faurgs-rs-abre-processo-seletivo-para-coletador-i",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHRvIEFsZWdyZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHRvLWFsZWdyZS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtcG9ydHVndWVzLWUtaW5nbGVz",
     "orgao": "Prefeitura de Alto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-alegre-rs-abre-selecao-para-professor-de-portugues-e-ingles",
@@ -971,6 +1046,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "18/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Alvorada - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Alvorada",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Alvorada",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alvorada - PR"
   },
@@ -1215,6 +1305,21 @@
     "localizacao": "Pinhal Grande - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIEx1Y2VuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWx1Y2VuYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1zZXJ2aWNvcy1nZXJhaXM=",
+    "orgao": "Prefeitura de Presidente Lucena",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-lucena-rs-abre-selecao-para-auxiliar-de-servicos-gerais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Presidente Lucena",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Presidente Lucena - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRhIFNlcnJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1wZWRyby1kYS1zZXJyYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTA3",
     "orgao": "Prefeitura de São Pedro da Serra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-da-serra-rs-abre-concurso-publico-com-salarios-de-ate-7907",
@@ -1243,6 +1348,21 @@
     "data_encerramento": "24/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Torres - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBQYWxtZWlyYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1wYWxtZWlyYXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtby1jYXJnby1kZS1wc2ljb2xvZ28=",
+    "orgao": "Prefeitura de Três Palmeiras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-palmeiras-rs-abre-selecao-para-o-cargo-de-psicologo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Três Palmeiras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Três Palmeiras - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWYWxlIFJlYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdmFsZS1yZWFsLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
@@ -1395,6 +1515,21 @@
     "localizacao": "Ponte Alta - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBSaW8gRm9ydHVuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXJpby1mb3J0dW5hLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1vcGVyYWNpb25hbA==",
+    "orgao": "Câmara de Rio Fortuna",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-rio-fortuna-sc-abre-selecao-para-agente-operacional",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Rio Fortuna",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Fortuna - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFPDo28gSm9hcXVpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXNhby1qb2FxdWltLXNjLXJldGlmaWNhLW8tZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS05ODcw",
     "orgao": "Câmara de Vereadores de São Joaquim",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-joaquim-sc-retifica-o-edital-de-concurso-publico-com-salarios-de-ate-9870",
@@ -1455,6 +1590,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLXByb3Jyb2dhLWluc2NyaWNvZXMtZG8tcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWRlLWNvbXVuaWNhY2FvLWktcGNk",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-do-processo-seletivo-para-assistente-de-comunicacao-i-pcd",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLXBzaWNvbG9nby1uby1oZW1vc2MtZGUtZmxvcmlhbm9wb2xpcw==",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-psicologo-no-hemosc-de-florianopolis",
@@ -1466,6 +1616,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "22/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLWZhcm1hY2V1dGljby1zdXBlcnZpc29yLW5vLWNlcG9u",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-farmaceutico-supervisor-no-cepon",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tYXV4aWxpYXItZGUtcmVndWxhY2FvLW1lZGljYS1lbS1qb2FjYWJh",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-tecnico-auxiliar-de-regulacao-medica-em-joacaba",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2038,6 +2218,21 @@
     "data_encerramento": "28/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Ludgero - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTk5",
+    "orgao": "Prefeitura de Tangará",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tangara-sc-abre-processo-seletivo-com-salarios-de-ate-5199",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tangará",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tangará - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUdW7DoXBvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXR1bmFwb2xpcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1maXNjYWwtZGUtb2JyYXMtZS1wb3N0dXJhcw==",
