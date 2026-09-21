@@ -360,6 +360,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q1JRLTnCqiBSZWdpw6NvIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgUXXDrW1pY2EgZGEgOcKqIFJlZ2nDo28gZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JxLWRhLTktcmVnaWFvLWRvLXBhcmFuYS1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDcyNw==",
+    "orgao": "CRQ-9ª Região - Conselho Regional de Química da 9ª Região do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/crq-da-9-regiao-do-parana-abre-concurso-publico-com-salarios-de-ate-10727",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
     "orgao": "Prefeitura de Balsa Nova",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-o-cargo-de-motorista",
@@ -915,6 +930,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SVBBTSAtIEZhcm3DoWNpYSBkbyBJUEFNIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Zhcm1hY2lhLWRvLWlwYW0tcnMtcHVibGljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "IPAM - Farmácia do IPAM S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/farmacia-do-ipam-rs-publica-edital-de-concurso-publico-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHRvIEFsZWdyZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHRvLWFsZWdyZS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtcG9ydHVndWVzLWUtaW5nbGVz",
     "orgao": "Prefeitura de Alto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-alegre-rs-abre-selecao-para-professor-de-portugues-e-ingles",
@@ -930,9 +960,9 @@
     "localizacao": "Alto Alegre - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1hbnVuY2lhLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xODk3NA==",
+    "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTg5NzQ=",
     "orgao": "Prefeitura de Alvorada",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-anuncia-concurso-publico-com-salarios-de-ate-18974",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-retifica-concurso-publico-com-salarios-de-ate-18974",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Alvorada",
@@ -940,7 +970,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "26/09/2026",
+    "data_encerramento": "18/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alvorada - PR"
   },
@@ -1605,9 +1635,9 @@
     "localizacao": "Coronel Martins - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFcnZhbCBWZWxob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lcnZhbC12ZWxoby1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMjA0NA==",
+    "id": "UHJlZmVpdHVyYSBkZSBFcnZhbCBWZWxob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lcnZhbC12ZWxoby1zYy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjIwNDQ=",
     "orgao": "Prefeitura de Erval Velho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erval-velho-sc-abre-concurso-publico-com-salarios-de-ate-22044",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erval-velho-sc-retifica-concurso-publico-com-salarios-de-ate-22044",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Erval Velho",
