@@ -1,5 +1,20 @@
 [
   {
+    "id": "UE1DIC0gUHJlZmVpdHVyYSBkZSBDdXJpdGliYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdXJpdGliYS1wci1hYnJlLWNvbmN1cnNvcy1wdWJsaWNvcy1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "PMC - Prefeitura de Curitiba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitiba-pr-abre-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "Q1JNIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgTWVkaWNpbmEgZG8gRXN0YWRvIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NybS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02OTk0",
     "orgao": "CRM - Conselho Regional de Medicina do Estado do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/crm-pr-abre-concurso-publico-com-salarios-de-ate-6994",
@@ -388,6 +403,21 @@
     "data_encerramento": "13/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bela Vista do Paraíso - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCcmFzaWzDom5kaWEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJyYXNpbGFuZGlhLWRvLXN1bC1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTEzMA==",
+    "orgao": "Prefeitura de Brasilândia do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brasilandia-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Brasilândia do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasilândia do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXN0cm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FzdHJvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLW8tY2FyZ28tZGUtdGVjbmljby1lbS1lbmZlcm1hZ2Vt",
@@ -913,6 +943,21 @@
     "data_encerramento": "30/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vereadores de Santa Bárbara do Sul - PR"
+  },
+  {
+    "id": "Q29tYW5kbyBkbyA1wrogRGlzdHJpdG8gTmF2YWwgZGEgTWFyaW5oYSBkbyBCcmFzaWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL21hcmluaGEtZG8tYnJhc2lsLTUtZGlzdHJpdG8tbmF2YWwtYWJyZS1zZWxlY2FvLXBhcmEtb2ZpY2lhaXMtbWVkaWNvcy10ZW1wb3Jhcmlvcy1uby1ycw==",
+    "orgao": "Comando do 5º Distrito Naval da Marinha do Brasil",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-5-distrito-naval-abre-selecao-para-oficiais-medicos-temporarios-no-rs",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "Q1BEL1VGUkdTIC0gQ2VudHJvIGRlIFByb2Nlc3NhbWVudG8gZGUgRGFkb3MgZGEgVW5pdmVyc2lkYWRlIEZlZGVyYWwgZG8gUmlvIEdyYW5kZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NwZC11ZnJncy1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9ncmFtYWRvci1kZS1yZWRlcw==",
@@ -1485,9 +1530,9 @@
     "localizacao": "Vereadores de São Joaquim - PR"
   },
   {
-    "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtYWJyZS1jb25jdXJzb3MtcHVibGljb3MtY29tLXNhbGFyaW9zLWRlLWF0ZS0xMjYwMA==",
+    "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtcmV0aWZpY2EtZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3M=",
     "orgao": "CASAN - Companhia Catarinense de Águas e Saneamento",
-    "link": "https://www.pciconcursos.com.br/noticias/casan-sc-abre-concursos-publicos-com-salarios-de-ate-12600",
+    "link": "https://www.pciconcursos.com.br/noticias/casan-sc-retifica-editais-de-concursos-publicos",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -1586,6 +1631,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtc2VsZWNhby1wYXJhLW1vdG9yaXN0YS1uby1oZW1vc2MtZGUtZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-selecao-para-motorista-no-hemosc-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1828,6 +1888,21 @@
     "data_encerramento": "28/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guabiruba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW1pcmltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhbWlyaW0tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTY1MjI=",
+    "orgao": "Prefeitura de Guaramirim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaramirim-sc-abre-processo-seletivo-com-salarios-de-ate-6522",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Guaramirim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Guaramirim - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJbmRhaWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWluZGFpYWwtc2MtcHVibGljYS1lZGl0YWwtcmV0aWZpY2Fkby1kZS1wcm9jZXNzby1zZWxldGl2bw==",
