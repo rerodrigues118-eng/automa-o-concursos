@@ -315,6 +315,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q29tOcK6RE4gLSBDb21hbmRvIGRvIDnCuiBEaXN0cml0byBOYXZhbCBkYSBNYXJpbmhhIGRvIEJyYXNpbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtYW0tZS1yby1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtb2ZpY2lhaXMtdGVtcG9yYXJpb3MtZGUtbml2ZWwtc3VwZXJpb3I=",
+    "orgao": "Com9ºDN - Comando do 9º Distrito Naval da Marinha do Brasil",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "Q1JCaW8tMDEgLSBDb25zZWxobyBSZWdpb25hbCBkZSBCaW9sb2dpYSBkYSAxwqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JiaW8tMDEtc3AtbXQtZS1tcy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03MTgx",
     "orgao": "CRBio-01 - Conselho Regional de Biologia da 1ª Região",
     "link": "https://www.pciconcursos.com.br/noticias/crbio-01-sp-mt-e-ms-abre-concurso-publico-com-salarios-de-ate-7181",
@@ -378,6 +393,21 @@
     "id": "TWFyaW5oYSBkbyBCcmFzaWwgLSBDb21hbmRvIGRvIDTCuiBEaXN0cml0byBOYXZhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtNC1kaXN0cml0by1uYXZhbC1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy10ZW1wb3Jhcmlvcy1jb20tdmFnYXMtZW0tZGlmZXJlbnRlcy1lc3RhZG9z",
     "orgao": "Marinha do Brasil - Comando do 4º Distrito Naval",
     "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "TWFyaW5oYSBkbyBCcmFzaWwgLSBDb21hbmRvIGRvIDfCuiBEaXN0cml0byBOYXZhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtNy1kaXN0cml0by1uYXZhbC1lZGl0YWwtZGUtcHJvY2Vzc28tc2VsZXRpdm8tb2ZlcmVjZS12YWdhcy1kZS1uaXZlbC1zdXBlcmlvci1wYXJhLW9maWNpYWlzLXRlbXBvcmFyaW9z",
+    "orgao": "Marinha do Brasil - Comando do 7º Distrito Naval",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-7-distrito-naval-edital-de-processo-seletivo-oferece-vagas-de-nivel-superior-para-oficiais-temporarios",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -1290,6 +1320,21 @@
     "localizacao": "Independência - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXRhYXJhLXJzLWFicmUtdmFnYXMtcGFyYS1tb25pdG9yZXMtZGUtaW5jbHVzYW8tZXNjb2xhcg==",
+    "orgao": "Prefeitura de Itaara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaara-rs-abre-vagas-para-monitores-de-inclusao-escolar",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itaara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itaara - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdm90aWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdm90aS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDQ0OA==",
     "orgao": "Prefeitura de Ivoti",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ivoti-rs-abre-concurso-publico-com-salarios-de-ate-10448",
@@ -1751,6 +1796,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "19/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "T0dNTyBJdGFqYcOtIC0gw5NyZ8OjbyBHZXN0b3IgZGUgTcOjbyBkZSBPYnJhIGRvIFRyYWJhbGhvIFBvcnR1w6FyaW8gQXZ1bHNvIGRvIFBvcnRvIGRlIEl0YWphw61odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL29nbW8taXRhamFpLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLW5hLWNhdGVnb3JpYS1jYXBhdGF6aWEtYXJydW1hZG9y",
+    "orgao": "OGMO Itajaí - Órgão Gestor de Mão de Obra do Trabalho Portuário Avulso do Porto de Itajaí",
+    "link": "https://www.pciconcursos.com.br/noticias/ogmo-itajai-sc-abre-processo-seletivo-para-cadastro-de-reserva-na-categoria-capatazia-arrumador",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
