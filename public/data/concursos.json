@@ -300,6 +300,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q29tMcK6RE4gLSBDb21hbmRvIGRvIDHCuiBEaXN0cml0byBOYXZhbCBkYSBNYXJpbmhhIGRvIEJyYXNpbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kby0xLWRpc3RyaXRvLW5hdmFsLXJqLW1nLWFicmUtdmFnYXMtcGFyYS1vZmljaWFpcy10ZW1wb3Jhcmlvcy1kZS1uaXZlbC1zdXBlcmlvcg==",
+    "orgao": "Com1ºDN - Comando do 1º Distrito Naval da Marinha do Brasil",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "Q1JCaW8tMDEgLSBDb25zZWxobyBSZWdpb25hbCBkZSBCaW9sb2dpYSBkYSAxwqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JiaW8tMDEtc3AtbXQtZS1tcy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03MTgx",
     "orgao": "CRBio-01 - Conselho Regional de Biologia da 1ª Região",
     "link": "https://www.pciconcursos.com.br/noticias/crbio-01-sp-mt-e-ms-abre-concurso-publico-com-salarios-de-ate-7181",
@@ -315,9 +330,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "RXjDqXJjaXRvIEJyYXNpbGVpcm8gLSBDb21hbmRvIGRhIDExwqogUmVnacOjbyBNaWxpdGFyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb21hbmRvLWRhLTExLXJlZ2lhby1taWxpdGFyLWRmLWdvLXRvLWUtbWctcHJvY2Vzc28tc2VsZXRpdm8tcmVhYnJlLWFzLWluc2NyaWNvZXMtcGFyYS1tZWRpY29zLWVtLWJyYXNpbGlh",
+    "id": "RXjDqXJjaXRvIEJyYXNpbGVpcm8gLSBDb21hbmRvIGRhIDExwqogUmVnacOjbyBNaWxpdGFyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb21hbmRvLWRhLTExLXJlZ2lhby1taWxpdGFyLXByb2Nlc3NvLXNlbGV0aXZvLXJlYWJyZS1hcy1pbnNjcmljb2VzLXBhcmEtbWVkaWNvcy1lbS1icmFzaWxpYQ==",
     "orgao": "Exército Brasileiro - Comando da 11ª Região Militar",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-df-go-to-e-mg-processo-seletivo-reabre-as-inscricoes-para-medicos-em-brasilia",
+    "link": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-processo-seletivo-reabre-as-inscricoes-para-medicos-em-brasilia",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -341,6 +356,36 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "25/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "TWFyaW5oYSBkbyBCcmFzaWwgLSBDb21hbmRvIGRvIDPCuiBEaXN0cml0byBOYXZhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtMy1kaXN0cml0by1uYXZhbC1hYnJlLXZhZ2FzLXBhcmEtb2ZpY2lhaXMtdGVtcG9yYXJpb3M=",
+    "orgao": "Marinha do Brasil - Comando do 3º Distrito Naval",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-3-distrito-naval-abre-vagas-para-oficiais-temporarios",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "TWFyaW5oYSBkbyBCcmFzaWwgLSBDb21hbmRvIGRvIDTCuiBEaXN0cml0byBOYXZhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtNC1kaXN0cml0by1uYXZhbC1hYnJlLXNlbGVjYW8tcGFyYS1vZmljaWFpcy10ZW1wb3Jhcmlvcy1jb20tdmFnYXMtZW0tZGlmZXJlbnRlcy1lc3RhZG9z",
+    "orgao": "Marinha do Brasil - Comando do 4º Distrito Naval",
+    "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-4-distrito-naval-abre-selecao-para-oficiais-temporarios-com-vagas-em-diferentes-estados",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -403,6 +448,21 @@
     "data_encerramento": "21/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "TXVuaWPDrXBpbyBlIEPDom1hcmEgZGUgTm92YSBQcmF0YSBkbyBJZ3Vhw6d1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tdW5pY2lwaW8tZS1jYW1hcmEtZGUtbm92YS1wcmF0YS1kby1pZ3VhY3UtcHItYWJyZW0tY29uY3Vyc29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTI4MjM=",
+    "orgao": "Município e Câmara de Nova Prata do Iguaçu",
+    "link": "https://www.pciconcursos.com.br/noticias/municipio-e-camara-de-nova-prata-do-iguacu-pr-abrem-concursos-com-salarios-de-ate-12823",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Nova Prata do Iguaçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Prata do Iguaçu - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
@@ -1136,6 +1196,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Canguçu - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW5ndcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYW5ndWN1LXJzLWFicmUtc2VsZWNhby1wYXJhLWF1eGlsaWFyLWVtLXNhdWRlLWJ1Y2Fs",
+    "orgao": "Prefeitura de Canguçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cangucu-rs-abre-selecao-para-auxiliar-em-saude-bucal",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Canguçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canguçu - PR"
   },
@@ -1978,6 +2053,21 @@
     "data_encerramento": "29/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Lontras - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXJhdmlsaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyYXZpbGhhLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTc0OA==",
+    "orgao": "Prefeitura de Maravilha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maravilha-sc-abre-concurso-com-salarios-de-ate-15748",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Maravilha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Maravilha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXNzYXJhbmR1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFzc2FyYW5kdWJhLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTI0NzIy",
