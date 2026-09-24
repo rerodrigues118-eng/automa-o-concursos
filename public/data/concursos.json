@@ -555,6 +555,21 @@
     "localizacao": "Castro - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDb2xvbWJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbG9tYm8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTgwNDA=",
+    "orgao": "Prefeitura de Colombo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colombo-pr-abre-processo-seletivo-com-salarios-de-ate-8040",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Colombo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Colombo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIFZpdmlkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLXZpdmlkYS1wci1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTIxNTI1",
     "orgao": "Prefeitura de Coronel Vivida",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-vivida-pr-retifica-edital-de-concurso-publico-com-salarios-de-ate-21525",
@@ -1245,6 +1260,21 @@
     "localizacao": "Charrua - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBEb3V0b3IgTWF1csOtY2lvIENhcmRvc29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG91dG9yLW1hdXJpY2lvLWNhcmRvc28tcnMtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1lbS1lbmZlcm1hZ2Vt",
+    "orgao": "Prefeitura de Doutor Maurício Cardoso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-mauricio-cardoso-rs-abre-selecao-para-tecnico-em-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Doutor Maurício Cardoso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Doutor Maurício Cardoso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW5pIGRhcyBNaXNzw7Vlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFyYW5pLWRhcy1taXNzb2VzLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1wb2xvbmVz",
     "orgao": "Prefeitura de Guarani das Missões",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guarani-das-missoes-rs-abre-selecao-para-professor-de-polones",
@@ -1423,6 +1453,21 @@
     "data_encerramento": "07/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Presidente Lucena - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtdmFnYXMtcGFyYS1jdWlkYWRvci1zb2NpYWwtZS1wcm9mZXNzb3ItZGUtZ2VvZ3JhZmlh",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-vagas-para-cuidador-social-e-professor-de-geografia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRhIFNlcnJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1wZWRyby1kYS1zZXJyYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTA3",
@@ -2293,6 +2338,21 @@
     "data_encerramento": "28/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Paraíso - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWx6aW5ob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oYWx6aW5oby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kYS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de Pinhalzinho",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sc-abre-processo-seletivo-para-profissionais-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhalzinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhalzinho - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQcmluY2VzYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmluY2VzYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjM0NTc=",
