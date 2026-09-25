@@ -435,6 +435,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q8OibWFyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXJpby1henVsLXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS01Mjc1",
+    "orgao": "Câmara de Rio Azul",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-rio-azul-pr-abre-concurso-com-salarios-de-ate-5275",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Rio Azul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Azul - PR"
+  },
+  {
     "id": "Q09OU0FNVSAtIENvbnPDs3JjaW8gZGUgU2HDumRlIGRvcyBNdW5pY8OtcGlvcyBkbyBPZXN0ZSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb25zYW11LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNDAxMQ==",
     "orgao": "CONSAMU - Consórcio de Saúde dos Municípios do Oeste do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/consamu-pr-abre-processo-seletivo-com-salarios-de-ate-14011",
@@ -843,6 +858,21 @@
     "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS10ZXN0ZXMtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzk5Nw==",
     "orgao": "UEM - Universidade Estadual de Maringá",
     "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-testes-seletivos-com-salarios-de-ate-7997",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1zZWxlY2FvLXBhcmEtY2FyZ29zLXRlY25pY29zLWUtbWVkaWNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTc5OTc=",
+    "orgao": "UEM - Universidade Estadual de Maringá",
+    "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-selecao-para-cargos-tecnicos-e-medicos-com-salarios-de-ate-7997",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -1290,6 +1320,21 @@
     "localizacao": "Charrua - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8taW5mYW50aWw=",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-auxiliares-de-educacao-infantil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBEb3V0b3IgTWF1csOtY2lvIENhcmRvc29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZG91dG9yLW1hdXJpY2lvLWNhcmRvc28tcnMtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1lbS1lbmZlcm1hZ2Vt",
     "orgao": "Prefeitura de Doutor Maurício Cardoso",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-doutor-mauricio-cardoso-rs-abre-selecao-para-tecnico-em-enfermagem",
@@ -1410,6 +1455,21 @@
     "localizacao": "Jacutinga - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBMYWplYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhamVhZG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtYmlibGlvdGVjYXJpbw==",
+    "orgao": "Prefeitura de Lajeado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-abre-selecao-para-bibliotecario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Lajeado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lajeado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXF1aW7DqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXF1aW5lLXJzLWFicmUtc2VsZWNhby1wYXJhLW9wZXJhZG9yLWRlLW1hcXVpbmFzLWVzcGVjaWFsaXphZG8=",
     "orgao": "Prefeitura de Maquiné",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-selecao-para-operador-de-maquinas-especializado",
@@ -1511,6 +1571,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtdmFnYS1wYXJhLWF0ZW5kZW50ZS1kZS1mYXJtYWNpYQ==",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-vaga-para-atendente-de-farmacia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
@@ -1875,6 +1950,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXZhZ2EtcGFyYS10ZWNuaWNvLWVtLXJhZGlvdGVyYXBpYS1lbS1mbG9yaWFub3BvbGlz",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-em-radioterapia-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RlVKQU1BIC0gRnVuZGHDp8OjbyBKYXJhZ3VhZW5zZSBkZSBNZWlvIEFtYmllbnRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdWphbWEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtZmlzY2FsLWRlLWJlbS1lc3Rhci1hbmltYWw=",
     "orgao": "FUJAMA - Fundação Jaraguaense de Meio Ambiente",
     "link": "https://www.pciconcursos.com.br/noticias/fujama-sc-abre-concurso-publico-para-fiscal-de-bem-estar-animal",
@@ -2023,6 +2113,21 @@
     "data_encerramento": "22/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Caçador - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWF0ZW5kZW50ZS1kZS1jZW50cmFsLWRvLWNpZGFkYW8=",
+    "orgao": "Prefeitura de Chapecó",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-abre-concurso-publico-para-atendente-de-central-do-cidadao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Chapecó",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Chapecó - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDb25jw7NyZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbmNvcmRpYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kYS1lZHVjYWNhbw==",
