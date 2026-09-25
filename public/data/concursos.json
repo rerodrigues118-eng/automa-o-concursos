@@ -735,6 +735,21 @@
     "localizacao": "Nova Tebas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSZXNlcnZhIGRvIElndWHDp3VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmVzZXJ2YS1kby1pZ3VhY3UtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "Prefeitura de Reserva do Iguaçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-reserva-do-iguacu-pr-abre-processo-seletivo-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Reserva do Iguaçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Reserva do Iguaçu - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRhIEJvYSBWaXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kYS1ib2EtdmlzdGEtcHItYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlcy1jb211bml0YXJpb3MtZGUtc2F1ZGUtZS1kZS1jb21iYXRlLWFzLWVuZGVtaWFz",
     "orgao": "Prefeitura de São José da Boa Vista",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-da-boa-vista-pr-abre-selecao-para-agentes-comunitarios-de-saude-e-de-combate-as-endemias",
@@ -2038,6 +2053,21 @@
     "data_encerramento": "08/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Coronel Martins - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBEaW9uw61zaW8gQ2VycXVlaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWRpb25pc2lvLWNlcnF1ZWlyYS1zYy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjU1MjM=",
+    "orgao": "Prefeitura de Dionísio Cerqueira",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dionisio-cerqueira-sc-abre-selecoes-com-salarios-de-ate-25523",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Dionísio Cerqueira",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Dionísio Cerqueira - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFcnZhbCBWZWxob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lcnZhbC12ZWxoby1zYy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjIwNDQ=",
