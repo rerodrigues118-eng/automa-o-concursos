@@ -555,6 +555,21 @@
     "localizacao": "Brasilândia do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDZXJybyBBenVsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNlcnJvLWF6dWwtcHItYWJyZS1zZWxlY2FvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTM0MDc=",
+    "orgao": "Prefeitura de Cerro Azul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-azul-pr-abre-selecao-com-salarios-de-ate-13407",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cerro Azul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cerro Azul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDb2xvbWJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbG9tYm8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTgwNDA=",
     "orgao": "Prefeitura de Colombo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colombo-pr-abre-processo-seletivo-com-salarios-de-ate-8040",
@@ -780,9 +795,9 @@
     "localizacao": "Verê - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgU2lxdWVpcmEgQ2FtcG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZS1tdW5pY2lwaW8tZGUtc2lxdWVpcmEtY2FtcG9zLXByLWFicmVtLWNvbmN1cnNvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTE2Njgx",
+    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgU2lxdWVpcmEgQ2FtcG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZS1tdW5pY2lwaW8tZGUtc2lxdWVpcmEtY2FtcG9zLXByLXJldGlmaWNhbS1jb25jdXJzb3MtcHVibGljb3M=",
     "orgao": "Prefeitura e Câmara de Siqueira Campos",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-e-municipio-de-siqueira-campos-pr-abrem-concursos-com-salarios-de-ate-16681",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-e-municipio-de-siqueira-campos-pr-retificam-concursos-publicos",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Siqueira Campos",
@@ -1200,6 +1215,21 @@
     "localizacao": "Barão de Cotegipe - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYWliYXTDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWliYXRlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tb3RvcmlzdGE=",
+    "orgao": "Prefeitura de Caibaté",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-processo-seletivo-para-motorista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Caibaté",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Caibaté - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW5ndcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYW5ndWN1LXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTc0NzA=",
     "orgao": "Prefeitura de Canguçu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cangucu-rs-abre-concurso-publico-com-salarios-de-ate-7470",
@@ -1241,6 +1271,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "28/09/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLWRlLWVkdWNhY2FvLWZpc2ljYS1lLWFydGVz",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-vagas-para-professores-de-educacao-fisica-e-artes",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Crissiumal - PR"
   },
@@ -1393,6 +1438,36 @@
     "data_encerramento": "05/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Prata - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBPc8OzcmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW9zb3Jpby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1vLWNhcmdvLWRlLXZpZ2lsYW50ZQ==",
+    "orgao": "Prefeitura de Osório",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-osorio-rs-abre-selecao-para-o-cargo-de-vigilante",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Osório",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Osório - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgZGEgU2VycmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGluaGFsLWRhLXNlcnJhLXJzLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMjIyMw==",
+    "orgao": "Prefeitura de Pinhal da Serra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-da-serra-rs-abre-concurso-com-salarios-de-ate-22223",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pinhal da Serra",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pinhal da Serra - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIEx1Y2VuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWx1Y2VuYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1zZXJ2aWNvcy1nZXJhaXM=",
@@ -1785,9 +1860,9 @@
     "localizacao": "Jaraguá do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBcmFxdWFyaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcmFxdWFyaS1zYy1hYnJlLXZhZ2FzLWVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "id": "UHJlZmVpdHVyYSBkZSBBcmFxdWFyaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcmFxdWFyaS1zYy1yZXRpZmljYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Araquari",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araquari-sc-abre-vagas-em-processo-seletivo-para-professores",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araquari-sc-retifica-processo-seletivo-para-professores",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Araquari",
@@ -1961,6 +2036,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fraiburgo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLXBhcmEtbWVkaWNvcw==",
+    "orgao": "Prefeitura de Fraiburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-com-vagas-para-medicos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fraiburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fraiburgo - PR"
   },
@@ -2235,6 +2325,21 @@
     "localizacao": "Princesa - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1jb20tdmFnYS1wYXJhLWFnZW50ZS1kZS1zZXJ2aWNvcy1nZXJhaXM=",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-com-vaga-para-agente-de-servicos-gerais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEJlbnRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tYmVudG8tZG8tc3VsLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMDc5NQ==",
     "orgao": "Prefeitura de São Bento do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-bento-do-sul-sc-abre-processo-seletivo-com-salarios-de-ate-20795",
@@ -2428,6 +2533,21 @@
     "data_encerramento": "08/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vargeão - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgQmVuZWRpdG8gTm92b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWNhbWFyYS1kZS1iZW5lZGl0by1ub3ZvLXNjLWFicmVtLWNvbmN1cnNvcy1lLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLWRpdmVyc2FzLXZhZ2Fz",
+    "orgao": "Prefeitura e Câmara de Benedito Novo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-benedito-novo-sc-abrem-concursos-e-processos-seletivos-com-diversas-vagas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Benedito Novo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Benedito Novo - PR"
   },
   {
     "id": "U0FGSSAtIENvbnPDs3JjaW8gSW50ZXJtdW5pY2lwYWwgZG8gU2VydmnDp28gU29jaW9hc3Npc3RlbmNpYWwgZGUgQWx0YSBDb21wbGV4aWRhZGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhZmktaXRhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lZHVjYWRvci1zb2NpYWw=",
