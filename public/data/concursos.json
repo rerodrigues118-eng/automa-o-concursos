@@ -600,36 +600,6 @@
     "localizacao": "Coronel Vivida - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBFbsOpYXMgTWFycXVlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1lbmVhcy1tYXJxdWVzLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTg2",
-    "orgao": "Prefeitura de Enéas Marques",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-eneas-marques-pr-abre-processo-seletivo-com-salarios-de-ate-5986",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Enéas Marques",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Enéas Marques - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFpcHVsw6JuZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YWlwdWxhbmRpYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTA3Mw==",
-    "orgao": "Prefeitura de Itaipulândia",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itaipulandia-pr-abre-concurso-publico-com-salarios-de-ate-15073",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itaipulândia",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itaipulândia - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFwZWphcmEgRCdPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGFwZWphcmEtZG9lc3RlLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3MtZGUtbml2ZWwtZnVuZGFtZW50YWw=",
     "orgao": "Prefeitura de Itapejara D'Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapejara-doeste-pr-abre-processo-seletivo-para-diversos-cargos-de-nivel-fundamental",
@@ -808,21 +778,6 @@
     "data_encerramento": "27/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Siqueira Campos - PR"
-  },
-  {
-    "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLW5hLWFyZWEtZGEtbWVkaWNpbmE=",
-    "orgao": "UEM - Universidade Estadual de Maringá",
-    "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-processo-seletivo-para-professores-na-area-da-medicina",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWNvbGFib3JhZG9yZXMtZW0tZGl2ZXJzYXMtYXJlYXM=",
@@ -1065,21 +1020,6 @@
     "localizacao": "Alvorada - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBHdWFwb3LDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWd1YXBvcmUtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYWdlbnRlLWFkbWluaXN0cmF0aXZvLWUtdGVjbmljby1sZWdpc2xhdGl2bw==",
-    "orgao": "Câmara de Guaporé",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-guapore-rs-abre-concurso-publico-para-agente-administrativo-e-tecnico-legislativo",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Guaporé",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Guaporé - PR"
-  },
-  {
     "id": "Q8OibWFyYSBkZSBQaXJhdGluaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBpcmF0aW5pLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWNvbnRhZG9yLW9maWNpYWwtbGVnaXNsYXRpdm8tZS1zZXJ2ZW50ZQ==",
     "orgao": "Câmara de Piratini",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-piratini-rs-abre-concurso-publico-para-contador-oficial-legislativo-e-servente",
@@ -1258,21 +1198,6 @@
     "data_encerramento": "30/09/2026",
     "status": "Inscrições abertas",
     "localizacao": "Canguçu - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8taW5mYW50aWw=",
-    "orgao": "Prefeitura de Crissiumal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-auxiliares-de-educacao-infantil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Crissiumal",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Crissiumal - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS12YWdhcy1wYXJhLXByb2Zlc3NvcmVzLWRlLWVkdWNhY2FvLWZpc2ljYS1lLWFydGVz",
@@ -1483,21 +1408,6 @@
     "data_encerramento": "07/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Presidente Lucena - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtdmFnYXMtcGFyYS1jdWlkYWRvci1zb2NpYWwtZS1wcm9mZXNzb3ItZGUtZ2VvZ3JhZmlh",
-    "orgao": "Prefeitura de Santo Antônio da Patrulha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-vagas-para-cuidador-social-e-professor-de-geografia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Santo Antônio da Patrulha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtdmFnYS1wYXJhLWF0ZW5kZW50ZS1kZS1mYXJtYWNpYQ==",
@@ -1905,21 +1815,6 @@
     "localizacao": "Barra Bonita - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ibHVtZW5hdS1zYy1wdWJsaWNhLWVkaXRhaXMtZGUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de Blumenau",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-publica-editais-de-processos-seletivos-para-profissionais-da-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Blumenau",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Blumenau - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYcOnYWRvcmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWNhZG9yLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de Caçador",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cacador-sc-abre-selecao-para-cadastro-de-reserva-na-educacao",
@@ -2010,21 +1905,6 @@
     "localizacao": "Erval Velho - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLWNvbnRyYXRhY2FvLWRlLWFnZW50ZS1vcGVyYWNpb25hbA==",
-    "orgao": "Prefeitura de Fraiburgo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-para-a-contratacao-de-agente-operacional",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Fraiburgo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Fraiburgo - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
     "orgao": "Prefeitura de Fraiburgo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-selecao-para-o-cargo-de-motorista",
@@ -2083,21 +1963,6 @@
     "data_encerramento": "22/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Gaspar - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBHdWFiaXJ1YmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3VhYmlydWJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc29zLWNhcmdvcw==",
-    "orgao": "Prefeitura de Guabiruba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guabiruba-sc-abre-processo-seletivo-para-cadastro-de-reserva-em-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Guabiruba",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Guabiruba - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW1pcmltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhbWlyaW0tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTY1MjI=",
@@ -2280,21 +2145,6 @@
     "localizacao": "Paraíso - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQYXJhw61zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJhaXNvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
-    "orgao": "Prefeitura de Paraíso",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-paraiso-sc-abre-processo-seletivo-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Paraíso",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Paraíso - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWx6aW5ob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oYWx6aW5oby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kYS1lZHVjYWNhbw==",
     "orgao": "Prefeitura de Pinhalzinho",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sc-abre-processo-seletivo-para-profissionais-da-educacao",
@@ -2310,21 +2160,6 @@
     "localizacao": "Pinhalzinho - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQcmluY2VzYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmluY2VzYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjM0NTc=",
-    "orgao": "Prefeitura de Princesa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-princesa-sc-abre-processo-seletivo-com-salarios-de-ate-23457",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Princesa",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Princesa - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1jb20tdmFnYS1wYXJhLWFnZW50ZS1kZS1zZXJ2aWNvcy1nZXJhaXM=",
     "orgao": "Prefeitura de Rancho Queimado",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-com-vaga-para-agente-de-servicos-gerais",
@@ -2338,21 +2173,6 @@
     "data_encerramento": "01/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rancho Queimado - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEJlbnRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tYmVudG8tZG8tc3VsLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMDc5NQ==",
-    "orgao": "Prefeitura de São Bento do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-bento-do-sul-sc-abre-processo-seletivo-com-salarios-de-ate-20795",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Bento do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Bento do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ5",
@@ -2443,21 +2263,6 @@
     "data_encerramento": "10/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Lourenço do Oeste - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEx1ZGdlcm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWx1ZGdlcm8tc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1uYS1zYXVkZQ==",
-    "orgao": "Prefeitura de São Ludgero",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-ludgero-sc-abre-selecao-para-cadastro-de-reserva-na-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Ludgero",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "28/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Ludgero - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTk5",
