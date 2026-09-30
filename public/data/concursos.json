@@ -600,6 +600,36 @@
     "localizacao": "Coronel Vivida - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGbG9yIGRhIFNlcnJhIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mbG9yLWRhLXNlcnJhLWRvLXN1bC1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDk2OQ==",
+    "orgao": "Prefeitura de Flor da Serra do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-flor-da-serra-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-4969",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Flor da Serra do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Flor da Serra do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGcmFuY2lzY28gQWx2ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhbmNpc2NvLWFsdmVzLXByLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
+    "orgao": "Prefeitura de Francisco Alves",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-francisco-alves-pr-publica-edital-de-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Francisco Alves",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Francisco Alves - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFwb3JlbWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3VhcG9yZW1hLXByLWFicmUtc2VsZWNhby1wYXJhLWZpc2lvdGVyYXBldXRhLWUtbWVkaWNv",
     "orgao": "Prefeitura de Guaporema",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaporema-pr-abre-selecao-para-fisioterapeuta-e-medico",
@@ -1395,6 +1425,21 @@
     "localizacao": "Maquiné - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYXF1aW7DqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXF1aW5lLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtZWR1Y2FjYW8tZmlzaWNh",
+    "orgao": "Prefeitura de Maquiné",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-processo-seletivo-para-professor-de-educacao-fisica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Maquiné",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Maquiné - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJhdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXJhdS1ycy1hYnJlLW9pdG8tcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc2FzLWFyZWFz",
     "orgao": "Prefeitura de Marau",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marau-rs-abre-oito-processos-seletivos-para-diversas-areas",
@@ -1905,6 +1950,21 @@
     "localizacao": "Barra Bonita - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNhdWRl",
+    "orgao": "Prefeitura de Braço do Norte",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-selecao-para-a-secretaria-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Braço do Norte",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Braço do Norte - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYcOnYWRvcmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWNhZG9yLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de Caçador",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cacador-sc-abre-selecao-para-cadastro-de-reserva-na-educacao",
@@ -2278,6 +2338,36 @@
     "data_encerramento": "01/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rancho Queimado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1jb20tdmFnYS1wYXJhLWFnZW50ZS1vcGVyYWNpb25hbC1p",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-com-vaga-para-agente-operacional-i",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZGFzIEFudGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kYXMtYW50YXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
+    "orgao": "Prefeitura de Rio das Antas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio das Antas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio das Antas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ5",
