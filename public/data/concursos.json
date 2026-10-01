@@ -1020,6 +1020,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VVRGUFIgLSBVbml2ZXJzaWRhZGUgVGVjbm9sw7NnaWNhIEZlZGVyYWwgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdXRmcHItYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtYXN0cm9ub21pYS1lLWZpc2ljYS1lbS1wb250YS1ncm9zc2E=",
+    "orgao": "UTFPR - Universidade Tecnológica Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/utfpr-abre-vaga-para-professor-substituto-de-astronomia-e-fisica-em-ponta-grossa",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTg5NzQ=",
     "orgao": "Prefeitura de Alvorada",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-retifica-concurso-publico-com-salarios-de-ate-18974",
@@ -1091,6 +1106,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZSUyAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaWZycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtZGlyZWl0by1lbS1wb3J0by1hbGVncmU=",
+    "orgao": "IFRS - Instituto Federal de Educação, Ciência e Tecnologia do Rio Grande do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/ifrs-abre-processo-seletivo-para-professor-substituto-de-direito-em-porto-alegre",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1200,6 +1230,21 @@
     "localizacao": "Canguçu - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDZXJybyBMYXJnb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jZXJyby1sYXJnby1ycy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1lbmdlbmhlaXJvLWNpdmlsLWUtdmlzaXRhZG9yLWRvLXBpbQ==",
+    "orgao": "Prefeitura de Cerro Largo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-largo-rs-abre-processos-seletivos-para-engenheiro-civil-e-visitador-do-pim",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cerro Largo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cerro Largo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDb3F1ZWlybyBCYWl4b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3F1ZWlyby1iYWl4by1ycy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Coqueiro Baixo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coqueiro-baixo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -1230,6 +1275,21 @@
     "localizacao": "Crissiumal - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWRlLWVkdWNhY2FvLWluZmFudGlsLWUtZG9zLWFub3MtaW5pY2lhaXM=",
+    "orgao": "Prefeitura de Crissiumal",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-professores-de-educacao-infantil-e-dos-anos-iniciais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Crissiumal",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Crissiumal - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJYmlydWLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pYmlydWJhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hdXhpbGlhci1kZS1lbnNpbm8=",
     "orgao": "Prefeitura de Ibirubá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiruba-rs-abre-processo-seletivo-para-auxiliar-de-ensino",
@@ -1256,6 +1316,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Igrejinha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1tYXRlbWF0aWNh",
+    "orgao": "Prefeitura de Igrejinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-selecao-para-professor-de-matematica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Igrejinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Igrejinha - PR"
   },
@@ -1410,6 +1485,21 @@
     "localizacao": "Osório - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYW5hbWJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbmFtYmktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTM4OA==",
+    "orgao": "Prefeitura de Panambi",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panambi-rs-abre-concurso-publico-com-salarios-de-ate-5388",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Panambi",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Panambi - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWwgZGEgU2VycmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGluaGFsLWRhLXNlcnJhLXJzLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMjIyMw==",
     "orgao": "Prefeitura de Pinhal da Serra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhal-da-serra-rs-abre-concurso-com-salarios-de-ate-22223",
@@ -1468,6 +1558,21 @@
     "data_encerramento": "07/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Pedro da Serra - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9ycmVzLXJzLWFicmUtc2VsZWNvZXMtcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Torres",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-abre-selecoes-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Torres",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Torres - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWYWxlIFJlYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdmFsZS1yZWFsLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
@@ -1785,6 +1890,21 @@
     "localizacao": "Jaraguá do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSDDgWd1YXMgTW9ybmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFndWFzLW1vcm5hcy1zYy1hYnJlLWNvbmN1cnNvLWUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDEwOQ==",
+    "orgao": "Prefeitura de Águas Mornas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aguas-mornas-sc-abre-concurso-e-processo-seletivo-com-salarios-de-ate-10109",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "31/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBcmFxdWFyaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcmFxdWFyaS1zYy1yZXRpZmljYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Araquari",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-araquari-sc-retifica-processo-seletivo-para-professores",
@@ -1903,6 +2023,21 @@
     "data_encerramento": "08/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Coronel Martins - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBEZXNjYW5zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1kZXNjYW5zby1zYy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTk2NQ==",
+    "orgao": "Prefeitura de Descanso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-descanso-sc-abre-processos-seletivos-com-salarios-de-ate-21965",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Descanso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Descanso - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBEaW9uw61zaW8gQ2VycXVlaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWRpb25pc2lvLWNlcnF1ZWlyYS1zYy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjU1MjM=",
@@ -2338,6 +2473,21 @@
     "data_encerramento": "10/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Lourenço do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTZXJyYSBBbHRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNlcnJhLWFsdGEtc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTk5MDM=",
+    "orgao": "Prefeitura de Serra Alta",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-alta-sc-abre-concurso-com-salarios-de-ate-9903",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Serra Alta",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Serra Alta - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTk5",
