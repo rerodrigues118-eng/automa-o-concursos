@@ -1515,6 +1515,21 @@
     "localizacao": "Torres - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmFtYW5kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyYW1hbmRhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1mb25vYXVkaW9sb2dvLWUtdmlzaXRhZG9yLXBpbQ==",
+    "orgao": "Prefeitura de Tramandaí",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tramandai-rs-abre-selecao-para-fonoaudiologo-e-visitador-pim",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tramandaí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tramandaí - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBWYWxlIFJlYWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdmFsZS1yZWFsLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
     "orgao": "Prefeitura de Vale Real",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vale-real-rs-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -2220,6 +2235,21 @@
     "localizacao": "Rio das Antas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kby1zdWwtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Rio do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-sul-sc-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ5",
     "orgao": "Prefeitura de São Domingos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-concurso-publico-com-salarios-de-ate-7949",
@@ -2310,9 +2340,9 @@
     "localizacao": "São Lourenço do Oeste - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTZXJyYSBBbHRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNlcnJhLWFsdGEtc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTk5MDM=",
+    "id": "UHJlZmVpdHVyYSBkZSBTZXJyYSBBbHRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNlcnJhLWFsdGEtc2MtcmV0aWZpY2EtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS05OTAz",
     "orgao": "Prefeitura de Serra Alta",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-alta-sc-abre-concurso-com-salarios-de-ate-9903",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-alta-sc-retifica-concurso-com-salarios-de-ate-9903",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Serra Alta",
