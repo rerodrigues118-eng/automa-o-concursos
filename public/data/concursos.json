@@ -840,21 +840,6 @@
     "localizacao": "Tamarana - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBWZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12ZXJlLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE4OTAw",
-    "orgao": "Prefeitura de Verê",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vere-pr-abre-concurso-publico-com-salarios-de-ate-18900",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Verê",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Verê - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgU2lxdWVpcmEgQ2FtcG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZS1tdW5pY2lwaW8tZGUtc2lxdWVpcmEtY2FtcG9zLXByLXJldGlmaWNhbS1jb25jdXJzb3MtcHVibGljb3M=",
     "orgao": "Prefeitura e Câmara de Siqueira Campos",
     "link": "https://www.pciconcursos.com.br/noticias/camara-e-municipio-de-siqueira-campos-pr-retificam-concursos-publicos",
@@ -986,21 +971,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VVRGUFIgLSBVbml2ZXJzaWRhZGUgVGVjbm9sw7NnaWNhIEZlZGVyYWwgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdXRmcHItYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZW0tZW5nZW5oYXJpYS1hbWJpZW50YWwtZS1zYW5pdGFyaWE=",
-    "orgao": "UTFPR - Universidade Tecnológica Federal do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/utfpr-abre-vaga-para-professor-substituto-em-engenharia-ambiental-e-sanitaria",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1215,21 +1185,6 @@
     "localizacao": "Crissiumal - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtcG9ydHVndWVz",
-    "orgao": "Prefeitura de Igrejinha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-processo-seletivo-para-professor-de-portugues",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Igrejinha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Igrejinha - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1tYXRlbWF0aWNh",
     "orgao": "Prefeitura de Igrejinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-selecao-para-professor-de-matematica",
@@ -1290,21 +1245,6 @@
     "localizacao": "Jacutinga - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBMYWplYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhamVhZG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtYmlibGlvdGVjYXJpbw==",
-    "orgao": "Prefeitura de Lajeado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-abre-selecao-para-bibliotecario",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lajeado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lajeado - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXF1aW7DqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXF1aW5lLXJzLWFicmUtc2VsZWNhby1wYXJhLXZpc2l0YWRvci1kby1waW0=",
     "orgao": "Prefeitura de Maquiné",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-selecao-para-visitador-do-pim",
@@ -1348,21 +1288,6 @@
     "data_encerramento": "06/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Pádua - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFByYXRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtcHJhdGEtcnMtYWJyZS1zZWxlY2FvLXBhcmEtby1jYXJnby1kZS12aXNpdGFkb3ItZG8tcGlt",
-    "orgao": "Prefeitura de Nova Prata",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-prata-rs-abre-selecao-para-o-cargo-de-visitador-do-pim",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Nova Prata",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Nova Prata - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYW5hbWJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbmFtYmktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTM4OA==",
@@ -1590,34 +1515,19 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtcmV0aWZpY2EtZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3M=",
-    "orgao": "CASAN - Companhia Catarinense de Águas e Saneamento",
-    "link": "https://www.pciconcursos.com.br/noticias/casan-sc-retifica-editais-de-concursos-publicos",
-    "categoria": "Outros",
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3NlLXNjLWFicmUtY29uY3Vyc28tY29tLTMwMC12YWdhcy1wYXJhLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8tZXNwZWNpYWw=",
+    "orgao": "Prefeitura de São José",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-abre-concurso-com-300-vagas-para-auxiliares-de-educacao-especial",
+    "categoria": "Administrativo",
     "uf": "PR",
-    "cidade": "Várias",
+    "cidade": "São José",
     "prioridade": false,
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
+    "data_encerramento": "16/10/2026",
     "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VGQVogLSBTZWNyZXRhcmlhIGRlIEVzdGFkbyBkYSBGYXplbmRhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZWZhei1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vLWNhcmdvLWRlLWF1ZGl0b3ItZXN0YWR1YWwtZGUtZmluYW5jYXMtcHVibGljYXM=",
-    "orgao": "SEFAZ - Secretaria de Estado da Fazenda de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/sefaz-sc-abre-concurso-publico-para-o-cargo-de-auditor-estadual-de-financas-publicas",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
+    "localizacao": "São José - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBDYXBpbnphbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWNhcGluemFsLXNjLWFudW5jaWEtY29uY3Vyc28tcHVibGljby1wYXJhLWNhcmdvcy1kZS1uaXZlbC1zdXBlcmlvcg==",
@@ -1693,6 +1603,21 @@
     "data_encerramento": "06/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Fortuna - PR"
+  },
+  {
+    "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtcmV0aWZpY2EtZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3M=",
+    "orgao": "CASAN - Companhia Catarinense de Águas e Saneamento",
+    "link": "https://www.pciconcursos.com.br/noticias/casan-sc-retifica-editais-de-concursos-publicos",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "Q0lTQU1BVkkgLSBDb25zw7NyY2lvIFDDumJsaWNvIEludGVyZmVkZXJhdGl2byBkZSBTYcO6ZGUgZSBNdWx0aWZpbmFsaXTDoXJpbyBkbyBBbHRvIFZhbGUgZG8gSXRhamHDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lzYW1hdmktc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA1MjA=",
@@ -1811,21 +1736,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtdmFnYS1wYXJhLXRlY25pY28tZGUtc2F1ZGUtYnVjYWwtbm8taGVtb3NjLWRlLWZsb3JpYW5vcG9saXM=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-para-tecnico-de-saude-bucal-no-hemosc-de-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1978,21 +1888,6 @@
     "data_encerramento": "21/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Araquari - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBCb25pdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmEtYm9uaXRhLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS04MzQ0",
-    "orgao": "Prefeitura de Barra Bonita",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-bonita-sc-abre-concurso-com-salarios-de-ate-8344",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barra Bonita",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barra Bonita - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBCb25pdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmEtYm9uaXRhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mYXJtYWNldXRpY28=",
@@ -2430,36 +2325,6 @@
     "localizacao": "São Domingos - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvw6NvIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb2FvLWRvLW9lc3RlLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
-    "orgao": "Prefeitura de São João do Oeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-do-oeste-sc-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São João do Oeste",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São João do Oeste - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvYXF1aW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvYXF1aW0tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAzMzA=",
-    "orgao": "Prefeitura de São Joaquim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-concurso-publico-com-salarios-de-ate-10330",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Joaquim",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Joaquim - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvYXF1aW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvYXF1aW0tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de São Joaquim",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -2473,21 +2338,6 @@
     "data_encerramento": "18/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Joaquim - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3NlLXNjLWFicmUtY29uY3Vyc28tY29tLTMwMC12YWdhcy1wYXJhLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8tZXNwZWNpYWw=",
-    "orgao": "Prefeitura de São José",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-abre-concurso-com-300-vagas-para-auxiliares-de-educacao-especial",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São José",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São José - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIExvdXJlbsOnbyBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbG91cmVuY28tZG8tb2VzdGUtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHNpY29sb2dv",
@@ -2533,21 +2383,6 @@
     "data_encerramento": "30/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Serra Alta - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUYW5nYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10YW5nYXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTk5",
-    "orgao": "Prefeitura de Tangará",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tangara-sc-abre-processo-seletivo-com-salarios-de-ate-5199",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tangará",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "05/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tangará - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcm9tYnVkbyBDZW50cmFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyb21idWRvLWNlbnRyYWwtc2MtcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
@@ -2623,6 +2458,21 @@
     "data_encerramento": "27/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Benedito Novo - PR"
+  },
+  {
+    "id": "U0VGQVogLSBTZWNyZXRhcmlhIGRlIEVzdGFkbyBkYSBGYXplbmRhIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZWZhei1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1vLWNhcmdvLWRlLWF1ZGl0b3ItZXN0YWR1YWwtZGUtZmluYW5jYXMtcHVibGljYXM=",
+    "orgao": "SEFAZ - Secretaria de Estado da Fazenda de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/sefaz-sc-abre-concurso-publico-para-o-cargo-de-auditor-estadual-de-financas-publicas",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS12YWdhcy1wYXJhLW1lZGljb3MtZXNwZWNpYWxpc3Rhcw==",
