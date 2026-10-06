@@ -15,6 +15,21 @@
     "localizacao": "Curitiba - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDdXJpdGliYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdXJpdGliYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de Curitiba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitiba-pr-abre-processo-seletivo-com-vagas-para-professores",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "VVRGUFIgLSBVbml2ZXJzaWRhZGUgVGVjbm9sw7NnaWNhIEZlZGVyYWwgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdXRmcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLWxpbmd1aXN0aWNhLWUtaW5nbGVzLWVtLWN1cml0aWJh",
     "orgao": "UTFPR - Universidade Tecnológica Federal do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/utfpr-abre-processo-seletivo-para-professor-substituto-de-linguistica-e-ingles-em-curitiba",
@@ -795,6 +810,21 @@
     "localizacao": "Nova Tebas - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQaXJhcXVhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGlyYXF1YXJhLXByLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtcHJvZmVzc29y",
+    "orgao": "Prefeitura de Piraquara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piraquara-pr-abre-selecao-para-o-cargo-de-professor",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Piraquara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Piraquara - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSZXNlcnZhIGRvIElndWHDp3VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmVzZXJ2YS1kby1pZ3VhY3UtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmE=",
     "orgao": "Prefeitura de Reserva do Iguaçu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-reserva-do-iguacu-pr-abre-processo-seletivo-para-cadastro-de-reserva",
@@ -1170,6 +1200,21 @@
     "localizacao": "Cerro Largo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDb2xpbmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbGluYXMtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTUxMDM=",
+    "orgao": "Prefeitura de Colinas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colinas-rs-abre-concurso-publico-com-salarios-de-ate-15103",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Colinas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Colinas - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDb3F1ZWlybyBCYWl4b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3F1ZWlyby1iYWl4by1ycy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Coqueiro Baixo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coqueiro-baixo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -1198,6 +1243,21 @@
     "data_encerramento": "06/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Crissiumal - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWdyYW1hZG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLWRlZmVzYS1jaXZpbA==",
+    "orgao": "Prefeitura de Gramado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-rs-abre-selecao-para-agente-de-defesa-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gramado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gramado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1tYXRlbWF0aWNh",
@@ -1303,6 +1363,21 @@
     "data_encerramento": "06/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Pádua - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIE1hY2hhZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1tYWNoYWRvLXJzLWFicmUtc2VsZWNhby1wYXJhLWF0ZW5kZW50ZS1kZS1jb25zdWx0b3Jpby1kZW50YXJpbw==",
+    "orgao": "Prefeitura de Novo Machado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-machado-rs-abre-selecao-para-atendente-de-consultorio-dentario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Machado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Machado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYW5hbWJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbmFtYmktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTM4OA==",
@@ -1498,6 +1573,21 @@
     "data_encerramento": "16/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vale Real - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWaWNlbnRlIER1dHJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY2VudGUtZHV0cmEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTA4OQ==",
+    "orgao": "Prefeitura de Vicente Dutra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicente-dutra-rs-abre-concurso-publico-com-salarios-de-ate-9089",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Vicente Dutra",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vicente Dutra - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUG9ydMOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWNhbWFyYS1kZS1wb3J0YW8tcnMtYWJyZW0tY29uY3Vyc29zLXB1YmxpY29zLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
@@ -1781,6 +1871,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "12/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SEVNT1NDIC0gQ2VudHJvIGRlIEhlbWF0b2xvZ2lhIGUgSGVtb3RlcmFwaWEgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1hc3Npc3RlbnRlLWFkbWluaXN0cmF0aXZvLWlpLWVtLWZsb3JpYW5vcG9saXM=",
+    "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-assistente-administrativo-ii-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2100,6 +2205,21 @@
     "localizacao": "Guaramirim - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJbWJpdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJpdHViYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00ODA3",
+    "orgao": "Prefeitura de Imbituba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-concurso-publico-com-salarios-de-ate-4807",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Imbituba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Imbituba - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJcHVtaXJpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcHVtaXJpbS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02OTkw",
     "orgao": "Prefeitura de Ipumirim",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipumirim-sc-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-6990",
@@ -2143,6 +2263,21 @@
     "data_encerramento": "15/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "José Boiteux - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBMb250cmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxvbnRyYXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTgxMDU=",
+    "orgao": "Prefeitura de Lontras",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lontras-sc-abre-processo-seletivo-com-salarios-de-ate-8105",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Lontras",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Lontras - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYWpvciBWaWVpcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFqb3ItdmllaXJhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTg0NDI=",
@@ -2276,6 +2411,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1hcG9pby1hLWFsdW5vcy1jb20tZGVmaWNpZW5jaWE=",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-professor-de-apoio-a-alunos-com-deficiencia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rancho Queimado - PR"
   },
@@ -2458,6 +2608,21 @@
     "data_encerramento": "08/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vargeão - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBXaXRtYXJzdW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtd2l0bWFyc3VtLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de Witmarsum",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-witmarsum-sc-abre-concurso-publico-e-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Witmarsum",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Witmarsum - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgQmVuZWRpdG8gTm92b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWNhbWFyYS1kZS1iZW5lZGl0by1ub3ZvLXNjLWFicmVtLWNvbmN1cnNvcy1lLXByb2Nlc3Nvcy1zZWxldGl2b3MtY29tLWRpdmVyc2FzLXZhZ2Fz",
