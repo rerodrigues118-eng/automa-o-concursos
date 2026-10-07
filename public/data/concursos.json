@@ -420,21 +420,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "VHJhbnNwZXRybyAtIFBldHJvYnJhcyBUcmFuc3BvcnRlIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyYW5zcGV0cm8tcHVibGljYS1yZXRpZmljYWNvZXMtZGUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
-    "orgao": "Transpetro - Petrobras Transporte S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/transpetro-publica-retificacoes-de-processos-seletivos-para-diversos-cargos",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "21/09/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "Q8OibWFyYSBkZSBDYW50YWdhbG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1jYW50YWdhbG8tcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1hc3Nlc3Nvci1qdXJpZGljbw==",
     "orgao": "Câmara de Cantagalo",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-cantagalo-pr-abre-concurso-publico-para-o-cargo-de-assessor-juridico",
@@ -553,21 +538,6 @@
     "data_encerramento": "13/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bela Vista do Paraíso - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCcmFzaWzDom5kaWEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJyYXNpbGFuZGlhLWRvLXN1bC1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTEzMA==",
-    "orgao": "Prefeitura de Brasilândia do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brasilandia-do-sul-pr-abre-processo-seletivo-com-salarios-de-ate-5130",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Brasilândia do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "06/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasilândia do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXNjYXZlbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXNjYXZlbC1wci1hYnJlLXRlc3RlLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzQ3Nw==",
@@ -748,21 +718,6 @@
     "data_encerramento": "13/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ivaiporã - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBMaW5kb2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbGluZG9lc3RlLXByLXJldGlmaWNhLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLXJlZ2VudGU=",
-    "orgao": "Prefeitura de Lindoeste",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lindoeste-pr-retifica-processo-seletivo-para-professor-regente",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lindoeste",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "06/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lindoeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYW5kYWd1YXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hbmRhZ3VhcmktcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYS1wYXJhLXRlY25pY28tZGUtZW5mZXJtYWdlbQ==",
@@ -1230,21 +1185,6 @@
     "localizacao": "Coqueiro Baixo - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDcmlzc2l1bWFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNyaXNzaXVtYWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVzLWRlLWVkdWNhY2FvLWluZmFudGlsLWUtZG9zLWFub3MtaW5pY2lhaXM=",
-    "orgao": "Prefeitura de Crissiumal",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-crissiumal-rs-abre-processo-seletivo-para-professores-de-educacao-infantil-e-dos-anos-iniciais",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Crissiumal",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "06/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Crissiumal - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWdyYW1hZG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLWRlZmVzYS1jaXZpbA==",
     "orgao": "Prefeitura de Gramado",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-rs-abre-selecao-para-agente-de-defesa-civil",
@@ -1348,21 +1288,6 @@
     "data_encerramento": "19/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Maquiné - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFDDoWR1YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZhLXBhZHVhLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZXMtZGUtc2Vydmljb3MtZ2VyYWlzLWUtY29tcGxlbWVudGFyZXM=",
-    "orgao": "Prefeitura de Nova Pádua",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-padua-rs-abre-selecao-para-agentes-de-servicos-gerais-e-complementares",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Nova Pádua",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "06/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Nova Pádua - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIE1hY2hhZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1tYWNoYWRvLXJzLWFicmUtc2VsZWNhby1wYXJhLWF0ZW5kZW50ZS1kZS1jb25zdWx0b3Jpby1kZW50YXJpbw==",
@@ -1693,21 +1618,6 @@
     "data_encerramento": "29/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Jaborá - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBSaW8gRm9ydHVuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXJpby1mb3J0dW5hLXNjLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1vcGVyYWNpb25hbA==",
-    "orgao": "Câmara de Rio Fortuna",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-rio-fortuna-sc-abre-selecao-para-agente-operacional",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Rio Fortuna",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "06/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Fortuna - PR"
   },
   {
     "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtcmV0aWZpY2EtZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3M=",
@@ -2428,21 +2338,6 @@
     "data_encerramento": "14/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rancho Queimado - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZGFzIEFudGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kYXMtYW50YXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
-    "orgao": "Prefeitura de Rio das Antas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-agente-comunitario-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio das Antas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "06/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio das Antas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kby1zdWwtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
