@@ -360,21 +360,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "RXjDqXJjaXRvIEJyYXNpbGVpcm8gLSBDb21hbmRvIGRhIDExwqogUmVnacOjbyBNaWxpdGFyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jb21hbmRvLWRhLTExLXJlZ2lhby1taWxpdGFyLXByb2Nlc3NvLXNlbGV0aXZvLXJlYWJyZS1hcy1pbnNjcmljb2VzLXBhcmEtbWVkaWNvcy1lbS1icmFzaWxpYQ==",
-    "orgao": "Exército Brasileiro - Comando da 11ª Região Militar",
-    "link": "https://www.pciconcursos.com.br/noticias/comando-da-11-regiao-militar-processo-seletivo-reabre-as-inscricoes-para-medicos-em-brasilia",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "TWFyaW5oYSBkbyBCcmFzaWwgLSBDb21hbmRvIGRvIDPCuiBEaXN0cml0byBOYXZhbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbWFyaW5oYS1kby1icmFzaWwtMy1kaXN0cml0by1uYXZhbC1hYnJlLXZhZ2FzLXBhcmEtb2ZpY2lhaXMtdGVtcG9yYXJpb3M=",
     "orgao": "Marinha do Brasil - Comando do 3º Distrito Naval",
     "link": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-3-distrito-naval-abre-vagas-para-oficiais-temporarios",
@@ -750,21 +735,6 @@
     "localizacao": "Mandaguari - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNaXJhZG9yaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1pcmFkb3ItcHItcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
-    "orgao": "Prefeitura de Mirador",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirador-pr-retifica-edital-de-concurso-publico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Mirador",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Mirador - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFRlYmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdmEtdGViYXMtcHItZGl2dWxnYS1yZXRpZmljYWNvZXMtZGUtY29uY3Vyc28tcHVibGljbw==",
     "orgao": "Prefeitura de Nova Tebas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-tebas-pr-divulga-retificacoes-de-concurso-publico",
@@ -1125,21 +1095,6 @@
     "localizacao": "Arvorezinha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXLDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFyYW8tcnMtYWJyZS1jb25jdXJzby1wYXJhLWZpc2NhbC1lLXByb2Zlc3NvcmVz",
-    "orgao": "Prefeitura de Barão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-rs-abre-concurso-para-fiscal-e-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barão - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBCYXLDo28gZGUgQ290ZWdpcGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFyYW8tZGUtY290ZWdpcGUtcnMtYWx0ZXJhLXBlcmlvZG8tZGUtaW5zY3JpY29lcy1wYXJhLWNvbmN1cnNvLXB1YmxpY28=",
     "orgao": "Prefeitura de Barão de Cotegipe",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-de-cotegipe-rs-altera-periodo-de-inscricoes-para-concurso-publico",
@@ -1410,21 +1365,6 @@
     "localizacao": "Porto Alegre - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIEx1Y2VuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWx1Y2VuYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1zZXJ2aWNvcy1nZXJhaXM=",
-    "orgao": "Prefeitura de Presidente Lucena",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-lucena-rs-abre-selecao-para-auxiliar-de-servicos-gerais",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Presidente Lucena",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Presidente Lucena - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gR3JhbmRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1ncmFuZGUtcnMtYWJyZS12YWdhcy1wYXJhLWFzc2lzdGVudGUtc29jaWFsLW51dHJpY2lvbmlzdGEtZS1wc2ljb2xvZ28=",
     "orgao": "Prefeitura de Rio Grande",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-grande-rs-abre-vagas-para-assistente-social-nutricionista-e-psicologo",
@@ -1455,21 +1395,6 @@
     "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRhIFNlcnJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1wZWRyby1kYS1zZXJyYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTA3",
-    "orgao": "Prefeitura de São Pedro da Serra",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-da-serra-rs-abre-concurso-publico-com-salarios-de-ate-7907",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Pedro da Serra",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Pedro da Serra - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tcGVkcm8tZG8tc3VsLXJzLWFicmUtdmFnYS1wYXJhLWFnZW50ZS1kZS1zZXJ2aWNvcy1jb21wbGVtZW50YXJlcy1paQ==",
     "orgao": "Prefeitura de São Pedro do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-abre-vaga-para-agente-de-servicos-complementares-ii",
@@ -1498,21 +1423,6 @@
     "data_encerramento": "10/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Torres - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUcmFtYW5kYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyYW1hbmRhaS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1mb25vYXVkaW9sb2dvLWUtdmlzaXRhZG9yLXBpbQ==",
-    "orgao": "Prefeitura de Tramandaí",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tramandai-rs-abre-selecao-para-fonoaudiologo-e-visitador-pim",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tramandaí",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tramandaí - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBGb3JxdWlsaGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyZXMtZm9ycXVpbGhhcy1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03MDQ1",
@@ -1558,21 +1468,6 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vicente Dutra - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgUG9ydMOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWNhbWFyYS1kZS1wb3J0YW8tcnMtYWJyZW0tY29uY3Vyc29zLXB1YmxpY29zLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
-    "orgao": "Prefeitura e Câmara de Portão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-portao-rs-abrem-concursos-publicos-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Portão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Portão - PR"
   },
   {
     "id": "VEpSUyAtIFRyaWJ1bmFsIGRlIEp1c3Rpw6dhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdGpycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1qdWl6LWRlLWRpcmVpdG8tc3Vic3RpdHV0bw==",
@@ -1796,21 +1691,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "11/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLWZpbmFuY2Vpcm8taS1lbS1mbG9yaWFub3BvbGlz",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-assistente-financeiro-i-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
