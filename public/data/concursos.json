@@ -1530,21 +1530,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtcmV0aWZpY2EtZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3M=",
-    "orgao": "CASAN - Companhia Catarinense de Águas e Saneamento",
-    "link": "https://www.pciconcursos.com.br/noticias/casan-sc-retifica-editais-de-concursos-publicos",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "09/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3NlLXNjLWFicmUtY29uY3Vyc28tY29tLTMwMC12YWdhcy1wYXJhLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8tZXNwZWNpYWw=",
     "orgao": "Prefeitura de São José",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-sc-abre-concurso-com-300-vagas-para-auxiliares-de-educacao-especial",
@@ -1633,6 +1618,21 @@
     "data_encerramento": "06/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Marema - PR"
+  },
+  {
+    "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtcmV0aWZpY2EtZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3M=",
+    "orgao": "CASAN - Companhia Catarinense de Águas e Saneamento",
+    "link": "https://www.pciconcursos.com.br/noticias/casan-sc-retifica-editais-de-concursos-publicos",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "Q0lTQU1BVkkgLSBDb25zw7NyY2lvIFDDumJsaWNvIEludGVyZmVkZXJhdGl2byBkZSBTYcO6ZGUgZSBNdWx0aWZpbmFsaXTDoXJpbyBkbyBBbHRvIFZhbGUgZG8gSXRhamHDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lzYW1hdmktc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTA1MjA=",
