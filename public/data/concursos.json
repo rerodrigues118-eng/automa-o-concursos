@@ -315,6 +315,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "Q8OibWFyYSBkb3MgRGVwdXRhZG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZG9zLWRlcHV0YWRvcy1kZi1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YXMtbGVnaXNsYXRpdm9z",
+    "orgao": "Câmara dos Deputados",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-abre-concurso-publico-para-analistas-legislativos",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Deputados",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "Q29tMcK6RE4gLSBDb21hbmRvIGRvIDHCuiBEaXN0cml0byBOYXZhbCBkYSBNYXJpbmhhIGRvIEJyYXNpbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kby0xLWRpc3RyaXRvLW5hdmFsLXJqLW1nLWFicmUtdmFnYXMtcGFyYS1vZmljaWFpcy10ZW1wb3Jhcmlvcy1kZS1uaXZlbC1zdXBlcmlvcg==",
     "orgao": "Com1ºDN - Comando do 1º Distrito Naval da Marinha do Brasil",
     "link": "https://www.pciconcursos.com.br/noticias/comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior",
@@ -570,21 +585,6 @@
     "localizacao": "Apucarana - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3Rh",
-    "orgao": "Prefeitura de Balsa Nova",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-o-cargo-de-motorista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Balsa Nova",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Balsa Nova - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXNjYXZlbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXNjYXZlbC1wci1hYnJlLXRlc3RlLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzQ3Nw==",
     "orgao": "Prefeitura de Cascavel",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cascavel-pr-abre-teste-seletivo-com-salarios-de-ate-7477",
@@ -643,36 +643,6 @@
     "data_encerramento": "21/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Francisco Alves - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJbsOhY2lvIE1hcnRpbnNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaW5hY2lvLW1hcnRpbnMtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
-    "orgao": "Prefeitura de Inácio Martins",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-inacio-martins-pr-abre-processo-seletivo-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Inácio Martins",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Inácio Martins - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJcmF0aWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcmF0aS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHNpY29sb2dvLWUtdmlnaWE=",
-    "orgao": "Prefeitura de Irati",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irati-pr-abre-processo-seletivo-para-psicologo-e-vigia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Irati",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Irati - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFwZWphcmEgRCdPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGFwZWphcmEtZG9lc3RlLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3MtZGUtbml2ZWwtZnVuZGFtZW50YWw=",
@@ -1050,21 +1020,6 @@
     "localizacao": "Barão de Cotegipe - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXLDo28gZG8gVHJpdW5mb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1iYXJhby1kby10cml1bmZvLXJzLWFicmUtc2VsZWNhby1wYXJhLWRpdmVyc29zLW5pdmVpcy1lc2NvbGFyZXM=",
-    "orgao": "Prefeitura de Barão do Triunfo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-do-triunfo-rs-abre-selecao-para-diversos-niveis-escolares",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barão do Triunfo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barão do Triunfo - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gZG8gTGXDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FwYW8tZG8tbGVhby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ub2F1ZGlvbG9nbw==",
     "orgao": "Prefeitura de Capão do Leão",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capao-do-leao-rs-abre-processo-seletivo-para-fonoaudiologo",
@@ -1320,21 +1275,6 @@
     "localizacao": "Marau - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIE1hY2hhZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1tYWNoYWRvLXJzLWFicmUtc2VsZWNhby1wYXJhLWF0ZW5kZW50ZS1kZS1jb25zdWx0b3Jpby1kZW50YXJpbw==",
-    "orgao": "Prefeitura de Novo Machado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-machado-rs-abre-selecao-para-atendente-de-consultorio-dentario",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Novo Machado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Novo Machado - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQYW5hbWJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbmFtYmktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTM4OA==",
     "orgao": "Prefeitura de Panambi",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panambi-rs-abre-concurso-publico-com-salarios-de-ate-5388",
@@ -1558,21 +1498,6 @@
     "data_encerramento": "19/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vila Nova do Sul - PR"
-  },
-  {
-    "id": "VEpSUyAtIFRyaWJ1bmFsIGRlIEp1c3Rpw6dhIGRvIEVzdGFkbyBkbyBSaW8gR3JhbmRlIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdGpycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1qdWl6LWRlLWRpcmVpdG8tc3Vic3RpdHV0bw==",
-    "orgao": "TJRS - Tribunal de Justiça do Estado do Rio Grande do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/tjrs-retifica-concurso-publico-para-o-cargo-de-juiz-de-direito-substituto",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3NlLXNjLWFicmUtY29uY3Vyc28tY29tLTMwMC12YWdhcy1wYXJhLWF1eGlsaWFyZXMtZGUtZWR1Y2FjYW8tZXNwZWNpYWw=",
@@ -1905,21 +1830,6 @@
     "localizacao": "Major Vieira - PR"
   },
   {
-    "id": "SUNTTCAtIEluc3RpdHV0byBDdWx0dXJhbCBkZSBTw6NvIExvdXJlbsOnb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaW5zdGl0dXRvLWN1bHR1cmFsLWRlLXNhby1sb3VyZW5jby1zYy1hYnJlLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTg1NQ==",
-    "orgao": "ICSL - Instituto Cultural de São Lourenço",
-    "link": "https://www.pciconcursos.com.br/noticias/instituto-cultural-de-sao-lourenco-sc-abre-concurso-com-salarios-de-ate-5855",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SU1BUyAtIEhvc3BpdGFsIE5vc3NhIFNlbmhvcmEgZGEgQ29uY2Vpw6fDo28gKEhOU0MpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1ub3NzYS1zZW5ob3JhLWRhLWNvbmNlaWNhby1zYy1hYnJlLXNlbGVjYW8tcGFyYS1yZXNpZGVuY2lhLW1lZGljYS1lbS1kaXZlcnNhcy1lc3BlY2lhbGlkYWRlcw==",
     "orgao": "IMAS - Hospital Nossa Senhora da Conceição (HNSC)",
     "link": "https://www.pciconcursos.com.br/noticias/hospital-nossa-senhora-da-conceicao-sc-abre-selecao-para-residencia-medica-em-diversas-especialidades",
@@ -2023,36 +1933,6 @@
     "data_encerramento": "21/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Araquari - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBCb25pdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmEtYm9uaXRhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mYXJtYWNldXRpY28=",
-    "orgao": "Prefeitura de Barra Bonita",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-bonita-sc-abre-processo-seletivo-para-farmaceutico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Barra Bonita",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Barra Bonita - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gTm9ydGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tbm9ydGUtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNhdWRl",
-    "orgao": "Prefeitura de Braço do Norte",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-norte-sc-abre-selecao-para-a-secretaria-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Braço do Norte",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Braço do Norte - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYcOnYWRvcmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWNhZG9yLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
@@ -2203,21 +2083,6 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fraiburgo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBHYXJ1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FydXZhLXNjLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtY3VpZGFkb3I=",
-    "orgao": "Prefeitura de Garuva",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garuva-sc-abre-selecao-para-o-cargo-de-cuidador",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Garuva",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Garuva - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHYXNwYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FzcGFyLXNjLWFicmUtY29uY3Vyc28tY29tLXZhZ2FzLXBhcmEtYS1hcmVhLWRhLWVkdWNhY2Fv",
@@ -2458,21 +2323,6 @@
     "data_encerramento": "04/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto União - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1kZS1hcG9pby1hLWFsdW5vcy1jb20tZGVmaWNpZW5jaWE=",
-    "orgao": "Prefeitura de Rancho Queimado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-professor-de-apoio-a-alunos-com-deficiencia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rancho Queimado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rancho Queimado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gQ2FtcG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLWNhbXBvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRhLWVkdWNhY2Fv",
