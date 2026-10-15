@@ -585,6 +585,21 @@
     "localizacao": "Apucarana - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZGEgQXBhcmVjaWRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kYS1hcGFyZWNpZGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFzc2lzdGVudGUtc29jaWFsLWUtbWFlLXNvY2lhbA==",
+    "orgao": "Prefeitura de Boa Vista da Aparecida",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-da-aparecida-pr-abre-processo-seletivo-para-assistente-social-e-mae-social",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Boa Vista da Aparecida",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Boa Vista da Aparecida - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYXNjYXZlbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXNjYXZlbC1wci1hYnJlLXRlc3RlLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzQ3Nw==",
     "orgao": "Prefeitura de Cascavel",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cascavel-pr-abre-teste-seletivo-com-salarios-de-ate-7477",
@@ -763,6 +778,21 @@
     "data_encerramento": "23/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Teixeira Soares - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUaWp1Y2FzIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aWp1Y2FzLWRvLXN1bC1wci1hYnJlLXZhZ2FzLXBhcmEtcHNpY29sb2dvLWUtdGVjbmljby1lbS1zZWd1cmFuY2EtZG8tdHJhYmFsaG8=",
+    "orgao": "Prefeitura de Tijucas do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-do-sul-pr-abre-vagas-para-psicologo-e-tecnico-em-seguranca-do-trabalho",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Tijucas do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Tijucas do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEPDom1hcmEgZGUgU2lxdWVpcmEgQ2FtcG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZS1tdW5pY2lwaW8tZGUtc2lxdWVpcmEtY2FtcG9zLXByLXJldGlmaWNhbS1jb25jdXJzb3MtcHVibGljb3M=",
@@ -1275,6 +1305,36 @@
     "localizacao": "Marau - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNb250ZSBBbGVncmUgZG9zIENhbXBvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tb250ZS1hbGVncmUtZG9zLWNhbXBvcy1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtbWVkaWNvLWUtbnV0cmljaW9uaXN0YQ==",
+    "orgao": "Prefeitura de Monte Alegre dos Campos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-dos-campos-rs-abre-selecoes-para-medico-e-nutricionista",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Monte Alegre dos Campos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Monte Alegre dos Campos - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBNb250ZSBBbGVncmUgZG9zIENhbXBvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tb250ZS1hbGVncmUtZG9zLWNhbXBvcy1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtZWR1Y2FjYW8tZmlzaWNh",
+    "orgao": "Prefeitura de Monte Alegre dos Campos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-dos-campos-rs-abre-selecao-para-professor-de-educacao-fisica",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Monte Alegre dos Campos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Monte Alegre dos Campos - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb25vYWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm9ub2FpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWRlLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Nonoai",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nonoai-rs-abre-processo-seletivo-para-cadastro-de-reserva-de-professores",
@@ -1468,6 +1528,21 @@
     "data_encerramento": "16/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santa Cruz do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tcGVkcm8tZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
+    "orgao": "Prefeitura de São Pedro do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-abre-selecao-para-agente-comunitario-de-saude",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUaW8gSHVnb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aW8taHVnby1ycy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
@@ -1845,6 +1920,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vZmljaWFsLWRlLW1hbnV0ZW5jYW8tbm8taGVtb3NjLWRlLWNoYXBlY28=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-oficial-de-manutencao-no-hemosc-de-chapeco",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3RhLWlpLWVtLWZsb3JpYW5vcG9saXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-o-cargo-de-motorista-ii-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXZhZ2EtcGFyYS1tZWRpY28taW50ZXJ2ZW5jaW9uaXN0YS1lbS1zYW8tam9hcXVpbQ==",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-medico-intervencionista-em-sao-joaquim",
@@ -2188,6 +2293,21 @@
     "data_encerramento": "09/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guaramirim - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJbGhvdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWxob3RhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTExMw==",
+    "orgao": "Prefeitura de Ilhota",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ilhota-sc-publica-edital-de-concurso-publico-com-salarios-de-ate-21113",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ilhota",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ilhota - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJbWJpdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJpdHViYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00ODA3",
