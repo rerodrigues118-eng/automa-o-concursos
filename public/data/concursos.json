@@ -300,21 +300,6 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "QWdTVVMgLSBBZ8OqbmNpYSBCcmFzaWxlaXJhIGRlIEFwb2lvIMOgIEdlc3TDo28gZG8gU1VTaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9hZ3N1cy1yZXRpZmljYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBzaWNvbG9nb3M=",
-    "orgao": "AgSUS - Agência Brasileira de Apoio à Gestão do SUS",
-    "link": "https://www.pciconcursos.com.br/noticias/agsus-retifica-processo-seletivo-para-psicologos",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "16/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "Q8OibWFyYSBkb3MgRGVwdXRhZG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZG9zLWRlcHV0YWRvcy1kZi1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YXMtbGVnaXNsYXRpdm9z",
     "orgao": "Câmara dos Deputados",
     "link": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-abre-concurso-publico-para-analistas-legislativos",
@@ -461,6 +446,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "TUdTIC0gTWluYXMgR2VyYWlzIEFkbWluaXN0cmHDp8OjbyBlIFNlcnZpw6dvcyBTLkEuaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tZ3MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
+    "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -628,6 +628,21 @@
     "data_encerramento": "18/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Colombo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGbG9yZXN0w7Nwb2xpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mbG9yZXN0b3BvbGlzLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE1Mzg5",
+    "orgao": "Prefeitura de Florestópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Florestópolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Florestópolis - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFuY2lzY28gQWx2ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhbmNpc2NvLWFsdmVzLXByLXB1YmxpY2EtZWRpdGFsLWRlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
@@ -1095,6 +1110,21 @@
     "localizacao": "Garibaldi - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJcMOqaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWlwZS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMDc0NQ==",
+    "orgao": "Prefeitura de Ipê",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipe-rs-abre-concurso-publico-com-salarios-de-ate-20745",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ipê",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ipê - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFwdWNhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXB1Y2EtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTQ5NQ==",
     "orgao": "Prefeitura de Itapuca",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-abre-concurso-publico-com-salarios-de-ate-9495",
@@ -1260,6 +1290,21 @@
     "localizacao": "Nonoai - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIEJhc3Nhbm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92YS1iYXNzYW5vLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Nova Bassano",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-bassano-rs-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Bassano",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Bassano - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIEJvYSBWaXN0YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZhLWJvYS12aXN0YS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMjAzOQ==",
     "orgao": "Prefeitura de Nova Boa Vista",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-boa-vista-rs-abre-concurso-publico-com-salarios-de-ate-12039",
@@ -1288,6 +1333,21 @@
     "data_encerramento": "21/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Prata - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIENhYnJhaXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1jYWJyYWlzLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE5MDg5",
+    "orgao": "Prefeitura de Novo Cabrais",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-concurso-publico-com-salarios-de-ate-19089",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Cabrais",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Cabrais - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQYW5hbWJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbmFtYmktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTM4OA==",
@@ -2205,6 +2265,21 @@
     "localizacao": "Imbuia - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJcG9yw6MgZG8gT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXBvcmEtZG8tb2VzdGUtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc29zLXNlbGV0aXZvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTE5MjY1",
+    "orgao": "Prefeitura de Iporã do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Iporã do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Iporã do Oeste - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJcHVtaXJpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcHVtaXJpbS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02OTkw",
     "orgao": "Prefeitura de Ipumirim",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipumirim-sc-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-6990",
@@ -2385,6 +2460,21 @@
     "localizacao": "Porto União - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIENhc3RlbGxvIEJyYW5jb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWNhc3RlbGxvLWJyYW5jby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZW5nZW5oZWlyby1jaXZpbA==",
+    "orgao": "Prefeitura de Presidente Castello Branco",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-castello-branco-sc-abre-processo-seletivo-para-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Presidente Castello Branco",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Presidente Castello Branco - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZGFzIEFudGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kYXMtYW50YXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtbnV0cmljaW9uaXN0YQ==",
     "orgao": "Prefeitura de Rio das Antas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-o-cargo-de-nutricionista",
@@ -2548,6 +2638,21 @@
     "data_encerramento": "21/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Lourenço do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRlIEFsY8OibnRhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLXBlZHJvLWRlLWFsY2FudGFyYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de São Pedro de Alcântara",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro de Alcântara",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro de Alcântara - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTZXJyYSBBbHRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNlcnJhLWFsdGEtc2MtcmV0aWZpY2EtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS05OTAz",
