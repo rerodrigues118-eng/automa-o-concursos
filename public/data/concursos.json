@@ -990,6 +990,21 @@
     "localizacao": "Alvorada - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBbmRyw6kgZGEgUm9jaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYW5kcmUtZGEtcm9jaGEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBlZGFnb2dv",
+    "orgao": "Prefeitura de André da Rocha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andre-da-rocha-rs-abre-processo-seletivo-para-pedagogo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "André da Rocha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "André da Rocha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBcnZvcmV6aW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcnZvcmV6aW5oYS1ycy1yZXRvbWEtY29uY3Vyc28tcHVibGljby1wYXJhLWZpc2NhbC1hbWJpZW50YWwtZS1maXNjYWwtc2FuaXRhcmlv",
     "orgao": "Prefeitura de Arvorezinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arvorezinha-rs-retoma-concurso-publico-para-fiscal-ambiental-e-fiscal-sanitario",
@@ -1018,6 +1033,21 @@
     "data_encerramento": "30/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Barão de Cotegipe - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBCb21odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYm9tLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1zZXJ2aWNvcy1nZXJhaXMtZGUtY29uc3RydWNhby1jaXZpbA==",
+    "orgao": "Prefeitura de Campo Bom",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-bom-rs-abre-processo-seletivo-para-servicos-gerais-de-construcao-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Campo Bom",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Campo Bom - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gZG8gTGXDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FwYW8tZG8tbGVhby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ub2F1ZGlvbG9nbw==",
@@ -1905,6 +1935,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXRlY25pY29zLWVtLWVuZmVybWFnZW0tZS1yYWRpb2xvZ2lh",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-tecnicos-em-enfermagem-e-radiologia",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkNDIC0gRnVuZGHDp8OjbyBDYXRhcmluZW5zZSBkZSBDdWx0dXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdW5kYWNhby1jYXRhcmluZW5zZS1kZS1jdWx0dXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hbmFsaXN0YS1jb250YWRvcg==",
     "orgao": "FCC - Fundação Catarinense de Cultura",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-catarinense-de-cultura-sc-abre-processo-seletivo-para-analista-contador",
@@ -2535,6 +2580,21 @@
     "localizacao": "Rio Negrinho - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG8sIEZNQywgSVBSRVJJTyBlIFNBTUFFaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1uZWdyaW5oby1zYy1lLW9yZ2Fvcy1tdW5pY2lwYWlzLWFicmVtLW5vdm9zLWNvbmN1cnNvcy1wdWJsaWNvcw==",
+    "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio Negrinho",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio Negrinho - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSb2RlaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcm9kZWlvLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
     "orgao": "Prefeitura de Rodeio",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rodeio-sc-abre-processos-seletivos-para-diversos-cargos",
@@ -2801,6 +2861,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1lbS1sYWJvcmF0b3Jpby1lLWFnZW50ZS1hdXhpbGlhci1kZS1zYXVkZS1wdWJsaWNh",
+    "orgao": "SES - Secretaria de Estado da Saúde",
+    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-selecao-para-tecnico-em-laboratorio-e-agente-auxiliar-de-saude-publica",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
