@@ -1005,21 +1005,6 @@
     "localizacao": "Alvorada - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBBbmRyw6kgZGEgUm9jaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYW5kcmUtZGEtcm9jaGEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXBlZGFnb2dv",
-    "orgao": "Prefeitura de André da Rocha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-andre-da-rocha-rs-abre-processo-seletivo-para-pedagogo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "André da Rocha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "André da Rocha - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBBcnZvcmV6aW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcnZvcmV6aW5oYS1ycy1yZXRvbWEtY29uY3Vyc28tcHVibGljby1wYXJhLWZpc2NhbC1hbWJpZW50YWwtZS1maXNjYWwtc2FuaXRhcmlv",
     "orgao": "Prefeitura de Arvorezinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arvorezinha-rs-retoma-concurso-publico-para-fiscal-ambiental-e-fiscal-sanitario",
@@ -1200,66 +1185,6 @@
     "localizacao": "Itapuca - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBKYWN1dGluZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFjdXRpbmdhLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLW9wZXJhZG9yLWRlLW1hcXVpbmFzLWUtZXF1aXBhbWVudG9zLXJvZG92aWFyaW9z",
-    "orgao": "Prefeitura de Jacutinga",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacutinga-rs-abre-concurso-publico-para-operador-de-maquinas-e-equipamentos-rodoviarios",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Jacutinga",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Jacutinga - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBKYWN1dGluZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFjdXRpbmdhLXJzLWFicmUtY29uY3Vyc28tcGFyYS1hZ2VudGVzLWNvbXVuaXRhcmlvcy1kZS1zYXVkZQ==",
-    "orgao": "Prefeitura de Jacutinga",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jacutinga-rs-abre-concurso-para-agentes-comunitarios-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Jacutinga",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Jacutinga - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBMYWplYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWxhamVhZG8tcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLWRlLW1hdGVtYXRpY2E=",
-    "orgao": "Prefeitura de Lajeado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lajeado-rs-abre-selecao-para-professor-de-matematica",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lajeado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lajeado - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNYXF1aW7DqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYXF1aW5lLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3ItZGUtZWR1Y2FjYW8tZmlzaWNh",
-    "orgao": "Prefeitura de Maquiné",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maquine-rs-abre-processo-seletivo-para-professor-de-educacao-fisica",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Maquiné",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Maquiné - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJhdMOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1hcmF0YS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDE2NQ==",
     "orgao": "Prefeitura de Maratá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marata-rs-abre-concurso-publico-com-salarios-de-ate-10165",
@@ -1288,21 +1213,6 @@
     "data_encerramento": "21/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Marau - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNb250ZSBBbGVncmUgZG9zIENhbXBvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tb250ZS1hbGVncmUtZG9zLWNhbXBvcy1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtbWVkaWNvLWUtbnV0cmljaW9uaXN0YQ==",
-    "orgao": "Prefeitura de Monte Alegre dos Campos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-monte-alegre-dos-campos-rs-abre-selecoes-para-medico-e-nutricionista",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Monte Alegre dos Campos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Monte Alegre dos Campos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNb250ZSBBbGVncmUgZG9zIENhbXBvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tb250ZS1hbGVncmUtZG9zLWNhbXBvcy1ycy1hYnJlLXNlbGVjYW8tcGFyYS1wcm9mZXNzb3ItZGUtZWR1Y2FjYW8tZmlzaWNh",
@@ -1605,21 +1515,6 @@
     "localizacao": "Vicente Dutra - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBWaWxhIE5vdmEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpbGEtbm92YS1kby1zdWwtcnMtYWJyZS1zZWxlY2FvLXBhcmEtZmlzY2FsLWRlLXRyaWJ1dG9z",
-    "orgao": "Prefeitura de Vila Nova do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-nova-do-sul-rs-abre-selecao-para-fiscal-de-tributos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vila Nova do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vila Nova do Sul - PR"
-  },
-  {
     "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYXVyZ3MtZS11ZnNtLXJzLWFicmVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1xdWltaWNv",
     "orgao": "UFSM - Universidade Federal de Santa Maria",
     "link": "https://www.pciconcursos.com.br/noticias/faurgs-e-ufsm-rs-abrem-processo-seletivo-para-o-cargo-de-quimico",
@@ -1875,21 +1770,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFudW5jaWEtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLXRlY25pY29zLWVtLWVuZmVybWFnZW0tZS1yYWRpb2xvZ2lh",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-tecnicos-em-enfermagem-e-radiologia",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1lbmZlcm1laXJvLWktbm8tY2Vwb24tZGUtZmxvcmlhbm9wb2xpcw==",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-enfermeiro-i-no-cepon-de-florianopolis",
@@ -1978,21 +1858,6 @@
     "data_encerramento": "22/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Major Vieira - PR"
-  },
-  {
-    "id": "SU1BUyAtIEhvc3BpdGFsIE5vc3NhIFNlbmhvcmEgZGEgQ29uY2Vpw6fDo28gKEhOU0MpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1ub3NzYS1zZW5ob3JhLWRhLWNvbmNlaWNhby1zYy1hYnJlLXNlbGVjYW8tcGFyYS1yZXNpZGVuY2lhLW1lZGljYS1lbS1kaXZlcnNhcy1lc3BlY2lhbGlkYWRlcw==",
-    "orgao": "IMAS - Hospital Nossa Senhora da Conceição (HNSC)",
-    "link": "https://www.pciconcursos.com.br/noticias/hospital-nossa-senhora-da-conceicao-sc-abre-selecao-para-residencia-medica-em-diversas-especialidades",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "SVBSRUFSUk9JTyAtIEluc3RpdHV0byBkZSBQcmV2aWTDqm5jaWEgU29jaWFsIGRvcyBTZXJ2aWRvcmVzIFDDumJsaWNvcyBkbyBNdW5pY8OtcGlvIGRlIEFycm9pbyBUcmludGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lwcmVhcnJvaW8tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1hZ2VudGUtcHJldmlkZW5jaWFyaW8=",
@@ -2340,21 +2205,6 @@
     "localizacao": "Iporã do Oeste - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJcHVtaXJpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcHVtaXJpbS1zYy1kaXZ1bGdhLXJldGlmaWNhY2FvLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02OTkw",
-    "orgao": "Prefeitura de Ipumirim",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipumirim-sc-divulga-retificacao-de-concurso-publico-com-salarios-de-ate-6990",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Ipumirim",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Ipumirim - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFqYcOtaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YWphaS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1uYS1lZHVjYWNhbw==",
     "orgao": "Prefeitura de Itajaí",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itajai-sc-abre-processo-seletivo-para-cadastro-de-reserva-na-educacao",
@@ -2398,21 +2248,6 @@
     "data_encerramento": "27/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Lontras - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNYWpvciBWaWVpcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFqb3ItdmllaXJhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTg0NDI=",
-    "orgao": "Prefeitura de Major Vieira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-concurso-publico-com-salarios-de-ate-8442",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Major Vieira",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Major Vieira - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYWpvciBWaWVpcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFqb3ItdmllaXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
@@ -2831,21 +2666,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "27/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U01TIC0gU2VjcmV0YXJpYSBNdW5pY2lwYWwgZGUgU2HDumRlIGRlIEZsb3JpYW7Ds3BvbGlzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWZsb3JpYW5vcG9saXMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtbWVkaWNvLWRlLWZhbWlsaWEtZS1jb211bmlkYWRl",
-    "orgao": "SMS - Secretaria Municipal de Saúde de Florianópolis",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florianopolis-sc-abre-selecao-para-medico-de-familia-e-comunidade",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "19/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
