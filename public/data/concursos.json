@@ -690,6 +690,21 @@
     "localizacao": "Piraquara - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBRdWVkYXMgZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWVkYXMtZG8taWd1YWN1LXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTExOTk4",
+    "orgao": "Prefeitura de Quedas do Iguaçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-abre-concurso-publico-com-salarios-de-ate-11998",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Quedas do Iguaçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Quedas do Iguaçu - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSZW5hc2NlbsOnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yZW5hc2NlbmNhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
     "orgao": "Prefeitura de Renascença",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-renascenca-pr-abre-processo-seletivo-para-professores",
@@ -990,6 +1005,21 @@
     "localizacao": "Barão de Cotegipe - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCb20gUmV0aXJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ib20tcmV0aXJvLWRvLXN1bC1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDQzMw==",
+    "orgao": "Prefeitura de Bom Retiro do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-do-sul-rs-abre-processo-seletivo-com-salarios-de-ate-4433",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bom Retiro do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bom Retiro do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYWliYXTDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWliYXRlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wc2ljb2xvZ28tZGEtZmFtaWxpYQ==",
     "orgao": "Prefeitura de Caibaté",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-processo-seletivo-para-psicologo-da-familia",
@@ -1123,6 +1153,21 @@
     "data_encerramento": "19/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guaporé - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1kZS1hbm9zLWZpbmFpcw==",
+    "orgao": "Prefeitura de Igrejinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-processo-seletivo-para-professores-de-anos-finais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Igrejinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Igrejinha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJcMOqaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWlwZS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMDc0NQ==",
