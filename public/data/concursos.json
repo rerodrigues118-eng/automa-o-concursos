@@ -570,6 +570,21 @@
     "localizacao": "Apucarana - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtcGVkYWdvZ28=",
+    "orgao": "Prefeitura de Balsa Nova",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-o-cargo-de-pedagogo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Balsa Nova",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Balsa Nova - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCb2EgVmlzdGEgZGEgQXBhcmVjaWRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvYS12aXN0YS1kYS1hcGFyZWNpZGEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFzc2lzdGVudGUtc29jaWFsLWUtbWFlLXNvY2lhbA==",
     "orgao": "Prefeitura de Boa Vista da Aparecida",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-boa-vista-da-aparecida-pr-abre-processo-seletivo-para-assistente-social-e-mae-social",
@@ -1140,6 +1155,21 @@
     "localizacao": "Garibaldi - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHbG9yaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nbG9yaW5oYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yLWRlLXBvcnR1Z3Vlcw==",
+    "orgao": "Prefeitura de Glorinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-glorinha-rs-abre-processo-seletivo-para-professor-de-portugues",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Glorinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Glorinha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFwb3LDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFwb3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
     "orgao": "Prefeitura de Guaporé",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guapore-rs-abre-concurso-publico-para-formacao-de-cadastro-de-reserva",
@@ -1168,6 +1198,21 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Igrejinha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJbWLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1yZXNlcnZhLWVtLWRpdmVyc29zLWNhcmdvcw==",
+    "orgao": "Prefeitura de Imbé",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbe-rs-abre-processo-seletivo-para-formacao-de-cadastro-reserva-em-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Imbé",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Imbé - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJcMOqaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWlwZS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMDc0NQ==",
@@ -1470,6 +1515,21 @@
     "localizacao": "Sinimbu - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUYXF1YXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhcXVhcmktcnMtYWJyZS1zZWxlY2FvLXBhcmEtbW90b3Jpc3Rhcw==",
+    "orgao": "Prefeitura de Taquari",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquari-rs-abre-selecao-para-motoristas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Taquari",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Taquari - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUaW8gSHVnb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aW8taHVnby1ycy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Tio Hugo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -1633,6 +1693,21 @@
     "data_encerramento": "11/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vereadores de Ituporanga - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIFNhbnRpYWdvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXNhbnRpYWdvLWRvLXN1bC1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYXV4aWxpYXItYWRtaW5pc3RyYXRpdm8=",
+    "orgao": "Câmara de Vereadores de Santiago do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-santiago-do-sul-sc-abre-processo-seletivo-para-auxiliar-administrativo",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Santiago do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Santiago do Sul - PR"
   },
   {
     "id": "Q0FTQU4gLSBDb21wYW5oaWEgQ2F0YXJpbmVuc2UgZGUgw4FndWFzIGUgU2FuZWFtZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYW4tc2MtcmV0aWZpY2EtZWRpdGFpcy1kZS1jb25jdXJzb3MtcHVibGljb3M=",
