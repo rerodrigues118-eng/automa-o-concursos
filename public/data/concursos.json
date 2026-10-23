@@ -300,9 +300,9 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "Q8OibWFyYSBkb3MgRGVwdXRhZG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZG9zLWRlcHV0YWRvcy1kZi1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YXMtbGVnaXNsYXRpdm9z",
+    "id": "Q8OibWFyYSBkb3MgRGVwdXRhZG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZG9zLWRlcHV0YWRvcy1kZi1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYW5hbGlzdGFzLWxlZ2lzbGF0aXZvcw==",
     "orgao": "Câmara dos Deputados",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-abre-concurso-publico-para-analistas-legislativos",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-dos-deputados-df-retifica-concurso-publico-para-analistas-legislativos",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Deputados",
@@ -1365,6 +1365,21 @@
     "localizacao": "Novo Cabrais - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIFhpbmd1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW5vdm8teGluZ3UtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODc5Nw==",
+    "orgao": "Prefeitura de Novo Xingu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-xingu-rs-abre-concurso-publico-com-salarios-de-ate-8797",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Novo Xingu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Novo Xingu - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQYW5hbWJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBhbmFtYmktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTM4OA==",
     "orgao": "Prefeitura de Panambi",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-panambi-rs-abre-concurso-publico-com-salarios-de-ate-5388",
@@ -2220,6 +2235,21 @@
     "localizacao": "Luiz Alves - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNYWZyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYWZyYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtaGFiaWxpdGFkb3MtZS1uYW8taGFiaWxpdGFkb3M=",
+    "orgao": "Prefeitura de Mafra",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mafra-sc-abre-processo-seletivo-para-professores-habilitados-e-nao-habilitados",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mafra",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mafra - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJhdmlsaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyYXZpbGhhLXNjLXJldGlmaWNhLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTU3NDg=",
     "orgao": "Prefeitura de Maravilha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-maravilha-sc-retifica-concurso-com-salarios-de-ate-15748",
@@ -2398,6 +2428,21 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Saltinho - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBUZXJlemluaGEgZG8gUHJvZ3Jlc3NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXRlcmV6aW5oYS1kby1wcm9ncmVzc28tc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMDAw",
+    "orgao": "Prefeitura de Santa Terezinha do Progresso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-com-salarios-de-ate-10000",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Terezinha do Progresso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Terezinha do Progresso - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03OTQ5",
