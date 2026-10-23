@@ -705,21 +705,6 @@
     "localizacao": "Quedas do Iguaçu - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSZW5hc2NlbsOnYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yZW5hc2NlbmNhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
-    "orgao": "Prefeitura de Renascença",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-renascenca-pr-abre-processo-seletivo-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Renascença",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Renascença - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvcmdlIGRvIFBhdHJvY8OtbmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3JnZS1kby1wYXRyb2NpbmlvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3Nvcg==",
     "orgao": "Prefeitura de São Jorge do Patrocínio",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jorge-do-patrocinio-pr-abre-concurso-publico-para-professor",
@@ -851,21 +836,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VVRGUFIgLSBVbml2ZXJzaWRhZGUgVGVjbm9sw7NnaWNhIEZlZGVyYWwgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdXRmcHItYWJyZS12YWdhLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZGUtYXN0cm9ub21pYS1lLWZpc2ljYS1lbS1wb250YS1ncm9zc2E=",
-    "orgao": "UTFPR - Universidade Tecnológica Federal do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/utfpr-abre-vaga-para-professor-substituto-de-astronomia-e-fisica-em-ponta-grossa",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1500,21 +1470,6 @@
     "localizacao": "São Pedro do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTaW5pbWJ1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNpbmltYnUtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3Nvci1kZS1lZHVjYWNhby1pbmZhbnRpbA==",
-    "orgao": "Prefeitura de Sinimbu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sinimbu-rs-abre-processo-seletivo-para-professor-de-educacao-infantil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Sinimbu",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Sinimbu - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBUYXF1YXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhcXVhcmktcnMtYWJyZS1zZWxlY2FvLXBhcmEtbW90b3Jpc3Rhcw==",
     "orgao": "Prefeitura de Taquari",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taquari-rs-abre-selecao-para-motoristas",
@@ -1543,21 +1498,6 @@
     "data_encerramento": "16/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tio Hugo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdG9ycmVzLXJzLWFudW5jaWEtc2VsZWNvZXMtcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
-    "orgao": "Prefeitura de Torres",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-torres-rs-anuncia-selecoes-para-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Torres",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Torres - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBWaWNlbnRlIER1dHJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY2VudGUtZHV0cmEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTA4OQ==",
@@ -1815,21 +1755,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vZmljaWFsLWRlLW1hbnV0ZW5jYW8tbm8taGVtb3NjLWRlLWNoYXBlY28=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-oficial-de-manutencao-no-hemosc-de-chapeco",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtbW90b3Jpc3RhLWlpLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-o-cargo-de-motorista-ii-em-florianopolis",
@@ -1856,21 +1781,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "25/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tZWRpY29zLXJlZ3VsYWRvcmVzLWRhcy11cmdlbmNpYXMtbm8tc2FtdQ==",
-    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-medicos-reguladores-das-urgencias-no-samu",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1918,21 +1828,6 @@
     "data_encerramento": "09/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SG9zcGl0YWwgU8OjbyBMdWNhcyBkYSBQcmVmZWl0dXJhIGRlIE1ham9yIFZpZWlyYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tYWpvci12aWVpcmEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmEtbm8taG9zcGl0YWwtc2FvLWx1Y2Fz",
-    "orgao": "Hospital São Lucas da Prefeitura de Major Vieira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva-no-hospital-sao-lucas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Major Vieira",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Major Vieira - PR"
   },
   {
     "id": "SVBSRUFSUk9JTyAtIEluc3RpdHV0byBkZSBQcmV2aWTDqm5jaWEgU29jaWFsIGRvcyBTZXJ2aWRvcmVzIFDDumJsaWNvcyBkbyBNdW5pY8OtcGlvIGRlIEFycm9pbyBUcmludGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lwcmVhcnJvaW8tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1hZ2VudGUtcHJldmlkZW5jaWFyaW8=",
@@ -2038,21 +1933,6 @@
     "data_encerramento": "03/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Bom Jesus - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYcOnYWRvcmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWNhZG9yLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de Caçador",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cacador-sc-abre-selecao-para-cadastro-de-reserva-na-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Caçador",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Caçador - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wb3MgTm92b3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG9zLW5vdm9zLXNjLXB1YmxpY2EtZWRpdGFpcy1kZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
@@ -2173,21 +2053,6 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fraiburgo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBHYXNwYXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FzcGFyLXNjLWFicmUtY29uY3Vyc28tY29tLXZhZ2FzLXBhcmEtYS1hcmVhLWRhLWVkdWNhY2Fv",
-    "orgao": "Prefeitura de Gaspar",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gaspar-sc-abre-concurso-com-vagas-para-a-area-da-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Gaspar",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Gaspar - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFyYW1pcmltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YXJhbWlyaW0tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTY1MjI=",
@@ -2353,21 +2218,6 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Luiz Alves - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNYWpvciBWaWVpcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFqb3ItdmllaXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
-    "orgao": "Prefeitura de Major Vieira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-abre-processo-seletivo-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Major Vieira",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Major Vieira - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBNYXJhdmlsaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFyYXZpbGhhLXNjLXJldGlmaWNhLWNvbmN1cnNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTU3NDg=",
@@ -2653,21 +2503,6 @@
     "data_encerramento": "13/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tijucas - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUcm9tYnVkbyBDZW50cmFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyb21idWRvLWNlbnRyYWwtc2MtcmV0aWZpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28=",
-    "orgao": "Prefeitura de Trombudo Central",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trombudo-central-sc-retifica-edital-de-concurso-publico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Trombudo Central",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "22/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Trombudo Central - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVcnVzc2FuZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdXJ1c3NhbmdhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMzkzMA==",
