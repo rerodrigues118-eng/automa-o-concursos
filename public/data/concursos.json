@@ -720,6 +720,21 @@
     "localizacao": "Quedas do Iguaçu - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBBbcOpbGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLWFtZWxpYS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1mYXJtYWNldXRpY28=",
+    "orgao": "Prefeitura de Santa Amélia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-amelia-pr-abre-processo-seletivo-para-o-cargo-de-farmaceutico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Amélia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Amélia - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvcmdlIGRvIFBhdHJvY8OtbmlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1qb3JnZS1kby1wYXRyb2NpbmlvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3Nvcg==",
     "orgao": "Prefeitura de São Jorge do Patrocínio",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jorge-do-patrocinio-pr-abre-concurso-publico-para-professor",
@@ -855,6 +870,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBJanXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWlqdWktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYXV4aWxpYXItbGVnaXNsYXRpdm8=",
+    "orgao": "Câmara de Ijuí",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-ijui-rs-abre-concurso-publico-para-auxiliar-legislativo",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Ijuí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ijuí - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS10b3JvcGktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYWdlbnRlLWRlLXNlcnZpY29zLWNvbXBsZW1lbnRhcmVz",
     "orgao": "Câmara de Toropi",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-toropi-rs-abre-concurso-publico-para-agente-de-servicos-complementares",
@@ -988,6 +1018,21 @@
     "data_encerramento": "18/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alvorada - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBcnJvaW8gZG8gUGFkcmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYXJyb2lvLWRvLXBhZHJlLXJzLWFicmUtc2VsZWNvZXMtcGFyYS1wcm9mZXNzb3ItZS10ZWNuaWNvLWRlLWVuZmVybWFnZW0=",
+    "orgao": "Prefeitura de Arroio do Padre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arroio-do-padre-rs-abre-selecoes-para-professor-e-tecnico-de-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Arroio do Padre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Arroio do Padre - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBcnZvcmV6aW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcnZvcmV6aW5oYS1ycy1yZXRvbWEtY29uY3Vyc28tcHVibGljby1wYXJhLWZpc2NhbC1hbWJpZW50YWwtZS1maXNjYWwtc2FuaXRhcmlv",
@@ -2745,6 +2790,21 @@
     "localizacao": "Benedito Novo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBlIEZ1bmRhw6fDo28gQ3VsdHVyYWwgZGUgTmF2ZWdhbnRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWZ1bmRhY2FvLWN1bHR1cmFsLWRlLW5hdmVnYW50ZXMtc2MtYWJyZW0tc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0xOTE5OQ==",
+    "orgao": "Prefeitura e Fundação Cultural de Navegantes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-navegantes-sc-abrem-selecoes-com-salarios-de-ate-19199",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "U0FNQVNBIC0gU2VydmnDp28gQXV0w7Rub21vIE11bmljaXBhbCBkZSDDgWd1YSBlIFNhbmVhbWVudG8gQW1iaWVudGFsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYW1hc2EtZGUtdHJlcy1iYXJyYXMtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTUwMA==",
     "orgao": "SAMASA - Serviço Autônomo Municipal de Água e Saneamento Ambiental",
     "link": "https://www.pciconcursos.com.br/noticias/samasa-de-tres-barras-sc-abre-concurso-publico-com-salarios-de-ate-9500",
@@ -2801,6 +2861,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "27/10/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lZGljb3MtZW0tZmxvcmlhbm9wb2xpcy1lLXNhby1qb3Nl",
+    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-medicos-em-florianopolis-e-sao-jose",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
