@@ -660,21 +660,6 @@
     "localizacao": "Ivaí - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBMb2JhdG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbG9iYXRvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLWltZWRpYXRhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
-    "orgao": "Prefeitura de Lobato",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lobato-pr-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Lobato",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Lobato - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBNYWxsZXRodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFsbGV0LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDQ0MA==",
     "orgao": "Prefeitura de Mallet",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mallet-pr-abre-processo-seletivo-com-salarios-de-ate-10440",
@@ -748,21 +733,6 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Jorge do Patrocínio - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUZWl4ZWlyYSBTb2FyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdGVpeGVpcmEtc29hcmVzLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hc3Npc3RlbnRlLXNvY2lhbC1lLXBzaWNvbG9nby1paQ==",
-    "orgao": "Prefeitura de Teixeira Soares",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teixeira-soares-pr-abre-processo-seletivo-para-assistente-social-e-psicologo-ii",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Teixeira Soares",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Teixeira Soares - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUaWp1Y2FzIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aWp1Y2FzLWRvLXN1bC1wci1hYnJlLXZhZ2FzLXBhcmEtcHNpY29sb2dvLWUtdGVjbmljby1lbS1zZWd1cmFuY2EtZG8tdHJhYmFsaG8=",
@@ -990,21 +960,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1lbS1zYW50YW5hLWRvLWxpdnJhbWVudG8=",
-    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-processo-seletivo-para-professor-substituto-em-santana-do-livramento",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHZvcmFkYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbHZvcmFkYS1ycy1yZXRpZmljYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTg5NzQ=",
     "orgao": "Prefeitura de Alvorada",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvorada-rs-retifica-concurso-publico-com-salarios-de-ate-18974",
@@ -1080,21 +1035,6 @@
     "localizacao": "Bom Retiro do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYWliYXTDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYWliYXRlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wc2ljb2xvZ28tZGEtZmFtaWxpYQ==",
-    "orgao": "Prefeitura de Caibaté",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caibate-rs-abre-processo-seletivo-para-psicologo-da-familia",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Caibaté",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Caibaté - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBCb21odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYm9tLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1zZXJ2aWNvcy1nZXJhaXMtZGUtY29uc3RydWNhby1jaXZpbA==",
     "orgao": "Prefeitura de Campo Bom",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-bom-rs-abre-processo-seletivo-para-servicos-gerais-de-construcao-civil",
@@ -1125,36 +1065,6 @@
     "localizacao": "Canela - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gZG8gTGXDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FwYW8tZG8tbGVhby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ub2F1ZGlvbG9nbw==",
-    "orgao": "Prefeitura de Capão do Leão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-capao-do-leao-rs-abre-processo-seletivo-para-fonoaudiologo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Capão do Leão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Capão do Leão - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDYXJsb3MgQmFyYm9zYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXJsb3MtYmFyYm9zYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
-    "orgao": "Prefeitura de Carlos Barbosa",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-carlos-barbosa-rs-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Carlos Barbosa",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Carlos Barbosa - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDb2xpbmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbGluYXMtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTUxMDM=",
     "orgao": "Prefeitura de Colinas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colinas-rs-abre-concurso-publico-com-salarios-de-ate-15103",
@@ -1183,21 +1093,6 @@
     "data_encerramento": "29/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Coqueiro Baixo - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBDb3JvbmVsIEJpY2Fjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jb3JvbmVsLWJpY2Fjby1ycy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1kaXZlcnNhcy1hcmVhcw==",
-    "orgao": "Prefeitura de Coronel Bicaco",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-bicaco-rs-abre-processos-seletivos-para-diversas-areas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Coronel Bicaco",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Coronel Bicaco - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHYXJpYmFsZGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FyaWJhbGRpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
@@ -1545,21 +1440,6 @@
     "localizacao": "Porto Alegre - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSZXN0aW5nYSBTw6pjYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1yZXN0aW5nYS1zZWNhLXJzLWFicmUtc2VsZWNhby1wYXJhLW9maWNpYWwtYWRtaW5pc3RyYXRpdm8tc2VjcmV0YXJpby1kZS1lc2NvbGEtZS1zZXJ2ZW50ZS1kZS1lc2NvbGE=",
-    "orgao": "Prefeitura de Restinga Sêca",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-restinga-seca-rs-abre-selecao-para-oficial-administrativo-secretario-de-escola-e-servente-de-escola",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Restinga Sêca",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Restinga Sêca - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1hcmNvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWFyY29zLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de São Marcos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-marcos-rs-abre-concurso-publico-para-professores",
@@ -1573,21 +1453,6 @@
     "data_encerramento": "11/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Marcos - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tcGVkcm8tZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLWFnZW50ZS1jb211bml0YXJpby1kZS1zYXVkZQ==",
-    "orgao": "Prefeitura de São Pedro do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-abre-selecao-para-agente-comunitario-de-saude",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Pedro do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Pedro do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUYXF1YXJpaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRhcXVhcmktcnMtYWJyZS1zZWxlY2FvLXBhcmEtbW90b3Jpc3Rhcw==",
@@ -1845,21 +1710,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "Q09OU8OTUkNJTyBMQU1CQVJJIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBNdWx0aWZpbmFsaXTDoXJpbyBkbyBBbHRvIFVydWd1YWkgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NvbnNvcmNpby1sYW1iYXJpLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWF1eGlsaWFyLWFkbWluaXN0cmF0aXZv",
-    "orgao": "CONSÓRCIO LAMBARI - Consórcio Intermunicipal Multifinalitário do Alto Uruguai Catarinense",
-    "link": "https://www.pciconcursos.com.br/noticias/consorcio-lambari-sc-abre-concurso-publico-para-auxiliar-administrativo",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLXRlcmFwZXV0YS1vY3VwYWNpb25hbC1pLWVtLWZsb3JpYW5vcG9saXM=",
     "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-terapeuta-ocupacional-i-em-florianopolis",
@@ -1946,21 +1796,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "25/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "RkFIRUNFIC0gSEVNT1NDaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYW51bmNpYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNvb3JkZW5hZG9yLWRlLXN1cHJpbWVudG9zLWktbm8taGVtb3NjLWRlLWZsb3JpYW5vcG9saXM=",
-    "orgao": "FAHECE - HEMOSC",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-coordenador-de-suprimentos-i-no-hemosc-de-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2188,21 +2023,6 @@
     "data_encerramento": "30/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Descanso - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBEaW9uw61zaW8gQ2VycXVlaXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWRpb25pc2lvLWNlcnF1ZWlyYS1zYy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjU1MjM=",
-    "orgao": "Prefeitura de Dionísio Cerqueira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dionisio-cerqueira-sc-abre-selecoes-com-salarios-de-ate-25523",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Dionísio Cerqueira",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Dionísio Cerqueira - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLXBhcmEtbWVkaWNvcw==",
