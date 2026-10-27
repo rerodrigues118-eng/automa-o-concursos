@@ -525,21 +525,6 @@
     "localizacao": "Quatro Barras - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBSaW8gQXp1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXJpby1henVsLXByLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS01Mjc1",
-    "orgao": "Câmara de Rio Azul",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-rio-azul-pr-abre-concurso-com-salarios-de-ate-5275",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Rio Azul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Azul - PR"
-  },
-  {
     "id": "TXVuaWPDrXBpbyBlIEPDom1hcmEgZGUgTm92YSBQcmF0YSBkbyBJZ3Vhw6d1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tdW5pY2lwaW8tZS1jYW1hcmEtZGUtbm92YS1wcmF0YS1kby1pZ3VhY3UtcHItYWJyZW0tY29uY3Vyc29zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTI4MjM=",
     "orgao": "Município e Câmara de Nova Prata do Iguaçu",
     "link": "https://www.pciconcursos.com.br/noticias/municipio-e-camara-de-nova-prata-do-iguacu-pr-abrem-concursos-com-salarios-de-ate-12823",
@@ -673,21 +658,6 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ivaí - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNYWxsZXRodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFsbGV0LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDQ0MA==",
-    "orgao": "Prefeitura de Mallet",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mallet-pr-abre-processo-seletivo-com-salarios-de-ate-10440",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Mallet",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Mallet - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQaXJhcXVhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGlyYXF1YXJhLXByLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtcHJvZmVzc29y",
@@ -930,6 +900,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SEJDUyAtIEhvc3BpdGFsIEJlbmVmaWNlbnRlIERyLiBDw6lzYXIgU2FudG9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9ob3NwaXRhbC1iZW5lZmljZW50ZS1kci1jZXNhci1zYW50b3MtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tcXVhdHJvLXZhZ2Fz",
+    "orgao": "HBCS - Hospital Beneficente Dr. César Santos",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-beneficente-dr-cesar-santos-rs-abre-processo-seletivo-com-quatro-vagas",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SENQQSAtIEhvc3BpdGFsIGRlIENsw61uaWNhcyBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2hvc3BpdGFsLWRlLWNsaW5pY2FzLWRlLXBvcnRvLWFsZWdyZS1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
     "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/hospital-de-clinicas-de-porto-alegre-rs-abre-selecoes-para-diversos-cargos",
@@ -1065,21 +1050,6 @@
     "localizacao": "Bom Retiro do Sul - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDYW1wbyBCb21odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FtcG8tYm9tLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1zZXJ2aWNvcy1nZXJhaXMtZGUtY29uc3RydWNhby1jaXZpbA==",
-    "orgao": "Prefeitura de Campo Bom",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-campo-bom-rs-abre-processo-seletivo-para-servicos-gerais-de-construcao-civil",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Campo Bom",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Campo Bom - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW5lbGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZWxhLXJzLWFicmUtc2VsZWNhby1wYXJhLWFzc2lzdGVudGVzLXNvY2lhaXM=",
     "orgao": "Prefeitura de Canela",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canela-rs-abre-selecao-para-assistentes-sociais",
@@ -1211,6 +1181,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "06/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Igrejinha - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtdmFnYXMtcGFyYS1hdXhpbGlhci1kZS1mYXJtYWNpYS1kZS1tYW5pcHVsYWNhby1lLWF1eGlsaWFyLWRlLXNlcnZpY29zLWdlcmFpcw==",
+    "orgao": "Prefeitura de Igrejinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-vagas-para-auxiliar-de-farmacia-de-manipulacao-e-auxiliar-de-servicos-gerais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Igrejinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Igrejinha - PR"
   },
@@ -1380,6 +1365,21 @@
     "localizacao": "Nova Boa Vista - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFDDoWR1YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZhLXBhZHVhLXJzLWFicmUtY29uY3Vyc28tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc2FzLWFyZWFz",
+    "orgao": "Prefeitura de Nova Pádua",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-padua-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Pádua",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Pádua - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIENhYnJhaXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm92by1jYWJyYWlzLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE5MDg5",
     "orgao": "Prefeitura de Novo Cabrais",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-concurso-publico-com-salarios-de-ate-19089",
@@ -1423,21 +1423,6 @@
     "data_encerramento": "28/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Panambi - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQYXNzbyBGdW5kb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXNzby1mdW5kby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1hZ2VudGUtZGUtY29tYmF0ZS1hcy1lbmRlbWlhcw==",
-    "orgao": "Prefeitura de Passo Fundo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-fundo-rs-abre-selecao-para-agente-de-combate-as-endemias",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Passo Fundo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "30/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Passo Fundo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcGFyYS1jYXJnb3MtZGUtbml2ZWwtc3VwZXJpb3I=",
@@ -1560,6 +1545,21 @@
     "localizacao": "Vicente Dutra - PR"
   },
   {
+    "id": "UFJFVklKVcONIC0gSW5zdGl0dXRvIGRlIFByZXZpZMOqbmNpYSBkb3MgU2Vydmlkb3JlcyBQw7pibGljb3MgZG8gTXVuaWPDrXBpbyBkZSBJanXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJldmlqdWktcnMtYW51bmNpYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODk4Mw==",
+    "orgao": "PREVIJUÍ - Instituto de Previdência dos Servidores Públicos do Município de Ijuí",
+    "link": "https://www.pciconcursos.com.br/noticias/previjui-rs-anuncia-concurso-publico-com-salarios-de-ate-8983",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Previdência dos Servidores Públicos do Município de Ijuí",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Previdência dos Servidores Públicos do Município de Ijuí - PR"
+  },
+  {
     "id": "VFJUNCAtIFRyaWJ1bmFsIFJlZ2lvbmFsIGRvIFRyYWJhbGhvIGRhIDTCqiBSZWdpw6NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy90cnQ0LXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
     "orgao": "TRT4 - Tribunal Regional do Trabalho da 4ª Região",
     "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
@@ -1590,9 +1590,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYXVyZ3MtZS11ZnNtLXJzLWFicmVtLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1xdWltaWNv",
+    "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNtLXJzLWFicmUtc2VsZWNhby1wdWJsaWNhLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3MtZW0tc2FudGEtbWFyaWEtZS1mcmVkZXJpY28td2VzdHBoYWxlbg==",
     "orgao": "UFSM - Universidade Federal de Santa Maria",
-    "link": "https://www.pciconcursos.com.br/noticias/faurgs-e-ufsm-rs-abrem-processo-seletivo-para-o-cargo-de-quimico",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-selecao-publica-para-professores-substitutos-em-santa-maria-e-frederico-westphalen",
     "categoria": "Federal",
     "uf": "PR",
     "cidade": "Várias",
@@ -1600,7 +1600,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
+    "data_encerramento": "30/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1618,21 +1618,6 @@
     "data_encerramento": "28/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Capinzal - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBEZXNjYW5zb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWRlc2NhbnNvLXNjLWFicmUtY29uY3Vyc28tY29tLXNhbGFyaW9zLWRlLWF0ZS00MzAw",
-    "orgao": "Câmara de Descanso",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-descanso-sc-abre-concurso-com-salarios-de-ate-4300",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Descanso",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Descanso - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1mcmFpYnVyZ28tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1yZW11bmVyYWNvZXMtZGUtYXRlLTY3NDc=",
@@ -1815,21 +1800,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SEVNT1NDIC0gQ2VudHJvIGRlIEhlbWF0b2xvZ2lhIGUgSGVtb3RlcmFwaWEgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1hdHVhY2FvLW5vLWhlbW9zYy1lbS1mbG9yaWFub3BvbGlz",
-    "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processos-seletivos-para-atuacao-no-hemosc-em-florianopolis",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "SVBSRUFSUk9JTyAtIEluc3RpdHV0byBkZSBQcmV2aWTDqm5jaWEgU29jaWFsIGRvcyBTZXJ2aWRvcmVzIFDDumJsaWNvcyBkbyBNdW5pY8OtcGlvIGRlIEFycm9pbyBUcmludGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lwcmVhcnJvaW8tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1hZ2VudGUtcHJldmlkZW5jaWFyaW8=",
     "orgao": "IPREARROIO - Instituto de Previdência Social dos Servidores Públicos do Município de Arroio Trinta",
     "link": "https://www.pciconcursos.com.br/noticias/iprearroio-sc-abre-concurso-publico-para-o-cargo-de-agente-previdenciario",
@@ -1875,9 +1845,9 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "UE1TQyAtIFBvbMOtY2lhIE1pbGl0YXIgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3Btc2MtYWJyZS1jb25jdXJzby1jb20tNTAwLXZhZ2FzLXBhcmEtc29sZGFkb3MtZG8tcXVhZHJvLWRlLXByYWNhcy1wb2xpY2lhbC1taWxpdGFy",
+    "id": "UE1TQyAtIFBvbMOtY2lhIE1pbGl0YXIgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3Btc2MtcmV0aWZpY2EtY29uY3Vyc28tcGFyYS1zb2xkYWRvcy1kby1xdWFkcm8tZGUtcHJhY2FzLXBvbGljaWFsLW1pbGl0YXI=",
     "orgao": "PMSC - Polícia Militar de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/pmsc-abre-concurso-com-500-vagas-para-soldados-do-quadro-de-pracas-policial-militar",
+    "link": "https://www.pciconcursos.com.br/noticias/pmsc-retifica-concurso-para-soldados-do-quadro-de-pracas-policial-militar",
     "categoria": "Policial",
     "uf": "PR",
     "cidade": "Várias",
@@ -1918,6 +1888,21 @@
     "data_encerramento": "31/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBcGnDum5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFwaXVuYS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS10ZWNuaWNvLWVtLWVuZmVybWFnZW0=",
+    "orgao": "Prefeitura de Apiúna",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-apiuna-sc-abre-processo-seletivo-para-o-cargo-de-tecnico-em-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Apiúna",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Apiúna - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb20gSmVzdXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tLWplc3VzLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS00Njk1",
@@ -2295,21 +2280,6 @@
     "localizacao": "Novo Horizonte - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQaW5oYWx6aW5ob2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waW5oYWx6aW5oby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmlzc2lvbmFpcy1kYS1lZHVjYWNhbw==",
-    "orgao": "Prefeitura de Pinhalzinho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pinhalzinho-sc-abre-processo-seletivo-para-profissionais-da-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pinhalzinho",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pinhalzinho - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBVbmnDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tdW5pYW8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1uYS1hcmVhLWRhLWVkdWNhY2Fv",
     "orgao": "Prefeitura de Porto União",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-uniao-sc-abre-processo-seletivo-na-area-da-educacao",
@@ -2353,6 +2323,21 @@
     "data_encerramento": "27/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rancho Queimado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZGFzIEFudGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1kYXMtYW50YXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
+    "orgao": "Prefeitura de Rio das Antas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-das-antas-sc-abre-processo-seletivo-para-engenheiro-civil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio das Antas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio das Antas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gQ2FtcG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLWNhbXBvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRhLWVkdWNhY2Fv",
@@ -2713,20 +2698,5 @@
     "data_encerramento": "26/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VURFU0MgLSBVbml2ZXJzaWRhZGUgZG8gRXN0YWRvIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZGVzYy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXMtc3Vic3RpdHV0b3MtZW0tZGl2ZXJzYXMtYXJlYXMtZG8tY29uaGVjaW1lbnRv",
-    "orgao": "UDESC - Universidade do Estado de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/udesc-sc-abre-processo-seletivo-para-professores-substitutos-em-diversas-areas-do-conhecimento",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Estado de Santa Catarina",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "26/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Estado de Santa Catarina - PR"
   }
 ]
