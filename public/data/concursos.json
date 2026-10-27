@@ -1320,6 +1320,21 @@
     "localizacao": "Montenegro - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNb3N0YXJkYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9zdGFyZGFzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
+    "orgao": "Prefeitura de Mostardas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mostardas-rs-abre-processo-seletivo-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mostardas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mostardas - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBOb25vYWlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbm9ub2FpLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWRlLXByb2Zlc3NvcmVz",
     "orgao": "Prefeitura de Nonoai",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nonoai-rs-abre-processo-seletivo-para-cadastro-de-reserva-de-professores",
@@ -1468,6 +1483,21 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEZyYW5jaXNjbyBkZSBBc3Npc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tZnJhbmNpc2NvLWRlLWFzc2lzLXJzLWFicmUtdmFnYS1wYXJhLW1lZGljby12ZXRlcmluYXJpbw==",
+    "orgao": "Prefeitura de São Francisco de Assis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-francisco-de-assis-rs-abre-vaga-para-medico-veterinario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Francisco de Assis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Francisco de Assis - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1hcmNvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWFyY29zLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3NvcmVz",
