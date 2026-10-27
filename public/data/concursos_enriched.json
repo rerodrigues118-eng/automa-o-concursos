@@ -4650,6 +4650,99 @@
     }
   },
   {
+    "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY29zLWVtLWhpZ2llbmUtZGVudGFsLWUtZW0tbGFib3JhdG9yaW8tcGxhbmV0YXJpbw==",
+    "orgao": "UEL - Universidade Estadual de Londrina",
+    "link": "https://www.pciconcursos.com.br/noticias/uel-pr-abre-processo-seletivo-para-tecnicos-em-higiene-dental-e-em-laboratorio-planetario",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão UEL - Universidade Estadual de Londrina."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+UEL+-+Universidade+Estadual+de+Londrina"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+UEL+-+Universidade+Estadual+de+Londrina"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/UEL+-+Universidade+Estadual+de+Londrina"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS10ZXN0ZXMtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzk5Nw==",
     "orgao": "UEM - Universidade Estadual de Maringá",
     "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-testes-seletivos-com-salarios-de-ate-7997",
@@ -9168,6 +9261,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Porto+Alegre"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWRpdnVsZ2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1pbnN0cnV0b3Jlcy1lZHVjYWNpb25haXM=",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Santo Antônio da Patrulha."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Santo+Antônio+da+Patrulha"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Santo+Antônio+da+Patrulha"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Santo+Antônio+da+Patrulha"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -14376,6 +14562,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Porto+União"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmFpYSBHcmFuZGUgZSBGdW5kbyBNdW5pY2lwYWwgZGUgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByYWlhLWdyYW5kZS1zYy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzkyMQ==",
+    "orgao": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Praia Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Praia Grande - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Praia Grande e Fundo Municipal de Saúde."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Praia+Grande+e+Fundo+Municipal+de+Saúde"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Praia+Grande+e+Fundo+Municipal+de+Saúde"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Praia+Grande+e+Fundo+Municipal+de+Saúde"
         },
         {
           "titulo": "Banco de Questões Comentadas",

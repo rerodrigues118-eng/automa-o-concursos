@@ -750,6 +750,21 @@
     "localizacao": "Siqueira Campos - PR"
   },
   {
+    "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY29zLWVtLWhpZ2llbmUtZGVudGFsLWUtZW0tbGFib3JhdG9yaW8tcGxhbmV0YXJpbw==",
+    "orgao": "UEL - Universidade Estadual de Londrina",
+    "link": "https://www.pciconcursos.com.br/noticias/uel-pr-abre-processo-seletivo-para-tecnicos-em-higiene-dental-e-em-laboratorio-planetario",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VUVNIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIE1hcmluZ8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZW0tcHItYWJyZS10ZXN0ZXMtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzk5Nw==",
     "orgao": "UEM - Universidade Estadual de Maringá",
     "link": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-testes-seletivos-com-salarios-de-ate-7997",
@@ -1483,6 +1498,21 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWRpdnVsZ2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1pbnN0cnV0b3Jlcy1lZHVjYWNpb25haXM=",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEZyYW5jaXNjbyBkZSBBc3Npc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tZnJhbmNpc2NvLWRlLWFzc2lzLXJzLWFicmUtdmFnYS1wYXJhLW1lZGljby12ZXRlcmluYXJpbw==",
@@ -2323,6 +2353,21 @@
     "data_encerramento": "04/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto União - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmFpYSBHcmFuZGUgZSBGdW5kbyBNdW5pY2lwYWwgZGUgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByYWlhLWdyYW5kZS1zYy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzkyMQ==",
+    "orgao": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Praia Grande",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Praia Grande - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIENhc3RlbGxvIEJyYW5jb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWNhc3RlbGxvLWJyYW5jby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZW5nZW5oZWlyby1jaXZpbA==",
