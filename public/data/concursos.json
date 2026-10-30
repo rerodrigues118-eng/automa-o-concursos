@@ -765,21 +765,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SVBBTSAtIEZhcm3DoWNpYSBkbyBJUEFNIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Zhcm1hY2lhLWRvLWlwYW0tcnMtcHVibGljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
-    "orgao": "IPAM - Farmácia do IPAM S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/farmacia-do-ipam-rs-publica-edital-de-concurso-publico-para-formacao-de-cadastro-de-reserva",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/10/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "Q8OibWFyYSBkZSBJanXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLWlqdWktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYXV4aWxpYXItbGVnaXNsYXRpdm8=",
     "orgao": "Câmara de Ijuí",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-ijui-rs-abre-concurso-publico-para-auxiliar-legislativo",
@@ -911,6 +896,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "08/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SVBBTSAtIEZhcm3DoWNpYSBkbyBJUEFNIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Zhcm1hY2lhLWRvLWlwYW0tcnMtcHVibGljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
+    "orgao": "IPAM - Farmácia do IPAM S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/farmacia-do-ipam-rs-publica-edital-de-concurso-publico-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1676,6 +1676,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "04/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "Q01EQ0EgLSBDb25zZWxobyBNdW5pY2lwYWwgZG9zIERpcmVpdG9zIGRhIENyaWFuw6dhIGUgZG8gQWRvbGVzY2VudGUgZGUgQXJhYnV0w6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NtZGNhLWRlLWFyYWJ1dGEtc2MtYWJyZS1wcm9jZXNzby1wYXJhLWVzY29saGEtc3VwbGVtZW50YXItZGUtY29uc2VsaGVpcm8tdHV0ZWxhcg==",
+    "orgao": "CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Arabutã",
+    "link": "https://www.pciconcursos.com.br/noticias/cmdca-de-arabuta-sc-abre-processo-para-escolha-suplementar-de-conselheiro-tutelar",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
