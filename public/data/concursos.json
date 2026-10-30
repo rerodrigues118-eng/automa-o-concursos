@@ -795,6 +795,21 @@
     "localizacao": "Ijuí - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSBTb2xlZGFkZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXNvbGVkYWRlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTQzODE=",
+    "orgao": "Câmara de Soledade",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-soledade-rs-abre-concurso-publico-com-salarios-de-ate-4381",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Soledade",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Soledade - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBUb3JvcGlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS10b3JvcGktcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYWdlbnRlLWRlLXNlcnZpY29zLWNvbXBsZW1lbnRhcmVz",
     "orgao": "Câmara de Toropi",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-toropi-rs-abre-concurso-publico-para-agente-de-servicos-complementares",
@@ -988,6 +1003,21 @@
     "data_encerramento": "30/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Barão de Cotegipe - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW5vYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2Fub2FzLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWEtYXJlYS1kYS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de Canoas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canoas-rs-abre-concurso-publico-para-a-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Canoas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Canoas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDYXDDo28gQm9uaXRvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jYXBhby1ib25pdG8tZG8tc3VsLXJzLWFicmUtdmFnYS1wYXJhLWVuZ2VuaGVpcm8tY2l2aWw=",
@@ -1425,6 +1455,21 @@
     "localizacao": "Teutônia - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUZXV0w7RuaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdGV1dG9uaWEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdHJlcy12YWdhcw==",
+    "orgao": "Prefeitura de Teutônia",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-teutonia-rs-abre-processo-seletivo-com-tres-vagas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Teutônia",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Teutônia - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBUaW8gSHVnb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS10aW8taHVnby1ycy1hYnJlLWNvbmN1cnNvLWNvbS12YWdhcy1pbWVkaWF0YXMtZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Tio Hugo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -1800,6 +1845,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTA2",
+    "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+    "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SG9zcGl0YWwgUmVnaW9uYWwgRGVwdXRhZG8gQWZmb25zbyBHaGl6em8gZGUgQXJhcmFuZ3XDoSBlIFBvbGljbMOtbmljYSBSZWdpb25hbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaG9zcGl0YWwtcmVnaW9uYWwtZGVwdXRhZG8tYWZmb25zby1naGl6em8tZGUtYXJhcmFuZ3VhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hcHJlbmRpeg==",
     "orgao": "Hospital Regional Deputado Affonso Ghizzo de Araranguá e Policlínica Regional",
     "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-deputado-affonso-ghizzo-de-ararangua-sc-abre-processo-seletivo-para-aprendiz",
@@ -1918,6 +1978,21 @@
     "data_encerramento": "17/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Atalanta - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ibHVtZW5hdS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hLWFyZWEtZGEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Blumenau",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-publico-para-a-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Blumenau",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Blumenau - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCb20gSmVzdXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYm9tLWplc3VzLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS00Njk1",
@@ -2323,6 +2398,21 @@
     "data_encerramento": "06/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Marema - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFRyZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbXVuaWNpcGlvLWRlLW5vdmEtdHJlbnRvLXNjLWFicmUtdHJlcy1ub3Zvcy1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQxODk=",
+    "orgao": "Prefeitura de Nova Trento",
+    "link": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Nova Trento",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Nova Trento - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZvIEhvcml6b250ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZvLWhvcml6b250ZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjIwMQ==",
