@@ -1050,6 +1050,21 @@
     "localizacao": "Guaporé - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBJYmlydWLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pYmlydWJhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vLWNhcmdvLWRlLW9wZXJhcmlv",
+    "orgao": "Prefeitura de Ibirubá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibiruba-rs-abre-processo-seletivo-para-o-cargo-de-operario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ibirubá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibirubá - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBJZ3JlamluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWdyZWppbmhhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy1kZS1hbm9zLWZpbmFpcw==",
     "orgao": "Prefeitura de Igrejinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-igrejinha-rs-abre-processo-seletivo-para-professores-de-anos-finais",
@@ -1140,9 +1155,9 @@
     "localizacao": "Ipê - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFwdWNhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXB1Y2EtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTQ5NQ==",
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFwdWNhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXB1Y2EtcnMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTk0OTU=",
     "orgao": "Prefeitura de Itapuca",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-abre-concurso-publico-com-salarios-de-ate-9495",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapuca-rs-retifica-concurso-publico-com-salarios-de-ate-9495",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Itapuca",
@@ -1150,7 +1165,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "05/11/2026",
+    "data_encerramento": "12/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itapuca - PR"
   },
@@ -1275,6 +1290,21 @@
     "localizacao": "Novo Xingu - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXNzbyBGdW5kb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXNzby1mdW5kby1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYmlibGlvdGVjYXJpbw==",
+    "orgao": "Prefeitura de Passo Fundo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-fundo-rs-abre-processo-seletivo-para-bibliotecario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Passo Fundo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Passo Fundo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtY29uY3Vyc28tcGFyYS1jYXJnb3MtZGUtbml2ZWwtc3VwZXJpb3I=",
     "orgao": "Prefeitura de Porto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-concurso-para-cargos-de-nivel-superior",
@@ -1333,6 +1363,21 @@
     "data_encerramento": "03/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Francisco de Assis - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEhvcnTDqm5jaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvc2UtZG8taG9ydGVuY2lvLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZWNuaWNvLWVtLWVuZmVybWFnZW0=",
+    "orgao": "Prefeitura de São José do Hortêncio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-hortencio-rs-abre-processo-seletivo-para-tecnico-em-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José do Hortêncio",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José do Hortêncio - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS05ODg1",
@@ -1440,6 +1485,36 @@
     "localizacao": "Torres - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBUcsOqcyBDb3JvYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJlcy1jb3JvYXMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtdGVjbmljby1kZS1lbmZlcm1hZ2Vt",
+    "orgao": "Prefeitura de Três Coroas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tres-coroas-rs-abre-selecao-para-tecnico-de-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Três Coroas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Três Coroas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmluZGFkZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJpbmRhZGUtZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLW1vdG9yaXN0YS1kZS1hbWJ1bGFuY2lhLWRvLXNhbXU=",
+    "orgao": "Prefeitura de Trindade do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-do-sul-rs-abre-selecao-para-motorista-de-ambulancia-do-samu",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Trindade do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Trindade do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBWaWNlbnRlIER1dHJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXZpY2VudGUtZHV0cmEtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTA4OQ==",
     "orgao": "Prefeitura de Vicente Dutra",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vicente-dutra-rs-abre-concurso-publico-com-salarios-de-ate-9089",
@@ -1511,6 +1586,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "17/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNtLXJzLWFicmUtY29uY3Vyc28tcGFyYS1wcm9mZXNzb3Jlcy1kby1tYWdpc3RlcmlvLXN1cGVyaW9y",
+    "orgao": "UFSM - Universidade Federal de Santa Maria",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-para-professores-do-magisterio-superior",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1830,6 +1920,21 @@
     "localizacao": "Agronômica - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBcm1hesOpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcm1hemVtLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Armazém",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-armazem-sc-abre-processo-seletivo-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Armazém",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "28/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Armazém - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBdGFsYW50YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hdGFsYW50YS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTc1MQ==",
     "orgao": "Prefeitura de Atalanta",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-atalanta-sc-abre-processo-seletivo-com-salarios-de-ate-9751",
@@ -1995,6 +2100,21 @@
     "localizacao": "Fraiburgo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Fraiburgo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fraiburgo-sc-abre-processo-seletivo-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fraiburgo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fraiburgo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHYXJ1dmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ2FydXZhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc29zLWNhcmdvcw==",
     "orgao": "Prefeitura de Garuva",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garuva-sc-abre-processo-seletivo-para-cadastro-de-reserva-em-diversos-cargos",
@@ -2023,6 +2143,21 @@
     "data_encerramento": "09/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guaramirim - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBHdWFydWrDoSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3VhcnVqYS1kby1zdWwtc2MtYWJyZS1jb25jdXJzby1lLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtMzAtNy1taWw=",
+    "orgao": "Prefeitura de Guarujá do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-do-sul-sc-abre-concurso-e-selecoes-com-salarios-de-ate-30-7-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Guarujá do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Guarujá do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJbGhvdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWxob3RhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTExMw==",
@@ -2113,6 +2248,21 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Itapiranga - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFwb8OhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBvYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1pbnN0cnV0b3Jlcy1lc2NvbGFyZXM=",
+    "orgao": "Prefeitura de Itapoá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapoa-sc-abre-selecao-para-instrutores-escolares",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itapoá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itapoá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBKYXJhZ3XDoSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtamFyYWd1YS1kby1zdWwtc2MtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTU2MDY=",
@@ -2263,6 +2413,21 @@
     "data_encerramento": "28/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Nova Trento - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYXNzbyBkZSBUb3JyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcGFzc28tZGUtdG9ycmVzLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3MtbmEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Passo de Torres",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-passo-de-torres-sc-abre-processo-seletivo-para-diversos-cargos-na-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Passo de Torres",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Passo de Torres - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBVbmnDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tdW5pYW8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1uYS1hcmVhLWRhLWVkdWNhY2Fv",
