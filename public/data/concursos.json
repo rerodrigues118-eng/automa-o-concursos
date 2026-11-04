@@ -435,9 +435,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtYW5hbGlzdGFzLWUtdGVjbmljb3MtanVkaWNpYXJpb3M=",
+    "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
     "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
-    "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+    "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -523,6 +523,21 @@
     "data_encerramento": "10/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Florestópolis - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGb3ogZG8gSm9yZMOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3otZG8tam9yZGFvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
+    "orgao": "Prefeitura de Foz do Jordão",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-foz-do-jordao-pr-abre-processo-seletivo-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Foz do Jordão",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Foz do Jordão - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFuY2lzY28gQmVsdHLDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhbmNpc2NvLWJlbHRyYW8tcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
@@ -975,6 +990,21 @@
     "localizacao": "Capão Bonito do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYXhpYXMgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNheGlhcy1kby1zdWwtcnMtZGl2dWxnYS1lZGl0YWlzLWRlLWNvbmN1cnNvLXB1YmxpY28=",
+    "orgao": "Prefeitura de Caxias do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caxias-do-sul-rs-divulga-editais-de-concurso-publico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Caxias do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Caxias do Sul - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDb2xpbmFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbGluYXMtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTUxMDM=",
     "orgao": "Prefeitura de Colinas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colinas-rs-abre-concurso-publico-com-salarios-de-ate-15103",
@@ -988,6 +1018,21 @@
     "data_encerramento": "05/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Colinas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGb250b3VyYSBYYXZpZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZm9udG91cmEteGF2aWVyLXJzLWFudW5jaWEtZWRpdGFpcy1kZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc28tc2VsZXRpdm8=",
+    "orgao": "Prefeitura de Fontoura Xavier",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fontoura-xavier-rs-anuncia-editais-de-concurso-publico-e-processo-seletivo",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fontoura Xavier",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fontoura Xavier - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFwb3LDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ndWFwb3JlLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
@@ -1333,6 +1378,21 @@
     "data_encerramento": "11/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Marcos - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tcGVkcm8tZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXZpc2l0YWRvcmVzLWRvcy1wcm9ncmFtYXMtY3JpYW5jYS1mZWxpei1lLXByaW1laXJhLWluZmFuY2lhLW1lbGhvcg==",
+    "orgao": "Prefeitura de São Pedro do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-sul-rs-abre-selecao-para-visitadores-dos-programas-crianca-feliz-e-primeira-infancia-melhor",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBUZXV0w7RuaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL211bmljaXBpby1kZS10ZXV0b25pYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMzg0NA==",
@@ -1725,6 +1785,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MgZSBDRVBPTmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZWNuaWNvLWRlLWxhYm9yYXRvcmlvLWVtLWZsb3JpYW5vcG9saXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC e CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-tecnico-de-laboratorio-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIZW1vc2MgZSBDZXBvbmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZmFoZWNlLXNjLWFicmUtdmFnYS1wYXJhLWFzc2lzdGVudGUtZGUtYWxtb3hhcmlmYWRvLXBjZC1uby1zYW11LWRlLWZsb3JpYW5vcG9saXM=",
+    "orgao": "FAHECE - Fundação de Apoio ao Hemosc e Cepon",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-vaga-para-assistente-de-almoxarifado-pcd-no-samu-de-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RkNDIC0gRnVuZGHDp8OjbyBDYXRhcmluZW5zZSBkZSBDdWx0dXJhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdW5kYWNhby1jYXRhcmluZW5zZS1kZS1jdWx0dXJhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hbmFsaXN0YS1jb250YWRvcg==",
     "orgao": "FCC - Fundação Catarinense de Cultura",
     "link": "https://www.pciconcursos.com.br/noticias/fundacao-catarinense-de-cultura-sc-abre-processo-seletivo-para-analista-contador",
@@ -1753,6 +1843,21 @@
     "data_encerramento": "02/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SU1BIC0gSW5zdGl0dXRvIGRvIE1laW8gQW1iaWVudGUgZG8gRXN0YWRvIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbWEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTIzMDA=",
+    "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Meio Ambiente do Estado de Santa Catarina",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Meio Ambiente do Estado de Santa Catarina - PR"
   },
   {
     "id": "SVBSRUFSUk9JTyAtIEluc3RpdHV0byBkZSBQcmV2aWTDqm5jaWEgU29jaWFsIGRvcyBTZXJ2aWRvcmVzIFDDumJsaWNvcyBkbyBNdW5pY8OtcGlvIGRlIEFycm9pbyBUcmludGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lwcmVhcnJvaW8tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtby1jYXJnby1kZS1hZ2VudGUtcHJldmlkZW5jaWFyaW8=",
