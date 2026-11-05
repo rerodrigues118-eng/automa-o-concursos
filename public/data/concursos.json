@@ -330,21 +330,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "Q0dVIC0gQ29udHJvbGFkb3JpYS1HZXJhbCBkYSBVbmnDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NndS1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXZhZ2FzLXBhcmEtYXVkaXRvcmVzLWZlZGVyYWlzLWRlLWZpbmFuY2FzLWUtY29udHJvbGU=",
-    "orgao": "CGU - Controladoria-Geral da União",
-    "link": "https://www.pciconcursos.com.br/noticias/cgu-abre-concurso-publico-com-vagas-para-auditores-federais-de-financas-e-controle",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "Q29tMcK6RE4gLSBDb21hbmRvIGRvIDHCuiBEaXN0cml0byBOYXZhbCBkYSBNYXJpbmhhIGRvIEJyYXNpbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY29tYW5kby1kby0xLWRpc3RyaXRvLW5hdmFsLXJqLW1nLWFicmUtdmFnYXMtcGFyYS1vZmljaWFpcy10ZW1wb3Jhcmlvcy1kZS1uaXZlbC1zdXBlcmlvcg==",
     "orgao": "Com1ºDN - Comando do 1º Distrito Naval da Marinha do Brasil",
     "link": "https://www.pciconcursos.com.br/noticias/comando-do-1-distrito-naval-rj-mg-abre-vagas-para-oficiais-temporarios-de-nivel-superior",
@@ -478,21 +463,6 @@
     "data_encerramento": "09/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Apucarana - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtcGVkYWdvZ28=",
-    "orgao": "Prefeitura de Balsa Nova",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-balsa-nova-pr-abre-processo-seletivo-para-o-cargo-de-pedagogo",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Balsa Nova",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Balsa Nova - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYWxzYSBOb3ZhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhbHNhLW5vdmEtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWVkdWNhZG9yZXM=",
@@ -926,21 +896,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "08/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SVBBTSAtIEZhcm3DoWNpYSBkbyBJUEFNIFMuQS5odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Zhcm1hY2lhLWRvLWlwYW0tcnMtcHVibGljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljby1wYXJhLWZvcm1hY2FvLWRlLWNhZGFzdHJvLWRlLXJlc2VydmE=",
-    "orgao": "IPAM - Farmácia do IPAM S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/farmacia-do-ipam-rs-publica-edital-de-concurso-publico-para-formacao-de-cadastro-de-reserva",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "20/10/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1710,21 +1665,6 @@
     "localizacao": "Vereadores de Santiago do Sul - PR"
   },
   {
-    "id": "Q0lERU1BIC0gQ29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkZSBEZXNlbnZvbHZpbWVudG8gRWNvbsO0bWljbywgU29jaWFsIGUgZG8gTWVpbyBBbWJpZW50ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2lkZW1hLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hbmFsaXN0YS10ZWNuaWNvLWVtLWdlc3Rhby1hbWJpZW50YWw=",
-    "orgao": "CIDEMA - Consórcio Intermunicipal de Desenvolvimento Econômico, Social e do Meio Ambiente",
-    "link": "https://www.pciconcursos.com.br/noticias/cidema-sc-abre-processo-seletivo-para-analista-tecnico-em-gestao-ambiental",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "Q01EQ0EgLSBDb25zZWxobyBNdW5pY2lwYWwgZG9zIERpcmVpdG9zIGRhIENyaWFuw6dhIGUgZG8gQWRvbGVzY2VudGUgZGUgQXJhYnV0w6NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NtZGNhLWRlLWFyYWJ1dGEtc2MtYWJyZS1wcm9jZXNzby1wYXJhLWVzY29saGEtc3VwbGVtZW50YXItZGUtY29uc2VsaGVpcm8tdHV0ZWxhcg==",
     "orgao": "CMDCA - Conselho Municipal dos Direitos da Criança e do Adolescente de Arabutã",
     "link": "https://www.pciconcursos.com.br/noticias/cmdca-de-arabuta-sc-abre-processo-para-escolha-suplementar-de-conselheiro-tutelar",
@@ -2175,21 +2115,6 @@
     "localizacao": "Iporã do Oeste - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJdGFwZW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBlbWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tdmFnYXMtaW1lZGlhdGFzLWUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de Itapema",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapema-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Itapema",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Itapema - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFwaXJhbmdhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBpcmFuZ2Etc2MtZGl2dWxnYS1lZGl0YWlzLWRlLWNvbmN1cnNvcy1wdWJsaWNvcy1lLXByb2Nlc3NvLXNlbGV0aXZv",
     "orgao": "Prefeitura de Itapiranga",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapiranga-sc-divulga-editais-de-concursos-publicos-e-processo-seletivo",
@@ -2368,21 +2293,6 @@
     "data_encerramento": "12/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Passo de Torres - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBVbmnDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tdW5pYW8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1uYS1hcmVhLWRhLWVkdWNhY2Fv",
-    "orgao": "Prefeitura de Porto União",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-uniao-sc-abre-processo-seletivo-na-area-da-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Porto União",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Porto União - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQcmFpYSBHcmFuZGUgZSBGdW5kbyBNdW5pY2lwYWwgZGUgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByYWlhLWdyYW5kZS1zYy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzkyMQ==",
@@ -2696,21 +2606,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lZGljb3MtZW0tZmxvcmlhbm9wb2xpcy1lLXNhby1qb3Nl",
-    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-medicos-em-florianopolis-e-sao-jose",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "04/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
