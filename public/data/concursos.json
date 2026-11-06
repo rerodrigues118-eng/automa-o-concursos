@@ -645,6 +645,21 @@
     "localizacao": "Mariluz - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBNZXJjZWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1tZXJjZWRlcy1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtdmlnaWxhbnRlLXNhbml0YXJpbw==",
+    "orgao": "Prefeitura de Mercedes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mercedes-pr-abre-processo-seletivo-para-vigilante-sanitario",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Mercedes",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Mercedes - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBRdWVkYXMgZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWVkYXMtZG8taWd1YWN1LXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTExOTk4",
     "orgao": "Prefeitura de Quedas do Iguaçu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-abre-concurso-publico-com-salarios-de-ate-11998",
@@ -1590,9 +1605,9 @@
     "localizacao": "Pomerode - PR"
   },
   {
-    "id": "Q8OibWFyYSBkZSBTw6NvIEZyYW5jaXNjbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1zYW8tZnJhbmNpc2NvLWRvLXN1bC1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0xMDkyNA==",
+    "id": "Q8OibWFyYSBkZSBTw6NvIEZyYW5jaXNjbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1zYW8tZnJhbmNpc2NvLWRvLXN1bC1zYy1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljbw==",
     "orgao": "Câmara de São Francisco do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-abre-concurso-publico-com-salarios-de-ate-10924",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-retifica-edital-de-concurso-publico",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "São Francisco do Sul",
@@ -2113,6 +2128,21 @@
     "data_encerramento": "16/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Iporã do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJcmFjZW1pbmhhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWlyYWNlbWluaGEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXM=",
+    "orgao": "Prefeitura de Iraceminha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iraceminha-sc-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Iraceminha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Iraceminha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFwaXJhbmdhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWl0YXBpcmFuZ2Etc2MtZGl2dWxnYS1lZGl0YWlzLWRlLWNvbmN1cnNvcy1wdWJsaWNvcy1lLXByb2Nlc3NvLXNlbGV0aXZv",
