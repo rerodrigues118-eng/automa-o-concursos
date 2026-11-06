@@ -315,9 +315,9 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "SU5CIC0gSW5kw7pzdHJpYXMgTnVjbGVhcmVzIGRvIEJyYXNpbCBTLkEuaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbmItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcy1kZS1hdHVhY2Fv",
+    "id": "SU5CIC0gSW5kw7pzdHJpYXMgTnVjbGVhcmVzIGRvIEJyYXNpbCBTLkEuaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbmItcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXMtZGUtYXR1YWNhbw==",
     "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/inb-abre-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+    "link": "https://www.pciconcursos.com.br/noticias/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
     "categoria": "Federal",
     "uf": "BR",
     "cidade": "Várias",
@@ -885,6 +885,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkhHViAtIEZ1bmRhw6fDo28gSG9zcGl0YWxhciBHZXTDumxpbyBWYXJnYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Z1bmRhY2FvLWhvc3BpdGFsYXItZ2V0dWxpby12YXJnYXMtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lZGljb3M=",
+    "orgao": "FHGV - Fundação Hospitalar Getúlio Vargas",
+    "link": "https://www.pciconcursos.com.br/noticias/fundacao-hospitalar-getulio-vargas-rs-abre-processo-seletivo-para-medicos",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "R0hDIC0gR3J1cG8gSG9zcGl0YWxhciBDb25jZWnDp8Ojb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvZ3J1cG8taG9zcGl0YWxhci1jb25jZWljYW8tcnMtYWJyZS1jb25jdXJzby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXM=",
     "orgao": "GHC - Grupo Hospitalar Conceição",
     "link": "https://www.pciconcursos.com.br/noticias/grupo-hospitalar-conceicao-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
@@ -971,6 +986,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "18/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLWVtLWJhZ2U=",
+    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
+    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-selecao-para-professores-substitutos-em-bage",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1305,6 +1335,21 @@
     "localizacao": "Passo Fundo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtbWVkaWNvcw==",
+    "orgao": "Prefeitura de Pelotas",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-processos-seletivos-para-medicos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Pelotas",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Pelotas - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLXB1YmxpY2EtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTkxMzU=",
     "orgao": "Prefeitura de Porto Alegre",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-publica-concurso-publico-com-salarios-de-ate-9135",
@@ -1496,6 +1541,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "09/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Trindade do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmluZGFkZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJpbmRhZGUtZG8tc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tZWRpY29z",
+    "orgao": "Prefeitura de Trindade do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-do-sul-rs-abre-processo-seletivo-para-medicos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Trindade do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "13/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Trindade do Sul - PR"
   },
@@ -1815,6 +1875,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SEVNT1NDIC0gQ2VudHJvIGRlIEhlbWF0b2xvZ2lhIGUgSGVtb3RlcmFwaWEgZGUgU2FudGEgQ2F0YXJpbmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1oZW1vc2MtZW0tY2hhcGVjbw==",
+    "orgao": "HEMOSC - Centro de Hematologia e Hemoterapia de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-hemosc-em-chapeco",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "10/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SU1BIC0gSW5zdGl0dXRvIGRvIE1laW8gQW1iaWVudGUgZG8gRXN0YWRvIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbWEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTIzMDA=",
     "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
     "link": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
@@ -1903,6 +1978,21 @@
     "data_encerramento": "17/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Atalanta - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBCb25pdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFycmEtYm9uaXRhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2EtcGFyYS1mYXJtYWNldXRpY28=",
+    "orgao": "Prefeitura de Barra Bonita",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-bonita-sc-abre-processo-seletivo-com-vaga-para-farmaceutico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Barra Bonita",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "18/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Barra Bonita - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ibHVtZW5hdS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hLWFyZWEtZGEtZWR1Y2FjYW8=",
@@ -2068,6 +2158,21 @@
     "data_encerramento": "02/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guarujá do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJYmlyYW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhbWEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjAzNjQ=",
+    "orgao": "Prefeitura de Ibirama",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibirama-sc-abre-concurso-publico-com-salarios-de-ate-20364",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ibirama",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibirama - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJbGhvdGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaWxob3RhLXNjLXB1YmxpY2EtZWRpdGFsLWRlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS0yMTExMw==",
@@ -2415,6 +2520,21 @@
     "localizacao": "Santa Terezinha do Progresso - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEJvbmlmw6FjaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWJvbmlmYWNpby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de São Bonifácio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-bonifacio-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Bonifácio",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Bonifácio - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
     "orgao": "Prefeitura de São Domingos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-processo-seletivo-para-cadastro-de-reserva",
@@ -2578,6 +2698,21 @@
     "data_encerramento": "19/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Xaxim - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIFJpbyBSdWZpbm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLXJ1Zmluby1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
+    "orgao": "Prefeitura do Município de Rio Rufino",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-rufino-sc-abre-selecoes-para-cadastro-de-reserva-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Município de Rio Rufino",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "05/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Município de Rio Rufino - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBlIEZ1bmRhw6fDo28gQ3VsdHVyYWwgZGUgTmF2ZWdhbnRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWZ1bmRhY2FvLWN1bHR1cmFsLWRlLW5hdmVnYW50ZXMtc2MtYWJyZW0tc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0xOTE5OQ==",
