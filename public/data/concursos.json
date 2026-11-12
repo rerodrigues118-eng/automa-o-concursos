@@ -330,21 +330,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "SU5CIC0gSW5kw7pzdHJpYXMgTnVjbGVhcmVzIGRvIEJyYXNpbCBTLkEuaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbmItcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXMtZGUtYXR1YWNhbw==",
-    "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
-    "link": "https://www.pciconcursos.com.br/noticias/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "RUJTRVJIIC0gRW1wcmVzYSBCcmFzaWxlaXJhIGRlIFNlcnZpw6dvcyBIb3NwaXRhbGFyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Vic2VyaC1icmFzaWwtcHJvY2Vzc28tc2VsZXRpdm8tb2ZlcmVjZS12YWdhcy1wYXJhLW1lZGljb3MtZW0tZGl2ZXJzYXMtZXNwZWNpYWxpZGFkZXM=",
     "orgao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
     "link": "https://www.pciconcursos.com.br/noticias/ebserh-brasil-processo-seletivo-oferece-vagas-para-medicos-em-diversas-especialidades",
@@ -356,6 +341,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "18/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
+    "id": "SU5CIC0gSW5kw7pzdHJpYXMgTnVjbGVhcmVzIGRvIEJyYXNpbCBTLkEuaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbmItcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXMtZGUtYXR1YWNhbw==",
+    "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
+    "link": "https://www.pciconcursos.com.br/noticias/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -750,21 +750,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SENQQSAtIEhvc3BpdGFsIGRlIENsw61uaWNhcyBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2hvc3BpdGFsLWRlLWNsaW5pY2FzLWRlLXBvcnRvLWFsZWdyZS1ycy1hYnJlLXNlbGVjb2VzLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
-    "orgao": "HCPA - Hospital de Clínicas de Porto Alegre",
-    "link": "https://www.pciconcursos.com.br/noticias/hospital-de-clinicas-de-porto-alegre-rs-abre-selecoes-para-diversos-cargos",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Clínicas de Porto Alegre",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Clínicas de Porto Alegre - PR"
-  },
-  {
     "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLXNvY2lvbG9naWEtZW0tcGFzc28tZnVuZG8=",
     "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
     "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-selecao-para-professor-substituto-de-sociologia-em-passo-fundo",
@@ -1005,21 +990,6 @@
     "localizacao": "Montenegro - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBNb3N0YXJkYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbW9zdGFyZGFzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1kaXZlcnNvcy1jYXJnb3M=",
-    "orgao": "Prefeitura de Mostardas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mostardas-rs-abre-processo-seletivo-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Mostardas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Mostardas - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFDDoWR1YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZhLXBhZHVhLXJzLWFicmUtY29uY3Vyc28tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc2FzLWFyZWFz",
     "orgao": "Prefeitura de Nova Pádua",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-padua-rs-abre-concurso-para-cadastro-de-reserva-em-diversas-areas",
@@ -1183,21 +1153,6 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Inhacorá - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1hcmNvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWFyY29zLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLXByb2Zlc3NvcmVz",
-    "orgao": "Prefeitura de São Marcos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-marcos-rs-abre-concurso-publico-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Marcos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Marcos - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1hcnRpbmhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1tYXJ0aW5oby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLWRlLWVzY29sYQ==",
@@ -1438,21 +1393,6 @@
     "data_encerramento": "20/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Vereadores de Erval Velho - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEl0dXBvcmFuZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1pdHVwb3JhbmdhLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9jdXJhZG9yLWxlZ2lzbGF0aXZv",
-    "orgao": "Câmara de Vereadores de Ituporanga",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-ituporanga-sc-abre-processo-seletivo-para-procurador-legislativo",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Vereadores de Ituporanga",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vereadores de Ituporanga - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIE1hdG9zIENvc3RhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtbWF0b3MtY29zdGEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDIwOQ==",
@@ -1815,21 +1755,6 @@
     "localizacao": "Cerro Negro - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBDaGFwZWPDs2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jaGFwZWNvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
-    "orgao": "Prefeitura de Chapecó",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapeco-sc-abre-processo-seletivo-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Chapecó",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Chapecó - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBDb25jw7NyZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbmNvcmRpYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02MDU3",
     "orgao": "Prefeitura de Concórdia",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-concordia-sc-abre-concurso-publico-com-salarios-de-ate-6057",
@@ -1980,21 +1905,6 @@
     "localizacao": "Ilhota - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBJbWJpdHViYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pbWJpdHViYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS00ODA3",
-    "orgao": "Prefeitura de Imbituba",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-imbituba-sc-abre-concurso-publico-com-salarios-de-ate-4807",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Imbituba",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Imbituba - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJcG9yw6MgZG8gT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtaXBvcmEtZG8tb2VzdGUtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWUtcHJvY2Vzc29zLXNlbGV0aXZvcy1jb20tc2FsYXJpb3MtZGUtYXRlLTE5MjY1",
     "orgao": "Prefeitura de Iporã do Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
@@ -2098,21 +2008,6 @@
     "data_encerramento": "03/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Luzerna - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNYWpvciBWaWVpcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtbWFqb3ItdmllaXJhLXNjLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
-    "orgao": "Prefeitura de Major Vieira",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-retifica-edital-de-concurso-publico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Major Vieira",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Major Vieira - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFRyZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbXVuaWNpcGlvLWRlLW5vdmEtdHJlbnRvLXNjLWFicmUtdHJlcy1ub3Zvcy1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQxODk=",
@@ -2278,21 +2173,6 @@
     "data_encerramento": "30/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Francisco do Sul - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRlIEFsY8OibnRhcmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLXBlZHJvLWRlLWFsY2FudGFyYS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de São Pedro de Alcântara",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-de-alcantara-sc-abre-selecao-para-a-secretaria-de-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Pedro de Alcântara",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Pedro de Alcântara - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTY2hyb2VkZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2Nocm9lZGVyLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtc2FuZWFtZW50by1lLWdlc3Rhby1hbWJpZW50YWw=",
@@ -2516,21 +2396,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWEtbWF0ZXJuaWRhZGUtZG9uYS1jYXRhcmluYS1rdXNzLWVtLW1hZnJh",
-    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
-    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-a-maternidade-dona-catarina-kuss-em-mafra",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "11/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
