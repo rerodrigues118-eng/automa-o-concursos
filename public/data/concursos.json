@@ -360,6 +360,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "U0FBIE1TIC0gU3Vic2VjcmV0YXJpYSBkZSBBc3N1bnRvcyBBZG1pbmlzdHJhdGl2b3MgZG8gTWluaXN0w6lyaW8gZGEgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYWEtbXMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMzU0",
+    "orgao": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
+    "link": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
     "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
     "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
@@ -433,6 +448,21 @@
     "data_encerramento": "12/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Balsa Nova - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDw6l1IEF6dWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2V1LWF6dWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQ1NTI=",
+    "orgao": "Prefeitura de Céu Azul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ceu-azul-pr-abre-processo-seletivo-com-salarios-de-ate-4552",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Céu Azul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Céu Azul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFbnRyZSBSaW9zIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVudHJlLXJpb3MtZG8tb2VzdGUtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvcy1kZS1uaXZlbC1zdXBlcmlvcg==",
@@ -538,6 +568,21 @@
     "data_encerramento": "03/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Realeza - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBVbXVhcmFtYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS11bXVhcmFtYS1wci1hYnJlLXNlbGVjYW8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTMw",
+    "orgao": "Prefeitura de Umuarama",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-umuarama-pr-abre-selecao-com-salarios-de-ate-5130",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Umuarama",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Umuarama - PR"
   },
   {
     "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY29zLWVtLWhpZ2llbmUtZGVudGFsLWUtZW0tbGFib3JhdG9yaW8tcGxhbmV0YXJpbw==",
@@ -746,6 +791,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SUZGYXIgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgRmFycm91cGlsaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmZmFyLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tdmFnYXMtcGFyYS1kaXZlcnNhcy1hcmVhcw==",
+    "orgao": "IFFar - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",
+    "link": "https://www.pciconcursos.com.br/noticias/iffar-rs-abre-concurso-publico-com-vagas-para-diversas-areas",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "21/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1515,6 +1575,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYW51bmNpYS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtYXNzaXN0ZW50ZS1kZS1sYWJvcmF0b3Jpby1pLW5vLWhlbW9zYy1kZS1pYmlyYW1h",
+    "orgao": "FAHECE",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processo-seletivo-para-o-cargo-de-assistente-de-laboratorio-i-no-hemosc-de-ibirama",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "19/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTA2",
     "orgao": "FURB - Fundação Universidade Regional de Blumenau",
     "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
@@ -1533,6 +1608,21 @@
     "id": "SEVNT1NDaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtcHJvcnJvZ2EtaW5zY3JpY29lcy1kZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW1lZGljby1uby1oZW1vc2MtZGUtam9pbnZpbGxl",
     "orgao": "HEMOSC",
     "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-prorroga-inscricoes-de-processo-seletivo-para-medico-no-hemosc-de-joinville",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SEVNT1NDaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8taGVtb3NjLWRlLWZsb3JpYW5vcG9saXM=",
+    "orgao": "HEMOSC",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-hemosc-de-florianopolis",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
@@ -2085,6 +2175,21 @@
     "localizacao": "Praia Grande - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gQ2FtcG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLWNhbXBvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRhLWVkdWNhY2Fv",
     "orgao": "Prefeitura de Rio do Campo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-campo-sc-abre-processo-seletivo-para-profissionais-da-educacao",
@@ -2098,6 +2203,21 @@
     "data_encerramento": "13/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio do Campo - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLW9lc3RlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTMzNw==",
+    "orgao": "Prefeitura de Rio do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-oeste-sc-abre-processo-seletivo-com-salarios-de-ate-15337",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rio do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rio do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG8sIEZNQywgSVBSRVJJTyBlIFNBTUFFaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1uZWdyaW5oby1zYy1lLW9yZ2Fvcy1tdW5pY2lwYWlzLWFicmVtLW5vdm9zLWNvbmN1cnNvcy1wdWJsaWNvcw==",
@@ -2203,6 +2323,21 @@
     "data_encerramento": "30/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Francisco do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXM=",
+    "orgao": "Prefeitura de São Miguel do Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-miguel-do-oeste-sc-abre-selecao-para-cadastro-de-reserva-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Miguel do Oeste",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Miguel do Oeste - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTY2hyb2VkZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2Nocm9lZGVyLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtc2FuZWFtZW50by1lLWdlc3Rhby1hbWJpZW50YWw=",
@@ -2456,6 +2591,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY29zLWVtLWVuZmVybWFnZW0tZS1lbmZlcm1laXJvcy1lbS1qb2ludmlsbGU=",
+    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-tecnicos-em-enfermagem-e-enfermeiros-em-joinville",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
