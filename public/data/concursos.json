@@ -810,6 +810,21 @@
     "localizacao": "Arvorezinha - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBkbyBHdWFyaXRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhcnJhLWRvLWd1YXJpdGEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQwNTk=",
+    "orgao": "Prefeitura de Barra do Guarita",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-guarita-rs-abre-processo-seletivo-com-salarios-de-ate-4059",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Barra do Guarita",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Barra do Guarita - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW5vYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2Fub2FzLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWEtYXJlYS1kYS1lZHVjYWNhbw==",
     "orgao": "Prefeitura de Canoas",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canoas-rs-abre-concurso-publico-para-a-area-da-educacao",
@@ -2040,6 +2055,21 @@
     "localizacao": "Passo de Torres - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBCZWxvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBvcnRvLWJlbG8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZmlzY2FsLWRlLXRlbXBvcmFkYQ==",
+    "orgao": "Prefeitura de Porto Belo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-belo-sc-abre-processo-seletivo-para-o-cargo-de-fiscal-de-temporada",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Porto Belo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Porto Belo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQcmFpYSBHcmFuZGUgZSBGdW5kbyBNdW5pY2lwYWwgZGUgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXByYWlhLWdyYW5kZS1zYy1hYnJlLXNlbGVjb2VzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzkyMQ==",
     "orgao": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
@@ -2263,6 +2293,36 @@
     "data_encerramento": "19/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Xaxim - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIEN1cml0aWJhbm9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWN1cml0aWJhbm9zLXNjLWFicmUtc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0yNjE5Mw==",
+    "orgao": "Prefeitura do Município de Curitibanos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitibanos-sc-abre-selecoes-com-salarios-de-ate-26193",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": false,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIEN1cml0aWJhbm9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWN1cml0aWJhbm9zLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEzMDk2",
+    "orgao": "Prefeitura do Município de Curitibanos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitibanos-sc-abre-concurso-publico-com-salarios-de-ate-13096",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": false,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIFJpbyBSdWZpbm9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLXJ1Zmluby1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
