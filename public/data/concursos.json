@@ -330,6 +330,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvYXNzb2NpYWNhby1kYXMtcGlvbmVpcmFzLXNvY2lhaXMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFuYWxpc3RhLWRlLXRlY25vbG9naWEtZGEtaW5mb3JtYWNhbw==",
+    "orgao": "APS - Associação das Pioneiras Sociais",
+    "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-processo-seletivo-para-analista-de-tecnologia-da-informacao",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "17/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "RUJTRVJIIC0gRW1wcmVzYSBCcmFzaWxlaXJhIGRlIFNlcnZpw6dvcyBIb3NwaXRhbGFyZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2Vic2VyaC1icmFzaWwtcHJvY2Vzc28tc2VsZXRpdm8tb2ZlcmVjZS12YWdhcy1wYXJhLW1lZGljb3MtZW0tZGl2ZXJzYXMtZXNwZWNpYWxpZGFkZXM=",
     "orgao": "EBSERH - Empresa Brasileira de Serviços Hospitalares",
     "link": "https://www.pciconcursos.com.br/noticias/ebserh-brasil-processo-seletivo-oferece-vagas-para-medicos-em-diversas-especialidades",
@@ -960,6 +975,21 @@
     "localizacao": "Gramado - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvIGRvcyBMb3VyZWlyb3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3JhbWFkby1kb3MtbG91cmVpcm9zLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01ODk5",
+    "orgao": "Prefeitura de Gramado dos Loureiros",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-dos-loureiros-rs-abre-processo-seletivo-com-salarios-de-ate-5899",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Gramado dos Loureiros",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Gramado dos Loureiros - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHdWFiaWp1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWd1YWJpanUtcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNjQ4Mw==",
     "orgao": "Prefeitura de Guabiju",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guabiju-rs-abre-concurso-publico-com-salarios-de-ate-6483",
@@ -1136,6 +1166,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Porto Alegre - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2dyYW1hLWRlLXJlc2lkZW5jaWEtdGVjbmljby1zdXBlcmlvcg==",
+    "orgao": "Prefeitura de Porto Alegre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-selecao-para-programa-de-residencia-tecnico-superior",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Porto Alegre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Porto Alegre - PR"
   },
@@ -1365,6 +1410,21 @@
     "localizacao": "Lages - PR"
   },
   {
+    "id": "Q8OibWFyYSBkZSDDgWd1YXMgRnJpYXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1hZ3Vhcy1mcmlhcy1zYy1hYnJlLWNvbmN1cnNvLXBhcmEtdGVzb3VyZWlyby1jb250YWRvci1lLWNvbnRyb2xlLWludGVybm8=",
+    "orgao": "Câmara de Águas Frias",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-aguas-frias-sc-abre-concurso-para-tesoureiro-contador-e-controle-interno",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "20/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "Q8OibWFyYSBkZSBQb21lcm9kZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBvbWVyb2RlLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFzc2lzdGVudGUtbGVnaXNsYXRpdm8tZS1hbmFsaXN0YS1hZG1pbmlzdHJhdGl2bw==",
     "orgao": "Câmara de Pomerode",
     "link": "https://www.pciconcursos.com.br/noticias/camara-de-pomerode-sc-abre-concurso-publico-para-assistente-legislativo-e-analista-administrativo",
@@ -1575,6 +1635,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SG9zcGl0YWwgUmVnaW9uYWwgRGVwdXRhZG8gQWZmb25zbyBHaGl6em8gZGUgQXJhcmFuZ3XDoSBlIFBvbGljbMOtbmljYSBSZWdpb25hbGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaG9zcGl0YWwtcmVnaW9uYWwtZGUtYXJhcmFuZ3VhLXNjLWFicmUtc2VsZWNvZXMtcGFyYS1jb3ppbmhlaXJvLWF1eGlsaWFyLWRlLWNvemluaGEtZS1jb3BlaXJv",
+    "orgao": "Hospital Regional Deputado Affonso Ghizzo de Araranguá e Policlínica Regional",
+    "link": "https://www.pciconcursos.com.br/noticias/hospital-regional-de-ararangua-sc-abre-selecoes-para-cozinheiro-auxiliar-de-cozinha-e-copeiro",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1sZXRyYXMtZW0tYmx1bWVuYXU=",
     "orgao": "IFC - Instituto Federal Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-de-letras-em-blumenau",
@@ -1755,6 +1830,21 @@
     "localizacao": "Braço do Trombudo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBDYW5lbGluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZWxpbmhhLXNjLWFicmUtbm92by1jb25jdXJzby1wdWJsaWNvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
+    "orgao": "Prefeitura de Canelinha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canelinha-sc-abre-novo-concurso-publico-para-diversos-cargos",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Canelinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "15/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Canelinha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDZXJybyBOZWdyb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jZXJyby1uZWdyby1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03NjYw",
     "orgao": "Prefeitura de Cerro Negro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cerro-negro-sc-abre-concurso-publico-com-salarios-de-ate-7660",
@@ -1798,6 +1888,21 @@
     "data_encerramento": "03/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Concórdia - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDb3JyZWlhIFBpbnRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvcnJlaWEtcGludG8tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLW5hLWFyZWEtZGEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Correia Pinto",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-correia-pinto-sc-abre-concurso-publico-na-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Correia Pinto",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Correia Pinto - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDcmljacO6bWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY3JpY2l1bWEtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zlc3NvcmVz",
@@ -1931,6 +2036,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibirama - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJYmlyYW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9tdW5pY2lwaW8tZGUtaWJpcmFtYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
+    "orgao": "Prefeitura de Ibirama",
+    "link": "https://www.pciconcursos.com.br/noticias/municipio-de-ibirama-sc-abre-concurso-publico-para-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ibirama",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ibirama - PR"
   },
@@ -2160,6 +2280,21 @@
     "localizacao": "Rodeio - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYWxldGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsZXRlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS02MzQ3",
+    "orgao": "Prefeitura de Salete",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salete-sc-abre-processo-seletivo-com-salarios-de-ate-6347",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Salete",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Salete - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBUZXJlemluaGEgZG8gUHJvZ3Jlc3NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXRlcmV6aW5oYS1kby1wcm9ncmVzc28tc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMDAw",
     "orgao": "Prefeitura de Santa Terezinha do Progresso",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-com-salarios-de-ate-10000",
@@ -2261,6 +2396,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Schroeder - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTY2hyb2VkZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2Nocm9lZGVyLXNjLWFicmUtc2VsZWNhby1wYXJhLWEtc2VjcmV0YXJpYS1tdW5pY2lwYWwtZGUtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Schroeder",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-abre-selecao-para-a-secretaria-municipal-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Schroeder",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Schroeder - PR"
   },
