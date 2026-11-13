@@ -840,6 +840,21 @@
     "localizacao": "Antônio Prado - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBcnJvaW8gZG8gUGFkcmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYXJyb2lvLWRvLXBhZHJlLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZXJhcGV1dGEtb2N1cGFjaW9uYWw=",
+    "orgao": "Prefeitura de Arroio do Padre",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arroio-do-padre-rs-abre-processo-seletivo-para-terapeuta-ocupacional",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Arroio do Padre",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Arroio do Padre - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBcnZvcmV6aW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcnZvcmV6aW5oYS1ycy1yZXRvbWEtY29uY3Vyc28tcHVibGljby1wYXJhLWZpc2NhbC1hbWJpZW50YWwtZS1maXNjYWwtc2FuaXRhcmlv",
     "orgao": "Prefeitura de Arvorezinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arvorezinha-rs-retoma-concurso-publico-para-fiscal-ambiental-e-fiscal-sanitario",
@@ -1018,21 +1033,6 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Ipê - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBNb250ZW5lZ3JvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW1vbnRlbmVncm8tcnMtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtOTg0OA==",
-    "orgao": "Prefeitura de Montenegro",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Montenegro",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Montenegro - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFDDoWR1YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZhLXBhZHVhLXJzLWFicmUtY29uY3Vyc28tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc2FzLWFyZWFz",
@@ -1500,6 +1500,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYW51bmNpYS12YWdhLWRlLWFzc2lzdGVudGUtZGUtbGFib3JhdG9yaW8taS1lbS1mbG9yaWFub3BvbGlz",
+    "orgao": "FAHECE",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-vaga-de-assistente-de-laboratorio-i-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "16/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTA2",
     "orgao": "FURB - Fundação Universidade Regional de Blumenau",
     "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
@@ -1813,6 +1828,21 @@
     "data_encerramento": "07/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Faxinal dos Guedes - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGbG9yaWFuw7Nwb2xpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mbG9yaWFub3BvbGlzLXNjLWFicmUtc2VsZWNhby1wYXJhLWEtc2VjcmV0YXJpYS1kZS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de Florianópolis",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florianopolis-sc-abre-selecao-para-a-secretaria-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Florianópolis",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Florianópolis - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGcmFpYnVyZ29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZnJhaWJ1cmdvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
@@ -2418,6 +2448,21 @@
     "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY29zLWVtLWVuZmVybWFnZW0tZS1lbmZlcm1laXJvcy1lbS1qb2ludmlsbGU=",
     "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
     "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-para-tecnicos-em-enfermagem-e-enfermeiros-em-joinville",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0VTIC0gU2VjcmV0YXJpYSBkZSBFc3RhZG8gZGEgU2HDumRlIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zZXMtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmlzc2lvbmFpcy1kZS1zYXVkZS1lbS1qb2ludmlsbGU=",
+    "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-selecao-para-profissionais-de-saude-em-joinville",
     "categoria": "Outros",
     "uf": "PR",
     "cidade": "Várias",
