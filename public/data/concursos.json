@@ -825,21 +825,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "SUZTdWwgLSBJbnN0aXR1dG8gRmVkZXJhbCBkZSBFZHVjYcOnw6NvLCBDacOqbmNpYSBlIFRlY25vbG9naWEgU3VsLXJpby1ncmFuZGVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLXN1YnN0aXR1dG9zLWVtLWJhZ2U=",
-    "orgao": "IFSul - Instituto Federal de Educação, Ciência e Tecnologia Sul-rio-grandense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifsul-rs-abre-selecao-para-professores-substitutos-em-bage",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBBbnTDtG5pbyBQcmFkb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hbnRvbmlvLXByYWRvLXJzLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMzUy",
     "orgao": "Prefeitura de Antônio Prado",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-antonio-prado-rs-abre-concurso-publico-com-salarios-de-ate-10352",
@@ -868,21 +853,6 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Arroio do Padre - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBBcnZvcmV6aW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcnZvcmV6aW5oYS1ycy1yZXRvbWEtY29uY3Vyc28tcHVibGljby1wYXJhLWZpc2NhbC1hbWJpZW50YWwtZS1maXNjYWwtc2FuaXRhcmlv",
-    "orgao": "Prefeitura de Arvorezinha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-arvorezinha-rs-retoma-concurso-publico-para-fiscal-ambiental-e-fiscal-sanitario",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Arvorezinha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Arvorezinha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBCYXJyYSBkbyBHdWFyaXRhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJhcnJhLWRvLWd1YXJpdGEtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQwNTk=",
@@ -958,21 +928,6 @@
     "data_encerramento": "03/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Fontoura Xavier - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWdyYW1hZG8tcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtYmlvbG9nby1p",
-    "orgao": "Prefeitura de Gramado",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-gramado-rs-abre-processo-seletivo-para-o-cargo-de-biologo-i",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Gramado",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Gramado - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBHcmFtYWRvIGRvcyBMb3VyZWlyb3NodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZ3JhbWFkby1kb3MtbG91cmVpcm9zLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01ODk5",
@@ -1125,21 +1080,6 @@
     "localizacao": "Passo Fundo - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQZWxvdGFzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBlbG90YXMtcnMtYWJyZS1wcm9jZXNzb3Mtc2VsZXRpdm9zLXBhcmEtbWVkaWNvcw==",
-    "orgao": "Prefeitura de Pelotas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pelotas-rs-abre-processos-seletivos-para-medicos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Pelotas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pelotas - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBQaXJhdGluaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdGluaS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03NDYy",
     "orgao": "Prefeitura de Piratini",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratini-rs-abre-concurso-publico-com-salarios-de-ate-7462",
@@ -1185,21 +1125,6 @@
     "localizacao": "Porto Alegre - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWRpdnVsZ2EtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1pbnN0cnV0b3Jlcy1lZHVjYWNpb25haXM=",
-    "orgao": "Prefeitura de Santo Antônio da Patrulha",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-divulga-processo-seletivo-para-instrutores-educacionais",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Santo Antônio da Patrulha",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Santo Antônio da Patrulha - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS05ODg1",
     "orgao": "Prefeitura de São José do Inhacorá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-publico-com-salarios-de-ate-9885",
@@ -1228,21 +1153,6 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Inhacorá - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1hcnRpbmhvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1tYXJ0aW5oby1ycy1hYnJlLXNlbGVjYW8tcGFyYS1tb25pdG9yLWRlLWVzY29sYQ==",
-    "orgao": "Prefeitura de São Martinho",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-martinho-rs-abre-selecao-para-monitor-de-escola",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Martinho",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Martinho - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIFN1bGh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tcGVkcm8tZG8tc3VsLXJzLWFicmUtc2VsZWNhby1wYXJhLXZpc2l0YWRvcmVzLWRvcy1wcm9ncmFtYXMtY3JpYW5jYS1mZWxpei1lLXByaW1laXJhLWluZmFuY2lhLW1lbGhvcg==",
@@ -1333,21 +1243,6 @@
     "data_encerramento": "24/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Torres - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUcmluZGFkZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdHJpbmRhZGUtZG8tc3VsLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1tZWRpY29z",
-    "orgao": "Prefeitura de Trindade do Sul",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trindade-do-sul-rs-abre-processo-seletivo-para-medicos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Trindade do Sul",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Trindade do Sul - PR"
   },
   {
     "id": "UFJFVklKVcONIC0gSW5zdGl0dXRvIGRlIFByZXZpZMOqbmNpYSBkb3MgU2Vydmlkb3JlcyBQw7pibGljb3MgZG8gTXVuaWPDrXBpbyBkZSBJanXDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJldmlqdWktcnMtYW51bmNpYS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtODk4Mw==",
@@ -2220,21 +2115,6 @@
     "localizacao": "Rancho Queimado - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gQ2FtcG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLWNhbXBvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRhLWVkdWNhY2Fv",
-    "orgao": "Prefeitura de Rio do Campo",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-campo-sc-abre-processo-seletivo-para-profissionais-da-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio do Campo",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio do Campo - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBSaW8gZG8gT2VzdGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmlvLWRvLW9lc3RlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS0xNTMzNw==",
     "orgao": "Prefeitura de Rio do Oeste",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-do-oeste-sc-abre-processo-seletivo-com-salarios-de-ate-15337",
@@ -2263,21 +2143,6 @@
     "data_encerramento": "15/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Negrinho - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBSb2RlaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcm9kZWlvLXNjLWFicmUtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc29zLWNhcmdvcw==",
-    "orgao": "Prefeitura de Rodeio",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rodeio-sc-abre-processos-seletivos-para-diversos-cargos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rodeio",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rodeio - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWxldGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsZXRlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS02MzQ3",
@@ -2340,21 +2205,6 @@
     "localizacao": "São Bonifácio - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIERvbWluZ29zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhby1kb21pbmdvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de São Domingos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-processo-seletivo-para-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Domingos",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Domingos - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEZyYW5jaXNjbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWZyYW5jaXNjby1kby1zdWwtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXMtZS10ZWNuaWNvcy1wZWRhZ29naWNvcw==",
     "orgao": "Prefeitura de São Francisco do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-francisco-do-sul-sc-abre-selecao-para-professores-e-tecnicos-pedagogicos",
@@ -2413,21 +2263,6 @@
     "data_encerramento": "06/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Schroeder - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBUaWp1Y2FzaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRpanVjYXMtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS12YWdhcy1wYXJhLWEtZWR1Y2FjYW8=",
-    "orgao": "Prefeitura de Tijucas",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tijucas-sc-abre-concurso-publico-com-vagas-para-a-educacao",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Tijucas",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Tijucas - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVcnVzc2FuZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdXJ1c3NhbmdhLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
@@ -2561,21 +2396,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/12/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "U0VNU0EgLSBTZWNyZXRhcmlhIE11bmljaXBhbCBkZSBTYcO6ZGUgZGUgU2Nocm9lZGVyaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNjaHJvZWRlci1zYy1hYnJlLXNlbGVjYW8tcGFyYS1hdXhpbGlhci1kZS1jb25zdWx0b3Jpby1kZW50YXJpbw==",
-    "orgao": "SEMSA - Secretaria Municipal de Saúde de Schroeder",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-abre-selecao-para-auxiliar-de-consultorio-dentario",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "13/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
