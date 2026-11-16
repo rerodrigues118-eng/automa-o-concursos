@@ -570,6 +570,21 @@
     "localizacao": "Realeza - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIFBlZHJvIGRvIElndWHDp3VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLXBlZHJvLWRvLWlndWFjdS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0xNC12YWdhcy1wYXJhLXByb2Zlc3NvcmVz",
+    "orgao": "Prefeitura de São Pedro do Iguaçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-pedro-do-iguacu-pr-abre-processo-seletivo-com-14-vagas-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Pedro do Iguaçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Pedro do Iguaçu - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBVbXVhcmFtYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS11bXVhcmFtYS1wci1hYnJlLXNlbGVjYW8tY29tLXNhbGFyaW9zLWRlLWF0ZS01MTMw",
     "orgao": "Prefeitura de Umuarama",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-umuarama-pr-abre-selecao-com-salarios-de-ate-5130",
@@ -581,6 +596,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Umuarama - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBVbXVhcmFtYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS11bXVhcmFtYS1wci1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1tZWRpY29zLWdlbmVyYWxpc3Rhcw==",
+    "orgao": "Prefeitura de Umuarama",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-umuarama-pr-abre-concurso-publico-para-medicos-generalistas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Umuarama",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Umuarama - PR"
   },
@@ -1635,6 +1665,21 @@
     "localizacao": "Agronômica - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBBcmFyYW5ndcOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWFyYXJhbmd1YS1zYy1hYnJlLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1kaWZlcmVudGVzLWFyZWFz",
+    "orgao": "Prefeitura de Araranguá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ararangua-sc-abre-processos-seletivos-para-diferentes-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Araranguá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Araranguá - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBcm1hesOpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hcm1hemVtLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Armazém",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-armazem-sc-abre-processo-seletivo-para-cadastro-de-reserva",
@@ -1903,6 +1948,21 @@
     "data_encerramento": "02/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guarujá do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBIZXJ2YWwgZCdPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1oZXJ2YWwtZG9lc3RlLXNjLWFicmUtdmFnYXMtcGFyYS1kaXZlcnNvcy1jYXJnb3MtbmEtYXJlYS1kYS1lZHVjYWNhbw==",
+    "orgao": "Prefeitura de Herval d'Oeste",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-herval-doeste-sc-abre-vagas-para-diversos-cargos-na-area-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Herval",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Herval - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJYmlyYW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhbWEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjAzNjQ=",
