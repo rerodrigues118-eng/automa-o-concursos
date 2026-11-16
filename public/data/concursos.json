@@ -2115,21 +2115,6 @@
     "localizacao": "Rio do Oeste - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBSaW8gTmVncmluaG8sIEZNQywgSVBSRVJJTyBlIFNBTUFFaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJpby1uZWdyaW5oby1zYy1lLW9yZ2Fvcy1tdW5pY2lwYWlzLWFicmVtLW5vdm9zLWNvbmN1cnNvcy1wdWJsaWNvcw==",
-    "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Rio Negrinho",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Rio Negrinho - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBTYWxldGVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FsZXRlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS02MzQ3",
     "orgao": "Prefeitura de Salete",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-salete-sc-abre-processo-seletivo-com-salarios-de-ate-6347",
@@ -2173,21 +2158,6 @@
     "data_encerramento": "30/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santa Terezinha do Progresso - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEJvbmlmw6FjaW9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWJvbmlmYWNpby1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
-    "orgao": "Prefeitura de São Bonifácio",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-bonifacio-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "São Bonifácio",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "São Bonifácio - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEZyYW5jaXNjbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWZyYW5jaXNjby1kby1zdWwtc2MtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yZXMtZS10ZWNuaWNvcy1wZWRhZ29naWNvcw==",
@@ -2263,21 +2233,6 @@
     "data_encerramento": "05/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Urussanga - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBWaXRvciBNZWlyZWxlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12aXRvci1tZWlyZWxlcy1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTExMDUw",
-    "orgao": "Prefeitura de Vitor Meireles",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vitor-meireles-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-11050",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Vitor Meireles",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "15/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Vitor Meireles - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBYYXhpbWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS14YXhpbS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtcHJvZmVzc29yZXM=",
