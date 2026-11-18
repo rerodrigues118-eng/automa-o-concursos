@@ -330,6 +330,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
+    "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
+    "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvYXNzb2NpYWNhby1kYXMtcGlvbmVpcmFzLXNvY2lhaXMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFuYWxpc3RhLWRlLXRlY25vbG9naWEtZGEtaW5mb3JtYWNhbw==",
     "orgao": "APS - Associação das Pioneiras Sociais",
     "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-processo-seletivo-para-analista-de-tecnologia-da-informacao",
@@ -390,21 +405,6 @@
     "localizacao": "Brasil"
   },
   {
-    "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
-    "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
-    "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBRdWVkYXMgZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWVkYXMtZG8taWd1YWN1LXByLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura de Quedas do Iguaçu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-retifica-edital-de-concurso-publico",
@@ -450,6 +450,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXZpc2l0YW50ZS1lbS1tZWRpY2luYS10cmFkaWNpb25hbC1jaGluZXNh",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-selecao-para-professor-visitante-em-medicina-tradicional-chinesa",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHRvIFBpcXVpcmlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWx0by1waXF1aXJpLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc2FzLWFyZWFz",
     "orgao": "Prefeitura de Alto Piquiri",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-piquiri-pr-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas",
@@ -478,6 +493,21 @@
     "data_encerramento": "24/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Céu Azul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDdXJpw7p2YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdXJpdXZhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZWNuaWNvLWRlLWVuZmVybWFnZW0=",
+    "orgao": "Prefeitura de Curiúva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curiuva-pr-abre-processo-seletivo-para-tecnico-de-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Curiúva",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curiúva - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBFbnRyZSBSaW9zIGRvIE9lc3RlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVudHJlLXJpb3MtZG8tb2VzdGUtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvcy1kZS1uaXZlbC1zdXBlcmlvcg==",
@@ -523,6 +553,21 @@
     "data_encerramento": "22/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Guamiranga - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFtYmFyYWPDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGFtYmFyYWNhLXByLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTY4MDA=",
+    "orgao": "Prefeitura de Itambaracá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itambaraca-pr-abre-selecao-com-salarios-de-ate-6800",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itambaracá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itambaracá - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdmHDrWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdmFpLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS00NDY0",
@@ -643,6 +688,21 @@
     "data_encerramento": "02/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Umuarama - PR"
+  },
+  {
+    "id": "U0VFRCAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEVkdWNhw6fDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlZWQtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
+    "orgao": "SEED - Secretaria de Estado da Educação",
+    "link": "https://www.pciconcursos.com.br/noticias/seed-pr-abre-processo-seletivo-para-profissionais-da-educacao",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
   },
   {
     "id": "VUVMIC0gVW5pdmVyc2lkYWRlIEVzdGFkdWFsIGRlIExvbmRyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXRlY25pY29zLWVtLWhpZ2llbmUtZGVudGFsLWUtZW0tbGFib3JhdG9yaW8tcGxhbmV0YXJpbw==",
@@ -1215,6 +1275,36 @@
     "localizacao": "Porto Alegre - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIEx1Y2VuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWx1Y2VuYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1lbmZlcm1laXJv",
+    "orgao": "Prefeitura de Presidente Lucena",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-lucena-rs-abre-processo-seletivo-para-o-cargo-de-enfermeiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Presidente Lucena",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Presidente Lucena - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtY3VpZGFkb3Itc29jaWFs",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-selecao-para-o-cargo-de-cuidador-social",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS05ODg1",
     "orgao": "Prefeitura de São José do Inhacorá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-publico-com-salarios-de-ate-9885",
@@ -1241,6 +1331,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José do Inhacorá - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLW5hLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de São José do Inhacorá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-selecao-para-cadastro-de-reserva-na-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José do Inhacorá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Inhacorá - PR"
   },
@@ -1496,6 +1601,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "Q29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkbyBTZXJ2acOnbyBTb2Npb2Fzc2lzdGVuY2lhbCBkZSBBbHRhIENvbXBsZXhpZGFkZSBDYXNhIExhciBQZXF1ZW5vIFByw61uY2lwZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYS1sYXItcGVxdWVuby1wcmluY2lwZS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1wc2ljb2xvZ2E=",
+    "orgao": "Consórcio Intermunicipal do Serviço Socioassistencial de Alta Complexidade Casa Lar Pequeno Príncipe",
+    "link": "https://www.pciconcursos.com.br/noticias/casa-lar-pequeno-principe-sc-abre-selecao-para-psicologa",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2501,6 +2621,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "26/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "VUZTQyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZW0tZGlmZXJlbnRlcy1jaWRhZGVz",
+    "orgao": "UFSC - Universidade Federal de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsc-abre-processo-seletivo-com-vagas-para-professor-substituto-em-diferentes-cidades",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   }

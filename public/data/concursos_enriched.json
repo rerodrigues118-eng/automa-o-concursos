@@ -2046,6 +2046,99 @@
     }
   },
   {
+    "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
+    "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
+    "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão TRF3 - Tribunal Regional Federal da 3ª Região."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+TRF3+-+Tribunal+Regional+Federal+da+3ª+Região"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+TRF3+-+Tribunal+Regional+Federal+da+3ª+Região"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/TRF3+-+Tribunal+Regional+Federal+da+3ª+Região"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "QVBTIC0gQXNzb2NpYcOnw6NvIGRhcyBQaW9uZWlyYXMgU29jaWFpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvYXNzb2NpYWNhby1kYXMtcGlvbmVpcmFzLXNvY2lhaXMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWFuYWxpc3RhLWRlLXRlY25vbG9naWEtZGEtaW5mb3JtYWNhbw==",
     "orgao": "APS - Associação das Pioneiras Sociais",
     "link": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-processo-seletivo-para-analista-de-tecnologia-da-informacao",
@@ -2418,99 +2511,6 @@
     }
   },
   {
-    "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
-    "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
-    "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "23/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil",
-    "detalhes_cargo": {
-      "salario_medio": "R$ 7.000 a R$ 22.000",
-      "carga_horaria": "40h semanais",
-      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
-      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
-      "descricao_geral": "Oportunidade na área Federal focada no órgão TRF3 - Tribunal Regional Federal da 3ª Região."
-    },
-    "material_estudo": {
-      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
-      "video_links": [
-        {
-          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
-        },
-        {
-          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
-        },
-        {
-          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
-        },
-        {
-          "titulo": "Aula: Específicas [Videoaula Destaque]",
-          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
-        }
-      ],
-      "pdf_links": [
-        {
-          "titulo": "Apostila Base Teórica (PDF Gratuito)",
-          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+TRF3+-+Tribunal+Regional+Federal+da+3ª+Região"
-        },
-        {
-          "titulo": "Edital Esquematizado",
-          "url": "https://www.google.com/search?q=edital+esquematizado+TRF3+-+Tribunal+Regional+Federal+da+3ª+Região"
-        }
-      ],
-      "provas_anteriores": [
-        {
-          "titulo": "Buscador de Provas (PCI)",
-          "url": "https://www.pciconcursos.com.br/provas/TRF3+-+Tribunal+Regional+Federal+da+3ª+Região"
-        },
-        {
-          "titulo": "Banco de Questões Comentadas",
-          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
-        }
-      ],
-      "plano_estudos_semanal": [
-        {
-          "dia": "Segunda",
-          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
-        },
-        {
-          "dia": "Terça",
-          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
-        },
-        {
-          "dia": "Quarta",
-          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
-        },
-        {
-          "dia": "Quinta",
-          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
-        },
-        {
-          "dia": "Sexta",
-          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
-        },
-        {
-          "dia": "Sábado",
-          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
-        },
-        {
-          "dia": "Domingo",
-          "conteudo": "Descanso ativo e Planejamento da próxima semana"
-        }
-      ]
-    }
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBRdWVkYXMgZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWVkYXMtZG8taWd1YWN1LXByLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
     "orgao": "Prefeitura de Quedas do Iguaçu",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-retifica-edital-de-concurso-publico",
@@ -2790,6 +2790,99 @@
     }
   },
   {
+    "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmcHItYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLXZpc2l0YW50ZS1lbS1tZWRpY2luYS10cmFkaWNpb25hbC1jaGluZXNh",
+    "orgao": "IFPR - Instituto Federal do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/ifpr-abre-selecao-para-professor-visitante-em-medicina-tradicional-chinesa",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão IFPR - Instituto Federal do Paraná."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+IFPR+-+Instituto+Federal+do+Paraná"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+IFPR+-+Instituto+Federal+do+Paraná"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/IFPR+-+Instituto+Federal+do+Paraná"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBBbHRvIFBpcXVpcmlodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWx0by1waXF1aXJpLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLWVtLWRpdmVyc2FzLWFyZWFz",
     "orgao": "Prefeitura de Alto Piquiri",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alto-piquiri-pr-abre-processo-seletivo-para-cadastro-de-reserva-em-diversas-areas",
@@ -2937,6 +3030,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Céu+Azul"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDdXJpw7p2YWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdXJpdXZhLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZWNuaWNvLWRlLWVuZmVybWFnZW0=",
+    "orgao": "Prefeitura de Curiúva",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curiuva-pr-abre-processo-seletivo-para-tecnico-de-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Curiúva",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curiúva - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Curiúva."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Curiúva"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Curiúva"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Curiúva"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -3216,6 +3402,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Guamiranga"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJdGFtYmFyYWPDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGFtYmFyYWNhLXByLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTY4MDA=",
+    "orgao": "Prefeitura de Itambaracá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itambaraca-pr-abre-selecao-com-salarios-de-ate-6800",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Itambaracá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Itambaracá - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Itambaracá."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Itambaracá"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Itambaracá"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Itambaracá"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -3982,6 +4261,99 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "U0VFRCAtIFNlY3JldGFyaWEgZGUgRXN0YWRvIGRhIEVkdWNhw6fDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NlZWQtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLXByb2Zpc3Npb25haXMtZGEtZWR1Y2FjYW8=",
+    "orgao": "SEED - Secretaria de Estado da Educação",
+    "link": "https://www.pciconcursos.com.br/noticias/seed-pr-abre-processo-seletivo-para-profissionais-da-educacao",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "01/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão SEED - Secretaria de Estado da Educação."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+SEED+-+Secretaria+de+Estado+da+Educação"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+SEED+-+Secretaria+de+Estado+da+Educação"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/SEED+-+Secretaria+de+Estado+da+Educação"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",
@@ -7533,6 +7905,192 @@
     }
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBQcmVzaWRlbnRlIEx1Y2VuYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wcmVzaWRlbnRlLWx1Y2VuYS1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1lbmZlcm1laXJv",
+    "orgao": "Prefeitura de Presidente Lucena",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-presidente-lucena-rs-abre-processo-seletivo-para-o-cargo-de-enfermeiro",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Presidente Lucena",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Presidente Lucena - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Presidente Lucena."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Presidente+Lucena"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Presidente+Lucena"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Presidente+Lucena"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50byBBbnTDtG5pbyBkYSBQYXRydWxoYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW50by1hbnRvbmlvLWRhLXBhdHJ1bGhhLXJzLWFicmUtc2VsZWNhby1wYXJhLW8tY2FyZ28tZGUtY3VpZGFkb3Itc29jaWFs",
+    "orgao": "Prefeitura de Santo Antônio da Patrulha",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-antonio-da-patrulha-rs-abre-selecao-para-o-cargo-de-cuidador-social",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santo Antônio da Patrulha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santo Antônio da Patrulha - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de Santo Antônio da Patrulha."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+Santo+Antônio+da+Patrulha"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+Santo+Antônio+da+Patrulha"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+Santo+Antônio+da+Patrulha"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS05ODg1",
     "orgao": "Prefeitura de São José do Inhacorá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-concurso-publico-com-salarios-de-ate-9885",
@@ -7637,6 +8195,99 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São José do Inhacorá - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.500 a R$ 5.500",
+      "carga_horaria": "40h semanais",
+      "funcao": "Rotinas administrativas, atendimento ao público, elaboração de documentos e gestão de arquivos.",
+      "plano_carreira": "Progressão por tempo de serviço e qualificações (cursos e pós-graduação).",
+      "descricao_geral": "Oportunidade na área Administrativo focada no órgão Prefeitura de São José do Inhacorá."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Administrativo, é essencial dominar Português, Raciocínio Lógico, Informática, Direito Administrativo. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Raciocínio Lógico [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Raciocínio+Lógico+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Prefeitura+de+São+José+do+Inhacorá"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Prefeitura+de+São+José+do+Inhacorá"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Prefeitura+de+São+José+do+Inhacorá"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Raciocínio Lógico (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Informática (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Direito Administrativo (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvc8OpIGRvIEluaGFjb3LDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tam9zZS1kby1pbmhhY29yYS1ycy1hYnJlLXNlbGVjYW8tcGFyYS1jYWRhc3Ryby1kZS1yZXNlcnZhLW5hLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de São José do Inhacorá",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-jose-do-inhacora-rs-abre-selecao-para-cadastro-de-reserva-na-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São José do Inhacorá",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "São José do Inhacorá - PR",
     "detalhes_cargo": {
@@ -9261,6 +9912,99 @@
         {
           "titulo": "Buscador de Provas (PCI)",
           "url": "https://www.pciconcursos.com.br/provas/Conselho+Tutelar+de+Arabutã"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Português (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Matemática (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Conhecimentos Gerais (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "Q29uc8OzcmNpbyBJbnRlcm11bmljaXBhbCBkbyBTZXJ2acOnbyBTb2Npb2Fzc2lzdGVuY2lhbCBkZSBBbHRhIENvbXBsZXhpZGFkZSBDYXNhIExhciBQZXF1ZW5vIFByw61uY2lwZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FzYS1sYXItcGVxdWVuby1wcmluY2lwZS1zYy1hYnJlLXNlbGVjYW8tcGFyYS1wc2ljb2xvZ2E=",
+    "orgao": "Consórcio Intermunicipal do Serviço Socioassistencial de Alta Complexidade Casa Lar Pequeno Príncipe",
+    "link": "https://www.pciconcursos.com.br/noticias/casa-lar-pequeno-principe-sc-abre-selecao-para-psicologa",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "23/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 2.000 a R$ 4.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Atividades operacionais ou de suporte no órgão correspondente.",
+      "plano_carreira": "Evolução salarial conforme o estatuto do servidor local.",
+      "descricao_geral": "Oportunidade na área Outros focada no órgão Consórcio Intermunicipal do Serviço Socioassistencial de Alta Complexidade Casa Lar Pequeno Príncipe."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Outros, é essencial dominar Português, Matemática, Conhecimentos Gerais, Informática. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Português [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Português+para+concurso"
+        },
+        {
+          "titulo": "Aula: Matemática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Matemática+para+concurso"
+        },
+        {
+          "titulo": "Aula: Conhecimentos Gerais [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Conhecimentos+Gerais+para+concurso"
+        },
+        {
+          "titulo": "Aula: Informática [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Informática+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+Consórcio+Intermunicipal+do+Serviço+Socioassistencial+de+Alta+Complexidade+Casa+Lar+Pequeno+Príncipe"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+Consórcio+Intermunicipal+do+Serviço+Socioassistencial+de+Alta+Complexidade+Casa+Lar+Pequeno+Príncipe"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/Consórcio+Intermunicipal+do+Serviço+Socioassistencial+de+Alta+Complexidade+Casa+Lar+Pequeno+Príncipe"
         },
         {
           "titulo": "Banco de Questões Comentadas",
@@ -15514,6 +16258,99 @@
         {
           "dia": "Quinta",
           "conteudo": "Legislação: Informática (Lei seca e mapas mentais)"
+        },
+        {
+          "dia": "Sexta",
+          "conteudo": "Revisão Geral e Construção do Resumo Semanal"
+        },
+        {
+          "dia": "Sábado",
+          "conteudo": "Simulado Prático (Manhã) e Correção de Erros (Tarde)"
+        },
+        {
+          "dia": "Domingo",
+          "conteudo": "Descanso ativo e Planejamento da próxima semana"
+        }
+      ]
+    }
+  },
+  {
+    "id": "VUZTQyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIENhdGFyaW5haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXZhZ2FzLXBhcmEtcHJvZmVzc29yLXN1YnN0aXR1dG8tZW0tZGlmZXJlbnRlcy1jaWRhZGVz",
+    "orgao": "UFSC - Universidade Federal de Santa Catarina",
+    "link": "https://www.pciconcursos.com.br/noticias/ufsc-abre-processo-seletivo-com-vagas-para-professor-substituto-em-diferentes-cidades",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR",
+    "detalhes_cargo": {
+      "salario_medio": "R$ 7.000 a R$ 22.000",
+      "carga_horaria": "40h semanais",
+      "funcao": "Auditoria, fiscalização, regulação ou gestão em âmbito nacional.",
+      "plano_carreira": "Classes e Padrões (A, B, C, Especial) com evolução por avaliação de desempenho.",
+      "descricao_geral": "Oportunidade na área Federal focada no órgão UFSC - Universidade Federal de Santa Catarina."
+    },
+    "material_estudo": {
+      "resumo_ia": "Para este concurso focado em Federal, é essencial dominar Direito Constitucional, Direito Administrativo, Língua Estrangeira, Específicas. Sugerimos um ciclo de estudos de 3 meses focado na base teórica antes de aprofundar na legislação do órgão.",
+      "video_links": [
+        {
+          "titulo": "Aula: Direito Constitucional [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Constitucional+para+concurso"
+        },
+        {
+          "titulo": "Aula: Direito Administrativo [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Direito+Administrativo+para+concurso"
+        },
+        {
+          "titulo": "Aula: Língua Estrangeira [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Língua+Estrangeira+para+concurso"
+        },
+        {
+          "titulo": "Aula: Específicas [Videoaula Destaque]",
+          "url": "https://www.youtube.com/results?search_query=aula+gratis+Específicas+para+concurso"
+        }
+      ],
+      "pdf_links": [
+        {
+          "titulo": "Apostila Base Teórica (PDF Gratuito)",
+          "url": "https://www.google.com/search?q=apostila+gratis+pdf+concurso+UFSC+-+Universidade+Federal+de+Santa+Catarina"
+        },
+        {
+          "titulo": "Edital Esquematizado",
+          "url": "https://www.google.com/search?q=edital+esquematizado+UFSC+-+Universidade+Federal+de+Santa+Catarina"
+        }
+      ],
+      "provas_anteriores": [
+        {
+          "titulo": "Buscador de Provas (PCI)",
+          "url": "https://www.pciconcursos.com.br/provas/UFSC+-+Universidade+Federal+de+Santa+Catarina"
+        },
+        {
+          "titulo": "Banco de Questões Comentadas",
+          "url": "https://www.qconcursos.com/questoes-de-concursos/instituicoes"
+        }
+      ],
+      "plano_estudos_semanal": [
+        {
+          "dia": "Segunda",
+          "conteudo": "Início: Direito Constitucional (Teoria + 15 questões práticas)"
+        },
+        {
+          "dia": "Terça",
+          "conteudo": "Foco: Direito Administrativo (Teoria + Flashcards)"
+        },
+        {
+          "dia": "Quarta",
+          "conteudo": "Aprofundamento: Língua Estrangeira (Leitura de PDF grifado)"
+        },
+        {
+          "dia": "Quinta",
+          "conteudo": "Legislação: Específicas (Lei seca e mapas mentais)"
         },
         {
           "dia": "Sexta",
