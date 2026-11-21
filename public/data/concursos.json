@@ -315,6 +315,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "TWluaXN0w6lyaW8gZGEgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYWEtbXMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMzU0",
+    "orgao": "Ministério da Saúde",
+    "link": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "14/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "VFJGMyAtIFRyaWJ1bmFsIFJlZ2lvbmFsIEZlZGVyYWwgZGEgM8KqIFJlZ2nDo29odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3RyZjMtc3AtbXMtcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWFuYWxpc3Rhcy1lLXRlY25pY29zLWp1ZGljaWFyaW9z",
     "orgao": "TRF3 - Tribunal Regional Federal da 3ª Região",
     "link": "https://www.pciconcursos.com.br/noticias/trf3-sp-ms-retifica-concurso-publico-para-analistas-e-tecnicos-judiciarios",
@@ -371,21 +386,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "11/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
-    "id": "U0FBIE1TIC0gU3Vic2VjcmV0YXJpYSBkZSBBc3N1bnRvcyBBZG1pbmlzdHJhdGl2b3MgZG8gTWluaXN0w6lyaW8gZGEgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYWEtbXMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMzU0",
-    "orgao": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
-    "link": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "14/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
   },
@@ -448,6 +448,21 @@
     "data_encerramento": "26/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Alto Piquiri - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBCYW5kZWlyYW50ZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYmFuZGVpcmFudGVzLXByLWFicmUtc2VsZWNhby1jb20tMjktdmFnYXMtcGFyYS1tb3RvcmlzdGEtZS12aWdpYQ==",
+    "orgao": "Prefeitura de Bandeirantes",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bandeirantes-pr-abre-selecao-com-29-vagas-para-motorista-e-vigia",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Bandeirantes",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Bandeirantes - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDw6l1IEF6dWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2V1LWF6dWwtcHItYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTQ1NTI=",
@@ -1063,6 +1078,21 @@
     "data_encerramento": "24/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Chapada - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBFbmNydXppbGhhZGEgZG8gU3VsaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVuY3J1emlsaGFkYS1kby1zdWwtcnMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhZGFzdHJvLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXM=",
+    "orgao": "Prefeitura de Encruzilhada do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-encruzilhada-do-sul-rs-abre-processo-seletivo-para-cadastro-reserva-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Encruzilhada do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Encruzilhada do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mZWxpei1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
