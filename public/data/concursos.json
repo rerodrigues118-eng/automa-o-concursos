@@ -1605,6 +1605,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hcHJpbW9yYW1lbnRvLXByb2Zpc3Npb25hbC1lbS1tZWRpY2luYS12ZXRlcmluYXJpYQ==",
+    "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+    "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-para-aprimoramento-profissional-em-medicina-veterinaria",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1yZXNlcnZhLWNvbS1nYW5ob3MtZGUtYXRlLTU5MDY=",
+    "orgao": "FURB - Fundação Universidade Regional de Blumenau",
+    "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-para-formacao-de-cadastro-reserva-com-ganhos-de-ate-5906",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1sZXRyYXMtZW0tYmx1bWVuYXU=",
     "orgao": "IFC - Instituto Federal Catarinense",
     "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-de-letras-em-blumenau",
@@ -1648,6 +1678,21 @@
     "data_encerramento": "14/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Meio Ambiente do Estado de Santa Catarina - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBBYmVsYXJkbyBMdXpodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWJlbGFyZG8tbHV6LXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLTEyLXZhZ2FzLWUtY2FkYXN0cm8tcmVzZXJ2YQ==",
+    "orgao": "Prefeitura de Abelardo Luz",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-abelardo-luz-sc-abre-processo-seletivo-com-12-vagas-e-cadastro-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Abelardo Luz",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "02/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Abelardo Luz - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBZ3JvbsO0bWljYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1hZ3Jvbm9taWNhLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTE5NjYw",
@@ -1740,6 +1785,21 @@
     "localizacao": "Blumenau - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCbHVtZW5hdWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ibHVtZW5hdS1zYy1hYnJlLWNvbmN1cnNvLWNvbS0xOS12YWdhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmEtbm8tbWFnaXN0ZXJpbw==",
+    "orgao": "Prefeitura de Blumenau",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-blumenau-sc-abre-concurso-com-19-vagas-e-cadastro-de-reserva-no-magisterio",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Blumenau",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Blumenau - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCb20gUmV0aXJvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJvbS1yZXRpcm8tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjAxMzg=",
     "orgao": "Prefeitura de Bom Retiro",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bom-retiro-sc-abre-concurso-publico-com-salarios-de-ate-20138",
@@ -1770,6 +1830,21 @@
     "localizacao": "Braço do Trombudo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCcnVzcXVlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJydXNxdWUtc2MtYWJyZS1zZWxlY2FvLWNvbS0yMC12YWdhcy1lLWNhZGFzdHJvLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Brusque",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-abre-selecao-com-20-vagas-e-cadastro-reserva-na-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Brusque",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brusque - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBDYW5lbGluaGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY2FuZWxpbmhhLXNjLWFicmUtbm92by1jb25jdXJzby1wdWJsaWNvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
     "orgao": "Prefeitura de Canelinha",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canelinha-sc-abre-novo-concurso-publico-para-diversos-cargos",
@@ -1798,6 +1873,21 @@
     "data_encerramento": "23/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Chapadão do Lageado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBDb2NhbCBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtY29jYWwtZG8tc3VsLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtZWR1Y2FjYW8=",
+    "orgao": "Prefeitura de Cocal do Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cocal-do-sul-sc-abre-processo-seletivo-para-a-secretaria-de-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Cocal do Sul",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Cocal do Sul - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBDb25jw7NyZGlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWNvbmNvcmRpYS1zYy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS02MDU3",
@@ -2205,6 +2295,36 @@
     "localizacao": "Nova Veneza - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBPcmxlYW5zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLW9ybGVhbnMtc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tc2V0b3ItZGEtZWR1Y2FjYW8tZW0tMjAyNw==",
+    "orgao": "Prefeitura de Orleans",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-orleans-sc-abre-processo-seletivo-para-o-setor-da-educacao-em-2027",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Orleans",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "27/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Orleans - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBQYWxtaXRvc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYWxtaXRvcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjYyNTg=",
+    "orgao": "Prefeitura de Palmitos",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-palmitos-sc-abre-processo-seletivo-com-salarios-de-ate-26258",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Palmitos",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "12/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Palmitos - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBCZWxvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXBvcnRvLWJlbG8tc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLW8tY2FyZ28tZGUtZmlzY2FsLWRlLXRlbXBvcmFkYQ==",
     "orgao": "Prefeitura de Porto Belo",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-belo-sc-abre-processo-seletivo-para-o-cargo-de-fiscal-de-temporada",
@@ -2310,6 +2430,21 @@
     "localizacao": "Santa Rosa de Lima - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBTYW50YSBUZXJlemluaGEgZG8gUHJvZ3Jlc3NvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXNhbnRhLXRlcmV6aW5oYS1kby1wcm9ncmVzc28tc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTAwMDA=",
+    "orgao": "Prefeitura de Santa Terezinha do Progresso",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-publico-com-salarios-de-ate-10000",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Santa Terezinha do Progresso",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Santa Terezinha do Progresso - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEJlbnRvIGRvIFN1bCBlIEZ1bmRhw6fDo28gQ3VsdHVyYWwgZGUgU8OjbyBCZW50byBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZS1mdW5kYWNhby1jdWx0dXJhbC1kZS1zYW8tYmVudG8tZG8tc3VsLXNjLWFicmVtLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjA3OTU=",
     "orgao": "Prefeitura de São Bento do Sul e Fundação Cultural de São Bento do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-sao-bento-do-sul-sc-abrem-processo-seletivo-com-salarios-de-ate-20795",
@@ -2353,6 +2488,21 @@
     "data_encerramento": "30/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Francisco do Sul - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTw6NvIEpvYXF1aW1odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2FvLWpvYXF1aW0tc2MtYWJyZS1zZWxlY2FvLXBhcmEtY2FkYXN0cm8tcmVzZXJ2YS1lbS1kaXZlcnNhcy1hcmVhcw==",
+    "orgao": "Prefeitura de São Joaquim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joaquim-sc-abre-selecao-para-cadastro-reserva-em-diversas-areas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "São Joaquim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "06/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "São Joaquim - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTw6NvIE1pZ3VlbCBkbyBPZXN0ZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYW8tbWlndWVsLWRvLW9lc3RlLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXM=",
@@ -2428,6 +2578,21 @@
     "data_encerramento": "24/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Tijucas - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBUcmV6ZSBkZSBNYWlvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXRyZXplLWRlLW1haW8tc2MtYWx0ZXJhLWVkaXRhbC1kZS1wcm9jZXNzby1zZWxldGl2by1wYXJhLWNhcmdvcy10ZW1wb3Jhcmlvcw==",
+    "orgao": "Prefeitura de Treze de Maio",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-treze-de-maio-sc-altera-edital-de-processo-seletivo-para-cargos-temporarios",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Treze de Maio",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "22/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Treze de Maio - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBVcnVzc2FuZ2FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtdXJ1c3NhbmdhLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
