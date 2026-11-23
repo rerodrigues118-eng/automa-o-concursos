@@ -1485,6 +1485,36 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "RkFIRUNFaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1zZWxlY2FvLXBhcmEtbml2ZWwtc3VwZXJpb3Itbm8tY2Vwb24tZW0tZmxvcmlhbm9wb2xpcw==",
+    "orgao": "FAHECE",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecao-para-nivel-superior-no-cepon-em-florianopolis",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtby1jZXBvbi1lLW8tc2FtdS1jb20tc2FsYXJpb3MtZGUtYXRlLTMwNjY=",
+    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecoes-para-o-cepon-e-o-samu-com-salarios-de-ate-3066",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTA2",
     "orgao": "FURB - Fundação Universidade Regional de Blumenau",
     "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
@@ -1710,6 +1740,21 @@
     "localizacao": "Braço do Trombudo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBCcmHDp28gZG8gVHJvbWJ1ZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYnJhY28tZG8tdHJvbWJ1ZG8tc2MtYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTg5ODE=",
+    "orgao": "Prefeitura de Braço do Trombudo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-braco-do-trombudo-sc-abre-concurso-com-salarios-de-ate-8981",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Braço do Trombudo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/01/2027",
+    "status": "Inscrições abertas",
+    "localizacao": "Braço do Trombudo - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBCcnVzcXVlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWJydXNxdWUtc2MtYWJyZS1zZWxlY2FvLWNvbS0yMC12YWdhcy1lLWNhZGFzdHJvLXJlc2VydmEtbmEtZWR1Y2FjYW8=",
     "orgao": "Prefeitura de Brusque",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-brusque-sc-abre-selecao-com-20-vagas-e-cadastro-reserva-na-educacao",
@@ -1828,21 +1873,6 @@
     "data_encerramento": "08/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Criciúma - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBGYXhpbmFsIGRvcyBHdWVkZXNodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZmF4aW5hbC1kb3MtZ3VlZGVzLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1lLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNzQ1NA==",
-    "orgao": "Prefeitura de Faxinal dos Guedes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-faxinal-dos-guedes-sc-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-7454",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Faxinal dos Guedes",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "07/12/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Faxinal dos Guedes - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBGbG9yaWFuw7Nwb2xpc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mbG9yaWFub3BvbGlzLXNjLWFicmUtc2VsZWNhby1wYXJhLWEtc2VjcmV0YXJpYS1kZS1lZHVjYWNhbw==",
@@ -2305,7 +2335,7 @@
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
+    "data_encerramento": "24/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Santa Terezinha do Progresso - PR"
   },
@@ -2563,6 +2593,21 @@
     "data_encerramento": "26/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "U0FNVSAtIFNlcnZpw6dvIGRlIEF0ZW5kaW1lbnRvIE3Ds3ZlbCBkZSBVcmfDqm5jaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtby1jYXJnby1kZS1yYWRpby1vcGVyYWRvci1lbS1iYWxuZWFyaW8tY2FtYm9yaXU=",
+    "orgao": "SAMU - Serviço de Atendimento Móvel de Urgência",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-para-o-cargo-de-radio-operador-em-balneario-camboriu",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Atendimento Móvel de Urgência",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "24/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Atendimento Móvel de Urgência - PR"
   },
   {
     "id": "U0FORUZSQUkgLSBBdXRhcnF1aWEgTXVuaWNpcGFsIGRlIFNhbmVhbWVudG8gZGUgRnJhaWJ1cmdvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYW5lZnJhaS1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZm9ybWFjYW8tZGUtY2FkYXN0cm8tZGUtcmVzZXJ2YQ==",
