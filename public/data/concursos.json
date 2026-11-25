@@ -1,5 +1,20 @@
 [
   {
+    "id": "Q1JPL1BSIC0gQ29uc2VsaG8gUmVnaW9uYWwgZGUgT2RvbnRvbG9naWEgZG8gUGFyYW7DoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY3JvLXByLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tMTItdmFnYXMtZS1zYWxhcmlvcy1kZS1hdGUtMTQzMTg=",
+    "orgao": "CRO/PR - Conselho Regional de Odontologia do Paraná",
+    "link": "https://www.pciconcursos.com.br/noticias/cro-pr-abre-concurso-publico-com-12-vagas-e-salarios-de-ate-14318",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Curitiba",
+    "prioridade": true,
+    "is_curitiba": true,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Curitiba - PR"
+  },
+  {
     "id": "UE1DIC0gUHJlZmVpdHVyYSBkZSBDdXJpdGliYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1jdXJpdGliYS1wci1yZXRpZmljYS1jb25jdXJzb3MtcHVibGljb3MtY29tLXZhZ2FzLWltZWRpYXRhcy1lLWNhZGFzdHJvLWRlLXJlc2VydmE=",
     "orgao": "PMC - Prefeitura de Curitiba",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitiba-pr-retifica-concursos-publicos-com-vagas-imediatas-e-cadastro-de-reserva",
@@ -540,6 +555,21 @@
     "localizacao": "Curiúva - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBGb3ogZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3otZG8taWd1YWN1LXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9maXNzaW9uYWlzLWRhLWVkdWNhY2Fv",
+    "orgao": "Prefeitura de Foz do Iguaçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-foz-do-iguacu-pr-abre-processo-seletivo-para-profissionais-da-educacao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Foz do Iguaçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Foz do Iguaçu - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBGb3ogZG8gSm9yZMOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3otZG8tam9yZGFvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
     "orgao": "Prefeitura de Foz do Jordão",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-foz-do-jordao-pr-abre-processo-seletivo-para-professores",
@@ -553,6 +583,21 @@
     "data_encerramento": "25/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Foz do Jordão - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJcmF0aWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcmF0aS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNhdWRlLWNvbS0xNC12YWdhcy1pbWVkaWF0YXM=",
+    "orgao": "Prefeitura de Irati",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irati-pr-abre-processo-seletivo-para-a-secretaria-de-saude-com-14-vagas-imediatas",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Irati",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Irati - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFtYmFyYWPDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGFtYmFyYWNhLXByLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTY4MDA=",
@@ -693,6 +738,21 @@
     "id": "UHJlZmVpdHVyYSBkZSBWZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12ZXJlLXByLWFicmUtc2VsZWNhby1jb20tMTEtdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcw==",
     "orgao": "Prefeitura de Verê",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vere-pr-abre-selecao-com-11-vagas-para-professores",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Verê",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "04/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Verê - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBWZXLDqmh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS12ZXJlLXByLWFicmUtc2VsZWNhby1jb20tMTEtdmFnYXMtcGFyYS1wcm9mZXNzb3Jlcy1lLWZvcm1hY2FvLWRlLWNhZGFzdHJvLXJlc2VydmE=",
+    "orgao": "Prefeitura de Verê",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vere-pr-abre-selecao-com-11-vagas-para-professores-e-formacao-de-cadastro-reserva",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Verê",
@@ -1095,6 +1155,36 @@
     "localizacao": "Encruzilhada do Sul - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBFcmVjaGltaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWVyZWNoaW0tcnMtYWJyZS1zZWxlY2FvLXBhcmEtY2FyZ29zLWRlLW5pdmVsLW1lZGlvLWNvbS1zYWxhcmlvLXN1cGVyaW9yLWEtNC1taWw=",
+    "orgao": "Prefeitura de Erechim",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-erechim-rs-abre-selecao-para-cargos-de-nivel-medio-com-salario-superior-a-4-mil",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Erechim",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "26/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Erechim - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBGYWd1bmRlcyBWYXJlbGFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtZmFndW5kZXMtdmFyZWxhLXJzLWFicmUtc2VsZWNhby1wYXJhLXRlY25pY28tZW0tZW5mZXJtYWdlbQ==",
+    "orgao": "Prefeitura de Fagundes Varela",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-fagundes-varela-rs-abre-selecao-para-tecnico-em-enfermagem",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Fagundes Varela",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "30/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Fagundes Varela - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBGZWxpemh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mZWxpei1ycy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtZGl2ZXJzb3MtY2FyZ29z",
     "orgao": "Prefeitura de Feliz",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-para-diversos-cargos",
@@ -1365,6 +1455,21 @@
     "localizacao": "Várias - PR"
   },
   {
+    "id": "VUZGUyAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRhIEZyb250ZWlyYSBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmZnMtcnMtYWJyZS1zZWxlY2FvLXBhcmEtcHJvZmVzc29yLWRlLW1lZGljaW5hLW5vLWNhbXB1cy1kZS1wYXNzby1mdW5kbw==",
+    "orgao": "UFFS - Universidade Federal da Fronteira Sul",
+    "link": "https://www.pciconcursos.com.br/noticias/uffs-rs-abre-selecao-para-professor-de-medicina-no-campus-de-passo-fundo",
+    "categoria": "Federal",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "07/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VUZTTSAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRlIFNhbnRhIE1hcmlhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91ZnNtLXJzLWFicmUtY29uY3Vyc28tcGFyYS1wcm9mZXNzb3Jlcy1kby1tYWdpc3RlcmlvLXN1cGVyaW9y",
     "orgao": "UFSM - Universidade Federal de Santa Maria",
     "link": "https://www.pciconcursos.com.br/noticias/ufsm-rs-abre-concurso-para-professores-do-magisterio-superior",
@@ -1423,6 +1528,21 @@
     "data_encerramento": "07/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Francisco do Sul - PR"
+  },
+  {
+    "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIEFydm9yZWRvaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtYXJ2b3JlZG8tc2MtYWJyZS1jb25jdXJzby1wYXJhLW8tY2FyZ28tZGUtY29udGFiaWxpc3Rh",
+    "orgao": "Câmara de Vereadores de Arvoredo",
+    "link": "https://www.pciconcursos.com.br/noticias/camara-de-arvoredo-sc-abre-concurso-para-o-cargo-de-contabilista",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Vereadores de Arvoredo",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Vereadores de Arvoredo - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBWZXJlYWRvcmVzIGRlIE1hdG9zIENvc3RhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9jYW1hcmEtZGUtbWF0b3MtY29zdGEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtNDIwOQ==",
@@ -1541,6 +1661,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "02/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SEVNT1NDaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mYWhlY2Utc2MtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpby1kZS01NDQxLXBhcmEtbml2ZWwtc3VwZXJpb3I=",
+    "orgao": "HEMOSC",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-processo-seletivo-com-salario-de-5441-para-nivel-superior",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1935,6 +2070,21 @@
     "localizacao": "Fraiburgo - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBHYXJvcGFiYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1nYXJvcGFiYS1zYy1hYnJlLXNlbGVjYW8tY29tLTExOC12YWdhcy1lLXNhbGFyaW9zLWRlLWF0ZS01MTMw",
+    "orgao": "Prefeitura de Garopaba",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-garopaba-sc-abre-selecao-com-118-vagas-e-salarios-de-ate-5130",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Garopaba",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "08/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Garopaba - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBHcsOjby1QYXLDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ncmFvLXBhcmEtc2MtYWJyZS1zZWxlY2FvLXBhcmEtYWdlbnRlLWRlLXNlcnZpY29zLWdlcmFpcw==",
     "orgao": "Prefeitura de Grão-Pará",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-grao-para-sc-abre-selecao-para-agente-de-servicos-gerais",
@@ -1978,6 +2128,21 @@
     "data_encerramento": "30/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Herval - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBJYmljYXLDqWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pYmljYXJlLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS10ZWNuaWNvLWVtLWVuZmVybWFnZW0tZG8tc2FtdQ==",
+    "orgao": "Prefeitura de Ibicaré",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibicare-sc-abre-processo-seletivo-para-tecnico-em-enfermagem-do-samu",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Ibicaré",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "03/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Ibicaré - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBJYmlyYW1haHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWliaXJhbWEtc2MtYWJyZS1jb25jdXJzby1wdWJsaWNvLWNvbS1zYWxhcmlvcy1kZS1hdGUtMjAzNjQ=",
@@ -2160,9 +2325,9 @@
     "localizacao": "Mirim Doce - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFRyZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvbXVuaWNpcGlvLWRlLW5vdmEtdHJlbnRvLXNjLWFicmUtdHJlcy1ub3Zvcy1wcm9jZXNzb3Mtc2VsZXRpdm9zLWNvbS1zYWxhcmlvcy1kZS1hdGUtMTQxODk=",
+    "id": "UHJlZmVpdHVyYSBkZSBOb3ZhIFRyZW50b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1ub3ZhLXRyZW50by1zYy1hYnJlLXRyZXMtcHJvY2Vzc29zLXNlbGV0aXZvcy1wYXJhLWRpdmVyc2FzLWFyZWFz",
     "orgao": "Prefeitura de Nova Trento",
-    "link": "https://www.pciconcursos.com.br/noticias/municipio-de-nova-trento-sc-abre-tres-novos-processos-seletivos-com-salarios-de-ate-14189",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-trento-sc-abre-tres-processos-seletivos-para-diversas-areas",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Nova Trento",
@@ -2268,6 +2433,21 @@
     "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1mb3JtYWNhby1kZS1jYWRhc3Ryby1kZS1yZXNlcnZh",
     "orgao": "Prefeitura de Rancho Queimado",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-processo-seletivo-para-formacao-de-cadastro-de-reserva",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rancho Queimado",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rancho Queimado - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSYW5jaG8gUXVlaW1hZG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcmFuY2hvLXF1ZWltYWRvLXNjLWFicmUtc2VsZWNhby1wYXJhLWNhcmdvcy1kZS1uaXZlaXMtbWVkaW8tdGVjbmljby1lLXN1cGVyaW9y",
+    "orgao": "Prefeitura de Rancho Queimado",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rancho-queimado-sc-abre-selecao-para-cargos-de-niveis-medio-tecnico-e-superior",
     "categoria": "Administrativo",
     "uf": "PR",
     "cidade": "Rancho Queimado",
@@ -2398,6 +2578,21 @@
     "data_encerramento": "07/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "São Miguel do Oeste - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBTYXVkYWRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1zYXVkYWRlcy1zYy1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtY2FyZ29zLWRlLXRvZG9zLW9zLW5pdmVpcy1kZS1pbnN0cnVjYW8=",
+    "orgao": "Prefeitura de Saudades",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-saudades-sc-abre-processo-seletivo-para-cargos-de-todos-os-niveis-de-instrucao",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Saudades",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "09/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Saudades - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTY2hyb2VkZXJodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtc2Nocm9lZGVyLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hLXNlY3JldGFyaWEtZGUtc2FuZWFtZW50by1lLWdlc3Rhby1hbWJpZW50YWw=",
@@ -2591,6 +2786,21 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "24/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Atendimento Móvel de Urgência - PR"
+  },
+  {
+    "id": "U0FNVSAtIFNlcnZpw6dvIGRlIEF0ZW5kaW1lbnRvIE3Ds3ZlbCBkZSBVcmfDqm5jaWFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hbnVuY2lhLXByb2Nlc3Nvcy1zZWxldGl2b3MtcGFyYS1vLXNhbXUtZW0tZmxvcmlhbm9wb2xpcy1lLWJsdW1lbmF1",
+    "orgao": "SAMU - Serviço de Atendimento Móvel de Urgência",
+    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-anuncia-processos-seletivos-para-o-samu-em-florianopolis-e-blumenau",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Atendimento Móvel de Urgência",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "29/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Atendimento Móvel de Urgência - PR"
   },
