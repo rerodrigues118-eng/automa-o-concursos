@@ -315,21 +315,6 @@
     "localizacao": "Curitiba - PR"
   },
   {
-    "id": "SUJHRSAtIEZ1bmRhw6fDo28gSW5zdGl0dXRvIEJyYXNpbGVpcm8gZGUgR2VvZ3JhZmlhIGUgRXN0YXTDrXN0aWNhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pYmdlLXJldGlmaWNhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0yNzI3OS12YWdhcy1wYXJhLXJlY2Vuc2VhZG9y",
-    "orgao": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
-    "link": "https://www.pciconcursos.com.br/noticias/ibge-retifica-processo-seletivo-com-27279-vagas-para-recenseador",
-    "categoria": "Federal",
-    "uf": "BR",
-    "cidade": "Várias",
-    "prioridade": true,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Brasil"
-  },
-  {
     "id": "TWluaXN0w6lyaW8gZGEgU2HDumRlaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9zYWEtbXMtYWJyZS1wcm9jZXNzby1zZWxldGl2by1jb20tc2FsYXJpb3MtZGUtYXRlLTEwMzU0",
     "orgao": "Ministério da Saúde",
     "link": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
@@ -375,6 +360,21 @@
     "localizacao": "Brasil"
   },
   {
+    "id": "SUJHRSAtIEZ1bmRhw6fDo28gSW5zdGl0dXRvIEJyYXNpbGVpcm8gZGUgR2VvZ3JhZmlhIGUgRXN0YXTDrXN0aWNhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pYmdlLXJldGlmaWNhLXByb2Nlc3NvLXNlbGV0aXZvLWNvbS0yNzI3OS12YWdhcy1wYXJhLXJlY2Vuc2VhZG9y",
+    "orgao": "IBGE - Fundação Instituto Brasileiro de Geografia e Estatística",
+    "link": "https://www.pciconcursos.com.br/noticias/ibge-retifica-processo-seletivo-com-27279-vagas-para-recenseador",
+    "categoria": "Federal",
+    "uf": "BR",
+    "cidade": "Várias",
+    "prioridade": true,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Brasil"
+  },
+  {
     "id": "SU5CIC0gSW5kw7pzdHJpYXMgTnVjbGVhcmVzIGRvIEJyYXNpbCBTLkEuaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pbmItcmV0aWZpY2EtY29uY3Vyc28tcHVibGljby1wYXJhLWNhZGFzdHJvLWRlLXJlc2VydmEtZW0tZGl2ZXJzYXMtYXJlYXMtZGUtYXR1YWNhbw==",
     "orgao": "INB - Indústrias Nucleares do Brasil S.A.",
     "link": "https://www.pciconcursos.com.br/noticias/inb-retifica-concurso-publico-para-cadastro-de-reserva-em-diversas-areas-de-atuacao",
@@ -403,21 +403,6 @@
     "data_encerramento": "23/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Brasil"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBRdWVkYXMgZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWVkYXMtZG8taWd1YWN1LXByLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
-    "orgao": "Prefeitura de Quedas do Iguaçu",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-retifica-edital-de-concurso-publico",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Quedas do Iguaçu",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Quedas do Iguaçu - PR"
   },
   {
     "id": "SUZQUiAtIEluc3RpdHV0byBGZWRlcmFsIGRlIEVkdWNhw6fDo28sIENpw6puY2lhIGUgVGVjbm9sb2dpYSBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9pZnByLXByLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3Nvci1zdWJzdGl0dXRvLWRlLW1hdGVtYXRpY2EtZW0tY2FzY2F2ZWw=",
@@ -540,36 +525,6 @@
     "localizacao": "Foz do Iguaçu - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBGb3ogZG8gSm9yZMOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1mb3otZG8tam9yZGFvLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcw==",
-    "orgao": "Prefeitura de Foz do Jordão",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-foz-do-jordao-pr-abre-processo-seletivo-para-professores",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Foz do Jordão",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Foz do Jordão - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBkZSBJcmF0aWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pcmF0aS1wci1hYnJlLXByb2Nlc3NvLXNlbGV0aXZvLXBhcmEtYS1zZWNyZXRhcmlhLWRlLXNhdWRlLWNvbS0xNC12YWdhcy1pbWVkaWF0YXM=",
-    "orgao": "Prefeitura de Irati",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-irati-pr-abre-processo-seletivo-para-a-secretaria-de-saude-com-14-vagas-imediatas",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Irati",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Irati - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkZSBJdGFtYmFyYWPDoWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1pdGFtYmFyYWNhLXByLWFicmUtc2VsZWNhby1jb20tc2FsYXJpb3MtZGUtYXRlLTY4MDA=",
     "orgao": "Prefeitura de Itambaracá",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itambaraca-pr-abre-selecao-com-salarios-de-ate-6800",
@@ -630,6 +585,21 @@
     "localizacao": "Piraquara - PR"
   },
   {
+    "id": "UHJlZmVpdHVyYSBkZSBRdWVkYXMgZG8gSWd1YcOndWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1xdWVkYXMtZG8taWd1YWN1LXByLXJldGlmaWNhLWVkaXRhbC1kZS1jb25jdXJzby1wdWJsaWNv",
+    "orgao": "Prefeitura de Quedas do Iguaçu",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-quedas-do-iguacu-pr-retifica-edital-de-concurso-publico",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Quedas do Iguaçu",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Quedas do Iguaçu - PR"
+  },
+  {
     "id": "UHJlZmVpdHVyYSBkZSBSZWFsZXphaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLXJlYWxlemEtcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtY29udHJvbGFkb3ItaW50ZXJuby1lLXByb2N1cmFkb3ItanVyaWRpY28=",
     "orgao": "Prefeitura de Realeza",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-realeza-pr-abre-concurso-publico-para-controlador-interno-e-procurador-juridico",
@@ -658,6 +628,21 @@
     "data_encerramento": "29/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Rio Negro - PR"
+  },
+  {
+    "id": "UHJlZmVpdHVyYSBkZSBSb25kb25odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcm9uZG9uLXByLWFicmUtc2VsZWNhby1wYXJhLXByb2Zlc3NvcmVzLWNvbS1zYWxhcmlvcy1kZS1hdGUtNTQyOA==",
+    "orgao": "Prefeitura de Rondon",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rondon-pr-abre-selecao-para-professores-com-salarios-de-ate-5428",
+    "categoria": "Administrativo",
+    "uf": "PR",
+    "cidade": "Rondon",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "11/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Rondon - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBTYWx0byBkbyBMb250cmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL211bmljaXBpby1kZS1zYWx0by1kby1sb250cmEtcHItYWJyZS1jb25jdXJzby1jb20tc2FsYXJpb3MtZGUtYXRlLTIwLTgtbWlsLXBhcmEtbWVkaWNvcw==",
@@ -795,21 +780,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "VUZQUiAtIFVuaXZlcnNpZGFkZSBGZWRlcmFsIGRvIFBhcmFuw6FodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VmcHItYWJyZS1jb25jdXJzby1wdWJsaWNvLXBhcmEtcHJvZmVzc29yLWRlLWNpZW5jaWEtZGEtY29tcHV0YWNhbw==",
-    "orgao": "UFPR - Universidade Federal do Paraná",
-    "link": "https://www.pciconcursos.com.br/noticias/ufpr-abre-concurso-publico-para-professor-de-ciencia-da-computacao",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "VW5lc3BhciAtIFVuaXZlcnNpZGFkZSBFc3RhZHVhbCBkbyBQYXJhbsOhaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy91bmVzcGFyLXByLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1hZ2VudGUtdW5pdmVyc2l0YXJpby1wcm9maXNzaW9uYWw=",
     "orgao": "Unespar - Universidade Estadual do Paraná",
     "link": "https://www.pciconcursos.com.br/noticias/unespar-pr-abre-processo-seletivo-para-agente-universitario-profissional",
@@ -866,21 +836,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "20/12/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "VFJUIDQgLSBUcmlidW5hbCBSZWdpb25hbCBkbyBUcmFiYWxobyBkYSA0wqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdHJ0NC1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YXMtZS10ZWNuaWNvcy1qdWRpY2lhcmlvcw==",
-    "orgao": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
-    "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -1048,6 +1003,21 @@
     "data_encerramento": "02/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
+  },
+  {
+    "id": "SVBSRUMgLSBJbnN0aXR1dG8gZGUgUHJldmlkw6puY2lhIGRvcyBTZXJ2aWRvcmVzIFDDumJsaWNvcyBNdW5pY2lwYWlzIGRlIENhY2hvZWlyaW5oYWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvaXByZWMtZGUtY2FjaG9laXJpbmhhLXJzLWFicmUtY29uY3Vyc28tcGFyYS1hZ2VudGUtcHJldmlkZW5jaWFyaW8=",
+    "orgao": "IPREC - Instituto de Previdência dos Servidores Públicos Municipais de Cachoeirinha",
+    "link": "https://www.pciconcursos.com.br/noticias/iprec-de-cachoeirinha-rs-abre-concurso-para-agente-previdenciario",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Previdência dos Servidores Públicos Municipais de Cachoeirinha",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/12/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Previdência dos Servidores Públicos Municipais de Cachoeirinha - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBBanVyaWNhYmFodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtYWp1cmljYWJhLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1zZXJ2ZW50ZQ==",
@@ -1260,19 +1230,19 @@
     "localizacao": "Novo Xingu - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkZSBQaXJhdGluaWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1waXJhdGluaS1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tY29tLXNhbGFyaW9zLWRlLWF0ZS03NDYy",
-    "orgao": "Prefeitura de Piratini",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-piratini-rs-abre-concurso-publico-com-salarios-de-ate-7462",
+    "id": "UHJlZmVpdHVyYSBkZSBQYXJlY2kgTm92b2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1kZS1wYXJlY2ktbm92by1ycy1hYnJlLWNvbmN1cnNvLWNvbS00NS12YWdhcy1lLXNhbGFyaW9zLWRlLWF0ZS0xMjA2Ng==",
+    "orgao": "Prefeitura de Pareci Novo",
+    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-pareci-novo-rs-abre-concurso-com-45-vagas-e-salarios-de-ate-12066",
     "categoria": "Administrativo",
     "uf": "PR",
-    "cidade": "Piratini",
+    "cidade": "Pareci Novo",
     "prioridade": false,
     "is_curitiba": false,
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
+    "data_encerramento": "22/12/2026",
     "status": "Inscrições abertas",
-    "localizacao": "Piratini - PR"
+    "localizacao": "Pareci Novo - PR"
   },
   {
     "id": "UHJlZmVpdHVyYSBkZSBQb3J0byBBbGVncmVodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3ByZWZlaXR1cmEtZGUtcG9ydG8tYWxlZ3JlLXJzLWFicmUtc2VsZWNhby1wYXJhLXByb2dyYW1hLWRlLXJlc2lkZW5jaWEtdGVjbmljby1zdXBlcmlvcg==",
@@ -1410,6 +1380,21 @@
     "localizacao": "Trindade do Sul - PR"
   },
   {
+    "id": "VFJUIDQgLSBUcmlidW5hbCBSZWdpb25hbCBkbyBUcmFiYWxobyBkYSA0wqogUmVnacOjb2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvdHJ0NC1ycy1hYnJlLWNvbmN1cnNvLXB1YmxpY28tcGFyYS1hbmFsaXN0YXMtZS10ZWNuaWNvcy1qdWRpY2lhcmlvcw==",
+    "orgao": "TRT 4 - Tribunal Regional do Trabalho da 4ª Região",
+    "link": "https://www.pciconcursos.com.br/noticias/trt4-rs-abre-concurso-publico-para-analistas-e-tecnicos-judiciarios",
+    "categoria": "Outros",
+    "uf": "PR",
+    "cidade": "Várias",
+    "prioridade": false,
+    "is_curitiba": false,
+    "nivel": "Médio / Superior",
+    "data_abertura": "Ver edital",
+    "data_encerramento": "25/11/2026",
+    "status": "Inscrições abertas",
+    "localizacao": "Várias - PR"
+  },
+  {
     "id": "VUVSR1MgLSBVbml2ZXJzaWRhZGUgRXN0YWR1YWwgZG8gUmlvIEdyYW5kZSBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3VlcmdzLXJzLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1wcm9mZXNzb3Jlcy12b2x1bnRhcmlvcy1lbS1hbGVncmV0ZQ==",
     "orgao": "UERGS - Universidade Estadual do Rio Grande do Sul",
     "link": "https://www.pciconcursos.com.br/noticias/uergs-rs-abre-processo-seletivo-para-professores-voluntarios-em-alegrete",
@@ -1468,21 +1453,6 @@
     "data_encerramento": "20/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
-  },
-  {
-    "id": "Q8OibWFyYSBkZSBQb21lcm9kZWh0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvY2FtYXJhLWRlLXBvbWVyb2RlLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1wYXJhLWFzc2lzdGVudGUtbGVnaXNsYXRpdm8tZS1hbmFsaXN0YS1hZG1pbmlzdHJhdGl2bw==",
-    "orgao": "Câmara de Pomerode",
-    "link": "https://www.pciconcursos.com.br/noticias/camara-de-pomerode-sc-abre-concurso-publico-para-assistente-legislativo-e-analista-administrativo",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Pomerode",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Pomerode - PR"
   },
   {
     "id": "Q8OibWFyYSBkZSBTw6NvIEZyYW5jaXNjbyBkbyBTdWxodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2NhbWFyYS1kZS1zYW8tZnJhbmNpc2NvLWRvLXN1bC1zYy1yZXRpZmljYS1lZGl0YWwtZGUtY29uY3Vyc28tcHVibGljbw==",
@@ -1575,21 +1545,6 @@
     "localizacao": "Várias - PR"
   },
   {
-    "id": "RkFIRUNFIC0gRnVuZGHDp8OjbyBkZSBBcG9pbyBhbyBIRU1PU0MvQ0VQT05odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2ZhaGVjZS1zYy1hYnJlLXNlbGVjb2VzLXBhcmEtby1jZXBvbi1lLW8tc2FtdS1jb20tc2FsYXJpb3MtZGUtYXRlLTMwNjY=",
-    "orgao": "FAHECE - Fundação de Apoio ao HEMOSC/CEPON",
-    "link": "https://www.pciconcursos.com.br/noticias/fahece-sc-abre-selecoes-para-o-cepon-e-o-samu-com-salarios-de-ate-3066",
-    "categoria": "Outros",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
     "id": "RlVSQiAtIEZ1bmRhw6fDo28gVW5pdmVyc2lkYWRlIFJlZ2lvbmFsIGRlIEJsdW1lbmF1aHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9mdXJiLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tY29tLXNhbGFyaW9zLWRlLWF0ZS01OTA2",
     "orgao": "FURB - Fundação Universidade Regional de Blumenau",
     "link": "https://www.pciconcursos.com.br/noticias/furb-sc-abre-processo-seletivo-com-salarios-de-ate-5906",
@@ -1661,21 +1616,6 @@
     "nivel": "Médio / Superior",
     "data_abertura": "Ver edital",
     "data_encerramento": "05/12/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
-  },
-  {
-    "id": "SUZDIC0gSW5zdGl0dXRvIEZlZGVyYWwgQ2F0YXJpbmVuc2VodHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL2lmYy1zYy1hYnJlLXZhZ2EtcGFyYS1wcm9mZXNzb3Itc3Vic3RpdHV0by1kZS1sZXRyYXMtZW0tYmx1bWVuYXU=",
-    "orgao": "IFC - Instituto Federal Catarinense",
-    "link": "https://www.pciconcursos.com.br/noticias/ifc-sc-abre-vaga-para-professor-substituto-de-letras-em-blumenau",
-    "categoria": "Federal",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
     "status": "Inscrições abertas",
     "localizacao": "Várias - PR"
   },
@@ -2745,21 +2685,6 @@
     "localizacao": "Xanxerê - PR"
   },
   {
-    "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIEN1cml0aWJhbm9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWN1cml0aWJhbm9zLXNjLWFicmUtc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0yNjE5Mw==",
-    "orgao": "Prefeitura do Município de Curitibanos",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitibanos-sc-abre-selecoes-com-salarios-de-ate-26193",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Curitiba",
-    "prioridade": false,
-    "is_curitiba": true,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Curitiba - PR"
-  },
-  {
     "id": "UHJlZmVpdHVyYSBkbyBNdW5pY8OtcGlvIGRlIEN1cml0aWJhbm9zaHR0cHM6Ly93d3cucGNpY29uY3Vyc29zLmNvbS5ici9ub3RpY2lhcy9wcmVmZWl0dXJhLWRlLWN1cml0aWJhbm9zLXNjLWFicmUtY29uY3Vyc28tcHVibGljby1jb20tc2FsYXJpb3MtZGUtYXRlLTEzMDk2",
     "orgao": "Prefeitura do Município de Curitibanos",
     "link": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitibanos-sc-abre-concurso-publico-com-salarios-de-ate-13096",
@@ -2788,21 +2713,6 @@
     "data_encerramento": "05/12/2026",
     "status": "Inscrições abertas",
     "localizacao": "Município de Rio Rufino - PR"
-  },
-  {
-    "id": "UHJlZmVpdHVyYSBlIEZ1bmRhw6fDo28gQ3VsdHVyYWwgZGUgTmF2ZWdhbnRlc2h0dHBzOi8vd3d3LnBjaWNvbmN1cnNvcy5jb20uYnIvbm90aWNpYXMvcHJlZmVpdHVyYS1lLWZ1bmRhY2FvLWN1bHR1cmFsLWRlLW5hdmVnYW50ZXMtc2MtYWJyZW0tc2VsZWNvZXMtY29tLXNhbGFyaW9zLWRlLWF0ZS0xOTE5OQ==",
-    "orgao": "Prefeitura e Fundação Cultural de Navegantes",
-    "link": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-navegantes-sc-abrem-selecoes-com-salarios-de-ate-19199",
-    "categoria": "Administrativo",
-    "uf": "PR",
-    "cidade": "Várias",
-    "prioridade": false,
-    "is_curitiba": false,
-    "nivel": "Médio / Superior",
-    "data_abertura": "Ver edital",
-    "data_encerramento": "25/11/2026",
-    "status": "Inscrições abertas",
-    "localizacao": "Várias - PR"
   },
   {
     "id": "U0FNQUUgLSBTZXJ2acOnbyBBdXTDtG5vbW8gZGUgw4FndWEgZSBFc2dvdG8gZGUgTm92YSBUcmVudG9odHRwczovL3d3dy5wY2ljb25jdXJzb3MuY29tLmJyL25vdGljaWFzL3NhbWFlLWRlLW5vdmEtdHJlbnRvLXNjLWFicmUtcHJvY2Vzc28tc2VsZXRpdm8tcGFyYS1vcGVyYWRvci1kZS1ldGUtZXRh",
